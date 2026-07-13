@@ -1,0 +1,604 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "file_name": "中国半导体白皮书.pdf",
+  "page_count": 25,
+  "document_title": "中国半导体白皮书",
+  "sections": [
+    {
+      "section_id": "sec_001",
+      "title": "寄语",
+      "level": 1,
+      "start_page": 5,
+      "end_page": 6,
+      "parent_section_id": null,
+      "confidence": 0.7
+    },
+    {
+      "section_id": "sec_002",
+      "title": "摘要",
+      "level": 1,
+      "start_page": 6,
+      "end_page": 7,
+      "parent_section_id": null,
+      "confidence": 0.7
+    },
+    {
+      "section_id": "sec_003",
+      "title": "1. 全球半导体产业链概况",
+      "level": 1,
+      "start_page": 7,
+      "end_page": 14,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_004",
+      "title": "1.1 全球半导体市场的规模、供给与下游需求分布",
+      "level": 2,
+      "start_page": 7,
+      "end_page": 8,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_005",
+      "title": "1.2 半导体价值链的主要环节",
+      "level": 2,
+      "start_page": 8,
+      "end_page": 9,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_006",
+      "title": "3.62.92.40.9 1.77.62.43.23.12.5㮓㑑吡䎹",
+      "level": 2,
+      "start_page": 9,
+      "end_page": 10,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_007",
+      "title": "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+      "level": 2,
+      "start_page": 10,
+      "end_page": 11,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_008",
+      "title": "1.3.1 前端设备",
+      "level": 3,
+      "start_page": 10,
+      "end_page": 11,
+      "parent_section_id": "sec_007",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_009",
+      "title": "1.3.2 原材料",
+      "level": 3,
+      "start_page": 11,
+      "end_page": 11,
+      "parent_section_id": "sec_007",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_010",
+      "title": "1.3.3 EDA/IP",
+      "level": 3,
+      "start_page": 11,
+      "end_page": 11,
+      "parent_section_id": "sec_007",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_011",
+      "title": "53.83.6",
+      "level": 2,
+      "start_page": 11,
+      "end_page": 11,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_012",
+      "title": "4.25%5%0%6%",
+      "level": 2,
+      "start_page": 11,
+      "end_page": 12,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_013",
+      "title": "1.3.4 设计环节",
+      "level": 3,
+      "start_page": 12,
+      "end_page": 12,
+      "parent_section_id": "sec_012",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_014",
+      "title": "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+      "level": 2,
+      "start_page": 12,
+      "end_page": 14,
+      "parent_section_id": "sec_003",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_015",
+      "title": "1.3.5 代工环节",
+      "level": 3,
+      "start_page": 13,
+      "end_page": 13,
+      "parent_section_id": "sec_014",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_016",
+      "title": "1.3.6 封测环节",
+      "level": 3,
+      "start_page": 13,
+      "end_page": 14,
+      "parent_section_id": "sec_014",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_017",
+      "title": "2. 中国半导体在价值链主要环节的参与",
+      "level": 1,
+      "start_page": 14,
+      "end_page": 15,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_018",
+      "title": "2.1 前端设备",
+      "level": 2,
+      "start_page": 15,
+      "end_page": 15,
+      "parent_section_id": "sec_017",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_019",
+      "title": "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+      "level": 1,
+      "start_page": 15,
+      "end_page": 16,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_020",
+      "title": "2.2 原材料",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 16,
+      "parent_section_id": "sec_019",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_021",
+      "title": "2.3 EDA/IP",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 16,
+      "parent_section_id": "sec_019",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_022",
+      "title": "2.4 设计环节",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 16,
+      "parent_section_id": "sec_019",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_023",
+      "title": "2.5 代工环节",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 16,
+      "parent_section_id": "sec_019",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_024",
+      "title": "2.6 封测环节",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 16,
+      "parent_section_id": "sec_019",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_025",
+      "title": "4. 仅指与半导体有关的收入 5. 中国大陆企业是指在各细分市场有公开信息的主要企业",
+      "level": 1,
+      "start_page": 16,
+      "end_page": 17,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_026",
+      "title": "3. 芯片设计环节中，中国半导体的市场地位",
+      "level": 1,
+      "start_page": 17,
+      "end_page": 19,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_027",
+      "title": "4. 中国半导体近期投资观察",
+      "level": 1,
+      "start_page": 19,
+      "end_page": 25,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_028",
+      "title": "4.1 目前投融资情况",
+      "level": 2,
+      "start_page": 19,
+      "end_page": 19,
+      "parent_section_id": "sec_027",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_029",
+      "title": "4.2 投资总结、趋势",
+      "level": 2,
+      "start_page": 19,
+      "end_page": 22,
+      "parent_section_id": "sec_027",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_030",
+      "title": "4.3 中国协处理器玩家融资情况",
+      "level": 2,
+      "start_page": 22,
+      "end_page": 22,
+      "parent_section_id": "sec_027",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_031",
+      "title": "4.3.1 AI推理",
+      "level": 3,
+      "start_page": 22,
+      "end_page": 22,
+      "parent_section_id": "sec_030",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_032",
+      "title": "4.3.2 AI训练",
+      "level": 3,
+      "start_page": 22,
+      "end_page": 22,
+      "parent_section_id": "sec_030",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_033",
+      "title": "4.3.3 图像处理 (GPU)",
+      "level": 3,
+      "start_page": 22,
+      "end_page": 22,
+      "parent_section_id": "sec_030",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_034",
+      "title": "4.4 启示",
+      "level": 2,
+      "start_page": 22,
+      "end_page": 25,
+      "parent_section_id": "sec_027",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_035",
+      "title": "4.4.1 面向投资者的启示",
+      "level": 3,
+      "start_page": 22,
+      "end_page": 23,
+      "parent_section_id": "sec_034",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_036",
+      "title": "4.4.2 面向经营者的启示",
+      "level": 3,
+      "start_page": 23,
+      "end_page": 25,
+      "parent_section_id": "sec_034",
+      "confidence": 0.85
+    }
+  ],
+  "pages": [
+    {
+      "page_no": 1,
+      "page_type": "cover",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "partial",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 2,
+      "page_type": "copyright",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "partial",
+      "review_required": false,
+      "recommended_parser": "native_text"
+    },
+    {
+      "page_no": 3,
+      "page_type": "toc",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "partial",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 4,
+      "page_type": "toc",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "partial",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 5,
+      "page_type": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 6,
+      "page_type": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 7,
+      "page_type": "chart",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 8,
+      "page_type": "chart",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.2 半导体价值链的主要环节"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 9,
+      "page_type": "chain_diagram",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "3.62.92.40.9 1.77.62.43.23.12.5㮓㑑吡䎹"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "diagram_visual_review"
+    },
+    {
+      "page_no": 10,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.1 前端设备"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 11,
+      "page_type": "chart",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 12,
+      "page_type": "mixed",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 13,
+      "page_type": "mixed",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 14,
+      "page_type": "chain_diagram",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "diagram_visual_review"
+    },
+    {
+      "page_no": 15,
+      "page_type": "mixed",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 16,
+      "page_type": "paragraph",
+      "section_path": [
+        "4. 仅指与半导体有关的收入 5. 中国大陆企业是指在各细分市场有公开信息的主要企业"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 17,
+      "page_type": "table",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 18,
+      "page_type": "chart",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 19,
+      "page_type": "mixed",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 20,
+      "page_type": "mixed",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 21,
+      "page_type": "mixed",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 22,
+      "page_type": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text"
+    },
+    {
+      "page_no": 23,
+      "page_type": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 24,
+      "page_type": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text"
+    },
+    {
+      "page_no": 25,
+      "page_type": "mixed",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_extractable": "partial",
+      "review_required": true,
+      "recommended_parser": "native_text_with_layout"
+    }
+  ]
+}

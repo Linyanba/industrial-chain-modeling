@@ -1,0 +1,45 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 25,
+  "page_type": "mixed",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "maybe",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p025_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 25,
+      "reading_order": 1,
+      "text_raw": "欲了解更多信息，请查询 www.bain.cn 或关注微信号:",
+      "text_normalized": "欲了解更多信息，请查询 www.bain.cn 或关注微信号:",
+      "bbox": [
+        36.0,
+        672.24,
+        273.26,
+        687.32
+      ],
+      "font_size_estimate": 10.3,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "4. 中国半导体近期投资观察",
+    "4.4 启示",
+    "4.4.2 面向经营者的启示"
+  ]
+}

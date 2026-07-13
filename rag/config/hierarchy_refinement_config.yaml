@@ -10,7 +10,9 @@ fix_parent_child_same_level: true
 # 不得出现在任何层级的可视化树节点中。
 forbid_up_mid_down_as_default: true
 forbid_up_mid_down_in_all_tree_levels: true
-allow_llm_refinement: true
+# 当前 LLM 建议仅作参考且不会直接应用；关闭默认调用，避免每次最终输出等待无效超时。
+# 层级修正仍由确定性关系与规则完成。
+allow_llm_refinement: false
 llm_model: "qwen3:8b"
 ollama_url: "http://localhost:11434"
 max_first_level_nodes: 7

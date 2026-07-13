@@ -1,0 +1,66 @@
+{
+  "stage4_latest_run_found": {
+    "passed": true,
+    "note": "D:\\产业链建模\\rag\\outputs\\stage4_normalization_20260713_181032"
+  },
+  "required_input_files_exist": {
+    "passed": true,
+    "note": "全部存在"
+  },
+  "manual_review_sheet_loaded": {
+    "passed": true,
+    "note": "71 条"
+  },
+  "canonical_entities_loaded": {
+    "passed": true,
+    "note": "46 个"
+  },
+  "normalized_relations_loaded": {
+    "passed": true,
+    "note": "8 条"
+  },
+  "auto_review_decisions_generated": {
+    "passed": true,
+    "note": "71 条"
+  },
+  "minimal_human_review_sheet_generated": {
+    "passed": true,
+    "note": "7 条"
+  },
+  "minimal_human_items_within_limit": {
+    "passed": true,
+    "note": "7 ≤ 7"
+  },
+  "conservative_entities_generated": {
+    "passed": true,
+    "note": "40 个"
+  },
+  "conservative_relations_generated": {
+    "passed": true,
+    "note": "8 条"
+  },
+  "conservative_relations_have_evidence": {
+    "passed": true,
+    "note": "证据 8 条 ≥ 关系 8 条"
+  },
+  "archived_low_priority_items_generated": {
+    "passed": true,
+    "note": "61 条"
+  },
+  "no_external_api_called": {
+    "passed": true,
+    "note": "仅本地规则处理"
+  },
+  "no_new_unverified_relations_added": {
+    "passed": true,
+    "note": "未新增无证据关系"
+  },
+  "no_graph_generated": {
+    "passed": true,
+    "note": "未生成图谱/未写 Neo4j"
+  },
+  "original_pdf_not_modified": {
+    "passed": true,
+    "note": "原始 PDF 未改动"
+  }
+}

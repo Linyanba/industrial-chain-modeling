@@ -1,0 +1,10 @@
+{
+  "mode": "conservative",
+  "max_human_items": 7,
+  "use_local_llm_for_review": false,
+  "project_root": "D:\\产业链建模",
+  "stage4_input_dir": "D:\\产业链建模\\rag\\outputs\\stage4_normalization_20260713_174005",
+  "output_dir": "D:\\产业链建模\\rag\\outputs\\stage4_5_review_minimization_20260713_174009",
+  "timestamp": "20260713_174009",
+  "config_file": "D:\\产业链建模\\rag\\config\\stage4_5_review_minimization_config.yaml"
+}

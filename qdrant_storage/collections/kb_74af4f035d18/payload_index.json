@@ -1,1 +1,1 @@
-{"schema":{"content_type":"keyword","stage3_priority":"keyword","page_start":"integer","root_model":"keyword","doc_id":"keyword","review_required":"bool"}}
+{"schema":{"content_type":"keyword","stage3_priority":"keyword","page_start":"integer","review_required":"bool","doc_id":"keyword","root_model":"keyword"}}

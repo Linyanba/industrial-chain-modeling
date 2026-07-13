@@ -1,0 +1,38 @@
+﻿tree_node_id,label,display_label,parent_id,level,depth,sort_order,category,node_type,source_from,source_entity_ids,evidence_ids,is_display_node,is_schema_node,notes
+T0001,新型显示产业链,新型显示产业链,,0,0,0,root,display_node,document_driven_rules,,,true,true,单一根节点
+T0002,先进电子材料,先进电子材料,T0001,1,1,1,material,approved_entity,approved_entity,CE0036,,true,false,relation_connected_root_branch
+T0003,新型显示材料,新型显示材料,T0002,2,2,1,material,approved_entity,approved_relation,CE0037,新型显示白皮书_7f4f945d7c21_p018_paragraph_001,true,false,approved_relation:NR0005
+T0004,新型显示器件,新型显示器件,T0001,1,1,2,product,approved_entity,approved_entity,CE0038,,true,false,relation_connected_root_branch
+T0005,有机发光二极管显示面板,有机发光二极管显示面板,T0004,2,2,1,product,approved_entity,approved_relation,CE0040,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,true,false,approved_relation:NR0007
+T0006,薄膜晶体管液晶显示器件,薄膜晶体管液晶显示器件,T0004,2,2,2,product,approved_entity,approved_relation,CE0039,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,true,false,approved_relation:NR0006
+T0007,新型显示技术,新型显示技术,T0001,1,1,3,technology,approved_entity,approved_entity,CE0031,,true,false,relation_connected_root_branch
+T0008,主动矩阵有机发光二极管显示(AMOLED),主动矩阵有机发光二极管显示(AMOLED),T0007,2,2,1,technology,approved_entity,approved_relation,CE0033,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0002
+T0009,微型发光二极管显示(Micro-LED),微型发光二极管显示(Micro-LED),T0007,2,2,2,technology,approved_entity,approved_relation,CE0034,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0003
+T0010,激光显示,激光显示,T0007,2,2,3,technology,approved_entity,approved_relation,CE0035,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0004
+T0011,薄膜晶体管液晶显示(TFT-LCD),薄膜晶体管液晶显示(TFT-LCD),T0007,2,2,4,technology,approved_entity,approved_relation,CE0032,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0001
+T0012,液晶面板,液晶面板,T0001,1,1,4,product,approved_entity,approved_entity,CE0043,,true,false,relation_connected_root_branch
+T0013,玻璃基板,玻璃基板,T0012,2,2,1,material,approved_entity,approved_relation,CE0011,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,true,false,approved_relation:NR0008
+T0014,显示材料,显示材料,T0003,3,3,1,material,approved_entity,approved_entity,CE0004,新型显示白皮书_7f4f945d7c21_p030_paragraph_003;新型显示白皮书_7f4f945d7c21_p030_paragraph_005;新型显示白皮书_7f4f945d7c21_p031_paragraph_003;新型显示白皮书_7f4f945d7c21_p033_paragraph_003,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0015,掩模版,掩模版,T0003,3,3,2,material,approved_entity,approved_entity,CE0014,新型显示白皮书_7f4f945d7c21_p031_paragraph_003;新型显示白皮书_7f4f945d7c21_p032_paragraph_004;新型显示白皮书_7f4f945d7c21_p032_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0016,OLED材料,OLED材料,T0003,3,3,3,material,approved_entity,approved_entity,CE0012,新型显示白皮书_7f4f945d7c21_p031_paragraph_003;新型显示白皮书_7f4f945d7c21_p032_paragraph_004,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0017,显示芯片,显示芯片,T0003,3,3,4,material,approved_entity,approved_entity,CE0013,新型显示白皮书_7f4f945d7c21_p031_paragraph_003;新型显示白皮书_7f4f945d7c21_p032_paragraph_004,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0018,液晶材料,液晶材料,T0003,3,3,5,material,approved_entity,approved_entity,CE0016,新型显示白皮书_7f4f945d7c21_p032_paragraph_004;新型显示白皮书_7f4f945d7c21_p032_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0019,靶材,靶材,T0003,3,3,6,material,approved_entity,approved_entity,CE0015,新型显示白皮书_7f4f945d7c21_p031_paragraph_003;新型显示白皮书_7f4f945d7c21_p032_paragraph_004,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0020,光刻胶,光刻胶,T0003,3,3,7,material,approved_entity,approved_entity,CE0024,新型显示白皮书_7f4f945d7c21_p031_paragraph_003,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0021,彩色滤光片,彩色滤光片,T0003,3,3,8,material,approved_entity,approved_entity,CE0022,新型显示白皮书_7f4f945d7c21_p031_paragraph_003,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0022,有机发光材料,有机发光材料,T0003,3,3,9,product,approved_entity,approved_entity,CE0025,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0023,湿电子化学品,湿电子化学品,T0003,3,3,10,material,approved_entity,approved_entity,CE0023,新型显示白皮书_7f4f945d7c21_p031_paragraph_003,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0024,新型显示核心环节,新型显示核心环节,T0001,1,1,5,operations_group,display_node,document_driven_rules,,新型显示白皮书_7f4f945d7c21_p011_paragraph_002;新型显示白皮书_7f4f945d7c21_p011_paragraph_003,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0025,产业生态,产业生态,T0024,2,2,1,industry_link,approved_entity,approved_entity,CE0044,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0026,加工,加工,T0024,2,2,2,process,approved_entity,approved_entity,CE0018,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0027,物流,物流,T0024,2,2,3,industry_link,approved_entity,approved_entity,CE0021,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0028,营销,营销,T0024,2,2,4,industry_link,approved_entity,approved_entity,CE0020,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0029,采购,采购,T0024,2,2,5,industry_link,approved_entity,approved_entity,CE0019,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0030,新型显示产品与应用,新型显示产品与应用,T0001,1,1,6,product_application_group,display_node,document_driven_rules,,新型显示白皮书_7f4f945d7c21_p016_paragraph_002;新型显示白皮书_7f4f945d7c21_p029_paragraph_004;新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0031,显示面板,显示面板,T0030,2,2,1,product,approved_entity,approved_entity,CE0030,新型显示白皮书_7f4f945d7c21_p029_paragraph_004;新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0032,4K/8K电视,4K/8K电视,T0030,2,2,2,product,approved_entity,approved_entity,CE0027,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0033,AR/VR,AR/VR,T0030,2,2,3,application,approved_entity,approved_entity,CE0028,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0034,显示器件,显示器件,T0030,2,2,4,product,approved_entity,approved_entity,CE0007,新型显示白皮书_7f4f945d7c21_p016_paragraph_002,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0035,新型显示设备,新型显示设备,T0001,1,1,7,equipment_group,display_node,document_driven_rules,,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0036,全面屏手机,全面屏手机,T0035,2,2,1,product,approved_entity,approved_entity,CE0026,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,false,evidence_supported_display_placement; family=equipment; 非事实父子挂载
+T0037,可穿戴设备,可穿戴设备,T0035,2,2,2,application,approved_entity,approved_entity,CE0029,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,true,false,evidence_supported_display_placement; family=equipment; 非事实父子挂载

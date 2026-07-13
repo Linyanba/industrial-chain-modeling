@@ -76,6 +76,12 @@ entity_classification_rules: []
 tree_build_rules:
   relation_first: true
   parent_child_relation_types: ["PART_OF", "INPUT_TO"]
+  # 已验证关系保留为事实骨架；没有关系但拥有已验证实体证据的具体内容，
+  # 可进入行业专属展示分组。新增挂载边必须保持 is_evidence_fact=false。
+  hybrid_entity_expansion:
+    enabled: true
+    min_group_size: 2
+    max_children_per_group: 12
   allow_display_schema_nodes: true
   mark_schema_nodes_in_report: true
   keep_empty_template_nodes: false

@@ -412,6 +412,112 @@ def test_relation_first_tree_uses_only_evidence_connected_concrete_entities():
     assert_true(validate_dynamic_tree(nodes, edges, context)["passed"], "关系优先树应通过2-4级校验")
 
 
+def test_hybrid_tree_adds_only_verified_evidence_entities():
+    from build_document_driven_template import (
+        build_entity_maps, build_tree_from_approved_relations, validate_dynamic_tree,
+    )
+
+    inputs = {
+        "entities": [
+            {"approved_entity_id": "CE1", "canonical_name": "新型显示技术", "entity_type": "technology"},
+            {"approved_entity_id": "CE2", "canonical_name": "AMOLED", "entity_type": "technology"},
+            {"approved_entity_id": "CE3", "canonical_name": "OLED材料", "entity_type": "material",
+             "source_entity_candidate_ids": "t1_e1"},
+            {"approved_entity_id": "CE4", "canonical_name": "液晶材料", "entity_type": "material",
+             "source_entity_candidate_ids": "t1_e2"},
+            {"approved_entity_id": "CE5", "canonical_name": "材料", "entity_type": "material",
+             "source_entity_candidate_ids": "t1_e3"},
+            {"approved_entity_id": "CE6", "canonical_name": "无证据设备", "entity_type": "equipment"},
+        ],
+        "relations": [{
+            "approved_relation_id": "NR1", "subject_canonical_name": "AMOLED",
+            "subject_type": "technology", "relation_type": "PART_OF",
+            "object_canonical_name": "新型显示技术", "object_type": "technology",
+            "evidence_ids": "EV1",
+        }],
+        "relation_evidence": [{"approved_relation_id": "NR1", "evidence_id": "EV1"}],
+        "verified_entity_candidates": [
+            {"entity_candidate_id": "t1_e1", "evidence_id": "EV2", "quote": "OLED材料是关键显示材料。"},
+            {"entity_candidate_id": "t1_e2", "evidence_id": "EV3", "quote": "液晶材料是关键显示材料。"},
+            {"entity_candidate_id": "t1_e3", "evidence_id": "EV4", "quote": "材料。"},
+        ],
+    }
+    context = {
+        "maps": build_entity_maps(inputs), "evidence_universe": {"EV1", "EV2", "EV3", "EV4"},
+        "validation_rules": {"preferred_depth_min": 2, "preferred_first_level_max": 7}, "max_depth": 4,
+    }
+    nodes, edges, unclassified, _ = build_tree_from_approved_relations(
+        inputs, context, "新型显示产业链",
+        {"max_depth": 4, "validation_rules": {"preferred_first_level_max": 7},
+         "tree_build_rules": {"parent_child_relation_types": ["PART_OF", "INPUT_TO"],
+                              "hybrid_entity_expansion": {"enabled": True}}},
+    )
+    labels = {node["label"] for node in nodes}
+    assert_true({"新型显示材料", "OLED材料", "液晶材料"}.issubset(labels),
+                "有已验证实体证据的具体材料应进入行业专属展示分组")
+    assert_true("材料" not in labels and "无证据设备" not in labels,
+                "泛化实体或无实体证据内容不得因混合扩展进入树")
+    display_edges = [e for e in edges if e["child_tree_node_id"] in {
+        n["tree_node_id"] for n in nodes if n["label"] in {"OLED材料", "液晶材料"}
+    }]
+    assert_true(display_edges and all(e["is_evidence_fact"] == "false" for e in display_edges),
+                "证据实体的展示归类边不得冒充PDF父子事实")
+    assert_true(validate_dynamic_tree(nodes, edges, context)["passed"], "混合构树应通过2-4级校验")
+    assert_true({u["canonical_name"] for u in unclassified} == {"材料", "无证据设备"},
+                "被阻断实体应继续完整导出到未分类清单")
+
+
+def test_numeric_industry_terms_keep_leading_numbers():
+    from build_document_driven_template import clean_label
+
+    assert_true(clean_label("4K/8K电视") == "4K/8K电视", "4K 不得被标题序号清洗误删")
+    assert_true(clean_label("2.5D/3D先进封装") == "2.5D/3D先进封装", "2.5D 不得被标题序号清洗误删")
+    assert_true(clean_label("2.3 显示材料") == "显示材料", "真正的章节序号仍应清理")
+
+
+def test_chart_page_review_is_block_granular():
+    from stage2_build_evidence import native_block_requires_review
+
+    chart = {"page_type": "chart", "review_required": "yes", "text_quality": "normal", "needs_ocr": "no"}
+    prose = "新型显示产业已经形成从装备、材料、面板到具体应用较为完备的产业链结构，并具备较强的产业协同能力。"
+    assert_true(not native_block_requires_review(chart, "paragraph", prose, "normal"),
+                "图表页中的长篇原生正文不应被整页复核状态连带筛除")
+    assert_true(native_block_requires_review(chart, "paragraph", "材料 面板 应用", "normal"),
+                "图内短标签仍应保持复核限制")
+    mixed = dict(chart, page_type="mixed")
+    assert_true(native_block_requires_review(mixed, "paragraph", prose, "normal"),
+                "混排/表格/产业链图页不得自动放宽")
+
+
+def test_rejected_candidate_recheck_preserves_original_content():
+    from stage4_normalize_and_review import build_rejected_recheck
+
+    rows = build_rejected_recheck([{
+        "item_type": "relation", "candidate_id": "t1_r1", "reason": "subject_or_object_not_found",
+        "subject": "硅片", "relation_type": "INPUT_TO", "object": "晶圆制造",
+        "evidence_id": "EV1", "page_no": 9, "quote": "硅片用于晶圆制造。",
+    }])
+    assert_true(rows[0]["surface_form_or_relation"] == "硅片 -> INPUT_TO -> 晶圆制造",
+                "rejected 重检必须保留原关系端点而非只显示候选ID")
+    assert_true(rows[0]["quote"] == "硅片用于晶圆制造。", "rejected 重检必须保留原始quote")
+
+
+def test_stage4_5_review_modes_have_real_thresholds():
+    from stage4_5_minimize_review import build_conservative_entities
+
+    inputs = {"canonical_entities": [{
+        "canonical_name": "低置信具体材料", "entity_type": "material",
+        "review_status": "auto_candidate", "confidence_level": "low",
+        "source_entity_candidate_ids": "t1_e1",
+    }]}
+    cfg = {"entity_auto_rules": {"keep_entities": [], "defer_entities": [], "exclude_entity_types": []}}
+    strict = build_conservative_entities(inputs, cfg, "strict")
+    conservative = build_conservative_entities(inputs, cfg, "conservative")
+    permissive = build_conservative_entities(inputs, cfg, "permissive")
+    assert_true(not strict and not conservative and len(permissive) == 1,
+                "strict/conservative/permissive 必须使用不同置信度阈值")
+
+
 def test_duplicate_source_entity_cannot_appear_twice_in_tree():
     from build_document_driven_template import validate_dynamic_tree
 
@@ -476,6 +582,11 @@ def main():
         test_same_name_entity_types_are_resolved_before_tree_building,
         test_stage4_6_cannot_map_rejected_candidate_to_unrelated_relation,
         test_relation_first_tree_uses_only_evidence_connected_concrete_entities,
+        test_hybrid_tree_adds_only_verified_evidence_entities,
+        test_numeric_industry_terms_keep_leading_numbers,
+        test_chart_page_review_is_block_granular,
+        test_rejected_candidate_recheck_preserves_original_content,
+        test_stage4_5_review_modes_have_real_thresholds,
         test_duplicate_source_entity_cannot_appear_twice_in_tree,
         test_refinement_preserves_evidence_edge_metadata,
     ]

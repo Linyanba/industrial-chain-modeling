@@ -1,0 +1,19 @@
+{
+  "timestamp": "20260713_181032",
+  "project_root": "D:\\产业链建模",
+  "stage3c_dir": "D:\\产业链建模\\rag\\outputs\\stage3c_rag_extraction_20260713_180038",
+  "mode": "full",
+  "use_embedding_similarity": false,
+  "use_local_llm": false,
+  "similarity_threshold": 0.86,
+  "input_entities": 69,
+  "input_relations": 8,
+  "input_review": 71,
+  "input_rejected": 61,
+  "output_canonical_entities": 46,
+  "output_aliases": 1,
+  "output_normalized_relations": 8,
+  "output_conflicts": 0,
+  "output_review_items": 71,
+  "output_recheck": 56
+}

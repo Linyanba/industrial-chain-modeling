@@ -1,0 +1,195 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 24,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 1,
+      "text_raw": "Bold ideas. Bold teams. Extraordinary results.",
+      "text_normalized": "Bold ideas. Bold teams. Extraordinary results.",
+      "bbox": [
+        63.32,
+        130.83,
+        417.88,
+        154.21
+      ],
+      "font_size_estimate": 18.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 2,
+      "text_raw": "贝恩公司是一家全球性咨询公司，致力于帮助世界各地有雄心、以变革为导向的商业领袖共同定义未来 ",
+      "text_normalized": "贝恩公司是一家全球性咨询公司，致力于帮助世界各地有雄心、以变革为导向的商业领袖共同定义未来",
+      "bbox": [
+        63.32,
+        178.25,
+        530.07,
+        211.8
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 3,
+      "text_raw": "目前，贝恩公司在全球38个国家设有63个分公司，我们与客户并肩工作，拥有共同的目标：取得超越对手的非凡业绩，重新定义客户所在的行业。凭借度身订制的整合性专业能力，配以精心打造的数字创新生态系统，我们为客户提供更好、更快和更持久的业绩结果。自1973年成立以来，我们根据客户的业绩来衡量自己的成功，在业内享有良好的客户拥护度。",
+      "text_normalized": "目前，贝恩公司在全球38个国家设有63个分公司，我们与客户并肩工作，拥有共同的目标：取得超越对手的非凡业绩，重新定义客户所在的行业。凭借度身订制的整合性专业能力，配以精心打造的数字创新生态系统，我们为客户提供更好、更快和更持久的业绩结果。自1973年成立以来，我们根据客户的业绩来衡量自己的成功，在业内享有良好的客户拥护度。",
+      "bbox": [
+        63.32,
+        222.82,
+        531.99,
+        283.1
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 4,
+      "text_raw": "是什么使我们在竞争激烈的咨询行业中脱颖而出",
+      "text_normalized": "是什么使我们在竞争激烈的咨询行业中脱颖而出",
+      "bbox": [
+        63.32,
+        294.3,
+        308.89,
+        311.85
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 5,
+      "text_raw": "贝恩公司坚信管理咨询公司发挥的作用不应局限于提供建议方案的范畴。我们置身客户立场思考问题，专注于建议方案的落地。我们基于执行效果的收费模式有助于确保客户与贝恩的利益捆绑，通过与客户通力合作，以发掘客户潜力。我们的战略落地/变革管理®（Results Delivery®）流程协助客户发展自身的能力，而我们的“真北”（True North）价值观指导我们始终致力于为我们的客户、员工和社会实现目标。",
+      "text_normalized": "贝恩公司坚信管理咨询公司发挥的作用不应局限于提供建议方案的范畴。我们置身客户立场思考问题，专注于建议方案的落地。我们基于执行效果的收费模式有助于确保客户与贝恩的利益捆绑，通过与客户通力合作，以发掘客户潜力。我们的战略落地/变革管理®（Results Delivery®）流程协助客户发展自身的能力，而我们的“真北”（True North）价值观指导我们始终致力于为我们的客户、员工和社会实现目标。",
+      "bbox": [
+        63.32,
+        322.87,
+        531.99,
+        398.15
+      ],
+      "font_size_estimate": 10.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 6,
+      "text_raw": "贝恩公司大中华区",
+      "text_normalized": "贝恩公司大中华区",
+      "bbox": [
+        63.32,
+        409.34,
+        156.94,
+        426.9
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p024_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 24,
+      "reading_order": 7,
+      "text_raw": "20世纪90年代初，贝恩公司进入中国，是较早进入中国市场的全球咨询公司之一。目前在北京、上海和香港设有三个分公司，大中华区员工人数近400人。多年来，凭借对中国本地市场的了解和在全球其他地区积累的丰富经验，我们持续为不同行业的跨国公司和中国本土企业提供咨询服务，度身订制企业策略和解决方案。",
+      "text_normalized": "20世纪90年代初，贝恩公司进入中国，是较早进入中国市场的全球咨询公司之一。目前在北京、上海和香港设有三个分公司，大中华区员工人数近400人。多年来，凭借对中国本地市场的了解和在全球其他地区积累的丰富经验，我们持续为不同行业的跨国公司和中国本土企业提供咨询服务，度身订制企业策略和解决方案。",
+      "bbox": [
+        63.32,
+        437.92,
+        531.99,
+        498.2
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "4. 中国半导体近期投资观察",
+    "4.4 启示",
+    "4.4.2 面向经营者的启示"
+  ]
+}

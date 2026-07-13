@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260713_171817",
+  "project_root": "D:\\产业链建模",
+  "parsed_dir": "D:\\产业链建模\\parsed_documents\\中国半导体白皮书_1b73a8b1f91b",
+  "evidence_file": "D:\\产业链建模\\parsed_documents\\中国半导体白皮书_1b73a8b1f91b\\evidence_chunks.jsonl",
+  "collection": "kb_74af4f035d18",
+  "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+  "qdrant_url": "http://localhost:6333",
+  "recreate": true,
+  "batch_size": 32,
+  "max_chunks": 0,
+  "dry_run": false,
+  "root_model": "半导体产业链",
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "total_chunks": 720,
+  "selected_count": 94,
+  "excluded_count": 626,
+  "excluded_reasons": {
+    "cover_page": 1,
+    "review_required": 379,
+    "toc_page": 1,
+    "not_in_allowlist": 5,
+    "garbled_text": 231,
+    "table": 9
+  }
+}

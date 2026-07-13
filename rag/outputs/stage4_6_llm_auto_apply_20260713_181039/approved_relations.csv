@@ -1,0 +1,9 @@
+﻿approved_relation_id,subject_canonical_name,relation_type,object_canonical_name,subject_type,object_type,value_chain_stage,source_relation_candidate_ids,evidence_ids,pages,quotes_preview,approval_status,approval_source,approval_reason,review_ids_applied
+NR0001,薄膜晶体管液晶显示(TFT-LCD),PART_OF,新型显示技术,technology,technology,supporting,t08_r01,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,approved,conservative_carryover,保守关系直接继承,
+NR0002,主动矩阵有机发光二极管显示(AMOLED),PART_OF,新型显示技术,technology,technology,supporting,t08_r02,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,approved,conservative_carryover,保守关系直接继承,
+NR0003,微型发光二极管显示(Micro-LED),PART_OF,新型显示技术,technology,technology,supporting,t08_r03,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,approved,conservative_carryover,保守关系直接继承,
+NR0004,激光显示,PART_OF,新型显示技术,technology,technology,supporting,t08_r04,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,approved,conservative_carryover,保守关系直接继承,
+NR0005,新型显示材料,PART_OF,先进电子材料,material,material,upstream,t08_r05,新型显示白皮书_7f4f945d7c21_p018_paragraph_001,18,新型显示材料属于先进电子材料的一种,approved,conservative_carryover,保守关系直接继承,
+NR0006,薄膜晶体管液晶显示器件,PART_OF,新型显示器件,product,product,unknown,t08_r06,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,17,对新型显示器件（包括薄膜晶体管液晶显示器件、有机发光二极管显示面板,approved,conservative_carryover,保守关系直接继承,
+NR0007,有机发光二极管显示面板,PART_OF,新型显示器件,product,product,unknown,t08_r07,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,17,对新型显示器件（包括薄膜晶体管液晶显示器件、有机发光二极管显示面板,approved,conservative_carryover,保守关系直接继承,
+NR0008,玻璃基板,INPUT_TO,液晶面板,material,product,upstream,t09_r10,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,每块液晶面板需要两块玻璃基板,approved,conservative_carryover,保守关系直接继承,

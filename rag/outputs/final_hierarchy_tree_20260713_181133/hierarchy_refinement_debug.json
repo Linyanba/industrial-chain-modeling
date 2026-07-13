@@ -1,0 +1,87 @@
+{
+  "config": {
+    "enable_hierarchy_refinement": true,
+    "adaptive_tree_depth": true,
+    "min_tree_depth": 2,
+    "target_tree_depth": 0,
+    "max_tree_depth": 4,
+    "remove_company_branch": true,
+    "forbid_representative_company_branch": true,
+    "fix_parent_child_same_level": true,
+    "forbid_up_mid_down_as_default": true,
+    "forbid_up_mid_down_in_all_tree_levels": true,
+    "allow_llm_refinement": false,
+    "llm_model": "qwen3:8b",
+    "ollama_url": "http://localhost:11434",
+    "max_first_level_nodes": 7,
+    "min_children_for_major_branch": 2,
+    "weak_branch_threshold": 1,
+    "parent_child_relation_types": [
+      "PART_OF",
+      "BELONGS_TO",
+      "SUB_CATEGORY_OF",
+      "CONTAINS",
+      "INCLUDES",
+      "HAS_PART",
+      "INPUT_TO"
+    ],
+    "containment_cues": [
+      "包括",
+      "包含",
+      "分为",
+      "主要包括",
+      "由",
+      "构成",
+      "可分为",
+      "涵盖"
+    ],
+    "forbidden_first_level_nodes": [
+      "上游",
+      "中游",
+      "下游",
+      "上下游",
+      "上中下游",
+      "产业链上下游"
+    ],
+    "forbidden_node_labels": [
+      "代表企业",
+      "上游",
+      "中游",
+      "下游",
+      "上下游",
+      "上中下游",
+      "产业链上下游"
+    ],
+    "excluded_tree_entity_types": [
+      "company"
+    ]
+  },
+  "llm_refinement": {
+    "available": false,
+    "hash": "",
+    "parsed": null,
+    "raw": "",
+    "warning": "disabled"
+  },
+  "validation": {
+    "passed": true,
+    "issues": [],
+    "node_count": 37,
+    "edge_count": 36,
+    "max_depth": 3,
+    "adaptive_tree_depth": true,
+    "min_allowed_depth": 2,
+    "max_allowed_depth": 4,
+    "first_level_nodes": [
+      "先进电子材料",
+      "新型显示器件",
+      "新型显示技术",
+      "液晶面板",
+      "新型显示核心环节",
+      "新型显示产品与应用",
+      "新型显示设备"
+    ]
+  },
+  "fix_count": 0,
+  "removed_count": 0
+}

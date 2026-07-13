@@ -10,7 +10,9 @@ param(
     [ValidateSet("full", "dry-run")]
     [string]$Mode = "full",
 
-    [switch]$RebuildRootModel
+    [switch]$RebuildRootModel,
+
+    [switch]$ReparsePdf
 )
 
 $ErrorActionPreference = "Stop"
@@ -35,6 +37,10 @@ if ($RootModel) {
 
 if ($RebuildRootModel) {
   $ArgsList += "--rebuild-root-model"
+}
+
+if ($ReparsePdf) {
+  $ArgsList += "--reparse-pdf"
 }
 
 & conda @ArgsList

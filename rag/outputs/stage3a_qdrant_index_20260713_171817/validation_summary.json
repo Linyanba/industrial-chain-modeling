@@ -1,0 +1,70 @@
+{
+  "timestamp": "20260713_171817",
+  "collection": "kb_74af4f035d18",
+  "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+  "embedding_dimension": 1024,
+  "device": "cpu",
+  "total_chunks": 720,
+  "selected_count": 94,
+  "points_upserted": 94,
+  "failed_chunks": 0,
+  "point_count_final": 94,
+  "validation": {
+    "input_evidence_chunks_found": {
+      "passed": true,
+      "note": "共读取 720 条 evidence chunk"
+    },
+    "selected_chunks_non_empty": {
+      "passed": true,
+      "note": "入选 94 条"
+    },
+    "embedding_model_loaded": {
+      "passed": true,
+      "note": "model=Qwen/Qwen3-Embedding-0.6B, source=huggingface, device=cpu"
+    },
+    "embedding_dimension_detected": {
+      "passed": true,
+      "note": "维度 = 1024"
+    },
+    "qdrant_connected": {
+      "passed": true,
+      "note": "url=http://localhost:6333"
+    },
+    "collection_exists": {
+      "passed": true,
+      "note": "collection=kb_74af4f035d18"
+    },
+    "points_upserted": {
+      "passed": true,
+      "note": "写入 94 个 point"
+    },
+    "point_count_matches_selected_chunks_or_explains_difference": {
+      "passed": true,
+      "note": "collection point_count=94, selected=94, failed=0"
+    },
+    "payload_contains_evidence_id": {
+      "passed": true,
+      "note": "抽样 point 含 evidence_id"
+    },
+    "payload_contains_page_start": {
+      "passed": true,
+      "note": "抽样 point 含 page_start"
+    },
+    "payload_contains_text": {
+      "passed": true,
+      "note": "抽样 point 含 text"
+    },
+    "smoke_test_completed": {
+      "passed": true,
+      "note": "完成 7/7 条查询"
+    },
+    "no_external_llm_api_called": {
+      "passed": true,
+      "note": "全程仅使用本地 embedding，未调用生成式大模型"
+    },
+    "original_pdf_not_modified": {
+      "passed": true,
+      "note": "脚本从不写入 PDF；source_pdf=unknown"
+    }
+  }
+}

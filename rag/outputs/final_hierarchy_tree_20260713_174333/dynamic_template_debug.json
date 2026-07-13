@@ -1,0 +1,90 @@
+{
+  "candidate_first_level_nodes": [
+    {
+      "label": "芯片",
+      "score": 67.0,
+      "title_hits": 10,
+      "entity_count": 16,
+      "relation_count": 6,
+      "evidence_count": 6,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "EDA",
+      "score": 30.3,
+      "title_hits": 6,
+      "entity_count": 5,
+      "relation_count": 0,
+      "evidence_count": 4,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "汽车半导体",
+      "score": 22.0,
+      "title_hits": 0,
+      "entity_count": 8,
+      "relation_count": 0,
+      "evidence_count": 2,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "封装材料",
+      "score": 20.5,
+      "title_hits": 0,
+      "entity_count": 7,
+      "relation_count": 0,
+      "evidence_count": 2,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "沉积设备",
+      "score": 10.9,
+      "title_hits": 0,
+      "entity_count": 3,
+      "relation_count": 0,
+      "evidence_count": 2,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    }
+  ],
+  "rejected_first_level_nodes": [],
+  "llm_suggestion_hash": "",
+  "llm_suggestion_used_directly": false,
+  "llm_suggestion_available": false,
+  "relation_first_tree_used": true,
+  "llm_raw_suggestion": "",
+  "program_validation": {
+    "passed": true,
+    "issues": [],
+    "first_level_labels": [
+      "晶圆制造",
+      "计算芯片",
+      "半导体产品与应用",
+      "半导体材料",
+      "半导体核心环节",
+      "半导体技术",
+      "半导体设备"
+    ],
+    "node_count": 43,
+    "edge_count": 42,
+    "max_depth": 2,
+    "min_allowed_depth": 2,
+    "max_allowed_depth": 4
+  },
+  "source_stage_dir": "D:\\产业链建模\\rag\\outputs\\stage4_6_llm_auto_apply_20260713_174013",
+  "source_parsed_dir": "D:\\产业链建模\\parsed_documents\\中国半导体白皮书_1b73a8b1f91b_20260713_171812"
+}

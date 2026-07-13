@@ -1,0 +1,9 @@
+﻿normalized_relation_id,subject_canonical_id,subject_canonical_name,subject_type,relation_type,object_canonical_id,object_canonical_name,object_type,value_chain_stage,source_relation_candidate_ids,evidence_count,evidence_ids,pages,quotes_preview,confidence_level,review_status,review_reason
+NR0001,CE0032,薄膜晶体管液晶显示(TFT-LCD),technology,PART_OF,CE0031,新型显示技术,technology,supporting,t08_r01,1,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,medium,auto_candidate,
+NR0002,CE0033,主动矩阵有机发光二极管显示(AMOLED),technology,PART_OF,CE0031,新型显示技术,technology,supporting,t08_r02,1,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,medium,auto_candidate,
+NR0003,CE0034,微型发光二极管显示(Micro-LED),technology,PART_OF,CE0031,新型显示技术,technology,supporting,t08_r03,1,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,medium,auto_candidate,
+NR0004,CE0035,激光显示,technology,PART_OF,CE0031,新型显示技术,technology,supporting,t08_r04,1,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,medium,auto_candidate,
+NR0005,CE0037,新型显示材料,material,PART_OF,CE0036,先进电子材料,material,upstream,t08_r05,1,新型显示白皮书_7f4f945d7c21_p018_paragraph_001,18,新型显示材料属于先进电子材料的一种,medium,auto_candidate,
+NR0006,CE0039,薄膜晶体管液晶显示器件,product,PART_OF,CE0038,新型显示器件,product,unknown,t08_r06,1,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,17,对新型显示器件（包括薄膜晶体管液晶显示器件、有机发光二极管显示面板,medium,auto_candidate,
+NR0007,CE0040,有机发光二极管显示面板,product,PART_OF,CE0038,新型显示器件,product,unknown,t08_r07,1,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,17,对新型显示器件（包括薄膜晶体管液晶显示器件、有机发光二极管显示面板,medium,auto_candidate,
+NR0008,CE0011,玻璃基板,material,INPUT_TO,CE0043,液晶面板,product,upstream,t09_r10,1,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,每块液晶面板需要两块玻璃基板,medium,auto_candidate,

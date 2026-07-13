@@ -1,0 +1,8 @@
+﻿review_id,review_question,decision,applied,applied_actions,reason,risk_level,validation_status,validation_reason
+MHR0001,关系候选待复核: 产业链->INPUT_TO->产业链上下游,defer,false,,关系方向和层级不明确，缺乏证据支持产业链到产业链上下游的输入关系,medium,blocked_or_failed,
+MHR0002,关系候选待复核: 新型显示产业->SUPPLIES_TO->产业链,defer,false,,新型显示产业到产业链的SUPPLIES_TO关系缺乏明确证据和层级定义,medium,blocked_or_failed,
+MHR0003,关系候选待复核: 面板制造企业->USES_TECHNOLOGY->配套材料,defer,false,,面板制造企业与配套材料的关系类型不明确，且企业节点不符合规则5,high,blocked_or_failed,
+MHR0004,关系候选待复核: 显示材料产业->SUPPLIES_TO->产业集群,defer,false,,显示材料产业到产业集群的SUPPLIES_TO关系缺乏明确证据和定义,medium,blocked_or_failed,
+MHR0005,关系候选待复核: 关键原材料->INPUT_TO->显示面板,approve,false,,关键原材料到显示面板的INPUT_TO关系有证据支持,low,blocked_or_failed,mutating decision requires non-empty review evidence; related_id 't03_r01' is not an approved draft entity/relation; target_id 't03_r01' not found in inputs; review item related_id 't03_r01' is not a relation target
+MHR0006,关系候选待复核: 产业链->INPUT_TO->上下游,defer,false,,产业链到上下游的INPUT_TO关系缺乏明确证据和层级定义,medium,blocked_or_failed,
+MHR0007,关系候选待复核: 玻璃基板->OUTPUT_OF->高世代玻璃基板,defer,false,,玻璃基板到高世代玻璃基板的OUTPUT_OF关系缺乏证据支持，且高世代玻璃基板未在草案中定义,high,blocked_or_failed,

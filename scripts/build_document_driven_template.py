@@ -23,7 +23,7 @@ FORBIDDEN_TREE_LABELS = {"上游", "中游", "下游", "上下游", "上中下�
 FORBIDDEN_L1 = FORBIDDEN_TREE_LABELS
 OVERLY_GENERIC_TERMS = {
     "产业", "产业链", "发展", "现状", "趋势", "市场", "政策", "分析", "概述", "情况", "分布",
-    "材料", "原料", "产品", "工艺", "技术", "核心技术", "关键原材料", "配套材料",
+    "材料", "原料", "原材料", "设备", "装备", "产品", "工艺", "技术", "核心技术", "关键原材料", "配套材料",
 }
 EXCLUDED_TREE_ENTITY_TYPES = {"company"}
 ENTITY_BRANCHES = [
@@ -52,6 +52,22 @@ def read_json(path: Path) -> dict[str, Any]:
     if not path.exists():
         return {}
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def read_jsonl(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    rows = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rows.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+    return rows
 
 
 def resolve_pointer(path: Path) -> Path | None:
@@ -132,6 +148,19 @@ def load_inputs(project_root: Path) -> dict[str, Any]:
         entities, relations, aliases, relation_evidence = [], [], [], []
 
     run_config = read_json(source / "run_config.json") if source else {}
+    # Stage4 的运行配置保留其 Stage3C 来源。优先沿这条来源链读取实体证据，
+    # 避免 latest 指针恰好在另一条并行流水线上时混入其他文档的候选。
+    stage3c_dir = None
+    if s4:
+        stage4_config = read_json(s4 / "run_config.json")
+        configured_stage3c = str(stage4_config.get("stage3c_dir", "")).strip()
+        if configured_stage3c:
+            candidate = Path(configured_stage3c)
+            if candidate.exists():
+                stage3c_dir = candidate
+    if stage3c_dir is None:
+        stage3c_dir = latest_stage_dir(project_root, "latest_stage3c_run.txt")
+    verified_entity_candidates = read_jsonl(stage3c_dir / "verified_entity_candidates.jsonl") if stage3c_dir else []
     doc_ids = run_config.get("allowed_doc_ids") or []
     if not doc_ids and run_config.get("doc_id"):
         doc_ids = [run_config.get("doc_id")]
@@ -163,6 +192,8 @@ def load_inputs(project_root: Path) -> dict[str, Any]:
         "relations": relations,
         "aliases": aliases,
         "relation_evidence": relation_evidence,
+        "stage3c_dir": stage3c_dir,
+        "verified_entity_candidates": verified_entity_candidates,
         "document_structure": document_structure,
         "evidence_chunks": evidence_chunks,
     }
@@ -182,7 +213,11 @@ def safe_int(value: Any, default: int = 0) -> int:
 
 
 def clean_label(label: str) -> str:
-    label = re.sub(r"^\s*\d+(\.\d+)*\s*", "", label or "").strip()
+    # 只清理真正的标题序号。不能把 4K/8K、2.5D/3D 等产业名词的前导数字删掉。
+    label = re.sub(
+        r"^\s*\d+(?:\.\d+)*(?:(?:[、．:：)）\]】])\s*|[.](?!\d)\s*|\s+)",
+        "", label or "",
+    ).strip()
     label = re.sub(r"\s+", "", label)
     return label
 
@@ -205,6 +240,8 @@ def collect_evidence_universe(inputs: dict[str, Any]) -> set[str]:
         ids.add(row.get("evidence_id", ""))
     for rel in inputs["relations"]:
         ids.update(split_evidence_ids(rel.get("evidence_ids", "")))
+    for row in inputs.get("verified_entity_candidates", []):
+        ids.add(row.get("evidence_id", ""))
     return {i for i in ids if i}
 
 
@@ -235,6 +272,11 @@ def relation_id(row: dict[str, str]) -> str:
 
 
 def build_entity_maps(inputs: dict[str, Any]) -> dict[str, Any]:
+    candidate_by_id = {
+        str(row.get("entity_candidate_id", "")): row
+        for row in inputs.get("verified_entity_candidates", [])
+        if row.get("entity_candidate_id")
+    }
     entities = []
     by_name = {}
     by_id = {}
@@ -249,6 +291,12 @@ def build_entity_maps(inputs: dict[str, Any]) -> dict[str, Any]:
         item["_type"] = row.get("entity_type", "")
         item["_evidence_count"] = safe_int(row.get("evidence_count", 0))
         item["_relation_degree"] = safe_int(row.get("relation_degree", 0))
+        source_candidate_ids = split_evidence_ids(row.get("source_entity_candidate_ids", ""))
+        evidence_rows = [candidate_by_id[cid] for cid in source_candidate_ids if cid in candidate_by_id]
+        item["_entity_evidence_rows"] = evidence_rows
+        item["_entity_evidence_ids"] = sorted({
+            str(ev.get("evidence_id", "")) for ev in evidence_rows if ev.get("evidence_id")
+        })
         entities.append(item)
         by_name[name] = item
         by_id[eid] = item
@@ -280,7 +328,7 @@ def relation_support(inputs: dict[str, Any]) -> dict[str, Any]:
 
 
 def evidence_for_entity(name: str, row: dict[str, Any], support: dict[str, Any]) -> list[str]:
-    evs = []
+    evs = list(row.get("_entity_evidence_ids", []))
     for rel in support["by_entity"].get(name, []):
         evs.extend(rel.get("_evidence_ids_list", []))
     return sorted(set(evs))
@@ -580,6 +628,184 @@ def add_tree_edge(edges: list[dict[str, Any]], parent_id: str, child_id: str, so
     })
 
 
+def root_domain_label(root_label: str) -> str:
+    label = clean_label(root_label)
+    for suffix in ("产业链", "产业"):
+        if label.endswith(suffix) and len(label) > len(suffix):
+            label = label[:-len(suffix)]
+            break
+    return label or clean_label(root_label)
+
+
+def evidence_entity_family(ent: dict[str, Any]) -> str:
+    """用审核类型为主、证据语境为辅，确定展示分组；不生成事实关系。"""
+    etype = str(ent.get("_type", "")).lower()
+    name = ent.get("_name", "")
+    context_text = " ".join(
+        str(row.get("quote") or row.get("candidate_reason") or "")
+        for row in ent.get("_entity_evidence_rows", [])
+    )
+    if etype == "material" or name.endswith(("材料", "基材", "硅片", "晶圆", "靶材", "化学品", "气体")):
+        return "material"
+    if etype == "equipment" or name.endswith(("设备", "装备", "仪器", "系统", "机")):
+        return "equipment"
+    # 产品名称的强语义后缀优先于上游模型偶发的 technology/unknown 类型误判。
+    if name.endswith(("芯片", "器件", "电路", "电视", "手机", "终端")):
+        return "product_application"
+    if etype in {"technology", "standard", "platform"} or name.endswith(("技术", "工艺", "软件", "平台")):
+        return "technology"
+    if etype in {"process", "industry_link"}:
+        return "operations"
+    if etype in {"application", "scenario", "market", "product"}:
+        return "product_application"
+    if re.search(r"应用|终端|场景", context_text):
+        return "product_application"
+    return ""
+
+
+def expand_relation_tree_with_evidence_entities(
+    nodes: list[dict[str, Any]], edges: list[dict[str, Any]], inputs: dict[str, Any],
+    context: dict[str, Any], root_label: str, template: dict[str, Any],
+    used_entity_ids: set[str], used_names: set[str], graph_names: set[str],
+) -> tuple[list[dict[str, Any]], dict[str, str]]:
+    """在关系骨架旁补充有实体证据的展示节点，所有新增边均明确标为非事实边。"""
+    config = (template.get("tree_build_rules") or {}).get("hybrid_entity_expansion", {})
+    if config.get("enabled", True) is False:
+        return [], {}
+    evidence_universe = context["evidence_universe"]
+    max_depth = safe_int(template.get("max_depth", 4), 4)
+    max_children = safe_int(config.get("max_children_per_group", 12), 12)
+    min_group_size = safe_int(config.get("min_group_size", 2), 2)
+    domain = root_domain_label(root_label)
+    family_suffix = {
+        "material": "材料",
+        "equipment": "设备",
+        "technology": "技术",
+        "operations": "核心环节",
+        "product_application": "产品与应用",
+    }
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    status: dict[str, str] = {}
+    for ent in context["maps"]["entities"]:
+        eid = ent.get("_id", "")
+        name = ent.get("_name", "")
+        if not eid or eid == "CE_ROOT" or eid in used_entity_ids or name in used_names:
+            continue
+        if name in graph_names:
+            status[eid] = "relation_graph_not_rendered"
+            continue
+        if ent.get("_type") in EXCLUDED_TREE_ENTITY_TYPES or ent.get("_type") == "industry":
+            continue
+        if not name or name in {clean_label(root_label), domain} or is_generic_term(name) or is_forbidden_tree_label(name):
+            continue
+        evs = [ev for ev in ent.get("_entity_evidence_ids", []) if ev in evidence_universe]
+        if not evs:
+            status[eid] = "missing_verified_entity_evidence"
+            continue
+        family = evidence_entity_family(ent)
+        if not family:
+            status[eid] = "unsupported_display_family"
+            continue
+        grouped[family].append(ent)
+
+    node_by_id = {node["tree_node_id"]: node for node in nodes}
+    root_node = next(node for node in nodes if node.get("parent_id") == "")
+    root_id = root_node["tree_node_id"]
+    l1_count = sum(1 for node in nodes if safe_int(node.get("depth")) == 1)
+    preferred_l1_max = safe_int(
+        (template.get("validation_rules") or {}).get("preferred_first_level_max", 7), 7)
+    new_l1_capacity = max(0, preferred_l1_max - l1_count)
+    added_groups = []
+
+    # 先处理覆盖实体多的分组；已有行业专属锚点不占用新增一级节点容量。
+    ordered_groups = sorted(grouped.items(), key=lambda item: (-len(item[1]), item[0]))
+    for family, entities in ordered_groups:
+        entities = sorted(
+            entities,
+            key=lambda ent: (-len(ent.get("_entity_evidence_ids", [])), -ent.get("_relation_degree", 0), ent["_name"]),
+        )
+        group_label = f"{domain}{family_suffix[family]}"
+        anchor = next((
+            node for node in nodes
+            if node.get("label") == group_label and safe_int(node.get("depth")) < max_depth
+        ), None)
+        if anchor is None and family in {"material", "equipment", "technology"}:
+            suffix = family_suffix[family]
+            anchor = next((
+                node for node in nodes
+                if domain in node.get("label", "") and node.get("label", "").endswith(suffix)
+                and safe_int(node.get("depth")) < max_depth
+            ), None)
+
+        if anchor is None and len(entities) >= min_group_size and new_l1_capacity > 0:
+            group_evs = sorted({
+                ev for ent in entities for ev in ent.get("_entity_evidence_ids", []) if ev in evidence_universe
+            })
+            group_tid = add_tree_node(
+                nodes, group_label, root_id, 1, f"{family}_group", l1_count + 1,
+                "document_driven_rules", [], group_evs, True,
+                "行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实",
+            )
+            add_tree_edge(
+                edges, root_id, group_tid, l1_count + 1, group_evs,
+                "行业专属展示分组挂载，非PDF父子关系事实", False,
+            )
+            anchor = node_by_id[group_tid] = nodes[-1]
+            l1_count += 1
+            new_l1_capacity -= 1
+        elif anchor is None and len(entities) == 1 and new_l1_capacity > 0:
+            # 单个具体实体直接作为关系骨架旁的一级内容，避免制造只有一个孩子的空泛分组。
+            anchor = root_node
+            new_l1_capacity -= 1
+        elif anchor is None:
+            for ent in entities:
+                status[ent["_id"]] = "display_group_capacity_exceeded"
+            continue
+
+        parent_id = anchor["tree_node_id"]
+        parent_depth = safe_int(anchor.get("depth"))
+        child_sort = sum(1 for edge in edges if edge.get("parent_tree_node_id") == parent_id)
+        added_count = 0
+        for ent in entities:
+            if added_count >= max_children or parent_depth + 1 > max_depth:
+                status[ent["_id"]] = "display_group_capacity_exceeded"
+                continue
+            name = ent["_name"]
+            eid = ent["_id"]
+            if name in used_names or eid in used_entity_ids:
+                continue
+            evs = sorted({ev for ev in ent.get("_entity_evidence_ids", []) if ev in evidence_universe})
+            child_sort += 1
+            tid = add_tree_node(
+                nodes, name, parent_id, parent_depth + 1, ent.get("_type", ""), child_sort,
+                "approved_entity", [eid], evs, False,
+                f"evidence_supported_display_placement; family={family}; 非事实父子挂载",
+            )
+            add_tree_edge(
+                edges, parent_id, tid, child_sort, evs,
+                "已批准实体按类型和证据语境进行展示归类，非PDF父子关系事实", False,
+            )
+            used_entity_ids.add(eid)
+            used_names.add(name)
+            status[eid] = "added_by_evidence_entity_expansion"
+            added_count += 1
+        if added_count:
+            added_groups.append({
+                "label": anchor.get("label", root_label),
+                "category": anchor.get("category", family),
+                "score": added_count,
+                "entity_count": added_count,
+                "relation_count": 0,
+                "evidence_ids": sorted({
+                    ev for ent in entities[:max_children]
+                    for ev in ent.get("_entity_evidence_ids", []) if ev in evidence_universe
+                }),
+                "fallback_display_schema": False,
+                "hybrid_entity_expansion": True,
+            })
+    return added_groups, status
+
+
 def build_tree_from_approved_relations(inputs: dict[str, Any], context: dict[str, Any], root_label: str,
                                        template: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]]:
     """以已验证关系为骨架构建树；无关系实体只导出为未分类，不猜测其父节点。"""
@@ -689,6 +915,11 @@ def build_tree_from_approved_relations(inputs: dict[str, Any], context: dict[str
     for idx, name in enumerate(roots, 1):
         add_subtree(name, root_id, 1, idx)
 
+    added_groups, expansion_status = expand_relation_tree_with_evidence_entities(
+        nodes, edges, inputs, context, root_label, template,
+        used_entity_ids, used_names, graph_names,
+    )
+
     unclassified = []
     for ent in maps["entities"]:
         if ent.get("_id") == "CE_ROOT" or ent.get("_id") in used_entity_ids:
@@ -700,8 +931,12 @@ def build_tree_from_approved_relations(inputs: dict[str, Any], context: dict[str
             reason = "泛化/禁用节点不进入树；仅保留具体产业链内容"
         elif name in graph_names:
             reason = "关系链超过最大深度或存在环，未进入树"
+        elif expansion_status.get(ent.get("_id", "")) == "missing_verified_entity_evidence":
+            reason = "缺少可追溯的已验证实体证据，未进行展示归类"
+        elif expansion_status.get(ent.get("_id", "")) == "display_group_capacity_exceeded":
+            reason = "已有实体证据，但超过展示分组容量或一级节点上限"
         else:
-            reason = "缺少已验证父子/输入关系，避免猜测挂载位置"
+            reason = "缺少已验证关系且无法由实体类型和证据语境安全归类"
         unclassified.append({
             "entity_id": ent.get("_id", ""), "canonical_name": name,
             "entity_type": ent.get("_type", ""), "entity_level": ent.get("entity_level", ""),
@@ -720,6 +955,7 @@ def build_tree_from_approved_relations(inputs: dict[str, Any], context: dict[str
             "relation_count": descendants, "evidence_ids": root_evs,
             "fallback_display_schema": False,
         })
+    selected.extend(added_groups)
     return nodes, edges, unclassified, selected
 
 

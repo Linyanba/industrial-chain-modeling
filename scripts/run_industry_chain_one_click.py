@@ -271,6 +271,8 @@ def main():
                         help="知识库隔离/合并名称；默认等于 root-label")
     parser.add_argument("--rebuild-root-model", action="store_true", default=False,
                         help="重建当前 root-model 的 Qdrant collection，并重索引该 root-model 下所有PDF")
+    parser.add_argument("--reparse-pdf", action="store_true", default=False,
+                        help="强制重新执行当前PDF的Stage1/2；同时重建当前root-model索引以避免旧证据残留")
     parser.add_argument("--auto-detect-template", action="store_true", default=False)
     parser.add_argument("--mode", choices=["dry-run","full"], default="full")
     parser.add_argument("--style", default="xmind_blue")
@@ -293,6 +295,10 @@ def main():
     parser.add_argument("--adaptive-tree-depth", action="store_true", default=True)
     parser.add_argument("--fixed-tree-depth", dest="adaptive_tree_depth", action="store_false")
     args = parser.parse_args()
+    if args.reparse_pdf:
+        # 新的解析规则只有在重建证据文件后才会生效；Qdrant 也必须同步重建，
+        # 否则旧解析产生但新解析已删除的 point 仍可能残留在 collection 中。
+        args.rebuild_root_model = True
 
     root = Path(args.project_root).resolve()
     pdf_paths = [resolve_pdf_path(root, p) for p in args.pdf]
@@ -424,7 +430,7 @@ def main():
     # ─── Step 1/2: PDF 审计与证据库构建（同一PDF只解析一次） ─────────────────────
     logger.info("--- Step 1/2: PDF 审计与证据库构建/复用 ---")
     for idx, info in enumerate(pdf_infos, 1):
-        existing = find_existing_processed_pdf(root, registry, info["sha256"])
+        existing = None if args.reparse_pdf else find_existing_processed_pdf(root, registry, info["sha256"])
         if existing:
             parsed_dir = Path(existing["parsed_dir"])
             doc_id = existing["doc_id"]

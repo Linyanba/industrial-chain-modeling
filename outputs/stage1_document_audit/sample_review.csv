@@ -1,7 +1,8 @@
 ﻿page_no,sample_reason,page_type,text_extractable,needs_ocr,has_table_candidate,has_chain_diagram_candidate,recommended_parser,review_comment
-1,封面或目录页,cover,partial,no,no,no,manual_review,待人工复核
-2,正常正文页,paragraph,yes,no,no,no,native_text_with_layout,待人工复核
-13,表格候选页,mixed,yes,no,yes,no,table_parser,待人工复核
-9,图表候选页,chart,yes,no,no,no,chart_caption_only,待人工复核
-6,扫描或低文本质量页,unknown,partial,no,no,no,native_text_with_layout,待人工复核
-15,复杂图文混排页,table,yes,no,yes,no,table_parser,待人工复核
+1,封面或目录页,cover,partial,no,no,no,native_text_with_layout,视觉核验为封面，标题可读；封面图片无需本阶段OCR
+5,正常正文页,paragraph,yes,no,no,no,native_text_with_layout,待人工复核
+8,表格候选页,chart,yes,no,yes,no,table_parser,视觉核验为统计图表加正文页，非产业链图
+7,图表候选页,chart,yes,no,no,no,chart_caption_only,视觉核验为统计图表页，非产业链图
+9,产业链图候选页,chain_diagram,yes,no,yes,yes,diagram_visual_review,视觉核验为半导体价值链主要环节图，需二阶段复核节点和方向
+25,扫描或低文本质量页,mixed,partial,maybe,no,no,native_text_with_layout,视觉核验为尾页，含二维码和品牌信息；不属于产业链建模核心内容
+11,复杂图文混排页,chart,yes,no,no,no,chart_caption_only,待人工复核

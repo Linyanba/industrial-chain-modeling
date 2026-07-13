@@ -1,0 +1,106 @@
+{
+  "qdrant_connected": {
+    "passed": true,
+    "note": "HTTP 200"
+  },
+  "collection_exists": {
+    "passed": true,
+    "note": "kb_74af4f035d18"
+  },
+  "collection_has_points": {
+    "passed": true,
+    "note": "points_count>0"
+  },
+  "doc_id_filter_set": {
+    "passed": true,
+    "note": "中国半导体白皮书_1b73a8b1f91b"
+  },
+  "allowed_doc_ids_set": {
+    "passed": true,
+    "note": "中国半导体白皮书_1b73a8b1f91b"
+  },
+  "ollama_connected": {
+    "passed": true,
+    "note": "http://localhost:11434"
+  },
+  "llm_model_available": {
+    "passed": true,
+    "note": "qwen3:8b"
+  },
+  "tasks_loaded": {
+    "passed": true,
+    "note": "10 个任务"
+  },
+  "embedding_model_loaded": {
+    "passed": true,
+    "note": "Qwen/Qwen3-Embedding-0.6B (huggingface/cpu)"
+  },
+  "retrieval_completed": {
+    "passed": true,
+    "note": "10/10"
+  },
+  "retrieval_limited_to_current_doc": {
+    "passed": true,
+    "note": "retrieved_doc_ids=['中国半导体白皮书_1b73a8b1f91b'], expected=中国半导体白皮书_1b73a8b1f91b"
+  },
+  "model_calls_completed": {
+    "passed": true,
+    "note": "10 次调用"
+  },
+  "entity_candidates_generated": {
+    "passed": true,
+    "note": "93 个"
+  },
+  "relation_candidates_generated": {
+    "passed": true,
+    "note": "81 个"
+  },
+  "verified_entities_generated": {
+    "passed": true,
+    "note": "81 个"
+  },
+  "verified_relations_generated": {
+    "passed": true,
+    "note": "9 个"
+  },
+  "json_outputs_valid_or_reviewed": {
+    "passed": true,
+    "note": "失败 0"
+  },
+  "all_verified_entities_have_evidence": {
+    "passed": true,
+    "note": "81 个 verified 实体"
+  },
+  "all_verified_relations_have_evidence": {
+    "passed": true,
+    "note": "9 个 verified 关系"
+  },
+  "verified_quotes_match_source_text": {
+    "passed": true,
+    "note": "90 个 verified 候选已通过原文校验"
+  },
+  "verified_relations_are_explicit_fact": {
+    "passed": true,
+    "note": "verified 关系均 explicit_fact"
+  },
+  "no_table_or_diagram_visual_relation_verified": {
+    "passed": true,
+    "note": "无图表 verified 关系"
+  },
+  "no_forecast_or_policy_goal_verified_as_fact": {
+    "passed": true,
+    "note": "无预测/政策目标被当作事实"
+  },
+  "no_external_api_called": {
+    "passed": true,
+    "note": "仅本地 Qdrant + Ollama"
+  },
+  "no_graph_generated": {
+    "passed": true,
+    "note": "未生成图谱/未写 Neo4j"
+  },
+  "original_pdf_not_modified": {
+    "passed": true,
+    "note": "本阶段只读 Qdrant 与配置，不写入 PDF"
+  }
+}

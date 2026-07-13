@@ -66,6 +66,22 @@ def read_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def read_jsonl(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    rows = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rows.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+    return rows
+
+
 def resolve_pointer(path: Path) -> Path | None:
     if not path.exists():
         return None
@@ -103,6 +119,17 @@ def load_stage_inputs(project_root: Path) -> dict[str, Any]:
     else:
         entities, relations, aliases, relation_evidence = [], [], [], []
 
+    stage3c = None
+    if s4:
+        configured = str(read_json(s4 / "run_config.json").get("stage3c_dir", "")).strip()
+        if configured and Path(configured).exists():
+            stage3c = Path(configured)
+    if stage3c is None:
+        stage3c = resolve_pointer(project_root / "rag" / "latest_stage3c_run.txt")
+    verified_entity_candidates = (
+        read_jsonl(stage3c / "verified_entity_candidates.jsonl") if stage3c else []
+    )
+
     evidence_chunks = []
     document_structure = {}
     if parsed and parsed.exists():
@@ -124,6 +151,8 @@ def load_stage_inputs(project_root: Path) -> dict[str, Any]:
         "relations": relations,
         "aliases": aliases,
         "relation_evidence": relation_evidence,
+        "stage3c_dir": stage3c,
+        "verified_entity_candidates": verified_entity_candidates,
         "document_structure": document_structure,
         "evidence_chunks": evidence_chunks,
     }
@@ -157,6 +186,8 @@ def collect_evidence_ids(inputs: dict[str, Any], relations: list[dict[str, str]]
         ids.add(row.get("evidence_id", ""))
     for rel in relations:
         ids.update(split_ids(rel.get("evidence_ids", "")))
+    for row in inputs.get("verified_entity_candidates", []):
+        ids.add(row.get("evidence_id", ""))
     return {i for i in ids if i}
 
 

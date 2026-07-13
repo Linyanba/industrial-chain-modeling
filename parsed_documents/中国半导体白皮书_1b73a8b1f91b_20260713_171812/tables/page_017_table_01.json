@@ -1,0 +1,32 @@
+{
+  "table_id": "中国半导体白皮书_1b73a8b1f91b_p017_t01",
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 17,
+  "table_no_on_page": 1,
+  "bbox": [
+    100.85,
+    387.84,
+    421.68,
+    404.37
+  ],
+  "caption": "图 10: 中国厂商在存储芯片、模拟芯片已建立起了一定的竞争力；CPU/GPU/ASIC处于快速起步阶段，面临一些供应链及生态风险",
+  "caption_source": "above_table",
+  "headers": [
+    "⽴⢬⁯樏 (2020)",
+    "㏲㢡副␍",
+    "ℍ〆晰⳻⋚┼䚑ㅳ"
+  ],
+  "units": "unknown",
+  "footnotes": [],
+  "rows": [
+    [
+      "⽴⢬⁯樏 (2020)",
+      "㏲㢡副␍",
+      "ℍ〆晰⳻⋚┼䚑ㅳ"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "parse_quality": 1.0,
+  "review_required": true,
+  "source_page_image": "data\\rendered_pages\\中国半导体白皮书\\page_017.png"
+}

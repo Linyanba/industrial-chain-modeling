@@ -1,0 +1,72 @@
+﻿review_item_id,task_id,item_type,candidate_id,issue_type,severity,reason,evidence_id,page_no,recommended_action
+t01_rv01,t01,relation,t01_r01,relation_endpoint_type_mismatch,medium,关系候选待复核: 产业链->INPUT_TO->产业链上下游,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工核对原文与结论
+t01_rv02,t01,relation,t01_r02,relation_cue_missing,medium,关系候选待复核: 新型显示产业->SUPPLIES_TO->产业链,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,人工核对原文与结论
+t01_rv03,t01,relation,t01_r04,relation_endpoint_type_mismatch,medium,关系候选待复核: 面板制造企业->USES_TECHNOLOGY->配套材料,新型显示白皮书_7f4f945d7c21_p016_paragraph_003,16,人工核对原文与结论
+t01_rv04,t01,entity,t01_e05,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,人工核对 quote 与原文
+t01_rv05,t01,relation,t01_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,人工确认主宾语是否在原文
+t01_rv06,t01,relation,t01_r05,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p016_paragraph_002,16,人工确认主宾语是否在原文
+t02_rv01,t02,relation,t02_r03,relation_cue_missing,medium,关系候选待复核: 显示材料产业->SUPPLIES_TO->产业集群,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,人工核对原文与结论
+t02_rv02,t02,entity,t02_e01,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,人工确认主宾语是否在原文
+t02_rv03,t02,relation,t02_r01,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,人工确认主宾语是否在原文
+t02_rv04,t02,relation,t02_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,人工确认主宾语是否在原文
+t03_rv01,t03,relation,t03_r01,relation_cue_missing,medium,关系候选待复核: 关键原材料->INPUT_TO->显示面板,新型显示白皮书_7f4f945d7c21_p018_paragraph_003,18,人工核对原文与结论
+t03_rv02,t03,entity,t03_e09,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv03,t03,entity,t03_e11,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工核对 quote 与原文
+t03_rv04,t03,entity,t03_e12,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工核对 quote 与原文
+t03_rv05,t03,relation,t03_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv06,t03,relation,t03_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工确认主宾语是否在原文
+t03_rv07,t03,relation,t03_r04,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv08,t03,relation,t03_r05,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv09,t03,relation,t03_r06,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv10,t03,relation,t03_r07,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv11,t03,relation,t03_r08,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t03_rv12,t03,relation,t03_r09,relation_type_invalid,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,重新判定关系类型
+t04_rv01,t04,relation,t04_r01,relation_endpoint_type_mismatch,medium,关系候选待复核: 产业链->INPUT_TO->上下游,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工核对原文与结论
+t04_rv02,t04,entity,t04_e03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,人工确认主宾语是否在原文
+t04_rv03,t04,entity,t04_e08,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv04,t04,entity,t04_e09,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv05,t04,entity,t04_e10,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv06,t04,entity,t04_e11,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv07,t04,entity,t04_e13,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p031_paragraph_003,31,人工核对 quote 与原文
+t04_rv08,t04,relation,t04_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,人工确认主宾语是否在原文
+t04_rv09,t04,relation,t04_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,人工确认主宾语是否在原文
+t04_rv10,t04,relation,t04_r04,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,人工确认主宾语是否在原文
+t04_rv11,t04,relation,t04_r05,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,人工确认主宾语是否在原文
+t04_rv12,t04,relation,t04_r06,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,人工确认主宾语是否在原文
+t04_rv13,t04,relation,t04_r07,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv14,t04,relation,t04_r08,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv15,t04,relation,t04_r09,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv16,t04,relation,t04_r10,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t04_rv17,t04,relation,t04_r11,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对 quote 与原文
+t05_rv01,t05,relation,t05_r01,relation_cue_missing,medium,关系候选待复核: 玻璃基板->OUTPUT_OF->高世代玻璃基板,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工核对原文与结论
+t05_rv02,t05,relation,t05_r03,relation_cue_missing,medium,关系候选待复核: 液晶材料->OUTPUT_OF->产品种类,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工核对原文与结论
+t05_rv03,t05,relation,t05_r04,relation_cue_missing,medium,关系候选待复核: 有机发光材料->OUTPUT_OF->产品种类,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工核对原文与结论
+t05_rv04,t05,relation,t05_r05,relation_cue_missing,medium,关系候选待复核: 掩模版->OUTPUT_OF->产品种类,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工核对原文与结论
+t05_rv05,t05,entity,t05_e02,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,人工核对 quote 与原文
+t05_rv06,t05,relation,t05_r02,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,人工核对 quote 与原文
+t07_rv01,t07,entity,t07_e07,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p035_paragraph_002,35,人工确认主宾语是否在原文
+t07_rv02,t07,entity,t07_e08,evidence_id_not_in_context,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p010_paragraph_002,10,人工核对原文与结论
+t07_rv03,t07,entity,t07_e09,evidence_id_not_in_context,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p010_paragraph_002,10,人工核对原文与结论
+t07_rv04,t07,relation,t07_r01,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv05,t07,relation,t07_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv06,t07,relation,t07_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv07,t07,relation,t07_r04,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv08,t07,relation,t07_r05,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv09,t07,relation,t07_r06,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv10,t07,relation,t07_r07,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t07_rv11,t07,relation,t07_r08,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+t09_rv01,t09,entity,t09_e08,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工核对 quote 与原文
+t09_rv02,t09,entity,t09_e09,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p018_paragraph_003,18,人工核对 quote 与原文
+t09_rv03,t09,relation,t09_r01,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工确认主宾语是否在原文
+t09_rv04,t09,relation,t09_r02,quote_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工核对 quote 与原文
+t09_rv05,t09,relation,t09_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工确认主宾语是否在原文
+t09_rv06,t09,relation,t09_r04,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,,人工确认主宾语是否在原文
+t09_rv07,t09,relation,t09_r05,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t09_rv08,t09,relation,t09_r06,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t09_rv09,t09,relation,t09_r07,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+t09_rv10,t09,relation,t09_r08,relation_type_invalid,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p018_paragraph_003,18,重新判定关系类型
+t09_rv11,t09,relation,t09_r09,relation_type_invalid,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p018_paragraph_003,18,重新判定关系类型
+t10_rv01,t10,relation,t10_r01,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,人工确认主宾语是否在原文
+t10_rv02,t10,relation,t10_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工确认主宾语是否在原文
+t10_rv03,t10,relation,t10_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p033_heading_001,33,人工确认主宾语是否在原文
+t10_rv04,t10,relation,t10_r04,subject_or_object_not_found,high,候选被拒绝，需人工确认,新型显示白皮书_7f4f945d7c21_p016_heading_001,16,人工确认主宾语是否在原文

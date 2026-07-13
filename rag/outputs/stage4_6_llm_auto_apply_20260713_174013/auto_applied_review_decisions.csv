@@ -1,0 +1,8 @@
+﻿review_id,review_question,decision,applied,applied_actions,reason,risk_level,validation_status,validation_reason
+MHR0001,关系候选待复核: 设计->INPUT_TO->代工,defer,false,,设计与代工的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,
+MHR0002,关系候选待复核: 设计->INPUT_TO->封装,defer,false,,设计与封装的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,
+MHR0003,关系候选待复核: 设计->INPUT_TO->测试,defer,false,,设计与测试的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,
+MHR0004,关系候选待复核: 半导体设计制造->INPUT_TO->设备、原材料和EDA软件,defer,false,,半导体设计制造与设备、原材料、EDA软件的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,
+MHR0005,关系候选待复核: 封装测试->OUTPUT_OF->芯片,defer,false,,封装测试与芯片的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,
+MHR0006,关系候选待复核: 设计->SUPPLIES_TO->代工,defer,false,,设计与代工的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,
+MHR0007,关系候选待复核: 封装测试->SUPPLIES_TO->外部电路,defer,false,,封装测试与外部电路的关系缺乏明确证据支持，且未在现有关系中体现,medium,blocked_or_failed,

@@ -1,0 +1,1699 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 21,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 2,
+      "text_raw": "图 14: 在中国SoC领域，物联网与汽车SoC吸引了主要投资；其中物联网SoC投资分散且有较多公司仍处于融资早期",
+      "text_normalized": "图 14: 在中国SoC领域，物联网与汽车SoC吸引了主要投资；其中物联网SoC投资分散且有较多公司仍处于融资早期",
+      "bbox": [
+        63.63,
+        131.68,
+        524.84,
+        160.94
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 3,
+      "text_raw": "2018–2021ᾟ⡯SoC⋞╪⋞ひ壿庶捃樏 (‱⊵)1ㆭ捃樏Ѫ~500‱⊵",
+      "text_normalized": "2018–2021ᾟ⡯SoC⋞╪⋞ひ壿庶捃樏 (‱⊵)1ㆭ捃樏Ѫ~500‱⊵",
+      "bbox": [
+        63.63,
+        174.77,
+        530.01,
+        191.07
+      ],
+      "font_size_estimate": 8.85,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 4,
+      "text_raw": "~160~19070~75",
+      "text_normalized": "~160~19070~75",
+      "bbox": [
+        162.54,
+        193.87,
+        482.51,
+        204.52
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 5,
+      "text_raw": "100%",
+      "text_normalized": "100%",
+      "bbox": [
+        63.63,
+        199.15,
+        83.58,
+        209.79
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 6,
+      "text_raw": "⴪吡䭃㏲晨䏍ㄠ䚧Ⳃ",
+      "text_normalized": "⴪吡䭃㏲晨䏍ㄠ䚧Ⳃ",
+      "bbox": [
+        406.02,
+        205.99,
+        496.23,
+        216.19
+      ],
+      "font_size_estimate": 6.75,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 7,
+      "text_raw": "灃吏瀭",
+      "text_normalized": "灃吏瀭",
+      "bbox": [
+        310.64,
+        206.09,
+        329.35,
+        214.66
+      ],
+      "font_size_estimate": 6.26,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 8,
+      "text_raw": "吡毢",
+      "text_normalized": "吡毢",
+      "bbox": [
+        312.77,
+        217.22,
+        327.22,
+        227.15
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 9,
+      "text_raw": "Ⓚ⡰ㄠ吡",
+      "text_normalized": "Ⓚ⡰ㄠ吡",
+      "bbox": [
+        463.74,
+        226.36,
+        492.62,
+        236.3
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 10,
+      "text_raw": "䢪吡䭃㏲4",
+      "text_normalized": "䢪吡䭃㏲4",
+      "bbox": [
+        163.02,
+        228.23,
+        180.07,
+        233.65
+      ],
+      "font_size_estimate": 3.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 11,
+      "text_raw": "㆏䰽ㄠ䚧Ⳃ",
+      "text_normalized": "㆏䰽ㄠ䚧Ⳃ",
+      "bbox": [
+        400.44,
+        229.15,
+        436.55,
+        239.08
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 12,
+      "text_raw": "80",
+      "text_normalized": "80",
+      "bbox": [
+        75.38,
+        232.03,
+        84.05,
+        242.68
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 13,
+      "text_raw": "冂副择吡ㄠ䚧Ⳃ",
+      "text_normalized": "冂副择吡ㄠ䚧Ⳃ",
+      "bbox": [
+        161.73,
+        232.55,
+        181.43,
+        242.79
+      ],
+      "font_size_estimate": 4.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 14,
+      "text_raw": "䥗Ⳋ䭃㏲",
+      "text_normalized": "䥗Ⳋ䭃㏲",
+      "bbox": [
+        162.37,
+        242.07,
+        179.44,
+        247.94
+      ],
+      "font_size_estimate": 4.28,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 15,
+      "text_raw": "吡兮⅓㇡3",
+      "text_normalized": "吡兮⅓㇡3",
+      "bbox": [
+        160.25,
+        247.09,
+        181.57,
+        253.86
+      ],
+      "font_size_estimate": 3.91,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 16,
+      "text_raw": "䎣吡⊵㟬",
+      "text_normalized": "䎣吡⊵㟬",
+      "bbox": [
+        159.18,
+        253.49,
+        182.81,
+        261.61
+      ],
+      "font_size_estimate": 5.93,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 17,
+      "text_raw": "⒉„▍㳕",
+      "text_normalized": "⒉„▍㳕",
+      "bbox": [
+        463.74,
+        255.79,
+        492.62,
+        265.73
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 18,
+      "text_raw": "䈞吡䭃㏲",
+      "text_normalized": "䈞吡䭃㏲",
+      "bbox": [
+        157.26,
+        263.26,
+        184.83,
+        272.74
+      ],
+      "font_size_estimate": 6.91,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 19,
+      "text_raw": "60",
+      "text_normalized": "60",
+      "bbox": [
+        75.38,
+        264.9,
+        84.05,
+        275.55
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 20,
+      "text_raw": "㟨㟚刓⁯",
+      "text_normalized": "㟨㟚刓⁯",
+      "bbox": [
+        157.26,
+        279.37,
+        186.15,
+        289.3
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 21,
+      "text_raw": "ⴾ䆌ㄠ",
+      "text_normalized": "ⴾ䆌ㄠ",
+      "bbox": [
+        467.35,
+        288.72,
+        489.01,
+        298.65
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 22,
+      "text_raw": "⢢⿥倱",
+      "text_normalized": "⢢⿥倱",
+      "bbox": [
+        309.16,
+        294.6,
+        330.83,
+        304.53
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 23,
+      "text_raw": "40",
+      "text_normalized": "40",
+      "bbox": [
+        75.38,
+        297.77,
+        84.05,
+        308.42
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b024",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 24,
+      "text_raw": "亝⊻⷇暂台㺰⊽3",
+      "text_normalized": "亝⊻⷇暂台㺰⊽3",
+      "bbox": [
+        159.62,
+        303.45,
+        432.94,
+        316.15
+      ],
+      "font_size_estimate": 6.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b025",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 25,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        75.38,
+        330.64,
+        84.05,
+        341.29
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b026",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 26,
+      "text_raw": "㲙㵆䏫",
+      "text_normalized": "㲙㵆䏫",
+      "bbox": [
+        467.35,
+        335.03,
+        489.01,
+        344.96
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b027",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 27,
+      "text_raw": "㇄䓶䭃㏲",
+      "text_normalized": "㇄䓶䭃㏲",
+      "bbox": [
+        157.26,
+        340.5,
+        186.15,
+        350.43
+      ],
+      "font_size_estimate": 7.24,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b028",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 28,
+      "text_raw": "0䏛准僃2㷯惘2㎽㢬\u0012⿥㣱⳻枤",
+      "text_normalized": "0䏛准僃2㷯惘2㎽㢬\u0012⿥㣱⳻枤",
+      "bbox": [
+        79.9,
+        363.51,
+        485.54,
+        382.4
+      ],
+      "font_size_estimate": 6.87,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b029",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 29,
+      "text_raw": "A惠B惠C惠⽤ὼ⽴⋨⁈4",
+      "text_normalized": "A惠B惠C惠⽤ὼ⽴⋨⁈4",
+      "bbox": [
+        229.93,
+        384.94,
+        380.31,
+        395.16
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b030",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 30,
+      "text_raw": "㹚Ѫ 1.㎜㳔卥2022⿦1㡺10㝗Ѭ㛢㓠々ᾟSOCᾌ␓䡪⋥䟶⋣㡻53⴨⋞╪Ѭ‷⑷㑞㐝梤⋩⃅壿庶⅓㇡䟶45⴨⋞╪Ѭ捃樏‷⑷㑞⽤㐝梤䟶惠㲓䟶⅓㇡Ѹ䚣 ヺ⪌⋞╪㡻彚ώ㾪ᾌ␓Ѭ㳖⡰⍸䷭⢹⥬ ⋞╪ᾭ嫳ᾌ␓Ѹ2.扚⍸㷯惘ᾀ䏛准僃⋞╪ᾀAI ASIC挿⩿Ѭ12⴨⋞╪⍸⎝ᾬ⢢⿥倱Ѭ灃吏瀭㟬副Ѭ䎣吡⊵㟬Ѭ㣟⽐⡯吡Ѭ择吡ㄠ䚧ⳂѬ⨚吡㟬副Ѭ䢪吡䭃㏲Ѭ冂副Ѭ烂㊑䭃㏲Ѭ㝨㙀䭃㏲Ѭㆭ捃樏愰⎢~190‱⊵Ѹ 3.ᾖ⴨‷㡻䟶⽗ᾌ䏛准僃⋞╪Ѭ⋨⃋⢹ᾬ㻺庫䏛准僃Ѹ4.⋨⁈⑷㑞⪛⃱惠Ѭ㎊䛗壿庶◾ҡ棐Ң㔙⎨㢵㚨废庶㜋㣗䀂Ѫ CV SourceѸCapital IQ",
+      "text_normalized": "㹚Ѫ 1.㎜㳔卥2022⿦1㡺10㝗Ѭ㛢㓠々ᾟSOCᾌ␓䡪⋥䟶⋣㡻53⴨⋞╪Ѭ‷⑷㑞㐝梤⋩⃅壿庶⅓㇡䟶45⴨⋞╪Ѭ捃樏‷⑷㑞⽤㐝梤䟶惠㲓䟶⅓㇡Ѹ䚣 ヺ⪌⋞╪㡻彚ώ㾪ᾌ␓Ѭ㳖⡰⍸䷭⢹⥬ ⋞╪ᾭ嫳ᾌ␓Ѹ2.扚⍸㷯惘ᾀ䏛准僃⋞╪ᾀAI ASIC挿⩿Ѭ12⴨⋞╪⍸⎝ᾬ⢢⿥倱Ѭ灃吏瀭㟬副Ѭ䎣吡⊵㟬Ѭ㣟⽐⡯吡Ѭ择吡ㄠ䚧ⳂѬ⨚吡㟬副Ѭ䢪吡䭃㏲Ѭ冂副Ѭ烂㊑䭃㏲Ѭ㝨㙀䭃㏲Ѭㆭ捃樏愰⎢~190‱⊵Ѹ 3.ᾖ⴨‷㡻䟶⽗ᾌ䏛准僃⋞╪Ѭ⋨⃋⢹ᾬ㻺庫䏛准僃Ѹ4.⋨⁈⑷㑞⪛⃱惠Ѭ㎊䛗壿庶◾ҡ棐Ң㔙⎨㢵㚨废庶㜋㣗䀂Ѫ CV SourceѸCapital IQ",
+      "bbox": [
+        63.63,
+        399.19,
+        521.25,
+        439.68
+      ],
+      "font_size_estimate": 6.5,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b031",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 31,
+      "text_raw": "图 15: 中国半导体投资市场逐步走向中后期项目；设计仍是主要投资环节，包括计算芯片、汽车半导体等 ",
+      "text_normalized": "图 15: 中国半导体投资市场逐步走向中后期项目；设计仍是主要投资环节，包括计算芯片、汽车半导体等",
+      "bbox": [
+        63.63,
+        465.12,
+        517.39,
+        479.76
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b032",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 32,
+      "text_raw": "崰崓㞡ᾭ嫳㐇庶䔡叴Ѷ㣂㜋ᾀ崰⩹唩ㄉ㜢⋥㹚ᾀ⨐曱",
+      "text_normalized": "崰崓㞡ᾭ嫳㐇庶䔡叴Ѷ㣂㜋ᾀ崰⩹唩ㄉ㜢⋥㹚ᾀ⨐曱",
+      "bbox": [
+        240.04,
+        500.44,
+        364.76,
+        526.41
+      ],
+      "font_size_estimate": 9.75,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b033",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 33,
+      "text_raw": "⢚崰崓䔡叴ᾟѪ崓䴉吡䎹ҹ㷯惘Ⓖ⵮⃅㞡ᾭ嫳㐇庶䉟䈫",
+      "text_normalized": "⢚崰崓䔡叴ᾟѪ崓䴉吡䎹ҹ㷯惘Ⓖ⵮⃅㞡ᾭ嫳㐇庶䉟䈫",
+      "bbox": [
+        403.48,
+        500.44,
+        518.61,
+        526.41
+      ],
+      "font_size_estimate": 9.75,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b034",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 34,
+      "text_raw": "ᾟ⡯Ⓖ⵮⃅㐇庶ᾟ▀㢑槫䡠憂㳗㕂Ⓓ",
+      "text_normalized": "ᾟ⡯Ⓖ⵮⃅㐇庶ᾟ▀㢑槫䡠憂㳗㕂Ⓓ",
+      "bbox": [
+        63.89,
+        512.14,
+        217.4,
+        526.41
+      ],
+      "font_size_estimate": 9.75,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b035",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 35,
+      "text_raw": "ᾟ⡯Ⓖ⵮⃅壿庶㛢捁◾惠㲓㵆⃽ (2018–2021)",
+      "text_normalized": "ᾟ⡯Ⓖ⵮⃅壿庶㛢捁◾惠㲓㵆⃽ (2018–2021)",
+      "bbox": [
+        63.89,
+        533.64,
+        173.51,
+        554.15
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b036",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 36,
+      "text_raw": "Ⓖ⵮⃅╶倸⍸⽴⢬㐇庶㛢捁ⓒ㵆(2019–2020)",
+      "text_normalized": "Ⓖ⵮⃅╶倸⍸⽴⢬㐇庶㛢捁ⓒ㵆(2019–2020)",
+      "bbox": [
+        242.18,
+        533.58,
+        349.63,
+        554.09
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b037",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 37,
+      "text_raw": "263284379498",
+      "text_normalized": "263284379498",
+      "bbox": [
+        94.25,
+        561.54,
+        176.97,
+        572.18
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b038",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 38,
+      "text_raw": "100%",
+      "text_normalized": "100%",
+      "bbox": [
+        63.89,
+        566.57,
+        83.84,
+        577.22
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b039",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 39,
+      "text_raw": "100%",
+      "text_normalized": "100%",
+      "bbox": [
+        242.17,
+        566.58,
+        262.12,
+        577.23
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b040",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 40,
+      "text_raw": "崓䴉吡䎹\u0003\u000bᾭ嫳⑷㑞GPUѬASIC\f\u0003╉ώ㾪⿱枆〆䚚⨐曱◾⡯’㡱⁕䟶桲嫳㎂Ὸ䉟杚廍懅",
+      "text_normalized": "崓䴉吡䎹\u0003 ᾭ嫳⑷㑞GPUѬASIC \u0003╉ώ㾪⿱枆〆䚚⨐曱◾⡯’㡱⁕䟶桲嫳㎂Ὸ䉟杚廍懅",
+      "bbox": [
+        403.69,
+        577.07,
+        523.61,
+        608.16
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b041",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 41,
+      "text_raw": "13%",
+      "text_normalized": "13%",
+      "bbox": [
+        276.14,
+        593.49,
+        291.75,
+        604.14
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b042",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 42,
+      "text_raw": "80",
+      "text_normalized": "80",
+      "bbox": [
+        74.88,
+        594.1,
+        83.55,
+        604.75
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b043",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 43,
+      "text_raw": "80",
+      "text_normalized": "80",
+      "bbox": [
+        253.15,
+        594.1,
+        261.83,
+        604.75
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b044",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 44,
+      "text_raw": "19%",
+      "text_normalized": "19%",
+      "bbox": [
+        312.16,
+        598.74,
+        327.77,
+        609.38
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b045",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 45,
+      "text_raw": "⋨⁈1",
+      "text_normalized": "⋨⁈1",
+      "bbox": [
+        196.94,
+        603.6,
+        213.33,
+        613.53
+      ],
+      "font_size_estimate": 5.66,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b046",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 46,
+      "text_raw": "⎨憒",
+      "text_normalized": "⎨憒",
+      "bbox": [
+        351.21,
+        603.6,
+        365.28,
+        613.53
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b047",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 47,
+      "text_raw": "D/E",
+      "text_normalized": "D/E",
+      "bbox": [
+        196.94,
+        616.68,
+        208.86,
+        626.44
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b048",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 48,
+      "text_raw": "EDA/IP",
+      "text_normalized": "EDA/IP",
+      "bbox": [
+        351.21,
+        616.68,
+        374.65,
+        626.44
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b049",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 49,
+      "text_raw": "60",
+      "text_normalized": "60",
+      "bbox": [
+        74.88,
+        621.62,
+        83.55,
+        632.27
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b050",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 50,
+      "text_raw": "60",
+      "text_normalized": "60",
+      "bbox": [
+        253.15,
+        621.62,
+        261.83,
+        632.27
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b051",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 51,
+      "text_raw": "⵳㺽",
+      "text_normalized": "⵳㺽",
+      "bbox": [
+        351.21,
+        628.95,
+        365.28,
+        638.88
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b052",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 52,
+      "text_raw": "C",
+      "text_normalized": "C",
+      "bbox": [
+        196.94,
+        629.41,
+        202.1,
+        639.17
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b053",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 53,
+      "text_raw": "B",
+      "text_normalized": "B",
+      "bbox": [
+        196.94,
+        642.14,
+        201.71,
+        651.9
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b054",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 54,
+      "text_raw": "IDM",
+      "text_normalized": "IDM",
+      "bbox": [
+        351.21,
+        642.14,
+        364.31,
+        651.9
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b055",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 55,
+      "text_raw": "40",
+      "text_normalized": "40",
+      "bbox": [
+        74.88,
+        649.14,
+        83.55,
+        659.78
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b056",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 56,
+      "text_raw": "40",
+      "text_normalized": "40",
+      "bbox": [
+        253.15,
+        649.14,
+        261.83,
+        659.79
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b057",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 57,
+      "text_raw": "74%",
+      "text_normalized": "74%",
+      "bbox": [
+        276.14,
+        652.96,
+        291.75,
+        663.61
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b058",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 58,
+      "text_raw": "㣂㜋崰⩹",
+      "text_normalized": "㣂㜋崰⩹",
+      "bbox": [
+        351.53,
+        654.42,
+        379.67,
+        664.35
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b059",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 59,
+      "text_raw": "⪛⃱惠2A",
+      "text_normalized": "⪛⃱惠2A",
+      "bbox": [
+        196.94,
+        654.88,
+        220.36,
+        677.2
+      ],
+      "font_size_estimate": 6.16,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b060",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 60,
+      "text_raw": "67%",
+      "text_normalized": "67%",
+      "bbox": [
+        312.16,
+        657.68,
+        327.77,
+        668.33
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b061",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 61,
+      "text_raw": "IC崰崓",
+      "text_normalized": "IC崰崓",
+      "bbox": [
+        351.21,
+        667.27,
+        372.43,
+        677.49
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b062",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 62,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        74.88,
+        676.66,
+        83.55,
+        687.3
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b063",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 63,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        253.15,
+        676.66,
+        261.83,
+        687.3
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b064",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 64,
+      "text_raw": "㷯惘Ⓖ⵮⃅╉䠼 䚧␚惘䟶㚰捁Ѫ┼㟬副⒈ҹ僃准⒈廽␱兾ㄉ⎢㐇庶⽴⢬⋥㹚",
+      "text_normalized": "㷯惘Ⓖ⵮⃅╉䠼 䚧␚惘䟶㚰捁Ѫ┼㟬副⒈ҹ僃准⒈廽␱兾ㄉ⎢㐇庶⽴⢬⋥㹚",
+      "bbox": [
+        403.69,
+        680.8,
+        523.61,
+        711.89
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b065",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 65,
+      "text_raw": "0",
+      "text_normalized": "0",
+      "bbox": [
+        79.36,
+        704.17,
+        83.7,
+        714.82
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b066",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 66,
+      "text_raw": "0",
+      "text_normalized": "0",
+      "bbox": [
+        257.64,
+        704.18,
+        261.98,
+        714.82
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b067",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 67,
+      "text_raw": "2018 2019 2020 2021",
+      "text_normalized": "2018 2019 2020 2021",
+      "bbox": [
+        92.08,
+        712.44,
+        179.14,
+        723.09
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b068",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 68,
+      "text_raw": "20192020",
+      "text_normalized": "20192020",
+      "bbox": [
+        275.27,
+        712.46,
+        328.64,
+        723.11
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b069",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 69,
+      "text_raw": "㹚: 1. ⋨⳵⑷㑞⋨⁈⑷㑞Pre-IPO惠һ㎊䛗壿庶◾ҡ棐Ң㔙⎨㢵㚨废Ѹ2.⪛⃱惠⑷㑞䬿Ⳃ惠庶㜋㣗䀂ѪCV sourceѸ ⸝庶㢞Ѹ⎍懅䧞䭃㏲䦆䯨柔Ѹ㦺⪦䦆䯨",
+      "text_normalized": "㹚: 1. ⋨⳵⑷㑞⋨⁈⑷㑞Pre-IPO惠һ㎊䛗壿庶◾ҡ棐Ң㔙⎨㢵㚨废Ѹ2.⪛⃱惠⑷㑞䬿Ⳃ惠庶㜋㣗䀂ѪCV sourceѸ ⸝庶㢞Ѹ⎍懅䧞䭃㏲䦆䯨柔Ѹ㦺⪦䦆䯨",
+      "bbox": [
+        63.63,
+        746.53,
+        314.44,
+        763.62
+      ],
+      "font_size_estimate": 6.5,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p021_b070",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 21,
+      "reading_order": 70,
+      "text_raw": "19",
+      "text_normalized": "19",
+      "bbox": [
+        293.1,
+        798.21,
+        302.18,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "4. 中国半导体近期投资观察",
+    "4.2 投资总结、趋势"
+  ]
+}

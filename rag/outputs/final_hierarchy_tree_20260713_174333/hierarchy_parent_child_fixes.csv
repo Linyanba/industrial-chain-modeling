@@ -1,0 +1,4 @@
+﻿child_label,old_parent_label,new_parent_label,fix_type,reason,evidence_ids,confidence
+芯片,半导体产品与应用,AI推理芯片,composite_parent_fix,组合型上位词'AI推理芯片'包含'芯片'，子节点不应与父节点同层,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,0.95
+设计,半导体核心环节,半导体设计制造,composite_parent_fix,组合型上位词'半导体设计制造'包含'设计'，子节点不应与父节点同层,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,0.95
+EDA,半导体技术,EDA软件,composite_parent_fix,组合型上位词'EDA软件'包含'EDA'，子节点不应与父节点同层,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_006,0.95

@@ -1,9 +1,9 @@
 {
-  "collection": "kb_f96baba2fc0d",
+  "collection": "kb_74af4f035d18",
   "qdrant_url": "http://localhost:6333",
   "vector_size": 1024,
   "distance": "Cosine",
-  "points_count": 87,
+  "points_count": 94,
   "status": "green",
   "payload_index_status": {
     "doc_id": "created",

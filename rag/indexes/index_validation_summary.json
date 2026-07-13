@@ -1,11 +1,11 @@
 {
   "input_evidence_chunks_found": {
     "passed": true,
-    "note": "共读取 199 条 evidence chunk"
+    "note": "共读取 720 条 evidence chunk"
   },
   "selected_chunks_non_empty": {
     "passed": true,
-    "note": "入选 87 条"
+    "note": "入选 94 条"
   },
   "embedding_model_loaded": {
     "passed": true,
@@ -21,15 +21,15 @@
   },
   "collection_exists": {
     "passed": true,
-    "note": "collection=kb_f96baba2fc0d"
+    "note": "collection=kb_74af4f035d18"
   },
   "points_upserted": {
     "passed": true,
-    "note": "写入 87 个 point"
+    "note": "写入 94 个 point"
   },
   "point_count_matches_selected_chunks_or_explains_difference": {
     "passed": true,
-    "note": "collection point_count=87, selected=87, failed=0"
+    "note": "collection point_count=94, selected=94, failed=0"
   },
   "payload_contains_evidence_id": {
     "passed": true,

@@ -1,0 +1,34 @@
+{
+  "table_id": "中国半导体白皮书_1b73a8b1f91b_p015_t01",
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 15,
+  "table_no_on_page": 1,
+  "bbox": [
+    236.75,
+    249.48,
+    314.42,
+    381.3
+  ],
+  "caption": "图 9: 中国厂商在通讯芯片、模拟芯片与OSD设计、成熟制程制造与封测环节产生较多营收",
+  "caption_source": "above_table",
+  "headers": [
+    "",
+    ""
+  ],
+  "units": "unknown",
+  "footnotes": [],
+  "rows": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "parse_quality": 0.45,
+  "review_required": true,
+  "source_page_image": "data\\rendered_pages\\中国半导体白皮书\\page_015.png"
+}

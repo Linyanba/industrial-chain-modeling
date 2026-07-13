@@ -412,16 +412,25 @@ def build_rejected_recheck(rejected: List[dict]):
     for rj in rejected:
         reason = rj.get("reason","")
         if reason in ("quote_not_found", "subject_or_object_not_found"):
+            if rj.get("item_type") == "relation":
+                surface_or_relation = " -> ".join(filter(None, [
+                    str(rj.get("subject", "")), str(rj.get("relation_type", "")),
+                    str(rj.get("object", "")),
+                ]))
+            else:
+                surface_or_relation = str(
+                    rj.get("surface_form") or rj.get("normalized_name_candidate") or rj.get("candidate_id", "")
+                )
             rid[0] += 1
             recheck.append({
                 "recheck_id": f"RC{rid[0]:04d}",
                 "source_candidate_id": rj.get("candidate_id",""),
                 "candidate_type": rj.get("item_type",""),
                 "original_reject_reason": reason,
-                "surface_form_or_relation": rj.get("candidate_id",""),
+                "surface_form_or_relation": surface_or_relation,
                 "evidence_id": rj.get("evidence_id",""),
                 "page_no": rj.get("page_no",""),
-                "quote": "",
+                "quote": rj.get("quote", ""),
                 "possible_recovery_reason": "可能由OCR差异或模型摘录导致quote/主宾语定位失败",
                 "recommended_action": "人工核对原文",
                 "review_required": True,

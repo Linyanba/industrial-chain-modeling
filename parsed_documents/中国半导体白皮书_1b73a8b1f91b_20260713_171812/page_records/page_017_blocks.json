@@ -1,0 +1,777 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 17,
+  "page_type": "table",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 仅指与半导体有关的收入 5. 中国大陆企业是指在各细分市场有公开信息的主要企业"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 2,
+      "text_raw": "3. 芯片设计环节中，中国半导体的市场地位",
+      "text_normalized": "3. 芯片设计环节中，中国半导体的市场地位",
+      "bbox": [
+        63.64,
+        128.62,
+        440.48,
+        157.38
+      ],
+      "font_size_estimate": 20.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 3,
+      "text_raw": "在芯片设计环节，中国企业正加速步入快车道。纵观主要的芯片类别，中国厂商在存储芯片、模拟芯片已建立起了一定的竞争力；CPU/GPU/ASIC处于快速起步阶段，面临一些供应链及生态风险（图10）。",
+      "text_normalized": "在芯片设计环节，中国企业正加速步入快车道。纵观主要的芯片类别，中国厂商在存储芯片、模拟芯片已建立起了一定的竞争力；CPU/GPU/ASIC处于快速起步阶段，面临一些供应链及生态风险（图10）。",
+      "bbox": [
+        63.64,
+        177.64,
+        531.7,
+        221.53
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 4,
+      "text_raw": "存储芯片：从内部结构看，包括NAND（闪存芯片）和DRAM（内存），前者用于SSD固态硬盘和手机，后者用于PC，这两种芯片的主要厂商均已实现量产。技术能力方面，NAND在追赶全球领先水平，DRAM与全球领先水平尚有差距，正在迅速追赶中。性能方面，NAND性能与全球接近，DRAM仍有一定的差距。由于存储芯片对于制程的要求较低，因此，供应链风险相对较小，对国际生态体系的依赖较少，如长江存储迭代优化自研技术体系X-tacking。今后，随着中国主要厂商的产能逐步放量，预计存储芯片的市场地位还会上升，满足国内存储需求。",
+      "text_normalized": "存储芯片：从内部结构看，包括NAND（闪存芯片）和DRAM（内存），前者用于SSD固态硬盘和手机，后者用于PC，这两种芯片的主要厂商均已实现量产。技术能力方面，NAND在追赶全球领先水平，DRAM与全球领先水平尚有差距，正在迅速追赶中。性能方面，NAND性能与全球接近，DRAM仍有一定的差距。由于存储芯片对于制程的要求较低，因此，供应链风险相对较小，对国际生态体系的依赖较少，如长江存储迭代优化自研技术体系X-tacking。今后，随着中国主要厂商的产能逐步放量，预计存储芯片的市场地位还会上升，满足国内存储需求。",
+      "bbox": [
+        63.64,
+        231.27,
+        531.77,
+        320.53
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 5,
+      "text_raw": "图 10: 中国厂商在存储芯片、模拟芯片已建立起了一定的竞争力；CPU/GPU/ASIC处于快速起步阶段，面临一些供应链及生态风险",
+      "text_normalized": "图 10: 中国厂商在存储芯片、模拟芯片已建立起了一定的竞争力；CPU/GPU/ASIC处于快速起步阶段，面临一些供应链及生态风险",
+      "bbox": [
+        63.63,
+        334.13,
+        526.86,
+        363.39
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 6,
+      "text_raw": "⽴⢬⢢₿䔢䐨",
+      "text_normalized": "⽴⢬⢢₿䔢䐨",
+      "bbox": [
+        236.44,
+        370.73,
+        286.09,
+        383.02
+      ],
+      "font_size_estimate": 8.4,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 7,
+      "text_raw": "⽴⢬⁯樏 (2020)㏲㢡副␍ℍ〆晰⳻⋚┼䚑ㅳ㢜㣗槶㺽",
+      "text_normalized": "⽴⢬⁯樏 (2020)㏲㢡副␍ℍ〆晰⳻⋚┼䚑ㅳ㢜㣗槶㺽",
+      "bbox": [
+        109.34,
+        389.44,
+        494.95,
+        402.18
+      ],
+      "font_size_estimate": 8.4,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 8,
+      "text_raw": "CPU",
+      "text_normalized": "CPU",
+      "bbox": [
+        68.37,
+        412.96,
+        86.8,
+        425.45
+      ],
+      "font_size_estimate": 8.73,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 9,
+      "text_raw": "棔ᾦℍ〆晰㒃㎊ᾭ嫳〆䚚 㡿␓⟚һPC",
+      "text_normalized": "棔ᾦℍ〆晰㒃㎊ᾭ嫳〆䚚 㡿␓⟚һPC",
+      "bbox": [
+        100.85,
+        430.6,
+        480.8,
+        451.83
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 10,
+      "text_raw": "⪌⴨⓴⚸⽤㔚⍬㎂䌑’☳ⴐ䔢⚸䚚\u001e\u0003㡲槸⊺’☳愰⎢5nm Ѹ ⪙扚⍸⓴⚸‿⢚慯廨’☳㆙副",
+      "text_normalized": "⪌⴨⓴⚸⽤㔚⍬㎂䌑’☳ⴐ䔢⚸䚚\u001e\u0003㡲槸⊺’☳愰⎢5nm Ѹ ⪙扚⍸⓴⚸‿⢚慯廨’☳㆙副",
+      "bbox": [
+        183.93,
+        430.6,
+        310.29,
+        461.2
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 11,
+      "text_raw": "⊺慍⎨䭽䟶ℍ〆晰棔ᾦ橀柛Ѹℏ廈X86һArm 㤨㣶",
+      "text_normalized": "⊺慍⎨䭽䟶ℍ〆晰棔ᾦ橀柛Ѹℏ廈X86һArm 㤨㣶",
+      "bbox": [
+        315.22,
+        430.6,
+        420.55,
+        451.83
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 12,
+      "text_raw": "GPU",
+      "text_normalized": "GPU",
+      "bbox": [
+        68.37,
+        472.75,
+        87.29,
+        485.24
+      ],
+      "font_size_estimate": 8.73,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 13,
+      "text_raw": "ⶃ㛢⓴⚸㔚⍬捁’’☳Ѹ ‷ὲ㲰’☳愰⎢㡲⊺慍7nm Ѹ ⎏㳗⚸䚚枨㴧Ѭ㆙副倸叴㟴὿㞀䧠",
+      "text_normalized": "ⶃ㛢⓴⚸㔚⍬捁’’☳Ѹ ‷ὲ㲰’☳愰⎢㡲⊺慍7nm Ѹ ⎏㳗⚸䚚枨㴧Ѭ㆙副倸叴㟴὿㞀䧠",
+      "bbox": [
+        183.92,
+        494.0,
+        301.06,
+        524.6
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 14,
+      "text_raw": "⊺慍⎨䭽䟶ℍ〆晰棔ᾦ橀柛Ѹ汊〘ℏ廈呣ₑ愰CUDA 惡⁨䚑ㅳѬ卜ぬ䚑ㅳ㢜⪙嬶㮓ぬ䰽",
+      "text_normalized": "⊺慍⎨䭽䟶ℍ〆晰棔ᾦ橀柛Ѹ汊〘ℏ廈呣ₑ愰CUDA 惡⁨䚑ㅳѬ卜ぬ䚑ㅳ㢜⪙嬶㮓ぬ䰽",
+      "bbox": [
+        315.21,
+        494.0,
+        421.6,
+        524.6
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 15,
+      "text_raw": "⑷㑞⡰㞰GPU ◾崓䴉GPU",
+      "text_normalized": "⑷㑞⡰㞰GPU ◾崓䴉GPU",
+      "bbox": [
+        100.84,
+        494.07,
+        170.07,
+        515.3
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 16,
+      "text_raw": "㛢⴨㜢⎍䰽GPU ⋞╪㑗㡻惵ガ㏲㢡⡔枑Ѭ㚡㘃⡯⋷GPU╃⷇Ѹ 䡠⎿㟴㢜㡻捁’’☳",
+      "text_normalized": "㛢⴨㜢⎍䰽GPU ⋞╪㑗㡻惵ガ㏲㢡⡔枑Ѭ㚡㘃⡯⋷GPU╃⷇Ѹ 䡠⎿㟴㢜㡻捁’’☳",
+      "bbox": [
+        425.16,
+        494.07,
+        526.17,
+        524.67
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 17,
+      "text_raw": "AI/MLASIC",
+      "text_normalized": "AI/MLASIC",
+      "bbox": [
+        68.37,
+        538.42,
+        92.14,
+        561.38
+      ],
+      "font_size_estimate": 8.73,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 18,
+      "text_raw": "ᾭ嫳〆䚚 㡿␓⟚",
+      "text_normalized": "ᾭ嫳〆䚚 㡿␓⟚",
+      "bbox": [
+        100.84,
+        558.83,
+        164.42,
+        570.05
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 19,
+      "text_raw": "⪌⴨⓴⚸㔚⍬捁’’☳Ѭⴐ䔢⚸䚚Ѹ 㡲⊺慍’☳愰⎢7nm Ѹ ⪙扚⍸⓴⚸‿⢚慯廨㆙副",
+      "text_normalized": "⪌⴨⓴⚸㔚⍬捁’’☳Ѭⴐ䔢⚸䚚Ѹ 㡲⊺慍’☳愰⎢7nm Ѹ ⪙扚⍸⓴⚸‿⢚慯廨㆙副",
+      "bbox": [
+        183.92,
+        558.83,
+        297.15,
+        589.44
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 20,
+      "text_raw": "⊺慍⎨䭽䟶ℍ〆晰棔ᾦ橀柛Ѹ䚑ㅳ⃅乭⪌ᾬ卜ぬѬℏ廈惵ⶃ",
+      "text_normalized": "⊺慍⎨䭽䟶ℍ〆晰棔ᾦ橀柛Ѹ䚑ㅳ⃅乭⪌ᾬ卜ぬѬℏ廈惵ⶃ",
+      "bbox": [
+        315.21,
+        558.83,
+        420.55,
+        579.74
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 21,
+      "text_raw": "CSP 䭡㣳┴ᾀASIC ’☳䦆╃ᾀ〆䚚Ѭ╃㒗庶捃㏲㢡副␍Ѭ㞀䧠卜思ⴌ⎨⒈嫳㶴Ѭῑ⾘㣗⽚⪙卜䚚桲㶴",
+      "text_normalized": "CSP 䭡㣳┴ᾀASIC ’☳䦆╃ᾀ〆䚚Ѭ╃㒗庶捃㏲㢡副␍Ѭ㞀䧠卜思ⴌ⎨⒈嫳㶴Ѭῑ⾘㣗⽚⪙卜䚚桲㶴",
+      "bbox": [
+        425.16,
+        558.9,
+        530.25,
+        599.19
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 22,
+      "text_raw": "Ⳋ√",
+      "text_normalized": "Ⳋ√",
+      "bbox": [
+        68.37,
+        610.78,
+        85.55,
+        623.54
+      ],
+      "font_size_estimate": 8.73,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 23,
+      "text_raw": "⵫⎨䭽嫳㶴惵⃀ Ѹ\u0003卜䦆㏲㢡⃅乭ҡ⫴X-tackingҢ",
+      "text_normalized": "⵫⎨䭽嫳㶴惵⃀ Ѹ\u0003卜䦆㏲㢡⃅乭ҡ⫴X-tackingҢ",
+      "bbox": [
+        315.21,
+        632.59,
+        414.67,
+        653.82
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b024",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 24,
+      "text_raw": "栁䢲ᾭ嫳⓴⚸’副憂㳗㚰捁Ѭ槶崓⽴⢬⢢₿⵸㑳偟ὼⒹѬ䁓弥⡯⋷Ⳋ√桲㶴",
+      "text_normalized": "栁䢲ᾭ嫳⓴⚸’副憂㳗㚰捁Ѭ槶崓⽴⢬⢢₿⵸㑳偟ὼⒹѬ䁓弥⡯⋷Ⳋ√桲㶴",
+      "bbox": [
+        425.16,
+        632.59,
+        528.48,
+        663.19
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b025",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 25,
+      "text_raw": "NAND ᾭ嫳〆䚚 SSDѬ㎽㢬DRAMᾭ嫳䚚  PC",
+      "text_normalized": "NAND ᾭ嫳〆䚚 SSDѬ㎽㢬DRAMᾭ嫳䚚  PC",
+      "bbox": [
+        100.84,
+        632.65,
+        167.09,
+        663.58
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b026",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 26,
+      "text_raw": "ᾭ嫳⓴⚸⽤ⴐ䔢捁’ Ѹ NAND ⢚὿㜟㕂ⒹѸ DRAM ᾀ⋚䕵槸⊺㶦⿥‿㡻⽠彏Ѭ⢚愷憑慯廨",
+      "text_normalized": "ᾭ嫳⓴⚸⽤ⴐ䔢捁’ Ѹ NAND ⢚὿㜟㕂ⒹѸ DRAM ᾀ⋚䕵槸⊺㶦⿥‿㡻⽠彏Ѭ⢚愷憑慯廨",
+      "bbox": [
+        183.91,
+        632.65,
+        308.23,
+        663.26
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b027",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 27,
+      "text_raw": "㮓㑑",
+      "text_normalized": "㮓㑑",
+      "bbox": [
+        68.37,
+        680.33,
+        85.55,
+        693.09
+      ],
+      "font_size_estimate": 8.73,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b028",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 28,
+      "text_raw": "ᾭ嫳〆䚚 㻺庫䚧Ⳃһ㷯惘┼⽗ᾌ䚧Ⳃ",
+      "text_normalized": "ᾭ嫳〆䚚 㻺庫䚧Ⳃһ㷯惘┼⽗ᾌ䚧Ⳃ",
+      "bbox": [
+        100.84,
+        699.01,
+        180.32,
+        719.92
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b029",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 29,
+      "text_raw": "⓴⚸₉⪌⽤ⴐ䔢⚸䚚Ѹ 凌䊘倸⍸☳䷭Ѭ’☳䬿䷭惵⋚䕵槸⊺⓴⚸惵ⶃѸ ⢚⽤慍⋗䟶倸⍸’☳㆙副⢚὿㜟㕂Ⓓ",
+      "text_normalized": "⓴⚸₉⪌⽤ⴐ䔢⚸䚚Ѹ 凌䊘倸⍸☳䷭Ѭ’☳䬿䷭惵⋚䕵槸⊺⓴⚸惵ⶃѸ ⢚⽤慍⋗䟶倸⍸’☳㆙副⢚὿㜟㕂Ⓓ",
+      "bbox": [
+        183.92,
+        699.01,
+        299.22,
+        739.31
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b030",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 30,
+      "text_raw": "⡯’㮓㑑吡䎹⋩⩹⁩㦮⃀һ㡿␓䇧㺭䟶₊␱Ѭ╾㝨὿㜟慍妾␑副㆙⎍㜢Ѭ槶崓⵸㑳偟㕂Ⓓ䁓弥⡯⋷【⪙桲㶴",
+      "text_normalized": "⡯’㮓㑑吡䎹⋩⩹⁩㦮⃀һ㡿␓䇧㺭䟶₊␱Ѭ╾㝨὿㜟慍妾␑副㆙⎍㜢Ѭ槶崓⵸㑳偟㕂Ⓓ䁓弥⡯⋷【⪙桲㶴",
+      "bbox": [
+        425.16,
+        699.01,
+        528.48,
+        739.31
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b031",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 31,
+      "text_raw": "ᾭ嫳⃱䚚\u0003≥28nm ⎨䭽Ѭℍ〆晰橀柛惵ⶁ",
+      "text_normalized": "ᾭ嫳⃱䚚\u0003≥28nm ⎨䭽Ѭℍ〆晰橀柛惵ⶁ",
+      "bbox": [
+        315.21,
+        699.08,
+        415.46,
+        719.99
+      ],
+      "font_size_estimate": 8.08,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b032",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 32,
+      "text_raw": "庶㜋㣗䀂ѪGartnerѸ㦺⪦䦆䯨Ѹ台䗐☚嵔Ѹ\u0003IDCѸ⎪⚸䦆㐗",
+      "text_normalized": "庶㜋㣗䀂ѪGartnerѸ㦺⪦䦆䯨Ѹ台䗐☚嵔Ѹ\u0003IDCѸ⎪⚸䦆㐗",
+      "bbox": [
+        67.28,
+        753.9,
+        235.49,
+        763.13
+      ],
+      "font_size_estimate": 6.46,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p017_b033",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 17,
+      "reading_order": 33,
+      "text_raw": "15",
+      "text_normalized": "15",
+      "bbox": [
+        293.2,
+        798.21,
+        302.07,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "3. 芯片设计环节中，中国半导体的市场地位"
+  ]
+}

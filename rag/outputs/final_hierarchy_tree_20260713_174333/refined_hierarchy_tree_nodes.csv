@@ -1,0 +1,44 @@
+﻿tree_node_id,label,display_label,parent_id,level,depth,sort_order,category,node_type,source_from,source_entity_ids,evidence_ids,is_display_node,is_schema_node,notes
+T0001,半导体产业链,半导体产业链,,0,0,0,root,display_node,document_driven_rules,,,true,true,单一根节点
+T0002,晶圆制造,晶圆制造,T0001,1,1,1,process,approved_entity,approved_entity,CE0038,,true,false,relation_connected_root_branch
+T0006,计算芯片,计算芯片,T0001,1,1,2,unknown,approved_entity,approved_entity,CE0006,,true,false,relation_connected_root_branch
+T0009,半导体产品与应用,半导体产品与应用,T0001,1,1,3,product_application_group,display_node,document_driven_rules,,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012;中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004;中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0020,半导体材料,半导体材料,T0001,1,1,4,material_group,display_node,document_driven_rules,,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0028,半导体核心环节,半导体核心环节,T0001,1,1,5,operations_group,display_node,document_driven_rules,,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013;中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0035,半导体技术,半导体技术,T0001,1,1,6,technology_group,display_node,document_driven_rules,,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_006;中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0040,半导体设备,半导体设备,T0001,1,1,7,equipment_group,display_node,document_driven_rules,,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004;中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,true,行业专属展示分组；由已批准实体类型和实体证据汇总生成，不代表PDF中的父子事实
+T0003,光刻,光刻,T0002,2,2,1,process,approved_entity,approved_relation,CE0040,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0002
+T0004,沉积,沉积,T0002,2,2,2,process,approved_entity,approved_relation,CE0039,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0001
+T0005,离子注入,离子注入,T0002,2,2,3,process,approved_entity,approved_relation,CE0042,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0003
+T0007,ASIC,ASIC,T0006,2,2,1,unknown,approved_entity,approved_relation,CE0034,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,approved_relation:NR0009
+T0008,GPU,GPU,T0006,2,2,2,unknown,approved_entity,approved_relation,CE0033,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,approved_relation:NR0008
+T0010,AI推理芯片,AI推理芯片,T0009,2,2,1,technology,approved_entity,approved_entity,CE0021,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0011,传感器,传感器,T0009,2,2,2,product,approved_entity,approved_entity,CE0032,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0012,光电子器件,光电子器件,T0009,2,2,3,product,approved_entity,approved_entity,CE0030,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0013,分立器件,分立器件,T0009,2,2,4,product,approved_entity,approved_entity,CE0031,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0014,智能化,智能化,T0009,2,2,5,application,approved_entity,approved_entity,CE0036,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0015,汽车半导体,汽车半导体,T0009,2,2,6,product,approved_entity,approved_entity,CE0007,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0016,电动车,电动车,T0009,2,2,7,application,approved_entity,approved_entity,CE0035,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0017,网联化,网联化,T0009,2,2,8,application,approved_entity,approved_entity,CE0037,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0019,集成电路,集成电路,T0009,2,2,9,product,approved_entity,approved_entity,CE0029,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0021,光刻胶,光刻胶,T0020,2,2,1,material,approved_entity,approved_entity,CE0044,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0022,化学品,化学品,T0020,2,2,2,material,approved_entity,approved_entity,CE0015,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0023,基材,基材,T0020,2,2,3,material,approved_entity,approved_entity,CE0018,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0024,封装材料,封装材料,T0020,2,2,4,material,approved_entity,approved_entity,CE0017,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0025,气体,气体,T0020,2,2,5,material,approved_entity,approved_entity,CE0016,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0026,硅片,硅片,T0020,2,2,6,material,approved_entity,approved_entity,CE0013,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0027,金属,金属,T0020,2,2,7,material,approved_entity,approved_entity,CE0014,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,true,false,evidence_supported_display_placement; family=material; 非事实父子挂载
+T0029,代工,代工,T0028,2,2,1,process,approved_entity,approved_entity,CE0002,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0031,OSAT,OSAT,T0028,2,2,2,industry_link,approved_entity,approved_entity,CE0026,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0032,刻蚀,刻蚀,T0028,2,2,3,process,approved_entity,approved_entity,CE0041,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0033,半导体设计制造,半导体设计制造,T0028,2,2,4,industry_link,approved_entity,approved_entity,CE0022,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0034,封测,封测,T0028,2,2,5,industry_link,approved_entity,approved_entity,CE0023,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0036,2.5D/3D先进封装,2.5D/3D先进封装,T0035,2,2,1,technology,approved_entity,approved_entity,CE0009,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,true,false,evidence_supported_display_placement; family=technology; 非事实父子挂载
+T0038,EDA软件,EDA软件,T0035,2,2,2,technology,approved_entity,approved_entity,CE0012,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,true,false,evidence_supported_display_placement; family=technology; 非事实父子挂载
+T0039,先进封装技术,先进封装技术,T0035,2,2,3,technology,approved_entity,approved_entity,CE0008,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,true,false,evidence_supported_display_placement; family=technology; 非事实父子挂载
+T0041,光刻机,光刻机,T0040,2,2,1,equipment,approved_entity,approved_entity,CE0019,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004,true,false,evidence_supported_display_placement; family=equipment; 非事实父子挂载
+T0042,晶圆缺陷监测系统,晶圆缺陷监测系统,T0040,2,2,2,equipment,approved_entity,approved_entity,CE0020,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004,true,false,evidence_supported_display_placement; family=equipment; 非事实父子挂载
+T0043,沉积设备,沉积设备,T0040,2,2,3,equipment,approved_entity,approved_entity,CE0043,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,evidence_supported_display_placement; family=equipment; 非事实父子挂载
+T0018,芯片,芯片,T0010,3,3,1,product,approved_entity,approved_entity,CE0025,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,true,false,evidence_supported_display_placement; family=product_application; 非事实父子挂载
+T0030,设计,设计,T0033,3,3,1,process,approved_entity,approved_entity,CE0001,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,true,false,evidence_supported_display_placement; family=operations; 非事实父子挂载
+T0037,EDA,EDA,T0038,3,3,1,technology,approved_entity,approved_entity,CE0005,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_006,true,false,evidence_supported_display_placement; family=technology; 非事实父子挂载

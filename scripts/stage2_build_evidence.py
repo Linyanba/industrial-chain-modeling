@@ -323,6 +323,30 @@ def classify_block_role(
     return "paragraph"
 
 
+def native_block_requires_review(
+    manifest: Dict[str, str], role: str, text_normalized: str, block_text_quality: str,
+) -> bool:
+    """细化图表页复核：只放行足够长且质量正常的原生正文，不放行图内短标签。"""
+    unsafe_text = (
+        manifest.get("text_quality") in {"low", "garbled"}
+        or block_text_quality in {"low", "garbled"}
+        or manifest.get("needs_ocr") in {"yes", "maybe"}
+    )
+    if unsafe_text:
+        return True
+    page_type = manifest.get("page_type", "")
+    if page_type in {"mixed", "chain_diagram", "table", "scan_image", "unknown"}:
+        return True
+    safe_chart_prose = (
+        page_type == "chart"
+        and role == "paragraph"
+        and len(one_line(text_normalized)) >= 40
+    )
+    if manifest.get("review_required") == "yes" and not safe_chart_prose:
+        return True
+    return False
+
+
 def heading_level(text: str) -> int:
     normalized = one_line(text)
     if re.match(r"^\d+\.\d+\.\d+\s+", normalized):
@@ -418,10 +442,9 @@ def extract_page_blocks(
                 "section_path": ["unknown_section"],
                 "text_quality": block_text_quality,
                 "source_parser": "pymupdf_native",
-                "review_required": manifest["review_required"] == "yes"
-                or manifest["text_quality"] in {"low", "garbled"}
-                or block_text_quality in {"low", "garbled"}
-                or manifest["page_type"] in {"mixed", "chain_diagram", "table"},
+                "review_required": native_block_requires_review(
+                    manifest, role, text_norm, block_text_quality,
+                ),
             }
             page_record["blocks"].append(block_record)
             all_blocks.append(block_record)

@@ -1,0 +1,11 @@
+{
+  "mode": "auto-apply",
+  "llm_model": "qwen3:8b",
+  "ollama_url": "http://localhost:11434",
+  "num_predict": 4096,
+  "max_retry": 1,
+  "project_root": "D:\\产业链建模",
+  "stage4_5_input_dir": "D:\\产业链建模\\rag\\outputs\\stage4_5_review_minimization_20260713_174009",
+  "output_dir": "D:\\产业链建模\\rag\\outputs\\stage4_6_llm_auto_apply_20260713_174013",
+  "timestamp": "20260713_174013"
+}

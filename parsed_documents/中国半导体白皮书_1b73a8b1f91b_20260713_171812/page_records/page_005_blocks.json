@@ -1,0 +1,340 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 5,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 2,
+      "text_raw": "寄语",
+      "text_normalized": "寄语",
+      "bbox": [
+        63.64,
+        127.34,
+        103.0,
+        156.1
+      ],
+      "font_size_estimate": 20.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 3,
+      "text_raw": "邹娟贝恩公司 全球合伙人大中华区能源转型业务主席中国区可持续发展业务主席、高科技和云服务业务领导团队成员",
+      "text_normalized": "邹娟贝恩公司 全球合伙人大中华区能源转型业务主席中国区可持续发展业务主席、高科技和云服务业务领导团队成员",
+      "bbox": [
+        152.81,
+        185.52,
+        483.43,
+        249.14
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 4,
+      "text_raw": "申文燮 Moonsup Shin贝恩公司 全球合伙人大中华区TMT业务联席主席",
+      "text_normalized": "申文燮 Moonsup Shin贝恩公司 全球合伙人大中华区TMT业务联席主席",
+      "bbox": [
+        152.81,
+        297.67,
+        294.62,
+        345.78
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 5,
+      "text_raw": "彭弱溟贝恩公司 董事经理",
+      "text_normalized": "彭弱溟贝恩公司 董事经理",
+      "bbox": [
+        152.81,
+        409.22,
+        250.35,
+        441.84
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 6,
+      "text_raw": "半导体芯片是数字经济的核心，是现代化产业发展的基石。近年来，全球各个国家和地区纷",
+      "text_normalized": "半导体芯片是数字经济的核心，是现代化产业发展的基石。近年来，全球各个国家和地区纷",
+      "bbox": [
+        126.73,
+        504.33,
+        531.64,
+        518.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 7,
+      "text_raw": "纷加大对于半导体产业的投入力度，中国也相继推出了一系列相关的产业发展政策，整个行",
+      "text_normalized": "纷加大对于半导体产业的投入力度，中国也相继推出了一系列相关的产业发展政策，整个行",
+      "bbox": [
+        126.73,
+        520.33,
+        531.64,
+        534.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 8,
+      "text_raw": "业正面临前所未有的发展机遇。",
+      "text_normalized": "业正面临前所未有的发展机遇。",
+      "bbox": [
+        126.73,
+        536.33,
+        268.26,
+        550.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 9,
+      "text_raw": "值此关键时刻，本次白皮书将基于贝恩多年以来的高科技行业咨询经验，结合对于中国半导",
+      "text_normalized": "值此关键时刻，本次白皮书将基于贝恩多年以来的高科技行业咨询经验，结合对于中国半导",
+      "bbox": [
+        126.73,
+        561.33,
+        531.64,
+        575.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 10,
+      "text_raw": "体公司的最新洞察，呈现全球半导体行业产业链概况，以及中国半导体在价值链主要环节的",
+      "text_normalized": "体公司的最新洞察，呈现全球半导体行业产业链概况，以及中国半导体在价值链主要环节的",
+      "bbox": [
+        126.73,
+        577.33,
+        531.64,
+        591.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 11,
+      "text_raw": "参与。此外，我们还聚焦芯片设计等环节中国半导体企业的市场地位，并分享中国半导体近",
+      "text_normalized": "参与。此外，我们还聚焦芯片设计等环节中国半导体企业的市场地位，并分享中国半导体近",
+      "bbox": [
+        126.73,
+        593.33,
+        531.64,
+        607.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 12,
+      "text_raw": "期投资观察，为市场主体、产业新势力和广大投资者建言献策，希望助力各方致胜所关注的",
+      "text_normalized": "期投资观察，为市场主体、产业新势力和广大投资者建言献策，希望助力各方致胜所关注的",
+      "bbox": [
+        126.73,
+        609.33,
+        531.64,
+        623.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 13,
+      "text_raw": "半导体领域。",
+      "text_normalized": "半导体领域。",
+      "bbox": [
+        126.73,
+        625.33,
+        187.22,
+        639.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p005_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 5,
+      "reading_order": 14,
+      "text_raw": "3",
+      "text_normalized": "3",
+      "bbox": [
+        294.92,
+        798.21,
+        300.36,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "寄语"
+  ]
+}

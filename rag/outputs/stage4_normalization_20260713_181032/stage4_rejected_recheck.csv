@@ -1,0 +1,57 @@
+﻿recheck_id,source_candidate_id,candidate_type,original_reject_reason,surface_form_or_relation,evidence_id,page_no,quote,possible_recovery_reason,recommended_action,review_required
+RC0001,t01_e05,entity,quote_not_found,面板制造企业,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,鼓励面板制造企业积极采用就近配套材料。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0002,t01_r03,relation,subject_or_object_not_found,显示材料 -> INPUT_TO -> 产业链,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,支持有条件、有基础的企业通过兼并重组、股权投资等方式开展产业链上下游垂直整合和跨领域价值链横向拓展。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0003,t01_r05,relation,subject_or_object_not_found,显示器件 -> SUPPLIES_TO -> 产业链,新型显示白皮书_7f4f945d7c21_p016_paragraph_002,16,引导行业以新型显示器件为核心，带动配套材料的发展。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0004,t02_e01,entity,subject_or_object_not_found,新型显示产业,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,4.安全可靠的供应链是显示产业持续发展的保障,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0005,t02_r01,relation,subject_or_object_not_found,新型显示产业 -> SUPPLIES_TO -> 供应链,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,4.安全可靠的供应链是显示产业持续发展的保障,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0006,t02_r02,relation,subject_or_object_not_found,产业链 -> SUPPLIES_TO -> 产业集群,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,形成具备较强竞争力的区域产业集群,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0007,t03_e09,entity,subject_or_object_not_found,显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,玻璃基板、液晶材料等产品已具备一定产能规模，但产品竞争力不足，市场份额不高，产能利用率仅50%左右。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0008,t03_e11,entity,quote_not_found,显示面板企业,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,显示面板企业往往加速产能扩充，以占领市场。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0009,t03_e12,entity,quote_not_found,显示材料产业,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,显示材料产业已具备一定产能规模，但产品竞争力不足，市场份额不高，产能利用率仅50%左右。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0010,t03_r02,relation,subject_or_object_not_found,显示材料 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,玻璃基板、液晶材料等产品已具备一定产能规模，但产品竞争力不足，市场份额不高，产能利用率仅50%左右。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0011,t03_r03,relation,subject_or_object_not_found,玻璃基板 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,以玻璃基板为例，每块液晶面板需要两块玻璃基板，按照2017 年全球面板总出货量近2 亿平方米，中国大陆占全球总量的35%左右，对玻璃基板需求约1.4 亿平方米。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0012,t03_r04,relation,subject_or_object_not_found,OLED 材料 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED 材料、显示芯片、掩模版及部分靶材产能不足，供给能力增长无法匹配需求。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0013,t03_r05,relation,subject_or_object_not_found,显示芯片 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED 材料、显示芯片、掩模版及部分靶材产能不足，供给能力增长无法匹配需求。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0014,t03_r06,relation,subject_or_object_not_found,掩模版 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED 材料、显示芯片、掩模版及部分靶材产能不足，供给能力增长无法匹配需求。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0015,t03_r07,relation,subject_or_object_not_found,靶材 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED 材料、显示芯片、掩模版及部分靶材产能不足，供给能力增长无法匹配需求。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0016,t03_r08,relation,subject_or_object_not_found,液晶材料 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,玻璃基板、液晶材料等产品已具备一定产能规模，但产品竞争力不足，市场份额不高，产能利用率仅50%左右。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0017,t04_e03,entity,subject_or_object_not_found,材料,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,产业链关联性越强，链条越紧密，各方面资源调配效率也越高，资源的加工深度也越强。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0018,t04_e08,entity,quote_not_found,玻璃基板,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的化学稳定性和湿化学品的纯度等指标细微波动,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0019,t04_e09,entity,quote_not_found,有机发光材料,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的化学稳定性和湿化学品的纯度等指标细微波动,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0020,t04_e10,entity,quote_not_found,液晶材料,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的化学稳定性和湿化学品的纯度等指标细微波动,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0021,t04_e11,entity,quote_not_found,湿化学品,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的化学稳定性和湿化学品的纯度等指标细微波动,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0022,t04_e13,entity,quote_not_found,偏光片,新型显示白皮书_7f4f945d7c21_p031_paragraph_003,31,中国大陆基本具备玻璃基板、液晶材料、偏光片、掩模版、彩色滤光、OLED 材料、显示芯片、靶材、湿电子化学品、光刻胶等显示材料生产能力,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0023,t04_r02,relation,subject_or_object_not_found,产业链 -> INPUT_TO -> 材料,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,产业链关联性越强，链条越紧密，各方面资源调配效率也越高，资源的加工深度也越强。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0024,t04_r03,relation,subject_or_object_not_found,材料 -> INPUT_TO -> 加工,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,资源的加工深度也越强。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0025,t04_r04,relation,subject_or_object_not_found,采购 -> INPUT_TO -> 产业链,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,降低采购、营销和物流等环节的成本,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0026,t04_r05,relation,subject_or_object_not_found,营销 -> INPUT_TO -> 产业链,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,降低采购、营销和物流等环节的成本,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0027,t04_r06,relation,subject_or_object_not_found,物流 -> INPUT_TO -> 产业链,新型显示白皮书_7f4f945d7c21_p011_paragraph_002,11,降低采购、营销和物流等环节的成本,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0028,t04_r07,relation,quote_not_found,玻璃基板 -> INPUT_TO -> 表面粗糙度,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的热稳定性、靶材的热稳定性、光刻胶的热稳定性,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0029,t04_r08,relation,quote_not_found,有机发光材料 -> INPUT_TO -> 热稳定性,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的热稳定性、靶材的热稳定性、光刻胶的热稳定性,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0030,t04_r09,relation,quote_not_found,液晶材料 -> INPUT_TO -> 热稳定性,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的热稳定性、靶材的热稳定性、光刻胶的热稳定性,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0031,t04_r10,relation,quote_not_found,靶材 -> INPUT_TO -> 热稳定性,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的热稳定性、靶材的热稳定性、光刻胶的热稳定性,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0032,t04_r11,relation,quote_not_found,光刻胶 -> INPUT_TO -> 热稳定性,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,玻璃基板的表面粗糙度、有机发光材料的热稳定性、液晶材料的热稳定性、靶材的热稳定性、光刻胶的热稳定性,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0033,t05_e02,entity,quote_not_found,偏光片,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,东旭、彩虹、盛波、三利谱等企业的玻璃基板和偏光片等产品享受了首批次担保。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0034,t05_r02,relation,quote_not_found,偏光片 -> OUTPUT_OF -> 玻璃基板和偏光片,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,东旭、彩虹、盛波、三利谱等企业的玻璃基板和偏光片等产品享受了首批次担保。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0035,t07_e07,entity,subject_or_object_not_found,AMOLED,新型显示白皮书_7f4f945d7c21_p035_paragraph_002,35,中国大陆新型显示产业配套保障能力存在不足，供需矛盾时有出现,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0036,t07_r01,relation,subject_or_object_not_found,显示材料 -> SERVES -> 全面屏手机,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,随着未来全面屏手机的普及、4K/8K 电视的增长，AR/VR 和可穿戴设备等新兴显示应用的需求吸引,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0037,t07_r02,relation,subject_or_object_not_found,显示材料 -> SERVES -> 4K/8K 电视,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,随着未来全面屏手机的普及、4K/8K 电视的增长，AR/VR 和可穿戴设备等新兴显示应用的需求吸引,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0038,t07_r03,relation,subject_or_object_not_found,显示材料 -> SERVES -> AR/VR,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,随着未来全面屏手机的普及、4K/8K 电视的增长，AR/VR 和可穿戴设备等新兴显示应用的需求吸引,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0039,t07_r04,relation,subject_or_object_not_found,显示材料 -> SERVES -> 可穿戴设备,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,随着未来全面屏手机的普及、4K/8K 电视的增长，AR/VR 和可穿戴设备等新兴显示应用的需求吸引,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0040,t07_r05,relation,subject_or_object_not_found,显示面板 -> SERVES -> 全面屏手机,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,显示面板的技术升级和产品差异化还将进一步加强,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0041,t07_r06,relation,subject_or_object_not_found,显示面板 -> SERVES -> 4K/8K 电视,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,显示面板的技术升级和产品差异化还将进一步加强,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0042,t07_r07,relation,subject_or_object_not_found,显示面板 -> SERVES -> AR/VR,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,显示面板的技术升级和产品差异化还将进一步加强,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0043,t07_r08,relation,subject_or_object_not_found,显示面板 -> SERVES -> 可穿戴设备,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,显示面板的技术升级和产品差异化还将进一步加强,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0044,t09_e08,entity,quote_not_found,面板制造企业,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,鼓励面板制造企业积极采用就近配套材料,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0045,t09_e09,entity,quote_not_found,环保政策,新型显示白皮书_7f4f945d7c21_p018_paragraph_003,18,环保政策趋紧细化,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0046,t09_r01,relation,subject_or_object_not_found,新型显示产业链 -> SUPPLIES_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,每块液晶面板需要两块玻璃基板,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0047,t09_r02,relation,quote_not_found,面板制造企业 -> SUPPLIES_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,鼓励面板制造企业积极采用就近配套材料,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0048,t09_r03,relation,subject_or_object_not_found,新型显示材料 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,每块液晶面板需要两块玻璃基板,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0049,t09_r04,relation,subject_or_object_not_found,玻璃基板 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,,每块液晶面板需要两块玻璃基板,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0050,t09_r05,relation,subject_or_object_not_found,OLED材料 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED材料、显示芯片、掩模版及部分靶材产能不足,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0051,t09_r06,relation,subject_or_object_not_found,显示芯片 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED材料、显示芯片、掩模版及部分靶材产能不足,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0052,t09_r07,relation,subject_or_object_not_found,掩模版 -> INPUT_TO -> 显示面板,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,OLED材料、显示芯片、掩模版及部分靶材产能不足,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0053,t10_r01,relation,subject_or_object_not_found,新型显示产业 -> INPUT_TO -> 产业链,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,白皮书对新型显示产业配套材料的供需现状、主要瓶颈等进行了重点分析,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0054,t10_r02,relation,subject_or_object_not_found,产业链 -> OUTPUT_OF -> 产业生态,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,形成上下游关联，产品互补、资源互补、功能互补的产业生态,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0055,t10_r03,relation,subject_or_object_not_found,产业政策环境 -> REGULATES -> 产业链,新型显示白皮书_7f4f945d7c21_p033_heading_001,33,1.进一步优化产业政策环境,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0056,t10_r04,relation,subject_or_object_not_found,产业和专项政策 -> REGULATES -> 产业链,新型显示白皮书_7f4f945d7c21_p016_heading_001,16,1.产业和专项政策相继出台,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True

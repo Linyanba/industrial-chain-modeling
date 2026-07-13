@@ -1,0 +1,25 @@
+{
+  "timestamp": "20260713_180038",
+  "project_root": "D:\\产业链建模",
+  "collection": "kb_f96baba2fc0d",
+  "doc_id": "",
+  "allowed_doc_ids": [
+    "新型显示白皮书_7f4f945d7c21"
+  ],
+  "root_model": "新型显示产业链",
+  "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+  "embedding_source": "huggingface",
+  "device": "cpu",
+  "qdrant_url": "http://localhost:6333",
+  "ollama_url": "http://localhost:11434",
+  "llm_model": "qwen3:8b",
+  "mode": "batch",
+  "top_k": 30,
+  "final_k": 10,
+  "include_review_required": false,
+  "dry_run": false,
+  "num_predict": 6144,
+  "primary_endpoint": "/api/generate",
+  "num_tasks": 10,
+  "stage3b_input": null
+}

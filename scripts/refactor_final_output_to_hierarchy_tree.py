@@ -662,6 +662,8 @@ def main():
         return lines
 
     tree_text = _build_tree_text(tree_nodes, tree_edges)
+    evidence_fact_edges = sum(1 for edge in tree_edges if str(edge.get("is_evidence_fact", "")).lower() == "true")
+    display_only_edges = len(tree_edges) - evidence_fact_edges
 
     # Alias display
     alias_rules = template.get("node_alias_rules", {})
@@ -689,9 +691,9 @@ def main():
         "```", "",
         *alias_lines,
         "## 展示边与证据边的区别",
-        "- 本结构图中所有父子边均为 DISPLAY_PARENT_OF，is_evidence_fact=false",
-        "- 这些边用于展示产业链层级结构，不代表 PDF 原文事实",
-        "- 证据追溯仍来自前序阶段的 evidence_map", "",
+        f"- 边总数：{len(tree_edges)}；其中证据事实边 {evidence_fact_edges} 条，展示归类边 {display_only_edges} 条",
+        "- is_evidence_fact=true 的边来自已批准关系并保留 evidence_ids",
+        "- is_evidence_fact=false 的边仅用于组织层级，不代表 PDF 原文中的父子关系", "",
         "---",
         "> 最终交付以多级产业链结构图为主，不再以 network graph/Neo4j/GraphML 可视化为主。",
     ]

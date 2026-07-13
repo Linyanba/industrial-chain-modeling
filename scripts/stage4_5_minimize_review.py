@@ -226,13 +226,18 @@ def generate_relation_fix_suggestions(inputs: dict, cfg: dict) -> list[dict]:
     return suggestions
 
 
-def build_conservative_entities(inputs: dict, cfg: dict) -> list[dict]:
+def build_conservative_entities(inputs: dict, cfg: dict, mode: str = "conservative") -> list[dict]:
     """Build conservative canonical entities from stage4 entities."""
     entities = inputs["canonical_entities"]
     rules = cfg.get("entity_auto_rules", {})
     keep_set = set(rules.get("keep_entities", []))
     defer_set = set(rules.get("defer_entities", []))
     exclude_types = set(rules.get("exclude_entity_types", []))
+    allowed_confidence = {
+        "strict": {"high"},
+        "conservative": {"high", "medium"},
+        "permissive": {"high", "medium", "low"},
+    }.get(mode, {"high", "medium"})
     conservative = []
 
     for ent in entities:
@@ -246,7 +251,7 @@ def build_conservative_entities(inputs: dict, cfg: dict) -> list[dict]:
             row = dict(ent)
             row["enter_conservative_draft"] = "true"
             conservative.append(row)
-        elif ent.get("review_status") == "auto_candidate" and ent.get("confidence_level") in ("high", "medium"):
+        elif ent.get("review_status") == "auto_candidate" and ent.get("confidence_level") in allowed_confidence:
             if ent.get("source_entity_candidate_ids") != "from_relation":
                 row = dict(ent)
                 row["enter_conservative_draft"] = "true"
@@ -259,12 +264,18 @@ def build_conservative_entities(inputs: dict, cfg: dict) -> list[dict]:
     return conservative
 
 
-def build_conservative_relations(inputs: dict, cfg: dict, conservative_entities: list[dict]) -> list[dict]:
+def build_conservative_relations(inputs: dict, cfg: dict, conservative_entities: list[dict],
+                                 mode: str = "conservative") -> list[dict]:
     """Build conservative relations - only high-confidence, low-controversy with evidence."""
     relations = inputs["normalized_relations"]
     defer_objects = set((cfg.get("relation_auto_rules") or {}).get("defer_objects", []))
     conservative_names = {e["canonical_name"] for e in conservative_entities}
     fix_rules = cfg.get("relation_fix_rules", [])
+    allowed_confidence = {
+        "strict": {"high"},
+        "conservative": {"high", "medium"},
+        "permissive": {"high", "medium", "low"},
+    }.get(mode, {"high", "medium"})
 
     # Build fix lookup: (subject, rel_type, object) → fix_rule
     fix_lookup = {}
@@ -278,6 +289,7 @@ def build_conservative_relations(inputs: dict, cfg: dict, conservative_entities:
         obj = rel.get("object_canonical_name", "")
         rel_type = rel.get("relation_type", "")
         evidence_ids = str(rel.get("evidence_ids", "")).strip()
+        confidence = str(rel.get("confidence_level", "medium")).lower()
 
         # Skip if object is in defer list
         if obj in defer_objects:
@@ -309,6 +321,8 @@ def build_conservative_relations(inputs: dict, cfg: dict, conservative_entities:
         if subj not in conservative_names or obj not in conservative_names:
             continue
         if not evidence_ids:
+            continue
+        if confidence not in allowed_confidence:
             continue
 
         # Include relation
@@ -761,11 +775,11 @@ def main():
     logger.info(f"关系修正建议: {len(fix_suggestions)} 条")
 
     # 4. Conservative entities
-    conservative_ents = build_conservative_entities(inputs, cfg)
+    conservative_ents = build_conservative_entities(inputs, cfg, args.mode)
     logger.info(f"保守实体: {len(conservative_ents)} 个")
 
     # 5. Conservative relations
-    conservative_rels = build_conservative_relations(inputs, cfg, conservative_ents)
+    conservative_rels = build_conservative_relations(inputs, cfg, conservative_ents, args.mode)
     logger.info(f"保守关系: {len(conservative_rels)} 条")
 
     # 6. Conservative evidence map

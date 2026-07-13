@@ -1,0 +1,138 @@
+{
+  "template_file_loaded": {
+    "passed": true,
+    "note": "document_driven"
+  },
+  "template_schema_valid": {
+    "passed": true,
+    "note": "OK"
+  },
+  "industry_template_applied": {
+    "passed": true,
+    "note": "document_driven"
+  },
+  "generic_template_supported": {
+    "passed": true,
+    "note": "generic模板可加载"
+  },
+  "semiconductor_template_supported": {
+    "passed": true,
+    "note": "semiconductor模板可加载"
+  },
+  "no_semiconductor_default_nodes_in_generic_unless_extracted": {
+    "passed": true,
+    "note": "generic无半导体默认节点"
+  },
+  "document_driven_avoids_generic_up_mid_down_default": {
+    "passed": true,
+    "note": "['先进电子材料', '新型显示产品与应用', '新型显示器件', '新型显示技术', '新型显示核心环节', '新型显示设备', '液晶面板']"
+  },
+  "document_driven_dynamic_validation_passed": {
+    "passed": true,
+    "note": "[]"
+  },
+  "no_representative_company_tree_node": {
+    "passed": true,
+    "note": "最终树不包含代表企业/company_group节点"
+  },
+  "hierarchy_refinement_enabled": {
+    "passed": true,
+    "note": "True"
+  },
+  "hierarchy_refinement_used": {
+    "passed": true,
+    "note": "refined outputs used"
+  },
+  "adaptive_tree_depth": {
+    "passed": true,
+    "note": "True"
+  },
+  "refined_tree_depth_at_least_min": {
+    "passed": true,
+    "note": "3"
+  },
+  "refined_tree_depth_at_most_max": {
+    "passed": true,
+    "note": "3"
+  },
+  "dynamic_template_debug_generated": {
+    "passed": true,
+    "note": "dynamic_template_debug.json"
+  },
+  "template_quality_report_generated": {
+    "passed": true,
+    "note": "template_quality_report.csv"
+  },
+  "stage4_6_latest_run_found": {
+    "passed": true,
+    "note": "D:\\产业链建模\\rag\\outputs\\stage4_6_llm_auto_apply_20260713_181039"
+  },
+  "stage5_5_latest_run_found": {
+    "passed": true,
+    "note": "可选阶段不存在，已跳过"
+  },
+  "stage6_latest_run_checked": {
+    "passed": true,
+    "note": "可选network阶段不存在，已跳过"
+  },
+  "deprecated_network_outputs_archived_or_documented": {
+    "passed": true,
+    "note": "无旧network输出需要归档"
+  },
+  "hierarchy_tree_nodes_generated": {
+    "passed": true,
+    "note": "37个"
+  },
+  "hierarchy_tree_edges_generated": {
+    "passed": true,
+    "note": "36条"
+  },
+  "tree_has_root_node": {
+    "passed": true,
+    "note": "新型显示产业链"
+  },
+  "tree_has_required_first_level_nodes": {
+    "passed": true,
+    "note": "set()"
+  },
+  "no_network_graph_as_final_deliverable": {
+    "passed": true,
+    "note": "最终交付无network graph"
+  },
+  "unclassified_entities_exported": {
+    "passed": true,
+    "note": "unclassified_entities.csv已生成"
+  },
+  "template_application_report_generated": {
+    "passed": true,
+    "note": "template_application_report.md已生成"
+  },
+  "png_exported": {
+    "passed": true,
+    "note": "PNG已生成"
+  },
+  "svg_exported": {
+    "passed": true,
+    "note": "SVG已生成"
+  },
+  "html_exported": {
+    "passed": true,
+    "note": "HTML已生成"
+  },
+  "final_deliverables_manifest_generated": {
+    "passed": true,
+    "note": "已生成"
+  },
+  "no_external_api_called": {
+    "passed": true,
+    "note": "仅本地处理"
+  },
+  "no_external_llm_called": {
+    "passed": true,
+    "note": "未调用外部LLM；document_driven仅可选调用本地Ollama"
+  },
+  "original_pdf_not_modified": {
+    "passed": true,
+    "note": "原始PDF未改动"
+  }
+}

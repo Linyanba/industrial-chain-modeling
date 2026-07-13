@@ -2,19 +2,19 @@
 
 ## 1. 文档基本信息
 
-- 文件：D:\产业链建模\data\raw_pdf\新型显示白皮书.pdf
-- doc_id：新型显示白皮书_7f4f945d7c21
-- SHA256：7f4f945d7c21e1b10c89aeb1bd6ea2db502c166ae6394d9294a785f7eec6dd6a
-- 文件大小 MB：1.41
-- 标题：unknown
-- 发布机构：cesirohsckw
+- 文件：D:\产业链建模\data\raw_pdf\中国半导体白皮书.pdf
+- doc_id：中国半导体白皮书_1b73a8b1f91b
+- SHA256：1b73a8b1f91b1c20b1bd8fdaff2731477dbac3feed3091c973126e8db0454b54
+- 文件大小 MB：1.93
+- 标题：中国半导体白皮书
+- 发布机构：unknown
 - 发布日期：unknown
-- 地域范围：unknown
+- 地域范围：中国
 - PDF 元数据标题：unknown
-- PDF 元数据作者：cesirohsckw
-- PDF 创建日期：2019-08-09
+- PDF 元数据作者：unknown
+- PDF 创建日期：2022-08-04
 - 是否加密：no
-- 日志：D:\产业链建模\logs\stage1_document_audit_20260713_141230.log
+- 日志：D:\产业链建模\logs\stage1_document_audit_20260713_171806.log
 
 ## 2. 环境与依赖
 
@@ -27,59 +27,51 @@
 ## 3. 原生文本可用性
 
 - PDF 是否可直接提取文本：是
-- 可直接用原生文本解析的页面比例：31/36 (86.1%)
-- 需要或可能需要 OCR 的页面：无
+- 可直接用原生文本解析的页面比例：20/25 (80.0%)
+- 需要或可能需要 OCR 的页面：25
 
 ## 4. 页面总数与类型统计
 
-- 页面总数：36
-- chart: 9
+- 页面总数：25
+- chain_diagram: 2
+- chart: 4
+- copyright: 1
 - cover: 1
-- mixed: 4
-- paragraph: 16
-- table: 2
-- unknown: 4
+- mixed: 7
+- paragraph: 7
+- table: 1
+- toc: 2
 
 ## 5. 候选页面列表
 
-- 表格候选页：13, 14, 15, 23, 24, 25
-- 图表候选页：9, 10, 12, 13, 20, 21, 22, 23, 24, 25, 26, 27, 28
-- 产业链图候选页：无
-- 产业链图视觉确认页：无
-- 仍需人工复核页：1, 6, 7, 8, 9, 10, 12, 13, 14, 15, 20, 21, 22, 23, 24, 25, 26, 27, 28, 36
+- 表格候选页：8, 9, 12, 13, 15, 17, 19, 20, 21
+- 图表候选页：7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21
+- 产业链图候选页：9, 14
+- 产业链图视觉确认页：9, 14
+- 仍需人工复核页：7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 25
 
 ## 6. 高价值页面
 
-- Page 9: high；关键词命中：产业链/上游/中游/下游/制造/应用；图表候选；下一步：manual_inspection
-- Page 33: high；关键词命中：产业链/价值链/下游/产业生态/应用；下一步：extract_native_text
-- Page 7: high；关键词命中：产业链/供应链/下游/产业生态；下一步：extract_native_text
-- Page 12: high；关键词命中：产业链/价值链/供应链；图表候选；下一步：manual_inspection
-- Page 11: high；关键词命中：产业链/下游/产业生态；下一步：extract_native_text
-- Page 10: medium；关键词命中：产业链/产业生态；图表候选；下一步：manual_inspection
-- Page 3: medium；关键词命中：下游/产业生态；下一步：extract_native_text
-- Page 4: medium；关键词命中：产业链/上游；下一步：extract_native_text
-- Page 34: medium；关键词命中：产业链/上游；下一步：extract_native_text
-- Page 16: medium；关键词命中：产业链/制造/应用；下一步：extract_native_text
-- Page 27: medium；关键词命中：产业链；图表候选；下一步：manual_inspection
-- Page 28: medium；关键词命中：下游；图表候选；下一步：manual_inspection
-- Page 30: medium；关键词命中：供应链/应用；下一步：extract_native_text
-- Page 32: medium；关键词命中：下游/应用；下一步：extract_native_text
-- Page 35: medium；关键词命中：产业结构/应用；下一步：extract_native_text
-- Page 6: low；关键词命中：产业链；下一步：extract_native_text
-- Page 13: low；表格候选；图表候选；下一步：extract_table_structure
-- Page 15: low；关键词命中：应用；表格候选；下一步：extract_table_structure
-- Page 23: low；表格候选；图表候选；下一步：extract_table_structure
-- Page 24: low；表格候选；图表候选；下一步：extract_table_structure
-- Page 25: low；表格候选；图表候选；下一步：extract_table_structure
-- Page 31: low；关键词命中：下游；下一步：extract_native_text
-- Page 2: low；关键词命中：制造/应用；下一步：extract_native_text
-- Page 14: low；表格候选；下一步：extract_table_structure
-- Page 17: low；关键词命中：制造/应用；下一步：extract_native_text
-- Page 18: low；关键词命中：应用；下一步：extract_native_text
-- Page 20: low；图表候选；下一步：manual_inspection
-- Page 21: low；图表候选；下一步：manual_inspection
-- Page 22: low；图表候选；下一步：manual_inspection
-- Page 26: low；图表候选；下一步：manual_inspection
+- Page 9: high；关键词命中：价值链/上游/下游/设计/制造/封装/应用；表格候选；图表候选；产业链图候选，需人工确认；下一步：visual_review_diagram
+- Page 8: high；关键词命中：价值链/上游/下游/设计/制造/封装/应用；表格候选；图表候选；下一步：extract_table_structure
+- Page 22: high；关键词命中：产业链/价值链/上游/下游/设计/制造/应用/国产替代；下一步：extract_native_text
+- Page 10: high；关键词命中：价值链/上游/下游/设计/制造/封装/测试/应用；下一步：extract_native_text
+- Page 14: high；关键词命中：价值链/下游/设计/制造/封装/测试；图表候选；产业链图候选，需人工确认；下一步：visual_review_diagram
+- Page 18: high；关键词命中：供应链/上游/下游/设计/应用；图表候选；下一步：manual_inspection
+- Page 6: high；关键词命中：上游/下游/设计/制造/封装/应用；下一步：extract_native_text
+- Page 3: high；关键词命中：产业链/价值链/下游/设计；下一步：extract_native_text
+- Page 23: high；关键词命中：上游/下游/设计/封装；下一步：extract_native_text
+- Page 5: medium；关键词命中：产业链/价值链/设计；下一步：extract_native_text
+- Page 7: medium；关键词命中：产业链/下游；图表候选；下一步：manual_inspection
+- Page 11: medium；关键词命中：上游/设计/制造/应用；图表候选；下一步：manual_inspection
+- Page 16: medium；关键词命中：上游/设计/制造/封装/测试；下一步：extract_native_text
+- Page 17: medium；关键词命中：供应链/设计；表格候选；图表候选；下一步：extract_table_structure
+- Page 13: medium；关键词命中：制造/封装/测试；表格候选；图表候选；下一步：extract_table_structure
+- Page 15: medium；关键词命中：设计/制造/应用；表格候选；图表候选；下一步：extract_table_structure
+- Page 12: medium；关键词命中：设计/制造；表格候选；图表候选；下一步：extract_table_structure
+- Page 19: medium；关键词命中：设计；表格候选；图表候选；下一步：extract_table_structure
+- Page 20: medium；关键词命中：制造；表格候选；图表候选；下一步：extract_table_structure
+- Page 21: medium；关键词命中：设计；表格候选；图表候选；下一步：extract_table_structure
 
 ## 7. 主要解析风险
 

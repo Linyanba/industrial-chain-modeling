@@ -108,7 +108,8 @@ SYSTEM_RULES = """你是产业链白皮书候选事实抽取助手。
 13. 实体在同一句中共同出现，不等于二者存在关系；只有原文出现与 relation_type 对应的明确关系谓词时才能抽取。
 14. “A和B是研发重点/短板/趋势”等并列表达不能抽取为 A供应B、A服务B或A输入B。
 15. 每条关系的subject和object都必须是单一原子实体；遇到“A、B、C”等列表时拆成多条关系，禁止把整段列表作为一个实体。
-16. 禁止输出INPUT或OUTPUT，必须使用受控值INPUT_TO或OUTPUT_OF。"""
+16. 禁止输出INPUT或OUTPUT，必须使用受控值INPUT_TO或OUTPUT_OF。
+17. 实体名称不得使用“上游、中游、下游、上下游”等方位层级词；应抽取原文中具体的材料、设备、制造环节、产品或应用名称。"""
 
 ENTITY_TYPE_DEF = ("实体类型集合: industry(宏观产业) sector(细分赛道) sub_chain(子产业链) "
                    "industry_link(产业链环节) process(工艺) material(材料) component(部件/模块) "
@@ -1042,6 +1043,11 @@ def process_task(task, client, collection, model, args, cfg_ret):
                 "item_type": "entity", "candidate_id": rec["entity_candidate_id"],
                 "reason": reason, "task_id": tid,
                 "evidence_id": norm["evidence_id"], "page_no": norm["page_no"],
+                "surface_form": norm["surface_form"],
+                "normalized_name_candidate": norm["normalized_name_candidate"],
+                "entity_type": norm["entity_type"],
+                "quote": norm["quote"],
+                "candidate_reason": norm["reason"],
             })
     # 关系
     for i, r in enumerate(rels, 1):
@@ -1066,6 +1072,11 @@ def process_task(task, client, collection, model, args, cfg_ret):
                 "item_type": "relation", "candidate_id": rec["relation_candidate_id"],
                 "reason": reason, "task_id": tid,
                 "evidence_id": norm["evidence_id"], "page_no": norm["page_no"],
+                "subject": norm["subject"], "subject_type": norm["subject_type"],
+                "relation_type": norm["relation_type"],
+                "object": norm["object"], "object_type": norm["object_type"],
+                "quote": norm["quote"], "assertion_type": norm["assertion_type"],
+                "candidate_reason": norm["reason"],
             })
     return result
 
