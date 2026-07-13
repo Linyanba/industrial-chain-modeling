@@ -1,0 +1,16 @@
+profile_id: generic
+profile_name: "通用文档档案"
+priority: 0
+
+# 通用档案不包含任何产业或特定报告的固定判断。
+match: {}
+metadata:
+  industry: "unknown"
+  region_scope: "unknown"
+
+document_rules:
+  title_override: ""
+  header_footer_markers: []
+  diagram_restricted_pages: []
+  ocr_high_priority_pages: []
+

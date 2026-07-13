@@ -1,0 +1,8 @@
+﻿review_id,review_question,decision,applied,applied_actions,reason,risk_level,validation_status,validation_reason
+MHR0001,关系候选待复核: 新型显示产业->SUPPLIES_TO->产业链协同,defer,false,,证据不足，新型显示产业与产业链协同的关系方向和层级不明确,medium,blocked_or_failed,
+MHR0002,关系候选待复核: 产业链->SUPPLIES_TO->创新链,defer,false,,证据不足，产业链与创新链的关系方向和层级不明确,medium,blocked_or_failed,
+MHR0003,关系候选待复核: 关键原材料->INPUT_TO->显示面板企业,defer,false,,显示面板企业未在草案中存在，无法确认关系有效性,high,blocked_or_failed,
+MHR0004,关系候选待复核: 产业链->INPUT_TO->上下游,defer,false,,上下游未在草案中定义，关系方向和层级不明确,medium,blocked_or_failed,
+MHR0005,关系候选待复核: 材料->INPUT_TO->工艺,approve,false,,材料作为工艺的输入符合逻辑，证据支持,low,blocked_or_failed,mutating decision requires non-empty review evidence; related_id 't04_r02' is not an approved draft entity/relation; target_id 't04_r02' not found in inputs; review item related_id 't04_r02' is not a relation target
+MHR0006,关系候选待复核: 供应链->OUTPUT_OF->显示产业,defer,false,,显示产业未在草案中定义，无法确认关系有效性,medium,blocked_or_failed,
+MHR0007,关系候选待复核: 创新链->INPUT_TO->产业链,defer,false,,创新链与产业链的关系方向和层级不明确,medium,blocked_or_failed,

@@ -1,0 +1,17 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 25,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "第25页按阶段边界仅保留页面级元信息，未执行OCR，未纳入正文证据主流程。",
+  "blocks": [],
+  "section_path": [
+    "unknown_section"
+  ]
+}

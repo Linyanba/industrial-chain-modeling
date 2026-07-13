@@ -1,0 +1,859 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 15,
+  "page_type": "table",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 1,
+      "text_raw": "2.显示材料产业高度集中",
+      "text_normalized": "2.显示材料产业高度集中",
+      "bbox": [
+        117.96,
+        71.97,
+        269.65,
+        90.64
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 2,
+      "text_raw": "全球新型显示材料行业中，美、欧、日、韩等国家和地区占据",
+      "text_normalized": "全球新型显示材料行业中，美、欧、日、韩等国家和地区占据",
+      "bbox": [
+        117.96,
+        111.22,
+        505.33,
+        125.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 3,
+      "text_raw": "主导地位。主要显示材料中，玻璃基板全球前三大企业市场份额占",
+      "text_normalized": "主导地位。主要显示材料中，玻璃基板全球前三大企业市场份额占",
+      "bbox": [
+        90.0,
+        138.58,
+        505.33,
+        152.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 4,
+      "text_raw": "90%，液晶材料全球前三大企业占90%，靶材全球前三大企业占",
+      "text_normalized": "90%，液晶材料全球前三大企业占90%，靶材全球前三大企业占",
+      "bbox": [
+        90.0,
+        165.82,
+        505.33,
+        179.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 5,
+      "text_raw": "80%。新型显示材料国内外主要供应商如表2 所示。",
+      "text_normalized": "80%。新型显示材料国内外主要供应商如表2 所示。",
+      "bbox": [
+        90.0,
+        192.94,
+        405.01,
+        207.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 6,
+      "text_raw": "表2 新型显示材料国内外主要供应商",
+      "text_normalized": "表2 新型显示材料国内外主要供应商",
+      "bbox": [
+        214.44,
+        224.59,
+        380.77,
+        238.18
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 7,
+      "text_raw": "材料种类国外主要厂商中国大陆主要厂商",
+      "text_normalized": "材料种类国外主要厂商中国大陆主要厂商",
+      "bbox": [
+        98.16,
+        251.78,
+        482.89,
+        265.27
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 8,
+      "text_raw": "玻璃基板康宁、旭硝子、电气硝子东旭集团、彩虹集团",
+      "text_normalized": "玻璃基板康宁、旭硝子、电气硝子东旭集团、彩虹集团",
+      "bbox": [
+        98.16,
+        270.26,
+        488.17,
+        283.75
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 9,
+      "text_raw": "诚志永华、江苏合成、",
+      "text_normalized": "诚志永华、江苏合成、",
+      "bbox": [
+        388.44,
+        288.86,
+        493.33,
+        302.35
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 10,
+      "text_raw": "液晶材料德国默克、日本JNC、日本DIC",
+      "text_normalized": "液晶材料德国默克、日本JNC、日本DIC",
+      "bbox": [
+        98.16,
+        297.74,
+        334.83,
+        311.23
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 11,
+      "text_raw": "八亿时空",
+      "text_normalized": "八亿时空",
+      "bbox": [
+        420.0,
+        306.86,
+        461.89,
+        320.35
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 12,
+      "text_raw": "偏光片LG 化学，日东，住化，三星SDI三利谱光电，盛波光电",
+      "text_normalized": "偏光片LG 化学，日东，住化，三星SDI三利谱光电，盛波光电",
+      "bbox": [
+        103.44,
+        325.22,
+        493.33,
+        338.83
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 13,
+      "text_raw": "OLED 发光",
+      "text_normalized": "OLED 发光",
+      "bbox": [
+        94.68,
+        343.82,
+        143.53,
+        357.31
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 14,
+      "text_raw": "北京鼎材、吉林奥来德、",
+      "text_normalized": "北京鼎材、吉林奥来德、",
+      "bbox": [
+        383.16,
+        343.82,
+        498.61,
+        357.31
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 15,
+      "text_raw": "UDC、陶氏杜邦、出光、默克、LG 化学",
+      "text_normalized": "UDC、陶氏杜邦、出光、默克、LG 化学",
+      "bbox": [
+        171.6,
+        352.82,
+        353.29,
+        366.31
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 16,
+      "text_raw": "材料",
+      "text_normalized": "材料",
+      "bbox": [
+        108.6,
+        361.82,
+        129.49,
+        375.31
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 17,
+      "text_raw": "阿格蕾雅",
+      "text_normalized": "阿格蕾雅",
+      "bbox": [
+        420.0,
+        361.82,
+        461.89,
+        375.31
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 18,
+      "text_raw": "清溢光电、路维光电、",
+      "text_normalized": "清溢光电、路维光电、",
+      "bbox": [
+        388.44,
+        380.42,
+        493.33,
+        393.91
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 19,
+      "text_raw": "掩模版SKE、HOYA、PKL、LG",
+      "text_normalized": "掩模版SKE、HOYA、PKL、LG",
+      "bbox": [
+        103.44,
+        389.3,
+        315.37,
+        402.79
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 20,
+      "text_raw": "龙图光电",
+      "text_normalized": "龙图光电",
+      "bbox": [
+        420.0,
+        398.42,
+        461.89,
+        411.91
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 21,
+      "text_raw": "江丰电子、洛阳四丰、",
+      "text_normalized": "江丰电子、洛阳四丰、",
+      "bbox": [
+        388.44,
+        416.9,
+        493.33,
+        430.39
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 22,
+      "text_raw": "靶材爱发科、住化、攀时、三星",
+      "text_normalized": "靶材爱发科、住化、攀时、三星",
+      "bbox": [
+        108.6,
+        425.78,
+        327.01,
+        439.27
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 23,
+      "text_raw": "欧莱集团、阿石创新材料",
+      "text_normalized": "欧莱集团、阿石创新材料",
+      "bbox": [
+        381.6,
+        434.9,
+        500.17,
+        448.39
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 24,
+      "text_raw": "集创北方，彩优微、",
+      "text_normalized": "集创北方，彩优微、",
+      "bbox": [
+        393.72,
+        453.38,
+        488.17,
+        466.87
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 25,
+      "text_raw": "驱动ICSAMSUNG、Novatak、Himax、Synaptics、",
+      "text_normalized": "驱动ICSAMSUNG、Novatak、Himax、Synaptics、",
+      "bbox": [
+        102.24,
+        456.02,
+        362.53,
+        475.87
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b026",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 26,
+      "text_raw": "Silicon Works",
+      "text_normalized": "Silicon Works",
+      "bbox": [
+        231.84,
+        471.4,
+        293.38,
+        484.46
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b027",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 27,
+      "text_raw": "格科微电子，新相微电子",
+      "text_normalized": "格科微电子，新相微电子",
+      "bbox": [
+        381.6,
+        471.38,
+        500.29,
+        484.87
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b028",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 28,
+      "text_raw": "化学品东进、住化、三福、关东鑫林、Soulbrain江化微、江阴润玛、格林达",
+      "text_normalized": "化学品东进、住化、三福、关东鑫林、Soulbrain江化微、江阴润玛、格林达",
+      "bbox": [
+        103.44,
+        489.86,
+        503.89,
+        503.35
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b029",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 29,
+      "text_raw": "（二）新型显示产业政策环境不断优化",
+      "text_normalized": "（二）新型显示产业政策环境不断优化",
+      "bbox": [
+        120.0,
+        543.36,
+        375.0,
+        558.59
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b030",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 30,
+      "text_raw": "自“十一五”开始，国家层面即明确了新型显示产业的重要地",
+      "text_normalized": "自“十一五”开始，国家层面即明确了新型显示产业的重要地",
+      "bbox": [
+        117.96,
+        582.82,
+        505.33,
+        596.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b031",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 31,
+      "text_raw": "位，并逐步提升对显示材料的重视程度。“十三五”期间，“以新",
+      "text_normalized": "位，并逐步提升对显示材料的重视程度。“十三五”期间，“以新",
+      "bbox": [
+        90.0,
+        610.06,
+        505.33,
+        624.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b032",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 32,
+      "text_raw": "型显示为核心的先进电子材料”和“新型显示配套材料”等内容被",
+      "text_normalized": "型显示为核心的先进电子材料”和“新型显示配套材料”等内容被",
+      "bbox": [
+        90.0,
+        637.3,
+        505.33,
+        651.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b033",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 33,
+      "text_raw": "列入相关规划，呈现出以规模化应用为核心，基础研发和前沿研究",
+      "text_normalized": "列入相关规划，呈现出以规模化应用为核心，基础研发和前沿研究",
+      "bbox": [
+        90.0,
+        664.54,
+        505.33,
+        678.63
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b034",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 34,
+      "text_raw": "两端兼顾的总体布局。",
+      "text_normalized": "两端兼顾的总体布局。",
+      "bbox": [
+        90.0,
+        691.78,
+        230.05,
+        705.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p015_b035",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 15,
+      "reading_order": 35,
+      "text_raw": "7",
+      "text_normalized": "7",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "2.显示材料产业高度集中"
+  ]
+}

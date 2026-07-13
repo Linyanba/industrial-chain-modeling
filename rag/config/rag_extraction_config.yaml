@@ -1,0 +1,140 @@
+# 阶段 3C 候选实体/关系抽取配置
+# 仅用于：基于 Qdrant 检索证据 + 本地 Ollama qwen3:8b 的候选实体/关系抽取
+# 严禁：生成正式图谱、写入 Neo4j、实体最终归并、调用外部云端 API、联网搜索
+
+project_root: "D:\\产业链建模"
+
+qdrant:
+  url: "http://localhost:6333"
+  collection: "whitepaper_chunks"
+
+embedding:
+  model: "Qwen/Qwen3-Embedding-0.6B"
+  dim: 1024
+  normalize: true
+  query_prompt_name: "query"
+
+llm:
+  provider: "ollama"
+  url: "http://localhost:11434"
+  model: "qwen3:8b"
+  primary_endpoint: "/api/generate"
+  fallback_endpoint: "/api/chat"
+  format: "json"
+  temperature: 0
+  num_predict: 6144      # 证据丰富任务实体/关系多，需足够 token 避免 JSON 截断
+  think: false            # qwen3 思考型模型：关闭思考，保证纯 JSON
+  stream: false
+  request_timeout_sec: 240
+
+retrieval:
+  top_k: 30
+  final_k: 10
+  hybrid_lexical: true
+  lexical_k: 30
+  max_per_page: 3
+  exclude_review_required: true
+  priority_bonus:
+    high: 0.05
+    medium: 0.02
+    low: 0.0
+
+# 允许的实体类型集合（entity_type / subject_type / object_type 只能取自此）
+entity_types:
+  - industry
+  - sector
+  - sub_chain
+  - industry_link
+  - process
+  - material
+  - component
+  - product
+  - equipment
+  - technology
+  - application
+  - company
+  - organization
+  - region
+  - policy
+  - standard
+  - unknown
+
+# 允许的关系类型集合
+relation_types:
+  - PART_OF
+  - INPUT_TO
+  - OUTPUT_OF
+  - SUPPLIES_TO
+  - PROCESSES
+  - MANUFACTURES
+  - OPERATES_IN
+  - SERVES
+  - USES_TECHNOLOGY
+  - LOCATED_IN
+  - REGULATES
+  - GOVERNS
+  - RECYCLES
+  - SUBSTITUTES
+
+# assertion_type 集合；只有 explicit_fact 才可能进入 verified
+assertion_types:
+  - explicit_fact
+  - forecast
+  - policy_goal
+  - uncertain
+
+# 预测/规划/趋势过滤关键词：命中则默认不得为 explicit_fact，进入复核
+forecast_keywords:
+  - "预计"
+  - "未来"
+  - "计划"
+  - "拟"
+  - "有望"
+  - "可能"
+  - "或将"
+  - "建议"
+  - "鼓励"
+  - "推动"
+  - "促进"
+  - "提升"
+  - "趋势"
+  - "目标"
+  - "到2025年"
+  - "到2030年"
+
+# 文档固定页码规则已迁移至 rag/config/document_profiles/，通用配置不设固定页。
+diagram_restricted_pages: []
+
+validation:
+  quote_ignore_whitespace: true
+  allowed_top_level_fields:
+    - task_id
+    - entities
+    - relations
+    - insufficient_evidence
+    - warnings
+  allow_one_repair_retry: true
+
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "stage3c_rag_extraction_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage3c_run.txt"
+  csv_encoding: "utf-8-sig"
+
+# 阶段 3B 输入（用于把 q05/q09/q10 特殊项纳入复核队列）
+stage3b:
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage3b_run.txt"
+
+boundary:
+  stage: "3C"
+  scope: "仅基于 Qdrant 检索证据的候选实体/关系抽取（不生成图谱、不写 Neo4j、不做最终归并）"
+  forbidden:
+    - "调用 OpenAI / DeepSeek / Claude / Gemini 等外部云端 API"
+    - "联网搜索"
+    - "根据模型常识补全产业链"
+    - "从第 9、14 页产业链图箭头直接抽取确定关系"
+    - "从未复核表格单元格直接抽取确定关系"
+    - "把预测/规划/趋势/建议当作现实产业链事实"
+    - "生成正式产业链图谱 / 写入 Neo4j / 实体最终归并"
+    - "修改原始 PDF"
+    - "覆盖阶段 1 / 2 / 3A / 3B 输出"

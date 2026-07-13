@@ -1,0 +1,116 @@
+{
+  "config": {
+    "enable_hierarchy_refinement": true,
+    "adaptive_tree_depth": true,
+    "min_tree_depth": 2,
+    "target_tree_depth": 0,
+    "max_tree_depth": 4,
+    "remove_company_branch": true,
+    "forbid_representative_company_branch": true,
+    "fix_parent_child_same_level": true,
+    "forbid_up_mid_down_as_default": true,
+    "forbid_up_mid_down_in_all_tree_levels": true,
+    "allow_llm_refinement": true,
+    "llm_model": "qwen3:8b",
+    "ollama_url": "http://localhost:11434",
+    "max_first_level_nodes": 7,
+    "min_children_for_major_branch": 2,
+    "weak_branch_threshold": 1,
+    "parent_child_relation_types": [
+      "PART_OF",
+      "BELONGS_TO",
+      "SUB_CATEGORY_OF",
+      "CONTAINS",
+      "INCLUDES",
+      "HAS_PART",
+      "INPUT_TO"
+    ],
+    "containment_cues": [
+      "包括",
+      "包含",
+      "分为",
+      "主要包括",
+      "由",
+      "构成",
+      "可分为",
+      "涵盖"
+    ],
+    "forbidden_first_level_nodes": [
+      "上游",
+      "中游",
+      "下游",
+      "上下游",
+      "上中下游",
+      "产业链上下游"
+    ],
+    "forbidden_node_labels": [
+      "代表企业",
+      "上游",
+      "中游",
+      "下游",
+      "上下游",
+      "上中下游",
+      "产业链上下游"
+    ],
+    "excluded_tree_entity_types": [
+      "company"
+    ]
+  },
+  "llm_refinement": {
+    "available": true,
+    "hash": "921e56ba95af4df6678bc27ef69d5ff689a6c26589172a757a5b96fa5d8986e5",
+    "parsed": {
+      "parent_child_fixes": [
+        {
+          "parent_id": "T0001",
+          "child_id": "T0007",
+          "reason": "计算芯片属于半导体产业链，但当前层级关系未明确，需建立直接连接"
+        },
+        {
+          "parent_id": "T0007",
+          "child_id": "T0006",
+          "reason": "ASIC属于计算芯片，但当前层级关系未明确，需建立直接连接"
+        },
+        {
+          "parent_id": "T0007",
+          "child_id": "T0008",
+          "reason": "GPU属于计算芯片，但当前层级关系未明确，需建立直接连接"
+        }
+      ],
+      "branch_expansions": [
+        {
+          "parent_id": "T0001",
+          "child_id": "T0007",
+          "new_children": [
+            "T0006",
+            "T0008"
+          ]
+        }
+      ],
+      "nodes_to_remove": [],
+      "aliases_to_merge": [],
+      "company_nodes_to_remove": [],
+      "warnings": [
+        "建议检查晶圆制造下所有子节点的证据ID是否一致，确保关系准确性"
+      ]
+    },
+    "raw": "{\n  \"parent_child_fixes\": [\n    {\n      \"parent_id\": \"T0001\",\n      \"child_id\": \"T0007\",\n      \"reason\": \"计算芯片属于半导体产业链，但当前层级关系未明确，需建立直接连接\"\n    },\n    {\n      \"parent_id\": \"T0007\",\n      \"child_id\": \"T0006\",\n      \"reason\": \"ASIC属于计算芯片，但当前层级关系未明确，需建立直接连接\"\n    },\n    {\n      \"parent_id\": \"T0007\",\n      \"child_id\": \"T0008\",\n      \"reason\": \"GPU属于计算芯片，但当前层级关系未明确，需建立直接连接\"\n    }\n  ],\n  \"branch_expansions\": [\n    {\n      \"parent_id\": \"T0001\",\n      \"child_id\": \"T0007\",\n      \"new_children\": [\"T0006\", \"T0008\"]\n    }\n  ],\n  \"nodes_to_remove\": [],\n  \"aliases_to_merge\": [],\n  \"company_nodes_to_remove\": [],\n  \"warnings\": [\n    \"建议检查晶圆制造下所有子节点的证据ID是否一致，确保关系准确性\"\n  ]\n}",
+    "warning": ""
+  },
+  "validation": {
+    "passed": true,
+    "issues": [],
+    "node_count": 9,
+    "edge_count": 8,
+    "max_depth": 2,
+    "adaptive_tree_depth": true,
+    "min_allowed_depth": 2,
+    "max_allowed_depth": 4,
+    "first_level_nodes": [
+      "晶圆制造",
+      "计算芯片"
+    ]
+  },
+  "fix_count": 0,
+  "removed_count": 0
+}

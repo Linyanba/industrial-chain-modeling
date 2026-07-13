@@ -1,0 +1,85 @@
+{
+  "candidate_first_level_nodes": [
+    {
+      "label": "芯片",
+      "score": 47.2,
+      "title_hits": 0,
+      "entity_count": 18,
+      "relation_count": 8,
+      "evidence_count": 1,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "原材料",
+      "score": 19.2,
+      "title_hits": 0,
+      "entity_count": 8,
+      "relation_count": 0,
+      "evidence_count": 0,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "汽车半导体",
+      "score": 16.2,
+      "title_hits": 0,
+      "entity_count": 6,
+      "relation_count": 0,
+      "evidence_count": 0,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "先进封装技术",
+      "score": 10.8,
+      "title_hits": 0,
+      "entity_count": 4,
+      "relation_count": 0,
+      "evidence_count": 0,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "设备",
+      "score": 10.8,
+      "title_hits": 0,
+      "entity_count": 4,
+      "relation_count": 0,
+      "evidence_count": 0,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    }
+  ],
+  "rejected_first_level_nodes": [],
+  "llm_suggestion_hash": "",
+  "llm_suggestion_used_directly": false,
+  "llm_suggestion_available": false,
+  "relation_first_tree_used": true,
+  "llm_raw_suggestion": "",
+  "program_validation": {
+    "passed": true,
+    "issues": [],
+    "first_level_labels": [
+      "晶圆制造",
+      "计算芯片"
+    ],
+    "node_count": 9,
+    "edge_count": 8,
+    "max_depth": 2,
+    "min_allowed_depth": 2,
+    "max_allowed_depth": 4
+  },
+  "source_stage_dir": "D:\\产业链建模\\rag\\outputs\\stage4_6_llm_auto_apply_20260713_162116",
+  "source_parsed_dir": "D:\\产业链建模\\parsed_documents\\新型显示白皮书_7f4f945d7c21_20260713_141503"
+}

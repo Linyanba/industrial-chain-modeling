@@ -1,0 +1,9 @@
+﻿normalized_relation_id,relation_candidate_id,evidence_id,page_no,quote,task_id,source_query,assertion_type,verification_status
+NR0001,t08_r01,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0002,t08_r02,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0003,t08_r03,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0004,t08_r04,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,4,前言新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示（Micro-LED）、激光显示,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0005,t08_r05,新型显示白皮书_7f4f945d7c21_p018_paragraph_001,18,新型显示材料属于先进电子材料的一种,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0006,t08_r06,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,17,对新型显示器件（包括薄膜晶体管液晶显示器件、有机发光二极管显示面板,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0007,t08_r07,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,17,对新型显示器件（包括薄膜晶体管液晶显示器件、有机发光二极管显示面板,t08,当前白皮书中哪些句子使用包括、包含、分为、由……构成、主要有等表达来说明实体之间的父子或组成关系？,explicit_fact,verified
+NR0008,t09_r07,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,每块液晶面板需要两块玻璃基板,t09,当前白皮书中有哪些供给、输入、输出、服务、使用、制造、加工、治理或替代关系？如果证据不足，不要强行抽取。,explicit_fact,verified

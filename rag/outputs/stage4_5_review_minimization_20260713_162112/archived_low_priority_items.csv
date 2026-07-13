@@ -1,0 +1,122 @@
+﻿archive_id,original_review_id,source_stage,priority,reason,original_issue_summary,archive_decision,can_revisit_later
+ARC0001,RV0001,stage4,P3,P3 默认归档，保守策略不进入保守草案,"同名类型无法唯一判定: ['industry_link', 'process']",auto_archive_rejected,true
+ARC0002,RV0002,stage4,P3,P3 默认归档，保守策略不进入保守草案,仅出现在关系端点，无独立实体候选,auto_archive_rejected,true
+ARC0003,RV0003,stage4,P3,P3 默认归档，保守策略不进入保守草案,关系候选待复核: SoC芯片->组成->涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片,auto_archive_rejected,true
+ARC0004,RV0004,stage4,P3,P3 默认归档，保守策略不进入保守草案,关系候选待复核: CPU/GPU/ASIC->组成->涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片,auto_archive_rejected,true
+ARC0005,RV0005,stage4,P3,P3 默认归档，保守策略不进入保守草案,关系候选待复核: 云计算->组成->涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片,auto_archive_rejected,true
+ARC0006,RV0006,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0007,RV0007,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0008,RV0008,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0009,RV0009,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0010,RV0010,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0011,RV0011,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0012,RV0012,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0013,RV0013,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0014,RV0014,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0015,RV0015,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0016,RV0016,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0017,RV0017,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0018,RV0018,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0019,RV0019,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0020,RV0020,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0021,RV0021,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0022,RV0022,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0023,RV0023,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0024,RV0038,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0025,RV0039,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0026,RV0040,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0027,RV0041,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0028,RV0042,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0029,RV0043,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0030,RV0044,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0031,RV0045,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0032,RV0046,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0033,RV0047,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0034,RV0048,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0035,RV0049,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0036,RV0050,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0037,RV0051,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0038,RV0052,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0039,RV0053,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0040,RV0054,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0041,RV0055,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0042,RV0056,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0043,RV0057,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0044,RV0058,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0045,RV0059,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0046,RV0060,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0047,RV0061,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0048,RV0062,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0049,RV0063,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0050,RV0064,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0051,RV0065,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0052,RV0066,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0053,RV0067,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0054,RV0068,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0055,RV0069,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0056,RV0070,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0057,RV0071,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0058,RV0072,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0059,RV0073,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0060,RV0074,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0061,RV0075,stage4,P3,P3 + quote/subject异常，保守策略默认归档,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0062,RV0076,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0063,RV0077,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0064,RV0078,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0065,RV0079,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0066,RV0080,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0067,RV0081,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0068,RV0082,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0069,RV0083,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0070,RV0084,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0071,RV0085,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0072,RV0086,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0073,RV0087,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0074,RV0088,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0075,RV0089,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0076,RV0090,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0077,RV0091,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0078,RV0092,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0079,RV0093,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0080,RV0094,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0081,RV0095,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0082,RV0096,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0083,RV0097,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0084,RV0098,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0085,RV0099,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0086,RV0100,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0087,RV0101,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0088,RV0102,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0089,RV0103,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0090,RV0104,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0091,RV0105,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0092,RV0106,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0093,RV0107,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0094,RV0108,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0095,RV0109,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0096,RV0110,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0097,RV0111,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0098,RV0112,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0099,RV0113,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0100,RV0114,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0101,RV0115,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0102,RV0116,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0103,RV0117,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0104,RV0118,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0105,RV0119,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0106,RV0120,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0107,RV0121,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0108,RV0122,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0109,RV0123,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0110,RV0124,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0111,RV0125,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0112,RV0126,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0113,RV0127,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0114,RV0128,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0115,RV0129,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0116,RV0130,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0117,RV0131,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0118,RV0132,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0119,RV0133,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0120,RV0134,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true
+ARC0121,RV0135,stage4,P3,P3 默认归档，保守策略不进入保守草案,候选被拒绝，需人工确认,auto_archive_rejected,true

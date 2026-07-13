@@ -1,0 +1,148 @@
+# 阶段 4 候选结果清洗、标准化、去重、冲突检测配置
+# 严禁：调用外部API、联网搜索、重新抽取、生成正式图谱、写入Neo4j
+
+project_root: "D:\\产业链建模"
+
+stage3c:
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage3c_run.txt"
+  required_files:
+    - "verified_entity_candidates.jsonl"
+    - "verified_relation_candidates.jsonl"
+    - "rag_extraction_review_queue.csv"
+    - "rejected_candidates.jsonl"
+    - "rag_extraction_report.md"
+    - "validation_summary.json"
+
+# 实体层级映射（entity_type → entity_level）
+entity_level_rules:
+  industry: "L0_industry"
+  sector: "L1_sector"
+  sub_chain: "L2_sub_chain"
+  industry_link: "L3_industry_link"
+  process: "L4_object"
+  material: "L4_object"
+  component: "L4_object"
+  product: "L4_object"
+  equipment: "L4_object"
+  technology: "L4_object"
+  application: "L4_object"
+  company: "auxiliary"
+  organization: "auxiliary"
+  region: "auxiliary"
+  policy: "auxiliary"
+  standard: "auxiliary"
+  unknown: "unknown"
+
+# 价值链位置规则（entity_type + 名称关键词 → value_chain_stage）
+value_chain_stage_rules:
+  upstream_types: ["material", "equipment"]
+  midstream_types: ["process"]
+  downstream_types: ["application"]
+  supporting_types: ["technology", "company", "organization", "region", "policy", "standard"]
+  # industry_link 按关键词判断
+  industry_link_upstream_keywords: ["材料", "设备", "原材料"]
+  industry_link_midstream_keywords: ["设计", "研发", "制造", "生产", "加工", "组装", "集成", "封装", "测试", "运营", "交付"]
+  industry_link_downstream_keywords: ["应用", "消费", "终端", "客户", "场景", "服务"]
+  industry_link_supporting_keywords: ["软件", "平台", "工具", "标准", "检测", "认证"]
+
+# 允许的受控词
+allowed_entity_levels:
+  - "L0_industry"
+  - "L1_sector"
+  - "L2_sub_chain"
+  - "L3_industry_link"
+  - "L4_object"
+  - "auxiliary"
+  - "unknown"
+
+allowed_value_chain_stages:
+  - "upstream"
+  - "midstream"
+  - "downstream"
+  - "supporting"
+  - "recycling"
+  - "cross_stage"
+  - "unknown"
+
+allowed_review_statuses:
+  - "auto_candidate"
+  - "review_required"
+  - "approved_suggestion"
+  - "rejected_suggestion"
+
+# 标准化规则
+normalization:
+  # 基础文本归一化
+  strip_whitespace: true
+  normalize_fullwidth: true       # 全角→半角
+  normalize_case: true            # 英文统一小写（比较用）
+  normalize_brackets: true        # 中文括号→英文括号
+  normalize_slash: true           # 统一斜杠和连接符
+  deduplicate_whitespace: true    # 重复空白合并
+
+  # 相似度阈值
+  embedding_similarity_threshold: 0.86
+
+  # 安全自动合并的匹配方法（不需人工确认）
+  safe_merge_methods:
+    - "exact"
+    - "case_normalized"
+    - "punctuation_normalized"
+
+  # 需要人工确认的匹配方法
+  review_required_methods:
+    - "english_chinese_alias"
+    - "substring_rule"
+    - "embedding_similarity"
+    - "llm_suggestion"
+    - "manual_required"
+
+# 置信度规则
+confidence:
+  high_min_evidence: 2
+  medium_min_evidence: 1
+
+# 人工审核优先级
+priority_rules:
+  P0_keywords: ["产业链", "价值链", "供应链", "PART_OF"]
+  P1_keywords: ["材料", "部件", "组件", "设备", "技术", "工艺", "INPUT_TO", "SUPPLIES_TO", "OUTPUT_OF"]
+  P2_keywords: ["企业", "应用", "政策", "趋势", "投资", "OPERATES_IN", "SERVES"]
+  # P3: 其他
+
+# 冲突检测
+conflict_detection:
+  check_same_name_diff_type: true
+  check_high_similarity_duplicate: true
+  check_relation_duplicate: true
+  check_direction_conflict: true
+  check_entity_role_conflict: true
+  check_evidence_insufficiency: true
+
+# 输出配置
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "stage4_normalization_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage4_run.txt"
+  csv_encoding: "utf-8-sig"
+
+# 可选功能
+optional:
+  use_embedding_similarity: false
+  use_local_llm_for_alias_review: false
+  llm_url: "http://localhost:11434"
+  llm_model: "qwen3:8b"
+  embedding_model: "Qwen/Qwen3-Embedding-0.6B"
+
+boundary:
+  stage: "4"
+  scope: "候选结果清洗、实体标准化、关系去重、冲突检测、复核表生成、产业链草案输出"
+  forbidden:
+    - "调用外部云端 API"
+    - "联网搜索"
+    - "重新抽取新关系"
+    - "基于常识新增实体或关系"
+    - "生成正式产业链图谱"
+    - "写入 Neo4j"
+    - "把 verified 直接视为最终事实"
+    - "修改原始 PDF"
+    - "覆盖阶段 1/2/3A/3B/3C 输出"

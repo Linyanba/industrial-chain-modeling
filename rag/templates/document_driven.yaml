@@ -1,0 +1,102 @@
+template_id: document_driven
+template_name: "文档驱动产业链模板"
+root_label_default: "产业链"
+description: "根据当前PDF的已审核实体、关系、证据片段、章节标题和高频术语动态生成行业专属多级产业链结构。"
+template_mode: "dynamic"
+
+first_level_generation_method: "llm_plus_rules"
+max_first_level_nodes: 6
+max_depth: 4
+min_evidence_support: 1
+allow_display_schema_node: true
+allow_fallback_display_schema: false
+fallback_template: "generic"
+forbidden_default_first_level_nodes: ["上游", "中游", "下游", "上下游", "上中下游", "产业链上下游"]
+excluded_tree_entity_types: ["company"]
+output_style: "xmind_blue"
+
+# 动态模板不在YAML中写死具体行业一级节点。缺少证据时，程序可退回到下列展示分类，
+# 这些节点必须在报告中标注为 fallback_display_schema。
+first_level_nodes: []
+fallback_display_schema_nodes:
+  - label: "核心环节"
+    category: "core_link_group"
+    accept_entity_types: ["industry", "industry_link", "process", "product"]
+    keywords: ["环节", "链", "制造", "研发", "产品"]
+    children: []
+  - label: "关键材料"
+    category: "material_group"
+    accept_entity_types: ["material"]
+    keywords: ["材料", "原材料"]
+    children: []
+  - label: "关键设备"
+    category: "equipment_group"
+    accept_entity_types: ["equipment"]
+    keywords: ["设备", "装备"]
+    children: []
+  - label: "关键技术"
+    category: "technology_group"
+    accept_entity_types: ["technology", "standard", "platform"]
+    keywords: ["技术", "工具", "平台", "标准"]
+    children: []
+  - label: "应用场景"
+    category: "application_group"
+    accept_entity_types: ["application", "scenario", "market", "product"]
+    keywords: ["应用", "场景", "终端", "产品"]
+    children: []
+
+candidate_scoring_rules:
+  title_hit_weight: 2.0
+  entity_count_weight: 1.5
+  relation_count_weight: 1.5
+  evidence_hit_weight: 1.0
+  child_coverage_weight: 1.2
+  root_relevance_weight: 0.8
+  generic_term_penalty: 3.0
+  weak_branch_penalty: 2.0
+  overly_generic_terms: ["产业", "产业链", "发展", "现状", "趋势", "市场", "政策", "分析", "概述", "材料", "原料", "产品", "工艺", "技术", "核心技术", "关键原材料", "配套材料"]
+
+validation_rules:
+  single_root_required: true
+  preferred_first_level_min: 4
+  preferred_first_level_max: 7
+  min_child_per_first_level: 1
+  preferred_depth_min: 2
+  preferred_depth_max: 4
+  disallow_duplicate_node_under_multiple_parents: true
+  disallow_cycles: true
+  company_branch_preferred_labels: []
+  exclude_company_from_tree: true
+  evidence_fact_requires_known_evidence_id: true
+
+node_alias_rules: {}
+
+entity_classification_rules: []
+
+tree_build_rules:
+  relation_first: true
+  parent_child_relation_types: ["PART_OF", "INPUT_TO"]
+  allow_display_schema_nodes: true
+  mark_schema_nodes_in_report: true
+  keep_empty_template_nodes: false
+  unclassified_strategy: "export_to_csv"
+  generation_script: "scripts/build_document_driven_template.py"
+
+display_style:
+  direction: "left_to_right"
+  node_fill: "#4A90D9"
+  node_stroke: "#2E6DAB"
+  node_text_color: "#FFFFFF"
+  root_fill: "#1B5E8C"
+  level1_fill: "#3B82C4"
+  line_color: "#7CB8E4"
+  line_width: 2
+  background: "#FFFFFF"
+  font_family: "Microsoft YaHei"
+  node_rx: 8
+
+required_outputs:
+  png_prefix: "industry_chain_tree"
+  svg_prefix: "industry_chain_tree"
+  html_prefix: "industry_chain_tree"
+  title: "产业链多级结构图"

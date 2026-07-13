@@ -1,0 +1,14 @@
+﻿tree_node_id,label,display_label,parent_id,level,depth,sort_order,category,node_type,source_from,source_entity_ids,evidence_ids,is_display_node,is_schema_node,notes
+T0001,新型显示产业链,新型显示产业链,,0,0,0,root,display_node,document_driven_rules,,,true,true,单一根节点
+T0002,先进电子材料,先进电子材料,T0001,1,1,1,material,approved_entity,approved_entity,CE0036,,true,false,relation_connected_root_branch
+T0003,新型显示材料,新型显示材料,T0002,2,2,1,material,approved_entity,approved_relation,CE0037,新型显示白皮书_7f4f945d7c21_p018_paragraph_001,true,false,approved_relation:NR0005
+T0004,新型显示器件,新型显示器件,T0001,1,1,2,product,approved_entity,approved_entity,CE0038,,true,false,relation_connected_root_branch
+T0005,有机发光二极管显示面板,有机发光二极管显示面板,T0004,2,2,1,product,approved_entity,approved_relation,CE0040,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,true,false,approved_relation:NR0007
+T0006,薄膜晶体管液晶显示器件,薄膜晶体管液晶显示器件,T0004,2,2,2,product,approved_entity,approved_relation,CE0039,新型显示白皮书_7f4f945d7c21_p017_paragraph_002,true,false,approved_relation:NR0006
+T0007,新型显示技术,新型显示技术,T0001,1,1,3,technology,approved_entity,approved_entity,CE0031,,true,false,relation_connected_root_branch
+T0008,主动矩阵有机发光二极管显示(AMOLED),主动矩阵有机发光二极管显示(AMOLED),T0007,2,2,1,technology,approved_entity,approved_relation,CE0033,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0002
+T0009,微型发光二极管显示(Micro-LED),微型发光二极管显示(Micro-LED),T0007,2,2,2,technology,approved_entity,approved_relation,CE0034,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0003
+T0010,激光显示,激光显示,T0007,2,2,3,technology,approved_entity,approved_relation,CE0035,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0004
+T0011,薄膜晶体管液晶显示(TFT-LCD),薄膜晶体管液晶显示(TFT-LCD),T0007,2,2,4,technology,approved_entity,approved_relation,CE0032,新型显示白皮书_7f4f945d7c21_p004_paragraph_001,true,false,approved_relation:NR0001
+T0012,液晶面板,液晶面板,T0001,1,1,4,product,approved_entity,approved_entity,CE0042,,true,false,relation_connected_root_branch
+T0013,玻璃基板,玻璃基板,T0012,2,2,1,material,approved_entity,approved_relation,CE0017,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,true,false,approved_relation:NR0008

@@ -1,0 +1,667 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 14,
+  "page_type": "table",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 1,
+      "text_raw": "表1 日本韩国液晶面板产线调整情况",
+      "text_normalized": "表1 日本韩国液晶面板产线调整情况",
+      "bbox": [
+        214.44,
+        72.43,
+        380.77,
+        86.02
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 2,
+      "text_raw": "厂商液晶面板产线调整情况",
+      "text_normalized": "厂商液晶面板产线调整情况",
+      "bbox": [
+        128.4,
+        93.02,
+        404.41,
+        106.51
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 3,
+      "text_raw": "共11 条生产线（P1-P11），其中P1 转为研发线，P2 和P3 停止生",
+      "text_normalized": "共11 条生产线（P1-P11），其中P1 转为研发线，P2 和P3 停止生",
+      "bbox": [
+        198.72,
+        111.5,
+        504.13,
+        125.11
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 4,
+      "text_raw": "LGD",
+      "text_normalized": "LGD",
+      "bbox": [
+        129.24,
+        120.52,
+        148.44,
+        133.58
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 5,
+      "text_raw": "产，P4 转为OLED 产线，P5 转为挠性OLED 产线，P6-P11 保留",
+      "text_normalized": "产，P4 转为OLED 产线，P5 转为挠性OLED 产线，P6-P11 保留",
+      "bbox": [
+        198.72,
+        129.5,
+        490.21,
+        143.11
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 6,
+      "text_raw": "共8 条生产线（L1-L8），L1-L5 关闭，L6 转为LTPS，L7 转为",
+      "text_normalized": "共8 条生产线（L1-L8），L1-L5 关闭，L6 转为LTPS，L7 转为",
+      "bbox": [
+        198.72,
+        147.98,
+        483.13,
+        161.59
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 7,
+      "text_raw": "三星",
+      "text_normalized": "三星",
+      "bbox": [
+        128.4,
+        156.98,
+        149.29,
+        170.47
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 8,
+      "text_raw": "OLED 产线，L8 保留",
+      "text_normalized": "OLED 产线，L8 保留",
+      "bbox": [
+        198.72,
+        165.98,
+        292.33,
+        179.59
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 9,
+      "text_raw": "夏普被富士康收购",
+      "text_normalized": "夏普被富士康收购",
+      "bbox": [
+        128.4,
+        184.58,
+        261.61,
+        198.07
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 10,
+      "text_raw": "目前，中国大陆显示产业转型升级发展仍然面临存量优化和增",
+      "text_normalized": "目前，中国大陆显示产业转型升级发展仍然面临存量优化和增",
+      "bbox": [
+        117.96,
+        208.9,
+        505.33,
+        222.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 11,
+      "text_raw": "量升级。中国大陆地区仍然保有众多6 代以下产线，产品结构存在",
+      "text_normalized": "量升级。中国大陆地区仍然保有众多6 代以下产线，产品结构存在",
+      "bbox": [
+        90.0,
+        236.02,
+        505.33,
+        250.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 12,
+      "text_raw": "一定调整空间。自2016 年以来，车载显示、医疗显示、智能可穿",
+      "text_normalized": "一定调整空间。自2016 年以来，车载显示、医疗显示、智能可穿",
+      "bbox": [
+        90.0,
+        263.38,
+        505.33,
+        277.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 13,
+      "text_raw": "戴、工控显示等新兴市场的快速发展，消化了相当比重的中小尺寸",
+      "text_normalized": "戴、工控显示等新兴市场的快速发展，消化了相当比重的中小尺寸",
+      "bbox": [
+        90.0,
+        290.62,
+        505.33,
+        304.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 14,
+      "text_raw": "面板产能，低世代生产线转型生产传感器和专业显示器的动力不断",
+      "text_normalized": "面板产能，低世代生产线转型生产传感器和专业显示器的动力不断",
+      "bbox": [
+        90.0,
+        317.74,
+        505.33,
+        331.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 15,
+      "text_raw": "增强。",
+      "text_normalized": "增强。",
+      "bbox": [
+        90.0,
+        344.98,
+        132.01,
+        359.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 16,
+      "text_raw": "中国大陆地区8.5 代及以上TFT-LCD 产线已达21 条（含在",
+      "text_normalized": "中国大陆地区8.5 代及以上TFT-LCD 产线已达21 条（含在",
+      "bbox": [
+        117.96,
+        378.22,
+        505.33,
+        392.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 17,
+      "text_raw": "建），其中中国大陆面板企业13 条（4 条在建）。2016 年1 月，习",
+      "text_normalized": "建），其中中国大陆面板企业13 条（4 条在建）。2016 年1 月，习",
+      "bbox": [
+        90.0,
+        405.46,
+        505.33,
+        419.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 18,
+      "text_raw": "近平总书记在重庆考察后指出“我国一些企业在推进供给侧结构性",
+      "text_normalized": "近平总书记在重庆考察后指出“我国一些企业在推进供给侧结构性",
+      "bbox": [
+        90.0,
+        432.7,
+        505.33,
+        446.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 19,
+      "text_raw": "改革方面，进行了成功的探索，重庆京东方生产的薄膜晶体管液晶",
+      "text_normalized": "改革方面，进行了成功的探索，重庆京东方生产的薄膜晶体管液晶",
+      "bbox": [
+        90.0,
+        459.94,
+        505.33,
+        474.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 20,
+      "text_raw": "显示器就是供给侧结构改革的成功案例”。通过产线世代升级、产",
+      "text_normalized": "显示器就是供给侧结构改革的成功案例”。通过产线世代升级、产",
+      "bbox": [
+        90.0,
+        487.18,
+        505.33,
+        501.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 21,
+      "text_raw": "线新技术升级以及向新兴市场转型，液晶面板领域在供给侧结构性",
+      "text_normalized": "线新技术升级以及向新兴市场转型，液晶面板领域在供给侧结构性",
+      "bbox": [
+        90.0,
+        514.42,
+        505.33,
+        528.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 22,
+      "text_raw": "改革方面迈出了成功探索的步伐。",
+      "text_normalized": "改革方面迈出了成功探索的步伐。",
+      "bbox": [
+        90.0,
+        541.66,
+        300.01,
+        555.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 23,
+      "text_raw": "近两年，中国大陆AMOLED 产业发展迅速，维信诺、京东方、天",
+      "text_normalized": "近两年，中国大陆AMOLED 产业发展迅速，维信诺、京东方、天",
+      "bbox": [
+        117.96,
+        574.9,
+        505.32,
+        588.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 24,
+      "text_raw": "马、华星光电等面板厂商，纷纷布局AMOLED 产线。目前已实现量产",
+      "text_normalized": "马、华星光电等面板厂商，纷纷布局AMOLED 产线。目前已实现量产",
+      "bbox": [
+        90.0,
+        602.14,
+        505.33,
+        616.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 25,
+      "text_raw": "的包括维信诺固安、维信诺国显昆山、京东方成都、天马武汉等7",
+      "text_normalized": "的包括维信诺固安、维信诺国显昆山、京东方成都、天马武汉等7",
+      "bbox": [
+        90.0,
+        629.38,
+        505.26,
+        643.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b026",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 26,
+      "text_raw": "条产线，另有在建产线7 条。",
+      "text_normalized": "条产线，另有在建产线7 条。",
+      "bbox": [
+        90.0,
+        656.62,
+        272.05,
+        670.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p014_b027",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 14,
+      "reading_order": 27,
+      "text_raw": "6",
+      "text_normalized": "6",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "1.全球新型显示面板产业变革加速"
+  ]
+}

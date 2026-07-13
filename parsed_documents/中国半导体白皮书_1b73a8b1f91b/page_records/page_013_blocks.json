@@ -1,0 +1,669 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 13,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 2,
+      "text_raw": "1.3.5 代工环节",
+      "text_normalized": "1.3.5 代工环节",
+      "bbox": [
+        63.63,
+        131.35,
+        133.35,
+        147.44
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.5 代工环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 3,
+      "text_raw": "总体上，全球晶圆制造代工市场由成熟制程（>=14nm）和先进制程（<14nm）组成。其中，成熟制程占据约70%的市场份额，先进制程芯片制造占据约30%，并且高度集中于台积电和三星（图7）。",
+      "text_normalized": "总体上，全球晶圆制造代工市场由成熟制程（>=14nm）和先进制程（<14nm）组成。其中，成熟制程占据约70%的市场份额，先进制程芯片制造占据约30%，并且高度集中于台积电和三星（图7）。",
+      "bbox": [
+        63.63,
+        156.86,
+        531.67,
+        185.75
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.5 代工环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 4,
+      "text_raw": "2020年，全球晶圆制造代工的总营收共计约5,000亿元。值得一提的是，作为老牌制造商，台积电积极布局各个制程，并且都取得了较高的市场份额，尤其是在14/16–20nm和5nm，台积电约占据了约9成的份额。",
+      "text_normalized": "2020年，全球晶圆制造代工的总营收共计约5,000亿元。值得一提的是，作为老牌制造商，台积电积极布局各个制程，并且都取得了较高的市场份额，尤其是在14/16–20nm和5nm，台积电约占据了约9成的份额。",
+      "bbox": [
+        63.63,
+        195.86,
+        531.72,
+        239.75
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.5 代工环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 5,
+      "text_raw": "1.3.6 封测环节",
+      "text_normalized": "1.3.6 封测环节",
+      "bbox": [
+        63.63,
+        251.35,
+        133.39,
+        267.44
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 6,
+      "text_raw": "贝恩参考各大公司年报、Yole、券商研报并进行案头研究后得到，2018–2020年，全球半导体封测营收的年复合增长率为3%，封装和测试的增速也均为约3%，是一个稳定的市场。",
+      "text_normalized": "贝恩参考各大公司年报、Yole、券商研报并进行案头研究后得到，2018–2020年，全球半导体封测营收的年复合增长率为3%，封装和测试的增速也均为约3%，是一个稳定的市场。",
+      "bbox": [
+        63.63,
+        276.86,
+        531.63,
+        305.75
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 7,
+      "text_raw": "•\t封装：指的是实现芯片电路与外部器件电气连接，并为芯片提供机械物理保护，包括传统封装和先进封装。",
+      "text_normalized": "• 封装：指的是实现芯片电路与外部器件电气连接，并为芯片提供机械物理保护，包括传统封装和先进封装。",
+      "bbox": [
+        63.63,
+        315.86,
+        531.79,
+        344.75
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 8,
+      "text_raw": "•\t测试：将封装完毕的芯片进行性能、持久性等方面的测试，包括初始测试（Initial Test，在不同环境下进行电气特性测试）和最后测试（Final test）。",
+      "text_normalized": "• 测试：将封装完毕的芯片进行性能、持久性等方面的测试，包括初始测试（Initial Test，在不同环境下进行电气特性测试）和最后测试（Final test）。",
+      "bbox": [
+        63.63,
+        354.86,
+        531.08,
+        383.75
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 9,
+      "text_raw": "图 7: 在芯片制造中，成熟制程占据约70%芯片制造总市场；先进制程芯片制造高度集中在少数厂商",
+      "text_normalized": "图 7: 在芯片制造中，成熟制程占据约70%芯片制造总市场；先进制程芯片制造高度集中在少数厂商",
+      "bbox": [
+        63.64,
+        458.12,
+        489.95,
+        472.76
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 10,
+      "text_raw": "2020⿦⋚䕵㟨⡸⎨憒⁕⽗喗㚨 (⒵‱⊵)ㆭ崓5⒵‱⊵",
+      "text_normalized": "2020⿦⋚䕵㟨⡸⎨憒⁕⽗喗㚨 (⒵‱⊵)ㆭ崓5⒵‱⊵",
+      "bbox": [
+        63.64,
+        498.35,
+        528.94,
+        522.37
+      ],
+      "font_size_estimate": 9.26,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 11,
+      "text_raw": "9413151873464455705891,396246",
+      "text_normalized": "9413151873464455705891,396246",
+      "bbox": [
+        122.95,
+        526.78,
+        504.1,
+        537.87
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 12,
+      "text_raw": "100%",
+      "text_normalized": "100%",
+      "bbox": [
+        63.64,
+        532.5,
+        84.42,
+        543.59
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 13,
+      "text_raw": "ύ㞑",
+      "text_normalized": "ύ㞑",
+      "bbox": [
+        421.2,
+        554.13,
+        437.19,
+        565.41
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 14,
+      "text_raw": "80",
+      "text_normalized": "80",
+      "bbox": [
+        75.37,
+        562.59,
+        84.41,
+        573.68
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 15,
+      "text_raw": "⋨⳵",
+      "text_normalized": "⋨⳵",
+      "bbox": [
+        121.75,
+        566.14,
+        137.74,
+        577.42
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 16,
+      "text_raw": "60",
+      "text_normalized": "60",
+      "bbox": [
+        75.37,
+        592.68,
+        84.41,
+        603.77
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 17,
+      "text_raw": "ᾟ吡⡯枷",
+      "text_normalized": "ᾟ吡⡯枷",
+      "bbox": [
+        113.75,
+        607.81,
+        145.73,
+        619.09
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 18,
+      "text_raw": "40",
+      "text_normalized": "40",
+      "bbox": [
+        75.37,
+        622.76,
+        84.41,
+        633.85
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 19,
+      "text_raw": "UMC",
+      "text_normalized": "UMC",
+      "bbox": [
+        120.49,
+        622.93,
+        138.99,
+        634.02
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 20,
+      "text_raw": "GlobalFoundries",
+      "text_normalized": "GlobalFoundries",
+      "bbox": [
+        99.93,
+        634.93,
+        159.54,
+        646.02
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 21,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        75.37,
+        652.85,
+        84.41,
+        663.94
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 22,
+      "text_raw": "╢䭡䚧",
+      "text_normalized": "╢䭡䚧",
+      "bbox": [
+        117.75,
+        660.36,
+        141.74,
+        671.65
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 23,
+      "text_raw": "0>130nm130nm65nm32/28nm5nm10nm–6nm14/16–20 nm40/45nm90nm",
+      "text_normalized": "0>130nm130nm65nm32/28nm5nm10nm–6nm14/16–20 nm40/45nm90nm",
+      "bbox": [
+        79.91,
+        682.95,
+        505.23,
+        713.11
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b024",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 24,
+      "text_raw": "㎂䌑⎨䭽 (>=14nm)⊺慍⎨䭽 (<14nm) ",
+      "text_normalized": "㎂䌑⎨䭽 (>=14nm)⊺慍⎨䭽 (<14nm)",
+      "bbox": [
+        195.18,
+        714.89,
+        475.6,
+        726.5
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b025",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 25,
+      "text_raw": "㹚Ѫ1.὿⑷㑞 IDMҡ⃽⫴呣䏫ⶆҢ◾ 200mm wafer 喗㚨Ѹ2.ύ㞑Ⓖ⵮⃅㟨⡸⁕⽗ᾟ䟶㎂䌑⎨䭽喗㚨倘360‱⊵Ѭ₸㝒㹇㑻䋙⎨䭽㐸⍸Ѭ⡒㳖㢜⑷▝⢚㳖⡰⋷Ѹύ㞑⊺慍⎨䭽䟶喗㚨㞡⥬ ╢䭡䚧⿥⢹⚠⁩Ὴ⁗ύ㞑’副 (Gartner) 崓䴉㎲ㄉ䟶Ѹ ύ㞑㎂䌑⎨䭽㞡⥬ ύ㞑⁕⽗ㆭ喗㚨 (㣗䀂 TrendForce). ⍁┭⊺慍⎨䭽喗㚨㎲ㄉ庶㜋㣗䀂Ѫ IC Insights 2020Ѹ GartnerѸ╢䭡䚧应㐗Ѹᾟ吡⡯枷应㐗ѸTrendForceѸ 㦺⪦䦆䯨",
+      "text_normalized": "㹚Ѫ1.὿⑷㑞 IDMҡ⃽⫴呣䏫ⶆҢ◾ 200mm wafer 喗㚨Ѹ2.ύ㞑Ⓖ⵮⃅㟨⡸⁕⽗ᾟ䟶㎂䌑⎨䭽喗㚨倘360‱⊵Ѭ₸㝒㹇㑻䋙⎨䭽㐸⍸Ѭ⡒㳖㢜⑷▝⢚㳖⡰⋷Ѹύ㞑⊺慍⎨䭽䟶喗㚨㞡⥬ ╢䭡䚧⿥⢹⚠⁩Ὴ⁗ύ㞑’副 (Gartner) 崓䴉㎲ㄉ䟶Ѹ ύ㞑㎂䌑⎨䭽㞡⥬ ύ㞑⁕⽗ㆭ喗㚨 (㣗䀂 TrendForce). ⍁┭⊺慍⎨䭽喗㚨㎲ㄉ庶㜋㣗䀂Ѫ IC Insights 2020Ѹ GartnerѸ╢䭡䚧应㐗Ѹᾟ吡⡯枷应㐗ѸTrendForceѸ 㦺⪦䦆䯨",
+      "bbox": [
+        63.64,
+        738.73,
+        522.28,
+        763.62
+      ],
+      "font_size_estimate": 6.5,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p013_b026",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 13,
+      "reading_order": 26,
+      "text_raw": "11",
+      "text_normalized": "11",
+      "bbox": [
+        294.05,
+        798.21,
+        301.23,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+        "1.3.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 全球半导体产业链概况",
+    "4.10.72.21.93.11.01.51.14.31.60.31.53.50.72.40.4",
+    "1.3.6 封测环节"
+  ]
+}

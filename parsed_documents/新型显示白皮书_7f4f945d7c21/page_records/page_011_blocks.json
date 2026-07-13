@@ -1,0 +1,565 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 11,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 1,
+      "text_raw": "1. 效益优势",
+      "text_normalized": "1. 效益优势",
+      "bbox": [
+        117.96,
+        71.97,
+        189.61,
+        90.64
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 2,
+      "text_raw": "产业链的形成，加速了产业聚集发展，体现了产业规模效应。",
+      "text_normalized": "产业链的形成，加速了产业聚集发展，体现了产业规模效应。",
+      "bbox": [
+        117.96,
+        111.22,
+        495.96,
+        125.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 3,
+      "text_raw": "产业链关联性越强，链条越紧密，各方面资源调配效率也越高，资",
+      "text_normalized": "产业链关联性越强，链条越紧密，各方面资源调配效率也越高，资",
+      "bbox": [
+        90.0,
+        138.58,
+        496.08,
+        152.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 4,
+      "text_raw": "源的加工深度也越强。成熟完备的产业链，有助于增加资金积累，",
+      "text_normalized": "源的加工深度也越强。成熟完备的产业链，有助于增加资金积累，",
+      "bbox": [
+        90.0,
+        165.82,
+        496.08,
+        179.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 5,
+      "text_raw": "增强核心竞争力，扩大市场占有率，降低采购、营销和物流等环节",
+      "text_normalized": "增强核心竞争力，扩大市场占有率，降低采购、营销和物流等环节",
+      "bbox": [
+        90.0,
+        192.94,
+        496.08,
+        207.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 6,
+      "text_raw": "的成本，从而获得良好的经济效益。",
+      "text_normalized": "的成本，从而获得良好的经济效益。",
+      "bbox": [
+        90.0,
+        220.18,
+        314.05,
+        234.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 7,
+      "text_raw": "2.风险防控优势",
+      "text_normalized": "2.风险防控优势",
+      "bbox": [
+        117.96,
+        257.37,
+        213.61,
+        276.04
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.风险防控优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 8,
+      "text_raw": "产业链各环节科学分工，能够降低生产成本和经营风险。企业",
+      "text_normalized": "产业链各环节科学分工，能够降低生产成本和经营风险。企业",
+      "bbox": [
+        117.96,
+        296.74,
+        495.96,
+        310.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.风险防控优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 9,
+      "text_raw": "之间既竞争又结盟，互相创造需求又共同向着更高水平迈进。产业",
+      "text_normalized": "之间既竞争又结盟，互相创造需求又共同向着更高水平迈进。产业",
+      "bbox": [
+        90.0,
+        323.98,
+        496.08,
+        338.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.风险防控优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 10,
+      "text_raw": "链上下游协同共进，形成上下游关联，产品互补、资源互补、功能",
+      "text_normalized": "链上下游协同共进，形成上下游关联，产品互补、资源互补、功能",
+      "bbox": [
+        90.0,
+        351.22,
+        496.08,
+        365.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.风险防控优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 11,
+      "text_raw": "互补的产业生态，能够增强全产业和区域经济的抗风险能力，符合",
+      "text_normalized": "互补的产业生态，能够增强全产业和区域经济的抗风险能力，符合",
+      "bbox": [
+        90.0,
+        378.46,
+        496.08,
+        392.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.风险防控优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 12,
+      "text_raw": "可持续发展的要求。",
+      "text_normalized": "可持续发展的要求。",
+      "bbox": [
+        90.0,
+        405.58,
+        216.01,
+        419.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.风险防控优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 13,
+      "text_raw": "3.创新优势",
+      "text_normalized": "3.创新优势",
+      "bbox": [
+        117.96,
+        442.77,
+        185.65,
+        461.44
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 14,
+      "text_raw": "随着全球一体化程度的加深，产业链的特性已发生深刻变化，",
+      "text_normalized": "随着全球一体化程度的加深，产业链的特性已发生深刻变化，",
+      "bbox": [
+        117.96,
+        482.14,
+        505.33,
+        496.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 15,
+      "text_raw": "产业链构成企业，既大幅增加，又更为专业化，协同的方式也由过",
+      "text_normalized": "产业链构成企业，既大幅增加，又更为专业化，协同的方式也由过",
+      "bbox": [
+        90.0,
+        509.38,
+        505.33,
+        523.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 16,
+      "text_raw": "去浅层的利益交易，逐渐发展成为以战略联盟、优势互补、资源共",
+      "text_normalized": "去浅层的利益交易，逐渐发展成为以战略联盟、优势互补、资源共",
+      "bbox": [
+        90.0,
+        536.62,
+        505.33,
+        550.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 17,
+      "text_raw": "享、流程对接和文化融合为特征的深度合作。围绕产业链布置创新",
+      "text_normalized": "享、流程对接和文化融合为特征的深度合作。围绕产业链布置创新",
+      "bbox": [
+        90.0,
+        563.86,
+        505.33,
+        577.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 18,
+      "text_raw": "链，以企业为创新主体，提高科技成果转化率，加强产学研用相结",
+      "text_normalized": "链，以企业为创新主体，提高科技成果转化率，加强产学研用相结",
+      "bbox": [
+        90.0,
+        591.1,
+        505.33,
+        605.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 19,
+      "text_raw": "合，能够有效消除科技创新中的“孤岛效应”。",
+      "text_normalized": "合，能够有效消除科技创新中的“孤岛效应”。",
+      "bbox": [
+        90.0,
+        618.22,
+        384.01,
+        632.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.创新优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 20,
+      "text_raw": "4.竞争优势",
+      "text_normalized": "4.竞争优势",
+      "bbox": [
+        117.96,
+        655.53,
+        185.65,
+        674.2
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 21,
+      "text_raw": "当前全球新型显示产业，国家与国家，地区与地区之间的竞",
+      "text_normalized": "当前全球新型显示产业，国家与国家，地区与地区之间的竞",
+      "bbox": [
+        117.96,
+        694.78,
+        505.32,
+        708.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 22,
+      "text_raw": "争，主要表现为：龙头企业主导的产业链之间、对关键资源以及关",
+      "text_normalized": "争，主要表现为：龙头企业主导的产业链之间、对关键资源以及关",
+      "bbox": [
+        90.0,
+        722.02,
+        505.33,
+        736.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p011_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 11,
+      "reading_order": 23,
+      "text_raw": "3",
+      "text_normalized": "3",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "4.竞争优势"
+  ]
+}

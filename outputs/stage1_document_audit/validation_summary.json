@@ -1,0 +1,12 @@
+{
+  "documents.csv包含本PDF记录": true,
+  "page_manifest.csv行数等于PDF页数": true,
+  "页码连续且无缺失": true,
+  "所有渲染页PNG存在": true,
+  "high_value_pages.csv已生成": true,
+  "sample_review.csv已生成": true,
+  "document_audit_report.md已生成": true,
+  "CSV使用UTF-8-SIG写入": true,
+  "PDF哈希前后一致": true,
+  "未执行OCR/LLM/关系抽取": true
+}

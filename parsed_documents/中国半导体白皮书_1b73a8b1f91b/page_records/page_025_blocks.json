@@ -1,0 +1,17 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 25,
+  "page_type": "mixed",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "maybe",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "第25页按阶段边界仅保留页面级元信息，未执行OCR，未纳入正文证据主流程。",
+  "blocks": [],
+  "section_path": [
+    "unknown_section"
+  ]
+}

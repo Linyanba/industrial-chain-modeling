@@ -1,0 +1,42 @@
+﻿canonical_entity_id,canonical_name,entity_type,entity_level,value_chain_stage,source_entity_candidate_ids,aliases,evidence_count,relation_degree,confidence_level,review_status,review_reason
+CE0001,设计,process,L4_object,midstream,t01_e01;t04_e01;t08_e06,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['industry_link', 'process'] -> process"
+CE0002,代工,process,L4_object,midstream,t01_e02;t04_e02;t08_e07,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['industry_link', 'process'] -> process"
+CE0003,封装,industry_link,L3_industry_link,midstream,t01_e03;t04_e03;t04_e06;t04_e08;t05_e01;t08_e08,,4,1,high,auto_candidate,"同名类型已按证据规则合并: ['industry_link', 'process'] -> industry_link"
+CE0004,测试,industry_link,L3_industry_link,midstream,t01_e04;t04_e04;t04_e09;t05_e02;t08_e09,,3,1,high,review_required,"同名类型无法唯一判定: ['industry_link', 'process']"
+CE0005,EDA,technology,L4_object,supporting,t01_e05,,1,0,medium,auto_candidate,
+CE0006,计算芯片,unknown,unknown,unknown,t01_e06;t08_e10,,1,2,medium,auto_candidate,"同名类型已按证据规则合并: ['product', 'unknown'] -> unknown"
+CE0007,汽车半导体,product,L4_object,unknown,t01_e07;t07_e08,,1,0,medium,auto_candidate,
+CE0008,先进封装技术,technology,L4_object,supporting,t01_e08,,1,0,medium,auto_candidate,
+CE0009,2.5D/3D先进封装,technology,L4_object,supporting,t01_e09,,1,0,medium,auto_candidate,
+CE0010,设备,equipment,L4_object,upstream,t03_e01;t09_e01,,1,0,medium,auto_candidate,
+CE0011,原材料,material,L4_object,upstream,t03_e02;t09_e02,,1,0,medium,auto_candidate,
+CE0012,EDA软件,technology,L4_object,supporting,t03_e03;t09_e03,,1,0,medium,auto_candidate,
+CE0013,硅片,material,L4_object,upstream,t03_e04;t09_e04,,1,0,medium,auto_candidate,
+CE0014,金属,material,L4_object,upstream,t03_e05;t09_e05,,1,0,medium,auto_candidate,
+CE0015,化学品,material,L4_object,upstream,t03_e06;t09_e06,,1,0,medium,auto_candidate,
+CE0016,气体,material,L4_object,upstream,t03_e07;t09_e07,,1,0,medium,auto_candidate,
+CE0017,封装材料,material,L4_object,upstream,t03_e08;t09_e08,,1,0,medium,auto_candidate,
+CE0018,基材,material,L4_object,upstream,t03_e09;t09_e09,,1,0,medium,auto_candidate,
+CE0019,光刻机,equipment,L4_object,upstream,t03_e10,,1,0,medium,auto_candidate,
+CE0020,晶圆缺陷监测系统,equipment,L4_object,upstream,t03_e11,,1,0,medium,auto_candidate,
+CE0021,封测,industry_link,L3_industry_link,unknown,t04_e07,,1,0,medium,auto_candidate,
+CE0022,芯片,product,L4_object,unknown,t05_e05,,1,0,medium,auto_candidate,
+CE0023,OSAT,industry_link,L3_industry_link,unknown,t05_e06,,1,0,medium,auto_candidate,
+CE0024,日月光集团,company,auxiliary,supporting,t05_e07,,1,0,medium,auto_candidate,
+CE0025,安靠科技,company,auxiliary,supporting,t05_e08,,1,0,medium,auto_candidate,
+CE0026,集成电路,product,L4_object,unknown,t07_e01,,1,0,medium,auto_candidate,
+CE0027,光电子器件,product,L4_object,unknown,t07_e02,,1,0,medium,auto_candidate,
+CE0028,分立器件,product,L4_object,unknown,t07_e03,,1,0,medium,auto_candidate,
+CE0029,传感器,product,L4_object,unknown,t07_e04,,1,0,medium,auto_candidate,
+CE0030,封装和测试环节,industry_link,L3_industry_link,midstream,t07_e05,,1,0,medium,auto_candidate,
+CE0031,GPU,unknown,unknown,unknown,t07_e07;t08_e11,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['product', 'unknown'] -> unknown"
+CE0032,晶圆制造,process,L4_object,midstream,t08_e01,,1,4,medium,auto_candidate,
+CE0033,沉积,process,L4_object,midstream,t08_e02,,1,1,medium,auto_candidate,
+CE0034,光刻,process,L4_object,midstream,t08_e03;t09_e13,,1,1,medium,auto_candidate,
+CE0035,刻蚀,process,L4_object,midstream,t08_e04;t09_e14,,1,1,medium,auto_candidate,
+CE0036,离子注入,process,L4_object,midstream,t08_e05;t09_e15,,1,1,medium,auto_candidate,
+CE0037,ASIC,unknown,unknown,unknown,t08_e12,,1,1,medium,auto_candidate,
+CE0038,硅晶圆,material,L4_object,upstream,t09_e10,,1,0,medium,auto_candidate,
+CE0039,沉积设备,equipment,L4_object,upstream,t09_e12,,1,0,medium,auto_candidate,
+CE0040,AI推理芯片,product,L4_object,unknown,t09_e22,,1,0,medium,auto_candidate,
+CE0041,半导体生态,process,L4_object,midstream,from_relation,,0,4,low,review_required,仅出现在关系端点，无独立实体候选

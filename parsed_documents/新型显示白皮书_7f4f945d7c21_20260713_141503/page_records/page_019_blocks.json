@@ -1,0 +1,139 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 19,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p019_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 19,
+      "reading_order": 1,
+      "text_raw": "3) 鼓励新型显示材料产业发展的政策需要突出",
+      "text_normalized": "3) 鼓励新型显示材料产业发展的政策需要突出",
+      "bbox": [
+        90.0,
+        74.02,
+        377.29,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p019_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 19,
+      "reading_order": 2,
+      "text_raw": "新材料首批次保险政策，为显示材料的用户认证提供了风险防",
+      "text_normalized": "新材料首批次保险政策，为显示材料的用户认证提供了风险防",
+      "bbox": [
+        117.96,
+        107.26,
+        495.96,
+        121.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p019_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 19,
+      "reading_order": 3,
+      "text_raw": "控。为支持显示材料产业发展，培育更多本地化显示材料企业，建",
+      "text_normalized": "控。为支持显示材料产业发展，培育更多本地化显示材料企业，建",
+      "bbox": [
+        90.0,
+        134.5,
+        496.09,
+        148.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p019_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 19,
+      "reading_order": 4,
+      "text_raw": "议政策鼓励国内外企业加大在显示材料领域的投资。",
+      "text_normalized": "议政策鼓励国内外企业加大在显示材料领域的投资。",
+      "bbox": [
+        90.0,
+        161.74,
+        411.97,
+        175.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p019_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 19,
+      "reading_order": 5,
+      "text_raw": "11",
+      "text_normalized": "11",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "3.环保政策趋紧细化"
+  ]
+}

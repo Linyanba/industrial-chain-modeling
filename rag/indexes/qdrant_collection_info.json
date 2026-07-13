@@ -1,0 +1,16 @@
+{
+  "collection": "kb_f96baba2fc0d",
+  "qdrant_url": "http://localhost:6333",
+  "vector_size": 1024,
+  "distance": "Cosine",
+  "points_count": 87,
+  "status": "green",
+  "payload_index_status": {
+    "doc_id": "created",
+    "root_model": "created",
+    "page_start": "created",
+    "content_type": "created",
+    "stage3_priority": "created",
+    "review_required": "created"
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 34,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 1,
+      "text_raw": "产业核心竞争力。发挥面板企业带动作用，产学研用联合攻关、重",
+      "text_normalized": "产业核心竞争力。发挥面板企业带动作用，产学研用联合攻关、重",
+      "bbox": [
+        90.0,
+        74.02,
+        505.33,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 2,
+      "text_raw": "点突破。",
+      "text_normalized": "点突破。",
+      "bbox": [
+        90.0,
+        101.26,
+        146.05,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 3,
+      "text_raw": "4.加强高端人才培养",
+      "text_normalized": "4.加强高端人才培养",
+      "bbox": [
+        117.96,
+        132.45,
+        241.69,
+        151.12
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 4,
+      "text_raw": "建立创新人才培养机制，一是加强创新人才队伍建设，推进新",
+      "text_normalized": "建立创新人才培养机制，一是加强创新人才队伍建设，推进新",
+      "bbox": [
+        117.96,
+        167.74,
+        505.33,
+        181.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 5,
+      "text_raw": "型显示材料领域教育、人才、劳动、分配等制度改革，营造适宜高",
+      "text_normalized": "型显示材料领域教育、人才、劳动、分配等制度改革，营造适宜高",
+      "bbox": [
+        90.0,
+        194.98,
+        505.33,
+        209.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 6,
+      "text_raw": "层次人才成长与脱颖而出的良性环境，建立不同类型人才的评价体",
+      "text_normalized": "层次人才成长与脱颖而出的良性环境，建立不同类型人才的评价体",
+      "bbox": [
+        90.0,
+        222.22,
+        505.33,
+        236.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 7,
+      "text_raw": "系；二是积极引导各类人才与团队通过平台、基地、联盟等形式开",
+      "text_normalized": "系；二是积极引导各类人才与团队通过平台、基地、联盟等形式开",
+      "bbox": [
+        90.0,
+        249.46,
+        505.33,
+        263.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 8,
+      "text_raw": "展合作协议，强化原始创新能力和高技术转移转化能力；三是加强",
+      "text_normalized": "展合作协议，强化原始创新能力和高技术转移转化能力；三是加强",
+      "bbox": [
+        90.0,
+        276.7,
+        505.33,
+        290.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 9,
+      "text_raw": "企业、高校及科研院所的合作，联合培养显示材料领域人才，建立",
+      "text_normalized": "企业、高校及科研院所的合作，联合培养显示材料领域人才，建立",
+      "bbox": [
+        90.0,
+        303.94,
+        505.33,
+        318.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 10,
+      "text_raw": "产、学、研、用全方位综合化的人才培养机制。",
+      "text_normalized": "产、学、研、用全方位综合化的人才培养机制。",
+      "bbox": [
+        90.0,
+        331.18,
+        384.0,
+        345.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.加强高端人才培养"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 11,
+      "text_raw": "5.创新质量保障机制",
+      "text_normalized": "5.创新质量保障机制",
+      "bbox": [
+        117.96,
+        362.37,
+        241.69,
+        381.04
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 12,
+      "text_raw": "建立国家公共创新平台。针对工艺迭代等技术难题，集中行业",
+      "text_normalized": "建立国家公共创新平台。针对工艺迭代等技术难题，集中行业",
+      "bbox": [
+        117.96,
+        397.66,
+        505.33,
+        411.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 13,
+      "text_raw": "力量解决关键共性问题，推动材料企业质量持续提升。行业管理部",
+      "text_normalized": "力量解决关键共性问题，推动材料企业质量持续提升。行业管理部",
+      "bbox": [
+        90.0,
+        424.9,
+        505.33,
+        438.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 14,
+      "text_raw": "门制定显示材料达标管理目录，依托第三方评价机构对显示材料的",
+      "text_normalized": "门制定显示材料达标管理目录，依托第三方评价机构对显示材料的",
+      "bbox": [
+        90.0,
+        452.02,
+        505.33,
+        466.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 15,
+      "text_raw": "技术指标进行公正测评。在鼓励显示面板企业采用本土材料方面，",
+      "text_normalized": "技术指标进行公正测评。在鼓励显示面板企业采用本土材料方面，",
+      "bbox": [
+        90.0,
+        479.38,
+        505.33,
+        493.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 16,
+      "text_raw": "加强税收优惠等直接鼓励政策。在融资、产业园区规划、重大项目",
+      "text_normalized": "加强税收优惠等直接鼓励政策。在融资、产业园区规划、重大项目",
+      "bbox": [
+        90.0,
+        506.62,
+        505.33,
+        520.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 17,
+      "text_raw": "实施等方面，加大对显示材料企业的支持力度。",
+      "text_normalized": "实施等方面，加大对显示材料企业的支持力度。",
+      "bbox": [
+        90.0,
+        533.86,
+        384.0,
+        547.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.创新质量保障机制"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 18,
+      "text_raw": "6.加强标准和知识产权战略布局",
+      "text_normalized": "6.加强标准和知识产权战略布局",
+      "bbox": [
+        117.96,
+        564.93,
+        311.65,
+        583.6
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 19,
+      "text_raw": "加强新型显示材料领域标准化建设，发挥标准支撑、引领产业",
+      "text_normalized": "加强新型显示材料领域标准化建设，发挥标准支撑、引领产业",
+      "bbox": [
+        117.96,
+        600.22,
+        495.96,
+        614.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 20,
+      "text_raw": "发展的作用。标准和知识产权是围绕产业链部署创新链的重要组",
+      "text_normalized": "发展的作用。标准和知识产权是围绕产业链部署创新链的重要组",
+      "bbox": [
+        90.0,
+        627.58,
+        482.04,
+        641.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 21,
+      "text_raw": "成，面板企业以先进标准带动产业链上游创新，能够有效规避创新",
+      "text_normalized": "成，面板企业以先进标准带动产业链上游创新，能够有效规避创新",
+      "bbox": [
+        90.0,
+        654.7,
+        496.08,
+        668.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 22,
+      "text_raw": "孤岛效应。加强知识产权布局，协同合作夯实产业基础，推进核心",
+      "text_normalized": "孤岛效应。加强知识产权布局，协同合作夯实产业基础，推进核心",
+      "bbox": [
+        90.0,
+        681.94,
+        496.08,
+        696.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 23,
+      "text_raw": "技术和知识产权储备，探索企业间专利交叉使用的路径，鼓励以企",
+      "text_normalized": "技术和知识产权储备，探索企业间专利交叉使用的路径，鼓励以企",
+      "bbox": [
+        90.0,
+        709.18,
+        496.09,
+        723.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p034_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 34,
+      "reading_order": 24,
+      "text_raw": "26",
+      "text_normalized": "26",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "6.加强标准和知识产权战略布局"
+  ]
+}

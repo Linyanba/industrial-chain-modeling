@@ -1,0 +1,571 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 29,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 1,
+      "text_raw": "四、新型显示材料供需分析及措施建议",
+      "text_normalized": "四、新型显示材料供需分析及措施建议",
+      "bbox": [
+        122.04,
+        74.43,
+        398.51,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 2,
+      "text_raw": "（一）新型显示材料需求特点",
+      "text_normalized": "（一）新型显示材料需求特点",
+      "bbox": [
+        120.0,
+        124.32,
+        315.0,
+        139.55
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 3,
+      "text_raw": "1.材料质量一致性要求高",
+      "text_normalized": "1.材料质量一致性要求高",
+      "bbox": [
+        117.96,
+        167.73,
+        269.65,
+        186.4
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.材料质量一致性要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 4,
+      "text_raw": "材料性能和质量一致性对显示面板生产中的工艺稳定性、产品",
+      "text_normalized": "材料性能和质量一致性对显示面板生产中的工艺稳定性、产品",
+      "bbox": [
+        117.96,
+        207.1,
+        505.33,
+        221.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.材料质量一致性要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 5,
+      "text_raw": "良率和成本的影响极大，如玻璃基板的表面粗糙度、有机发光材料",
+      "text_normalized": "良率和成本的影响极大，如玻璃基板的表面粗糙度、有机发光材料",
+      "bbox": [
+        90.0,
+        234.34,
+        505.33,
+        248.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.材料质量一致性要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 6,
+      "text_raw": "的热稳定性、液晶材料的化学稳定性和湿化学品的纯度等指标细微",
+      "text_normalized": "的热稳定性、液晶材料的化学稳定性和湿化学品的纯度等指标细微",
+      "bbox": [
+        90.0,
+        261.58,
+        505.33,
+        275.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.材料质量一致性要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 7,
+      "text_raw": "波动，都会在产线上逐层放大，最终影响面板质量和良率。因此，",
+      "text_normalized": "波动，都会在产线上逐层放大，最终影响面板质量和良率。因此，",
+      "bbox": [
+        90.0,
+        288.82,
+        505.33,
+        302.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.材料质量一致性要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 8,
+      "text_raw": "显示材料性能和质量是显示面板行业成本竞争的关键之一。",
+      "text_normalized": "显示材料性能和质量是显示面板行业成本竞争的关键之一。",
+      "bbox": [
+        90.0,
+        316.06,
+        454.08,
+        330.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.材料质量一致性要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 9,
+      "text_raw": "2.材料规模化产能要求高",
+      "text_normalized": "2.材料规模化产能要求高",
+      "bbox": [
+        117.96,
+        353.13,
+        269.65,
+        371.8
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 10,
+      "text_raw": "目前中国大陆已经发展成为全球最大显示面板生产地和全球最",
+      "text_normalized": "目前中国大陆已经发展成为全球最大显示面板生产地和全球最",
+      "bbox": [
+        117.96,
+        392.5,
+        505.33,
+        406.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 11,
+      "text_raw": "大的显示材料需求市场，对材料企业的产能也提出了更高的要求。",
+      "text_normalized": "大的显示材料需求市场，对材料企业的产能也提出了更高的要求。",
+      "bbox": [
+        90.0,
+        419.74,
+        505.33,
+        433.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 12,
+      "text_raw": "在产品性能和一致性达到需方要求的基础上，产能规模成为了打开",
+      "text_normalized": "在产品性能和一致性达到需方要求的基础上，产能规模成为了打开",
+      "bbox": [
+        90.0,
+        446.98,
+        505.33,
+        461.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 13,
+      "text_raw": "需方市场的关键。以玻璃基板为例，每块液晶面板需要两块玻璃基",
+      "text_normalized": "需方市场的关键。以玻璃基板为例，每块液晶面板需要两块玻璃基",
+      "bbox": [
+        90.0,
+        474.22,
+        505.33,
+        488.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 14,
+      "text_raw": "板，按照2017 年全球面板总出货量近2 亿平方米，中国大陆占全球",
+      "text_normalized": "板，按照2017 年全球面板总出货量近2 亿平方米，中国大陆占全球",
+      "bbox": [
+        90.0,
+        501.46,
+        505.33,
+        515.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 15,
+      "text_raw": "总量的35%左右，对玻璃基板需求约1.4 亿平方米。中国大陆显示",
+      "text_normalized": "总量的35%左右，对玻璃基板需求约1.4 亿平方米。中国大陆显示",
+      "bbox": [
+        90.0,
+        528.7,
+        505.33,
+        542.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 16,
+      "text_raw": "面板巨大的材料需求，明显超过显示材料行业规模，预计未来几年",
+      "text_normalized": "面板巨大的材料需求，明显超过显示材料行业规模，预计未来几年",
+      "bbox": [
+        90.0,
+        555.82,
+        505.33,
+        569.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 17,
+      "text_raw": "这种供需差距还将继续保持甚至加大。2016 年-2020 年中国大陆显",
+      "text_normalized": "这种供需差距还将继续保持甚至加大。2016 年-2020 年中国大陆显",
+      "bbox": [
+        90.0,
+        583.18,
+        505.33,
+        597.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 18,
+      "text_raw": "示材料需求的增长，普遍超过材料的供给能力增长，尤其是OLED 材",
+      "text_normalized": "示材料需求的增长，普遍超过材料的供给能力增长，尤其是OLED 材",
+      "bbox": [
+        90.0,
+        610.42,
+        505.33,
+        624.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 19,
+      "text_raw": "料和显示芯片。",
+      "text_normalized": "料和显示芯片。",
+      "bbox": [
+        90.0,
+        637.54,
+        188.05,
+        651.63
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.材料规模化产能要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 20,
+      "text_raw": "3.快速响应的服务能力要求高",
+      "text_normalized": "3.快速响应的服务能力要求高",
+      "bbox": [
+        117.96,
+        674.73,
+        297.61,
+        693.4
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 21,
+      "text_raw": "2016 年以来，中国大陆显示面板产品结构调整、产线升级换代",
+      "text_normalized": "2016 年以来，中国大陆显示面板产品结构调整、产线升级换代",
+      "bbox": [
+        117.96,
+        714.1,
+        505.32,
+        728.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 22,
+      "text_raw": "和技术水平更新速度全球领先。2018 年以来全球高世代液晶面板产",
+      "text_normalized": "和技术水平更新速度全球领先。2018 年以来全球高世代液晶面板产",
+      "bbox": [
+        90.0,
+        741.34,
+        505.2,
+        755.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p029_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 29,
+      "reading_order": 23,
+      "text_raw": "21",
+      "text_normalized": "21",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "3.快速响应的服务能力要求高"
+  ]
+}

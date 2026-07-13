@@ -1,0 +1,138 @@
+# 阶段 4.6 本地大模型辅助自动审核并自动应用修改配置
+# 核心思想：qwen3:8b 在给定证据/候选/schema/审核问题范围内生成可校验修改补丁
+# 禁止：调用外部API、联网搜索、重新抽取、新增无证据关系、生成正式图谱、写Neo4j
+
+project_root: "D:\\产业链建模"
+
+stage4_5:
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage4_5_run.txt"
+  required_files:
+    - "minimal_human_review_sheet.csv"
+    - "conservative_canonical_entities.csv"
+    - "conservative_normalized_relations.csv"
+    - "conservative_relation_evidence_map.csv"
+    - "conservative_industry_chain_draft.md"
+    - "auto_alias_merge_suggestions.csv"
+    - "auto_relation_fix_suggestions.csv"
+    - "auto_review_decisions.csv"
+    - "stage4_5_review_reduction_report.md"
+    - "validation_summary.json"
+
+# Ollama 配置
+ollama:
+  url: "http://localhost:11434"
+  model: "qwen3:8b"
+  endpoint: "/api/generate"
+  options:
+    temperature: 0
+    num_predict: 4096
+    think: false
+  stream: false
+  format: "json"
+
+# 允许的枚举值
+allowed_values:
+  decision: ["approve", "revise", "merge", "split", "reject", "defer"]
+  risk_level: ["low", "medium", "high"]
+  action_type:
+    - "set_entity_level"
+    - "set_entity_type"
+    - "set_value_chain_stage"
+    - "rename_entity"
+    - "merge_entities"
+    - "split_entity_suggestion"
+    - "set_relation_subject"
+    - "set_relation_object"
+    - "set_relation_type"
+    - "approve_entity"
+    - "approve_relation"
+    - "defer_item"
+    - "reject_item"
+  entity_level:
+    - "L0_industry"
+    - "L1_sector"
+    - "L2_sub_chain"
+    - "L3_industry_link"
+    - "L4_object"
+    - "auxiliary"
+    - "unknown"
+  entity_type:
+    - "industry"
+    - "sector"
+    - "sub_chain"
+    - "industry_link"
+    - "process"
+    - "material"
+    - "component"
+    - "product"
+    - "equipment"
+    - "technology"
+    - "application"
+    - "company"
+    - "organization"
+    - "region"
+    - "policy"
+    - "standard"
+    - "unknown"
+  relation_type:
+    - "PART_OF"
+    - "INPUT_TO"
+    - "OUTPUT_OF"
+    - "SUPPLIES_TO"
+    - "PROCESSES"
+    - "MANUFACTURES"
+    - "OPERATES_IN"
+    - "SERVES"
+    - "USES_TECHNOLOGY"
+    - "LOCATED_IN"
+    - "REGULATES"
+    - "GOVERNS"
+    - "RECYCLES"
+    - "SUBSTITUTES"
+  value_chain_stage:
+    - "upstream"
+    - "midstream"
+    - "downstream"
+    - "supporting"
+    - "recycling"
+    - "cross_stage"
+    - "unknown"
+  approval_status:
+    - "approved"
+    - "approved_with_revision"
+    - "deferred"
+    - "rejected"
+
+# 保守策略默认预设：通用流程不提供任何固定行业默认答案。
+conservative_defaults: {}
+
+# 自动应用规则
+auto_apply_rules:
+  allow_auto_apply_decisions: ["approve", "revise", "merge"]
+  block_auto_apply_decisions: ["split", "reject", "defer"]
+  block_high_risk: true
+  block_can_auto_apply_false: true
+  max_retry: 1
+
+# 输出配置
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "stage4_6_llm_auto_apply_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage4_6_run.txt"
+  csv_encoding: "utf-8-sig"
+
+boundary:
+  stage: "4.6"
+  scope: "本地LLM辅助审核、补丁校验、自动应用修改、approved文件生成"
+  forbidden:
+    - "调用外部云端 API"
+    - "联网搜索"
+    - "重新抽取新实体或新关系"
+    - "新增无证据关系"
+    - "从rejected/archived恢复为approved"
+    - "将forecast/trend/policy_goal/investment当作现实关系"
+    - "自动执行split_entity_suggestion"
+    - "生成正式图谱"
+    - "写入 Neo4j"
+    - "修改原始 PDF"
+    - "覆盖阶段 1/2/3A/3B/3C/4/4.5 输出"

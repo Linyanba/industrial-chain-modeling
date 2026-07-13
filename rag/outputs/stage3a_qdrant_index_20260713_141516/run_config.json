@@ -1,0 +1,27 @@
+{
+  "timestamp": "20260713_141516",
+  "project_root": "D:\\产业链建模",
+  "parsed_dir": "D:\\产业链建模\\parsed_documents\\新型显示白皮书_7f4f945d7c21_20260713_141503",
+  "evidence_file": "D:\\产业链建模\\parsed_documents\\新型显示白皮书_7f4f945d7c21_20260713_141503\\evidence_chunks.jsonl",
+  "collection": "kb_f96baba2fc0d",
+  "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+  "qdrant_url": "http://localhost:6333",
+  "recreate": true,
+  "batch_size": 32,
+  "max_chunks": 0,
+  "dry_run": false,
+  "root_model": "新型显示产业链",
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "total_chunks": 199,
+  "selected_count": 87,
+  "excluded_count": 112,
+  "excluded_reasons": {
+    "cover_page": 4,
+    "toc_page": 1,
+    "garbled_text": 42,
+    "review_required": 50,
+    "page25_qr_brand": 4,
+    "not_in_allowlist": 7,
+    "table": 4
+  }
+}

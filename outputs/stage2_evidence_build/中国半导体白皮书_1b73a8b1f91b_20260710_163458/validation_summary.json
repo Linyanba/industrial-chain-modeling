@@ -1,0 +1,14 @@
+{
+  "原始PDF_SHA256_运行前后相同": true,
+  "document_structure_json存在": true,
+  "页面记录覆盖1到25且无缺页": true,
+  "evidence_chunks_jsonl非空": true,
+  "每个evidence_id唯一": true,
+  "每个证据块页码在范围内": true,
+  "每个证据块能定位source_block_ids": true,
+  "表格manifest输出路径存在或已标记unresolved": true,
+  "第9和14页存在产业链图归档记录": true,
+  "第25页未执行OCR": true,
+  "未调用大模型": true,
+  "未生成产业关系": true
+}

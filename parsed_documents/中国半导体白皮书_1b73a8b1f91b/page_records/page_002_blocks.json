@@ -1,0 +1,41 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 2,
+  "page_type": "copyright",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p002_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 2,
+      "reading_order": 1,
+      "text_raw": "© 本册著作权归贝恩公司所有。",
+      "text_normalized": "© 本册著作权归贝恩公司所有。",
+      "bbox": [
+        63.64,
+        762.16,
+        160.94,
+        771.94
+      ],
+      "font_size_estimate": 7.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

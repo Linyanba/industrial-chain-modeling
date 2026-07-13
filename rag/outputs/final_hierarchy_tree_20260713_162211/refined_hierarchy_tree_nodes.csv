@@ -1,0 +1,10 @@
+﻿tree_node_id,label,display_label,parent_id,level,depth,sort_order,category,node_type,source_from,source_entity_ids,evidence_ids,is_display_node,is_schema_node,notes
+T0001,半导体产业链,半导体产业链,,0,0,0,root,display_node,document_driven_rules,,,true,true,单一根节点
+T0002,晶圆制造,晶圆制造,T0001,1,1,1,process,approved_entity,approved_entity,CE0032,,true,false,relation_connected_root_branch
+T0007,计算芯片,计算芯片,T0001,1,1,2,unknown,approved_entity,approved_entity,CE0006,,true,false,relation_connected_root_branch
+T0003,光刻,光刻,T0002,2,2,1,process,approved_entity,approved_relation,CE0034,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0002
+T0004,刻蚀,刻蚀,T0002,2,2,2,process,approved_entity,approved_relation,CE0035,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0003
+T0005,沉积,沉积,T0002,2,2,3,process,approved_entity,approved_relation,CE0033,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0001
+T0006,离子注入,离子注入,T0002,2,2,4,process,approved_entity,approved_relation,CE0036,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,true,false,approved_relation:NR0004
+T0008,ASIC,ASIC,T0007,2,2,1,unknown,approved_entity,approved_relation,CE0037,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,approved_relation:NR0010
+T0009,GPU,GPU,T0007,2,2,2,unknown,approved_entity,approved_relation,CE0031,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,true,false,approved_relation:NR0009

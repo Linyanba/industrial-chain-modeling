@@ -1,0 +1,259 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 26,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 1,
+      "text_raw": "100 亿（人民币）",
+      "text_normalized": "100 亿（人民币）",
+      "bbox": [
+        219.24,
+        166.3,
+        327.73,
+        180.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 2,
+      "text_raw": "图11 中国大陆新型显示材料行业规模占比",
+      "text_normalized": "图11 中国大陆新型显示材料行业规模占比",
+      "bbox": [
+        201.24,
+        286.87,
+        394.09,
+        300.46
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 3,
+      "text_raw": "数据来源：CESI 统计",
+      "text_normalized": "数据来源：CESI 统计",
+      "bbox": [
+        90.0,
+        312.19,
+        187.69,
+        325.78
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 4,
+      "text_raw": "2.供给区域集聚",
+      "text_normalized": "2.供给区域集聚",
+      "bbox": [
+        117.96,
+        338.97,
+        213.73,
+        357.64
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 5,
+      "text_raw": "中国大陆显示材料企业区域分布较面板产线分布范围略广，但",
+      "text_normalized": "中国大陆显示材料企业区域分布较面板产线分布范围略广，但",
+      "bbox": [
+        117.96,
+        378.34,
+        505.33,
+        392.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 6,
+      "text_raw": "仍具备一定的区域集中度，主要集中在长三角、京津冀、珠三角等",
+      "text_normalized": "仍具备一定的区域集中度，主要集中在长三角、京津冀、珠三角等",
+      "bbox": [
+        90.0,
+        405.58,
+        505.33,
+        419.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 7,
+      "text_raw": "地区，与面板企业形成较好的集群效应，特别是玻璃基板、掩模版",
+      "text_normalized": "地区，与面板企业形成较好的集群效应，特别是玻璃基板、掩模版",
+      "bbox": [
+        90.0,
+        432.82,
+        505.32,
+        446.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 8,
+      "text_raw": "等运输成本较高的材料，与面板产线区域高度重合。中国大陆显示",
+      "text_normalized": "等运输成本较高的材料，与面板产线区域高度重合。中国大陆显示",
+      "bbox": [
+        90.0,
+        460.06,
+        505.33,
+        474.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 9,
+      "text_raw": "材料产线区域分布情况如图12 所示。",
+      "text_normalized": "材料产线区域分布情况如图12 所示。",
+      "bbox": [
+        90.0,
+        487.3,
+        321.01,
+        501.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p026_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 26,
+      "reading_order": 10,
+      "text_raw": "18",
+      "text_normalized": "18",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "2.供给区域集聚"
+  ]
+}

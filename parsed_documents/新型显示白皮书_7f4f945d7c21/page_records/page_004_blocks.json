@@ -1,0 +1,524 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 4,
+  "page_type": "toc",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 1,
+      "text_raw": "前言",
+      "text_normalized": "前言",
+      "bbox": [
+        277.68,
+        74.43,
+        317.63,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 2,
+      "text_raw": "新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动",
+      "text_normalized": "新型显示技术主要包括薄膜晶体管液晶显示（TFT-LCD）、主动",
+      "bbox": [
+        117.96,
+        104.86,
+        505.33,
+        118.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 3,
+      "text_raw": "矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示",
+      "text_normalized": "矩阵有机发光二极管显示（AMOLED）、微型发光二极管显示",
+      "bbox": [
+        90.0,
+        131.98,
+        505.33,
+        146.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 4,
+      "text_raw": "（Micro-LED）、激光显示等，其中，TFT-LCD 技术成熟度最高，",
+      "text_normalized": "（Micro-LED）、激光显示等，其中，TFT-LCD 技术成熟度最高，",
+      "bbox": [
+        90.0,
+        159.22,
+        505.33,
+        173.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 5,
+      "text_raw": "AMOLED 发展迅速，是现阶段新型显示产业的主流技术。本白皮书聚",
+      "text_normalized": "AMOLED 发展迅速，是现阶段新型显示产业的主流技术。本白皮书聚",
+      "bbox": [
+        90.0,
+        186.58,
+        505.32,
+        200.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 6,
+      "text_raw": "焦于TFT-LCD 及AMOLED 领域，研究其上游配套材料的保障能力。",
+      "text_normalized": "焦于TFT-LCD 及AMOLED 领域，研究其上游配套材料的保障能力。",
+      "bbox": [
+        90.0,
+        213.7,
+        489.01,
+        227.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 7,
+      "text_raw": "新型显示材料是新型显示产业的基础，是产业链中技术含量最",
+      "text_normalized": "新型显示材料是新型显示产业的基础，是产业链中技术含量最",
+      "bbox": [
+        117.96,
+        246.94,
+        505.33,
+        261.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 8,
+      "text_raw": "高的一环，占TFT-LCD 显示面板成本的70%以上，占OLED 面板成本",
+      "text_normalized": "高的一环，占TFT-LCD 显示面板成本的70%以上，占OLED 面板成本",
+      "bbox": [
+        90.0,
+        274.18,
+        505.21,
+        288.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 9,
+      "text_raw": "的30%以上，对产业高质量发展起重要作用。近年来，中国大陆新",
+      "text_normalized": "的30%以上，对产业高质量发展起重要作用。近年来，中国大陆新",
+      "bbox": [
+        90.0,
+        301.42,
+        505.33,
+        315.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 10,
+      "text_raw": "型显示产业不断发展壮大，TFT-LCD 面板出货量已位居全球第一，",
+      "text_normalized": "型显示产业不断发展壮大，TFT-LCD 面板出货量已位居全球第一，",
+      "bbox": [
+        90.0,
+        328.66,
+        505.32,
+        342.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 11,
+      "text_raw": "但是上游配套材料滞后使得产业保障能力较低，限制了新型显示产",
+      "text_normalized": "但是上游配套材料滞后使得产业保障能力较低，限制了新型显示产",
+      "bbox": [
+        90.0,
+        355.9,
+        505.33,
+        369.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 12,
+      "text_raw": "业健康可持续发展。",
+      "text_normalized": "业健康可持续发展。",
+      "bbox": [
+        90.0,
+        383.14,
+        216.01,
+        397.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 13,
+      "text_raw": "为进一步加强新型显示产业配套保障能力，提升新型显示产业",
+      "text_normalized": "为进一步加强新型显示产业配套保障能力，提升新型显示产业",
+      "bbox": [
+        125.04,
+        416.38,
+        503.04,
+        430.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 14,
+      "text_raw": "安全发展水平，根据工业和信息化部电子信息司《关于委托开展新",
+      "text_normalized": "安全发展水平，根据工业和信息化部电子信息司《关于委托开展新",
+      "bbox": [
+        90.0,
+        443.62,
+        496.08,
+        457.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 15,
+      "text_raw": "型显示产业配套保障能力研究的函》任务安排，中国电子技术标准",
+      "text_normalized": "型显示产业配套保障能力研究的函》任务安排，中国电子技术标准",
+      "bbox": [
+        90.0,
+        470.86,
+        496.08,
+        484.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 16,
+      "text_raw": "化研究院在行业内开展了广泛调研，系统梳理了新型显示产业配套",
+      "text_normalized": "化研究院在行业内开展了广泛调研，系统梳理了新型显示产业配套",
+      "bbox": [
+        90.0,
+        498.1,
+        496.08,
+        512.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 17,
+      "text_raw": "材料供需情况，深入分析了供需特点和保障能力现状，提出了相应",
+      "text_normalized": "材料供需情况，深入分析了供需特点和保障能力现状，提出了相应",
+      "bbox": [
+        90.0,
+        525.34,
+        496.08,
+        539.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 18,
+      "text_raw": "的措施建议。",
+      "text_normalized": "的措施建议。",
+      "bbox": [
+        90.0,
+        552.58,
+        174.01,
+        566.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 19,
+      "text_raw": "本白皮书在编写过程中得到了行业主管部门领导、行业专家等",
+      "text_normalized": "本白皮书在编写过程中得到了行业主管部门领导、行业专家等",
+      "bbox": [
+        117.96,
+        585.82,
+        495.96,
+        599.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 20,
+      "text_raw": "的大力支持，在此一并表示感谢。由于时间仓促，且编写人员阅历",
+      "text_normalized": "的大力支持，在此一并表示感谢。由于时间仓促，且编写人员阅历",
+      "bbox": [
+        90.0,
+        613.06,
+        496.08,
+        627.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 21,
+      "text_raw": "和能力有限，白皮书中仍存在不足，我们后续将进一步完善。",
+      "text_normalized": "和能力有限，白皮书中仍存在不足，我们后续将进一步完善。",
+      "bbox": [
+        90.0,
+        640.3,
+        468.0,
+        654.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p004_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 4,
+      "reading_order": 22,
+      "text_raw": "中国电子技术标准化研究院",
+      "text_normalized": "中国电子技术标准化研究院",
+      "bbox": [
+        337.32,
+        706.78,
+        505.33,
+        720.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

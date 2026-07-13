@@ -1,0 +1,547 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 5,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 1,
+      "text_raw": "专家指导组名单：",
+      "text_normalized": "专家指导组名单：",
+      "bbox": [
+        90.0,
+        74.43,
+        217.91,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 2,
+      "text_raw": "乔跃山工业和信息化部电子信息司司长",
+      "text_normalized": "乔跃山工业和信息化部电子信息司司长",
+      "bbox": [
+        117.96,
+        104.86,
+        426.13,
+        118.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 3,
+      "text_raw": "赵波中国电子技术标准化研究院院长",
+      "text_normalized": "赵波中国电子技术标准化研究院院长",
+      "bbox": [
+        117.96,
+        132.94,
+        426.13,
+        147.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 4,
+      "text_raw": "孙文龙中国电子技术标准化研究院副院长",
+      "text_normalized": "孙文龙中国电子技术标准化研究院副院长",
+      "bbox": [
+        117.96,
+        161.14,
+        440.05,
+        175.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 5,
+      "text_raw": "王威伟工业和信息化部电子信息司处长",
+      "text_normalized": "王威伟工业和信息化部电子信息司处长",
+      "bbox": [
+        117.96,
+        189.22,
+        426.13,
+        203.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 6,
+      "text_raw": "欧阳钟灿中国科学院院士",
+      "text_normalized": "欧阳钟灿中国科学院院士",
+      "bbox": [
+        117.96,
+        217.42,
+        426.13,
+        231.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 7,
+      "text_raw": "张百哲清华大学教授",
+      "text_normalized": "张百哲清华大学教授",
+      "bbox": [
+        117.96,
+        245.62,
+        426.13,
+        259.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 8,
+      "text_raw": "王漪北京大学教授",
+      "text_normalized": "王漪北京大学教授",
+      "bbox": [
+        117.96,
+        273.7,
+        426.13,
+        287.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 9,
+      "text_raw": "林元芳中国电子视像行业协会专家委主任",
+      "text_normalized": "林元芳中国电子视像行业协会专家委主任",
+      "bbox": [
+        117.96,
+        301.9,
+        468.13,
+        315.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 10,
+      "text_raw": "徐征北京交通大学教授",
+      "text_normalized": "徐征北京交通大学教授",
+      "bbox": [
+        117.96,
+        330.1,
+        426.13,
+        344.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 11,
+      "text_raw": "胡春明中国光学光电子行业协会液晶分会副秘书长",
+      "text_normalized": "胡春明中国光学光电子行业协会液晶分会副秘书长",
+      "bbox": [
+        117.96,
+        358.18,
+        454.09,
+        372.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 12,
+      "text_raw": "何耀洪中国电子材料行业协会秘书长",
+      "text_normalized": "何耀洪中国电子材料行业协会秘书长",
+      "bbox": [
+        117.96,
+        386.38,
+        440.05,
+        400.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 13,
+      "text_raw": "程旭辉中国电子技术标准化研究院研究员",
+      "text_normalized": "程旭辉中国电子技术标准化研究院研究员",
+      "bbox": [
+        117.96,
+        414.58,
+        440.05,
+        428.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 14,
+      "text_raw": "编写组名单：",
+      "text_normalized": "编写组名单：",
+      "bbox": [
+        90.0,
+        467.31,
+        185.99,
+        483.5
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 15,
+      "text_raw": "张军华中国电子技术标准化研究院主任/高级工程师",
+      "text_normalized": "张军华中国电子技术标准化研究院主任/高级工程师",
+      "bbox": [
+        117.96,
+        497.62,
+        503.05,
+        511.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 16,
+      "text_raw": "王莉莉工业和信息化部电子信息司主任科员",
+      "text_normalized": "王莉莉工业和信息化部电子信息司主任科员",
+      "bbox": [
+        117.96,
+        525.82,
+        454.09,
+        539.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 17,
+      "text_raw": "曹可慰中国电子技术标准化研究院博士",
+      "text_normalized": "曹可慰中国电子技术标准化研究院博士",
+      "bbox": [
+        117.96,
+        554.02,
+        426.13,
+        568.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 18,
+      "text_raw": "王香中国电子技术标准化研究院高级工程师",
+      "text_normalized": "王香中国电子技术标准化研究院高级工程师",
+      "bbox": [
+        117.96,
+        582.22,
+        468.13,
+        596.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 19,
+      "text_raw": "裴会川中国电子技术标准化研究院高级工程师",
+      "text_normalized": "裴会川中国电子技术标准化研究院高级工程师",
+      "bbox": [
+        117.96,
+        610.3,
+        468.13,
+        624.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 20,
+      "text_raw": "管琪中国电子技术标准化研究院工程师",
+      "text_normalized": "管琪中国电子技术标准化研究院工程师",
+      "bbox": [
+        117.96,
+        638.5,
+        440.05,
+        652.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 21,
+      "text_raw": "王赶强中国电子技术标准化研究院工程师",
+      "text_normalized": "王赶强中国电子技术标准化研究院工程师",
+      "bbox": [
+        117.96,
+        666.58,
+        440.05,
+        680.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 22,
+      "text_raw": "冯亚彬中国电子技术标准化研究院高级工程师",
+      "text_normalized": "冯亚彬中国电子技术标准化研究院高级工程师",
+      "bbox": [
+        117.96,
+        694.78,
+        470.05,
+        708.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p005_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 5,
+      "reading_order": 23,
+      "text_raw": "任改改中国电子技术标准化研究院工程师",
+      "text_normalized": "任改改中国电子技术标准化研究院工程师",
+      "bbox": [
+        117.96,
+        722.98,
+        440.05,
+        737.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

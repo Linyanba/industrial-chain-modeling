@@ -1,0 +1,225 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 6,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "寄语"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 2,
+      "text_raw": "摘要",
+      "text_normalized": "摘要",
+      "bbox": [
+        63.64,
+        127.64,
+        103.0,
+        156.4
+      ],
+      "font_size_estimate": 20.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 3,
+      "text_raw": "近年来，伴随网络化、信息化、智能化飞速发展，半导体的应用领域不断拓展，在全球经济及社会发展中的重要性与日俱增。2020年，全球半导体市场规模已达到3万亿人民币，至2025年，整体市场预计将保持7%的年复合增长率。",
+      "text_normalized": "近年来，伴随网络化、信息化、智能化飞速发展，半导体的应用领域不断拓展，在全球经济及社会发展中的重要性与日俱增。2020年，全球半导体市场规模已达到3万亿人民币，至2025年，整体市场预计将保持7%的年复合增长率。",
+      "bbox": [
+        63.64,
+        176.66,
+        531.64,
+        220.55
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 4,
+      "text_raw": "中国在半导体的设计和制造链条中起步较晚，积累相对薄弱。但随着半导体相关的产业支持政策频频出台，配合下游的广大市场需求，将赋能中国半导体企业迎来新一轮发展。",
+      "text_normalized": "中国在半导体的设计和制造链条中起步较晚，积累相对薄弱。但随着半导体相关的产业支持政策频频出台，配合下游的广大市场需求，将赋能中国半导体企业迎来新一轮发展。",
+      "bbox": [
+        63.64,
+        233.68,
+        531.64,
+        262.57
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 5,
+      "text_raw": "整体上，目前，中国厂商在通讯芯片、模拟芯片与OSD设计、成熟制程制造与封测环节产生较多的营收，而在前端设备和原材料市场处于起步阶段，正逐步获取市场份额。值得一提的是，在芯片设计环节，中国企业正加速步入快车道，尤其在存储芯片、模拟芯片已建立起了一定的竞争力，CPU/GPU/ASIC同样处于快速起步阶段。这其中，云计算厂商（阿里，腾讯，Baidu等）对于计算和存储芯片有着巨量的需求，从定制化性能、成本控制等目的出发，云计算厂商也积极参与到芯片的设计，是不可忽视的力量。在颠覆性的计算芯片架构出现之前，ARM将凭借比RISC-V和MIPS, Alpha更完善的生态系统，和相较于X86更开放的授权体系，以及国内大量的人才储备，成为中国CPU玩家的首选架构。而在存储芯片中，除了主流的NAND的DRAM，利基市场的NOR Flash由于设计和制造门槛较低（专利已放开，主流制程65nm）也吸引了众多国内公司进行探索。为了更好地展现中国半导体在芯片设计环节的市场地位，本次白皮书选取并展现了不同半导体领域的公司洞察，涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片。",
+      "text_normalized": "整体上，目前，中国厂商在通讯芯片、模拟芯片与OSD设计、成熟制程制造与封测环节产生较多的营收，而在前端设备和原材料市场处于起步阶段，正逐步获取市场份额。值得一提的是，在芯片设计环节，中国企业正加速步入快车道，尤其在存储芯片、模拟芯片已建立起了一定的竞争力，CPU/GPU/ASIC同样处于快速起步阶段。这其中，云计算厂商（阿里，腾讯，Baidu等）对于计算和存储芯片有着巨量的需求，从定制化性能、成本控制等目的出发，云计算厂商也积极参与到芯片的设计，是不可忽视的力量。在颠覆性的计算芯片架构出现之前，ARM将凭借比RISC-V和MIPS, Alpha更完善的生态系统，和相较于X86更开放的授权体系，以及国内大量的人才储备，成为中国CPU玩家的首选架构。而在存储芯片中，除了主流的NAND的DRAM，利基市场的NOR Flash由于设计和制造门槛较低（专利已放开，主流制程65nm）也吸引了众多国内公司进行探索。为了更好地展现中国半导体在芯片设计环节的市场地位，本次白皮书选取并展现了不同半导体领域的公司洞察，涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片。",
+      "bbox": [
+        63.64,
+        275.71,
+        531.64,
+        424.6
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 6,
+      "text_raw": "在时代的大背景下，贝恩建议， 对于半导体市场主体，应积极开展上下游适配与协作，共同推动国产化生态圈，并打造更有韧性的本土供应体系，锻造与国际厂商差异化的服务能力，从而及时响应下游客户的需求。另外，关注潜在的收购机会，垂直整合强化现有业务。对于产业新势力，建议聚焦、主动参与和自身主营业务有着强协同效应的半导体细分领域。",
+      "text_normalized": "在时代的大背景下，贝恩建议， 对于半导体市场主体，应积极开展上下游适配与协作，共同推动国产化生态圈，并打造更有韧性的本土供应体系，锻造与国际厂商差异化的服务能力，从而及时响应下游客户的需求。另外，关注潜在的收购机会，垂直整合强化现有业务。对于产业新势力，建议聚焦、主动参与和自身主营业务有着强协同效应的半导体细分领域。",
+      "bbox": [
+        63.64,
+        437.73,
+        531.73,
+        496.62
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 7,
+      "text_raw": "而对于投资者，芯片设计仍是标的相对较多的热门赛道，中短期内，国内的AI/ML推理芯片需求全球领先，而产业壁垒相对较低，将迎来快速发展，但行业的优胜劣汰带来的企业沉浮也不容忽视；而GPU/CPU领域则有机会在中长期带来高回报。国内计算芯片设计玩家的快速发展，也给晶圆制造（Foundry）厂带来了巨大的代工业务机会，并有可能催生相对大而稳定的投资机会。同时，在摩尔定律发展放缓的行业环境下，通过先进封装技术提高系统性能的优势越发显著，导致下游封装与上游设计及晶圆代工的联动愈加紧密，而提前布局2.5D/3D先进封装赛道的中国封装厂商与其上游联动方也因此值得关注。",
+      "text_normalized": "而对于投资者，芯片设计仍是标的相对较多的热门赛道，中短期内，国内的AI/ML推理芯片需求全球领先，而产业壁垒相对较低，将迎来快速发展，但行业的优胜劣汰带来的企业沉浮也不容忽视；而GPU/CPU领域则有机会在中长期带来高回报。国内计算芯片设计玩家的快速发展，也给晶圆制造（Foundry）厂带来了巨大的代工业务机会，并有可能催生相对大而稳定的投资机会。同时，在摩尔定律发展放缓的行业环境下，通过先进封装技术提高系统性能的优势越发显著，导致下游封装与上游设计及晶圆代工的联动愈加紧密，而提前布局2.5D/3D先进封装赛道的中国封装厂商与其上游联动方也因此值得关注。",
+      "bbox": [
+        63.64,
+        509.76,
+        531.66,
+        598.65
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 8,
+      "text_raw": "展望未来，贝恩将致力于激发半导体行业各相关方的发展潜力，从而获得竞争优势，领跑新一轮增长。",
+      "text_normalized": "展望未来，贝恩将致力于激发半导体行业各相关方的发展潜力，从而获得竞争优势，领跑新一轮增长。",
+      "bbox": [
+        63.64,
+        611.78,
+        511.72,
+        625.67
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p006_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 6,
+      "reading_order": 9,
+      "text_raw": "4",
+      "text_normalized": "4",
+      "bbox": [
+        294.86,
+        798.21,
+        300.41,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "摘要"
+  ]
+}

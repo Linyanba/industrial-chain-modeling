@@ -1,0 +1,67 @@
+# 最终输出重构：多级产业链结构图配置
+# 目标：左到右多级树状结构图，非 network graph
+
+project_root: "D:\\产业链建模"
+
+# 上游最新输出指针
+source_pointers:
+  stage4_6: "D:\\产业链建模\\rag\\latest_stage4_6_run.txt"
+  stage5_5: "D:\\产业链建模\\rag\\latest_stage5_5_run.txt"
+  stage6: "D:\\产业链建模\\rag\\latest_stage6_run.txt"
+
+# 归档的 network graph 文件（从 stage6 输出中移除为最终交付）
+deprecated_network_files:
+  - "industry_chain.graphml"
+  - "industry_chain.json"
+  - "neo4j_nodes.csv"
+  - "neo4j_edges.csv"
+  - "neo4j_import_readme.md"
+  - "industry_chain_overview.png"
+  - "industry_chain_overview.svg"
+  - "industry_chain_evidence_only.png"
+  - "industry_chain_evidence_only.svg"
+  - "industry_chain_schema_layout.png"
+  - "industry_chain_schema_layout.svg"
+  - "industry_chain_layered.png"
+  - "industry_chain_layered.svg"
+  - "graph_node_inventory.csv"
+  - "graph_edge_inventory.csv"
+  - "stage6_graph_export_report.md"
+
+# 产业结构与别名不再放在共享配置中：
+# - 通用流程使用 rag/templates/document_driven.yaml
+# - 半导体固定结构使用 rag/templates/semiconductor.yaml
+
+# 可视化样式
+styles:
+  xmind_blue:
+    node_fill: "#4A90D9"
+    node_stroke: "#2E6DAB"
+    node_text_color: "#FFFFFF"
+    root_fill: "#1B5E8C"
+    root_text_color: "#FFFFFF"
+    level1_fill: "#3B82C4"
+    level1_text_color: "#FFFFFF"
+    line_color: "#7CB8E4"
+    line_width: 2
+    background: "#FFFFFF"
+    font_family: "Microsoft YaHei"
+    font_size_root: 16
+    font_size_l1: 13
+    font_size_l2: 11
+    font_size_l3: 10
+    node_rx: 8
+    node_ry: 8
+    node_padding_x: 16
+    node_padding_y: 8
+    level_gap_x: 180
+    sibling_gap_y: 36
+
+# 输出配置
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "final_hierarchy_tree_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_final_hierarchy_tree_run.txt"
+  archive_dir: "D:\\产业链建模\\archive\\deprecated_network_graph_outputs"
+  csv_encoding: "utf-8-sig"
+  dpi: 300

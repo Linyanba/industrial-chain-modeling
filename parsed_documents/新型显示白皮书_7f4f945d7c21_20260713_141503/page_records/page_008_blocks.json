@@ -1,0 +1,87 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 8,
+  "page_type": "unknown",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "no",
+  "recommended_parser": "manual_review",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p008_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 8,
+      "reading_order": 1,
+      "text_raw": "8.深化国际交流合作...............................................................................................27",
+      "text_normalized": "8.深化国际交流合作...............................................................................................27",
+      "bbox": [
+        134.04,
+        73.89,
+        505.34,
+        88.67
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p008_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 8,
+      "reading_order": 2,
+      "text_raw": "9.加大金融支持力度...............................................................................................27",
+      "text_normalized": "9.加大金融支持力度...............................................................................................27",
+      "bbox": [
+        134.04,
+        102.81,
+        505.34,
+        117.47
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p008_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 8,
+      "reading_order": 3,
+      "text_raw": "3",
+      "text_normalized": "3",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 9,
+  "page_type": "chain_diagram",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "diagram_visual_review",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 1,
+      "text_raw": "一、新型显示产业概述",
+      "text_normalized": "一、新型显示产业概述",
+      "bbox": [
+        122.04,
+        74.43,
+        285.59,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 2,
+      "text_raw": "（一）新型显示产业链基本构成",
+      "text_normalized": "（一）新型显示产业链基本构成",
+      "bbox": [
+        120.0,
+        130.32,
+        330.0,
+        145.55
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 3,
+      "text_raw": "新型显示产业是新一代信息技术的重点产业之一，近年来发展",
+      "text_normalized": "新型显示产业是新一代信息技术的重点产业之一，近年来发展",
+      "bbox": [
+        117.96,
+        165.22,
+        505.33,
+        179.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 4,
+      "text_raw": "迅猛，已形成从装备、材料、面板到应用较为完备的产业链。以薄",
+      "text_normalized": "迅猛，已形成从装备、材料、面板到应用较为完备的产业链。以薄",
+      "bbox": [
+        90.0,
+        192.58,
+        505.33,
+        206.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 5,
+      "text_raw": "膜晶体管液晶显示(TFT-LCD)为例，其产业链通常被划分为三部分：",
+      "text_normalized": "膜晶体管液晶显示(TFT-LCD)为例，其产业链通常被划分为三部分：",
+      "bbox": [
+        90.0,
+        219.82,
+        505.32,
+        233.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 6,
+      "text_raw": "上游装备和材料产业、中游面板制造产业以及下游显示终端产业。",
+      "text_normalized": "上游装备和材料产业、中游面板制造产业以及下游显示终端产业。",
+      "bbox": [
+        90.0,
+        246.94,
+        505.33,
+        261.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 7,
+      "text_raw": "新型显示产业具有辐射性强、带动性强、对生产环境和能源要求高",
+      "text_normalized": "新型显示产业具有辐射性强、带动性强、对生产环境和能源要求高",
+      "bbox": [
+        90.0,
+        274.18,
+        505.33,
+        288.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 8,
+      "text_raw": "等特点，新型显示材料与建材、冶金、石化等传统材料行业相衔",
+      "text_normalized": "等特点，新型显示材料与建材、冶金、石化等传统材料行业相衔",
+      "bbox": [
+        90.0,
+        301.42,
+        505.32,
+        315.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 9,
+      "text_raw": "接，面板制造工艺技术与集成电路等半导体制造技术具有共通性，",
+      "text_normalized": "接，面板制造工艺技术与集成电路等半导体制造技术具有共通性，",
+      "bbox": [
+        90.0,
+        328.66,
+        505.33,
+        342.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 10,
+      "text_raw": "显示终端是物联网、智能可穿戴和AR/VR 等新兴领域快速发展的硬",
+      "text_normalized": "显示终端是物联网、智能可穿戴和AR/VR 等新兴领域快速发展的硬",
+      "bbox": [
+        90.0,
+        355.9,
+        505.21,
+        369.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 11,
+      "text_raw": "件基础。新型显示产业链如图1 所示。",
+      "text_normalized": "件基础。新型显示产业链如图1 所示。",
+      "bbox": [
+        90.0,
+        383.14,
+        327.97,
+        397.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 12,
+      "text_raw": "图1 新型显示产业链",
+      "text_normalized": "图1 新型显示产业链",
+      "bbox": [
+        248.64,
+        633.79,
+        346.69,
+        648.17
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 13,
+      "text_raw": "（二）新型显示材料是显示产业发展的基石",
+      "text_normalized": "（二）新型显示材料是显示产业发展的基石",
+      "bbox": [
+        120.0,
+        661.57,
+        405.0,
+        676.79
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 14,
+      "text_raw": "新型显示材料是新型显示产业的基础，对新型显示产业高质量",
+      "text_normalized": "新型显示材料是新型显示产业的基础，对新型显示产业高质量",
+      "bbox": [
+        117.96,
+        696.58,
+        505.33,
+        710.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 15,
+      "text_raw": "发展起决定性作用,如薄膜晶体管液晶显示（TFT-LCD）、主动矩阵",
+      "text_normalized": "发展起决定性作用,如薄膜晶体管液晶显示（TFT-LCD）、主动矩阵",
+      "bbox": [
+        90.0,
+        723.82,
+        505.33,
+        737.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 16,
+      "text_raw": "有机发光二极管（AMOLED）、量子点发光二极管（QLED）和微型发",
+      "text_normalized": "有机发光二极管（AMOLED）、量子点发光二极管（QLED）和微型发",
+      "bbox": [
+        90.0,
+        751.06,
+        505.33,
+        765.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p009_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 9,
+      "reading_order": 17,
+      "text_raw": "1",
+      "text_normalized": "1",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+  ]
+}

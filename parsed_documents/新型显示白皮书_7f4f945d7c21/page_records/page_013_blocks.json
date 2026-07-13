@@ -1,0 +1,427 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 13,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 1,
+      "text_raw": "二、新型显示产业发展环境",
+      "text_normalized": "二、新型显示产业发展环境",
+      "bbox": [
+        90.0,
+        74.43,
+        286.31,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 2,
+      "text_raw": "（一）全球新型显示产业稳中有变",
+      "text_normalized": "（一）全球新型显示产业稳中有变",
+      "bbox": [
+        120.0,
+        130.32,
+        345.0,
+        145.55
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 3,
+      "text_raw": "1.全球新型显示面板产业变革加速",
+      "text_normalized": "1.全球新型显示面板产业变革加速",
+      "bbox": [
+        117.96,
+        163.17,
+        325.69,
+        181.84
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 4,
+      "text_raw": "2016 年以来，由于手机和电脑市场的饱和，全球面板市场增幅",
+      "text_normalized": "2016 年以来，由于手机和电脑市场的饱和，全球面板市场增幅",
+      "bbox": [
+        117.96,
+        198.58,
+        499.56,
+        212.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 5,
+      "text_raw": "趋缓，全球显示行业发展平稳。据统计，至2020 年，全球显示面板",
+      "text_normalized": "趋缓，全球显示行业发展平稳。据统计，至2020 年，全球显示面板",
+      "bbox": [
+        90.0,
+        225.82,
+        503.05,
+        239.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 6,
+      "text_raw": "营收将维持在1100 亿美元-1200 亿美元，在营收构成中，AMOLED 占",
+      "text_normalized": "营收将维持在1100 亿美元-1200 亿美元，在营收构成中，AMOLED 占",
+      "bbox": [
+        90.0,
+        252.94,
+        503.05,
+        267.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 7,
+      "text_raw": "比逐年增高，如图4 所示。",
+      "text_normalized": "比逐年增高，如图4 所示。",
+      "bbox": [
+        90.0,
+        280.18,
+        258.01,
+        294.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 8,
+      "text_raw": "图4 全球显示面板收入",
+      "text_normalized": "图4 全球显示面板收入",
+      "bbox": [
+        245.64,
+        527.59,
+        349.57,
+        541.18
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 9,
+      "text_raw": "液晶面板行业呈现周期波动规律，即液晶面板更新换代会经历",
+      "text_normalized": "液晶面板行业呈现周期波动规律，即液晶面板更新换代会经历",
+      "bbox": [
+        117.96,
+        554.62,
+        505.33,
+        568.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 10,
+      "text_raw": "需求增加、价格上涨、市场乐观、投资过度、供需反转、产能过",
+      "text_normalized": "需求增加、价格上涨、市场乐观、投资过度、供需反转、产能过",
+      "bbox": [
+        90.0,
+        581.86,
+        505.32,
+        595.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 11,
+      "text_raw": "剩、价格下降、触底反弹、市场复苏等过程的周期变化。近两年，",
+      "text_normalized": "剩、价格下降、触底反弹、市场复苏等过程的周期变化。近两年，",
+      "bbox": [
+        90.0,
+        609.1,
+        505.33,
+        623.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 12,
+      "text_raw": "伴随着产业成熟度的提升，全球液晶面板价格下降并不断更新换",
+      "text_normalized": "伴随着产业成熟度的提升，全球液晶面板价格下降并不断更新换",
+      "bbox": [
+        90.0,
+        636.22,
+        505.32,
+        650.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 13,
+      "text_raw": "代，韩国、日本逐渐关停6 代以下产线（日韩液晶面板产线调整情",
+      "text_normalized": "代，韩国、日本逐渐关停6 代以下产线（日韩液晶面板产线调整情",
+      "bbox": [
+        90.0,
+        663.58,
+        505.33,
+        677.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 14,
+      "text_raw": "况如表1 所示），液晶面板产能加速向中国大陆集中。当前韩国、",
+      "text_normalized": "况如表1 所示），液晶面板产能加速向中国大陆集中。当前韩国、",
+      "bbox": [
+        90.0,
+        690.82,
+        505.21,
+        704.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 15,
+      "text_raw": "中国大陆、中国台湾和日本“三国四地”的产业格局中，中国大陆",
+      "text_normalized": "中国大陆、中国台湾和日本“三国四地”的产业格局中，中国大陆",
+      "bbox": [
+        90.0,
+        717.94,
+        505.33,
+        732.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 16,
+      "text_raw": "所占比重进一步提升。",
+      "text_normalized": "所占比重进一步提升。",
+      "bbox": [
+        90.0,
+        745.18,
+        230.05,
+        759.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p013_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 13,
+      "reading_order": 17,
+      "text_raw": "5",
+      "text_normalized": "5",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "1.全球新型显示面板产业变革加速"
+  ]
+}

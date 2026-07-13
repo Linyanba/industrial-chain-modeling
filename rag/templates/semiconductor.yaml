@@ -1,0 +1,125 @@
+template_id: semiconductor
+template_name: "半导体产业链模板"
+root_label_default: "半导体产业链"
+description: "面向半导体/集成电路产业白皮书的多级产业链结构图模板"
+
+first_level_nodes:
+  - label: "集成电路主链"
+    category: "main_chain"
+    accept_entity_types: ["industry_link", "process"]
+    keywords: ["集成电路", "IC", "芯片"]
+    children:
+      - label: "芯片设计"
+        category: "industry_link"
+        children: []
+      - label: "晶圆制造"
+        category: "industry_link"
+        children: []
+      - label: "封装测试"
+        category: "industry_link"
+        children:
+          - label: "封装"
+            category: "sub_link"
+          - label: "测试"
+            category: "sub_link"
+  - label: "材料"
+    category: "material_group"
+    accept_entity_types: ["material"]
+    keywords: ["材料", "原材料"]
+    children:
+      - label: "前端材料"
+        category: "material_sub"
+        children:
+          - label: "硅片"
+            category: "material"
+          - label: "金属"
+            category: "material"
+          - label: "化学品"
+            category: "material"
+          - label: "气体材料"
+            category: "material"
+      - label: "封装材料"
+        category: "material_sub"
+        children:
+          - label: "基材"
+            category: "material"
+  - label: "设备"
+    category: "equipment_group"
+    accept_entity_types: ["equipment"]
+    keywords: ["设备", "装备"]
+    children:
+      - label: "光刻机"
+        category: "equipment"
+      - label: "晶圆缺陷监测系统"
+        category: "equipment"
+      - label: "半导体设备"
+        category: "equipment"
+  - label: "技术工具"
+    category: "technology_group"
+    accept_entity_types: ["technology"]
+    keywords: ["技术", "工具", "软件"]
+    children:
+      - label: "EDA"
+        category: "technology"
+      - label: "IP"
+        category: "technology"
+      - label: "先进封装技术"
+        category: "technology"
+
+node_alias_rules:
+  "设计": "芯片设计"
+  "设计环节": "芯片设计"
+  "代工": "晶圆制造"
+  "晶圆代工": "晶圆制造"
+  "封测": "封装测试"
+  "封装测试环节": "封装测试"
+  "封装和测试环节": "封装测试"
+  "EDA软件": "EDA"
+  "EDA工具": "EDA"
+  "EDA/IP": "EDA"
+  "IP核": "IP"
+  "半导体设计制造所需的设备": "半导体设备"
+
+entity_classification_rules:
+  - entity_type: "material"
+    target_path: ["材料"]
+  - entity_type: "equipment"
+    target_path: ["设备"]
+  - entity_type: "technology"
+    target_path: ["技术工具"]
+  - entity_type: "company"
+    target_path: ["_skip"]
+  - entity_type: "industry_link"
+    condition: "value_chain_stage == 'upstream'"
+    target_path: ["集成电路主链", "芯片设计"]
+  - entity_type: "industry_link"
+    condition: "value_chain_stage == 'midstream'"
+    target_path: ["集成电路主链", "晶圆制造"]
+  - entity_type: "industry_link"
+    condition: "value_chain_stage == 'downstream'"
+    target_path: ["集成电路主链", "封装测试"]
+
+tree_build_rules:
+  allow_display_schema_nodes: true
+  mark_schema_nodes_in_report: true
+  keep_empty_template_nodes: true
+  unclassified_strategy: "export_to_csv"
+
+display_style:
+  direction: "left_to_right"
+  node_fill: "#4A90D9"
+  node_stroke: "#2E6DAB"
+  node_text_color: "#FFFFFF"
+  root_fill: "#1B5E8C"
+  level1_fill: "#3B82C4"
+  line_color: "#7CB8E4"
+  line_width: 2
+  background: "#FFFFFF"
+  font_family: "Microsoft YaHei"
+  node_rx: 8
+
+required_outputs:
+  png_prefix: "semiconductor_industry_chain_tree"
+  svg_prefix: "semiconductor_industry_chain_tree"
+  html_prefix: "semiconductor_industry_chain_tree"
+  title: "半导体产业链多级结构图"

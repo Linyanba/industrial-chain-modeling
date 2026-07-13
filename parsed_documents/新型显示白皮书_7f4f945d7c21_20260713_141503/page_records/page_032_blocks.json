@@ -1,0 +1,571 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 32,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 1,
+      "text_raw": "4.技术实力有待提升",
+      "text_normalized": "4.技术实力有待提升",
+      "bbox": [
+        117.96,
+        71.97,
+        241.69,
+        90.64
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 2,
+      "text_raw": "综合分析中国大陆新型显示材料产业现状，与国外先进企业相",
+      "text_normalized": "综合分析中国大陆新型显示材料产业现状，与国外先进企业相",
+      "bbox": [
+        117.96,
+        111.22,
+        505.33,
+        125.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 3,
+      "text_raw": "比，技术实力差距明显。产品质量、可靠性和稳定性较差，无法满",
+      "text_normalized": "比，技术实力差距明显。产品质量、可靠性和稳定性较差，无法满",
+      "bbox": [
+        90.0,
+        138.58,
+        505.33,
+        152.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 4,
+      "text_raw": "足下游应用要求；玻璃基板、湿电子化学品等材料技术发展速度跟",
+      "text_normalized": "足下游应用要求；玻璃基板、湿电子化学品等材料技术发展速度跟",
+      "bbox": [
+        90.0,
+        165.82,
+        505.33,
+        179.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 5,
+      "text_raw": "不上面板升级换代速度，产品无法持续迭代匹配高世代面板应用；",
+      "text_normalized": "不上面板升级换代速度，产品无法持续迭代匹配高世代面板应用；",
+      "bbox": [
+        90.0,
+        192.94,
+        505.33,
+        207.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 6,
+      "text_raw": "掩模版用石英基材，偏光片用TAC 膜等原材料严重依赖进口，制约",
+      "text_normalized": "掩模版用石英基材，偏光片用TAC 膜等原材料严重依赖进口，制约",
+      "bbox": [
+        90.0,
+        220.18,
+        505.33,
+        234.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 7,
+      "text_raw": "材料企业的技术创新和市场开拓。",
+      "text_normalized": "材料企业的技术创新和市场开拓。",
+      "bbox": [
+        90.0,
+        247.42,
+        300.01,
+        261.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.技术实力有待提升"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 8,
+      "text_raw": "5.规模化发展尚显不足",
+      "text_normalized": "5.规模化发展尚显不足",
+      "bbox": [
+        117.96,
+        284.73,
+        255.61,
+        303.4
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "5.规模化发展尚显不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 9,
+      "text_raw": "规模化生产是产品成本控制、稳定性提升、客户认同度提高的",
+      "text_normalized": "规模化生产是产品成本控制、稳定性提升、客户认同度提高的",
+      "bbox": [
+        117.96,
+        323.98,
+        505.33,
+        338.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.规模化发展尚显不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 10,
+      "text_raw": "保证，进而提升企业竞争力和盈利能力。中国大陆新型显示材料产",
+      "text_normalized": "保证，进而提升企业竞争力和盈利能力。中国大陆新型显示材料产",
+      "bbox": [
+        90.0,
+        351.22,
+        505.33,
+        365.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.规模化发展尚显不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 11,
+      "text_raw": "业由于起步较晚、技术储备薄弱、量产能力不足等问题，规模化发",
+      "text_normalized": "业由于起步较晚、技术储备薄弱、量产能力不足等问题，规模化发",
+      "bbox": [
+        90.0,
+        378.46,
+        505.33,
+        392.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.规模化发展尚显不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 12,
+      "text_raw": "展有待提高，在与国际巨头的市场竞争中处于相对弱势的地位，产",
+      "text_normalized": "展有待提高，在与国际巨头的市场竞争中处于相对弱势的地位，产",
+      "bbox": [
+        90.0,
+        405.58,
+        505.33,
+        419.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.规模化发展尚显不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 13,
+      "text_raw": "品议价能力弱，难以与下游用户建立稳固的供货关系。",
+      "text_normalized": "品议价能力弱，难以与下游用户建立稳固的供货关系。",
+      "bbox": [
+        90.0,
+        432.82,
+        426.0,
+        446.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.规模化发展尚显不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 14,
+      "text_raw": "6.产能和产品结构有待优化",
+      "text_normalized": "6.产能和产品结构有待优化",
+      "bbox": [
+        117.96,
+        464.13,
+        283.69,
+        482.8
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 15,
+      "text_raw": "各类新型显示配套材料发展水平不一，OLED 材料、显示芯片、",
+      "text_normalized": "各类新型显示配套材料发展水平不一，OLED 材料、显示芯片、",
+      "bbox": [
+        117.96,
+        499.42,
+        505.33,
+        513.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 16,
+      "text_raw": "掩模版及部分靶材产能不足，供给能力增长无法匹配需求。而玻璃",
+      "text_normalized": "掩模版及部分靶材产能不足，供给能力增长无法匹配需求。而玻璃",
+      "bbox": [
+        90.0,
+        526.54,
+        505.33,
+        540.63
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 17,
+      "text_raw": "基板、液晶材料等产品已具备一定产能规模，但产品竞争力不足，",
+      "text_normalized": "基板、液晶材料等产品已具备一定产能规模，但产品竞争力不足，",
+      "bbox": [
+        90.0,
+        553.78,
+        505.33,
+        567.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 18,
+      "text_raw": "市场份额不高，产能利用率仅50%左右。",
+      "text_normalized": "市场份额不高，产能利用率仅50%左右。",
+      "bbox": [
+        90.0,
+        581.02,
+        338.53,
+        595.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 19,
+      "text_raw": "产品结构急需优化，液晶材料、有机发光材料等在产品种类上",
+      "text_normalized": "产品结构急需优化，液晶材料、有机发光材料等在产品种类上",
+      "bbox": [
+        117.96,
+        614.26,
+        505.33,
+        628.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 20,
+      "text_raw": "无法满足面板企业需求，高世代玻璃基板存在技术瓶颈，低世代",
+      "text_normalized": "无法满足面板企业需求，高世代玻璃基板存在技术瓶颈，低世代",
+      "bbox": [
+        90.0,
+        641.5,
+        505.33,
+        655.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 21,
+      "text_raw": "LTPS 用玻璃基板技术存在差距，掩模版无法及时跟进HTM 和SMM 等",
+      "text_normalized": "LTPS 用玻璃基板技术存在差距，掩模版无法及时跟进HTM 和SMM 等",
+      "bbox": [
+        90.0,
+        668.74,
+        505.33,
+        682.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 22,
+      "text_raw": "新工艺路线的升级。",
+      "text_normalized": "新工艺路线的升级。",
+      "bbox": [
+        90.0,
+        695.98,
+        216.01,
+        710.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p032_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 32,
+      "reading_order": 23,
+      "text_raw": "24",
+      "text_normalized": "24",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "6.产能和产品结构有待优化"
+  ]
+}

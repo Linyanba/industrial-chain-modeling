@@ -1,0 +1,8 @@
+﻿minimal_review_id,original_review_id,priority,review_question,subject,relation_type,object,related_entity_or_relation_id,evidence_pages,evidence_quotes,why_human_needed,suggested_options,human_decision,human_comment
+MHR0001,RV0024,P1,关系候选待复核: 设备->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r01,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0002,RV0025,P1,关系候选待复核: 原材料->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r02,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0003,RV0026,P1,关系候选待复核: EDA软件->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r03,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0004,RV0027,P1,关系候选待复核: 硅片->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r04,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0005,RV0028,P1,关系候选待复核: 金属->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r05,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0006,RV0029,P1,关系候选待复核: 化学品->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r06,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0007,RV0030,P1,关系候选待复核: 气体->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,,non_atomic_relation_endpoint,,t03_r07,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,

@@ -1,0 +1,72 @@
+# 阶段 3B RAG 问答测试配置
+# 仅用于：基于 Qdrant 检索证据 + 本地 Ollama qwen3:8b 的带证据引用问答测试
+# 严禁：抽取实体、抽取关系、生成图谱、调用外部云端 API、联网搜索
+
+project_root: "D:\\产业链建模"
+
+qdrant:
+  url: "http://localhost:6333"
+  collection: "whitepaper_chunks"
+
+embedding:
+  model: "Qwen/Qwen3-Embedding-0.6B"
+  dim: 1024
+  normalize: true
+  query_prompt_name: "query"
+
+llm:
+  provider: "ollama"
+  url: "http://localhost:11434"
+  model: "qwen3:8b"
+  # 优先使用 /api/generate，仅当 generate 明确失败才回退 /api/chat
+  primary_endpoint: "/api/generate"
+  fallback_endpoint: "/api/chat"
+  format: "json"
+  temperature: 0
+  num_predict: 1024
+  # qwen3 为思考型模型，关闭 thinking 以保证输出纯 JSON
+  think: false
+  stream: false
+  request_timeout_sec: 180
+
+retrieval:
+  top_k: 30
+  final_k: 10
+  max_per_page: 3
+  exclude_review_required: true      # 默认排除待复核证据；--include-review-required 可覆盖
+  priority_bonus:                     # 重排时按 stage3_priority 叠加的加权
+    high: 0.05
+    medium: 0.02
+    low: 0.0
+
+validation:
+  # quote 校验：忽略空白差异后在对应 evidence 原文中匹配
+  quote_ignore_whitespace: true
+  allowed_top_level_fields:
+    - question
+    - answer
+    - claims
+    - insufficient_evidence
+    - warnings
+  allow_one_repair_retry: true
+
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "stage3b_rag_qa_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage3b_run.txt"
+  csv_encoding: "utf-8-sig"
+
+boundary:
+  stage: "3B"
+  scope: "仅基于 Qdrant 检索证据的 RAG 问答测试"
+  forbidden:
+    - "调用 OpenAI / DeepSeek / Claude / Gemini 等外部云端 API"
+    - "联网搜索"
+    - "抽取产业链实体"
+    - "抽取产业链关系"
+    - "生成产业链图谱"
+    - "把模型常识当作白皮书事实"
+    - "根据文档档案标记的受限产业链图箭头生成确定结论"
+    - "将未复核表格内容作为确定事实"
+    - "修改 / 移动 / 覆盖原始 PDF"
+    - "覆盖阶段 1 / 2 / 3A 输出"

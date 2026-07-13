@@ -1,0 +1,619 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 17,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 1,
+      "text_raw": "“膜晶显”政策、“分期纳税”政策等，这些政策的实施对新型显",
+      "text_normalized": "“膜晶显”政策、“分期纳税”政策等，这些政策的实施对新型显",
+      "bbox": [
+        90.0,
+        74.02,
+        505.33,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 2,
+      "text_raw": "示产业规模和结构产生了重要影响。",
+      "text_normalized": "示产业规模和结构产生了重要影响。",
+      "bbox": [
+        90.0,
+        101.26,
+        314.05,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 3,
+      "text_raw": "在行业中影响广泛的“膜晶显”政策（《关于扶持薄膜晶体管",
+      "text_normalized": "在行业中影响广泛的“膜晶显”政策（《关于扶持薄膜晶体管",
+      "bbox": [
+        117.96,
+        134.5,
+        505.33,
+        148.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 4,
+      "text_raw": "显示器产业发展税收优惠政策的通知》），对新型显示器件（包括",
+      "text_normalized": "显示器产业发展税收优惠政策的通知》），对新型显示器件（包括",
+      "bbox": [
+        90.0,
+        161.74,
+        505.33,
+        175.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 5,
+      "text_raw": "薄膜晶体管液晶显示器件、有机发光二极管显示面板）生产企业进",
+      "text_normalized": "薄膜晶体管液晶显示器件、有机发光二极管显示面板）生产企业进",
+      "bbox": [
+        90.0,
+        188.98,
+        505.33,
+        203.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 6,
+      "text_raw": "口中国大陆不能生产的自用生产性原材料和消耗品，免征进口关",
+      "text_normalized": "口中国大陆不能生产的自用生产性原材料和消耗品，免征进口关",
+      "bbox": [
+        90.0,
+        216.22,
+        505.32,
+        230.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 7,
+      "text_raw": "税，“膜晶显”政策于2009 年、2012 年、2016 年和2018 年多次更",
+      "text_normalized": "税，“膜晶显”政策于2009 年、2012 年、2016 年和2018 年多次更",
+      "bbox": [
+        90.0,
+        243.46,
+        505.33,
+        257.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 8,
+      "text_raw": "新。此外“分期纳税”政策（《首期分期纳税政策颁布》）对在中",
+      "text_normalized": "新。此外“分期纳税”政策（《首期分期纳税政策颁布》）对在中",
+      "bbox": [
+        90.0,
+        270.7,
+        505.33,
+        284.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 9,
+      "text_raw": "国大陆投资的显示面板企业关于设备和材料进口方面提供了支持，",
+      "text_normalized": "国大陆投资的显示面板企业关于设备和材料进口方面提供了支持，",
+      "bbox": [
+        90.0,
+        297.94,
+        505.33,
+        312.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 10,
+      "text_raw": "为面板产业发展创造了有利的条件。",
+      "text_normalized": "为面板产业发展创造了有利的条件。",
+      "bbox": [
+        90.0,
+        325.18,
+        314.05,
+        339.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 11,
+      "text_raw": "2017 年，工业和信息化部联合财政部、保监会共同发布了《关",
+      "text_normalized": "2017 年，工业和信息化部联合财政部、保监会共同发布了《关",
+      "bbox": [
+        117.96,
+        358.42,
+        505.2,
+        372.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 12,
+      "text_raw": "于开展重点新材料首批次应用保险补偿机制试点工作的通知》，首",
+      "text_normalized": "于开展重点新材料首批次应用保险补偿机制试点工作的通知》，首",
+      "bbox": [
+        90.0,
+        385.66,
+        505.33,
+        399.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 13,
+      "text_raw": "次以保险的形式对包括显示材料的首批次应用提出了支持。在2017",
+      "text_normalized": "次以保险的形式对包括显示材料的首批次应用提出了支持。在2017",
+      "bbox": [
+        90.0,
+        412.9,
+        505.26,
+        426.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 14,
+      "text_raw": "年版《重点新材料首批次应用示范指导目录》中，东旭、彩虹、盛",
+      "text_normalized": "年版《重点新材料首批次应用示范指导目录》中，东旭、彩虹、盛",
+      "bbox": [
+        90.0,
+        440.02,
+        505.33,
+        454.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 15,
+      "text_raw": "波、三利谱等企业的玻璃基板和偏光片等产品享受了首批次担保。",
+      "text_normalized": "波、三利谱等企业的玻璃基板和偏光片等产品享受了首批次担保。",
+      "bbox": [
+        90.0,
+        467.38,
+        496.08,
+        481.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 16,
+      "text_raw": "3.环保政策趋紧细化",
+      "text_normalized": "3.环保政策趋紧细化",
+      "bbox": [
+        117.96,
+        504.57,
+        241.69,
+        523.24
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 17,
+      "text_raw": "国家高度重视环境保护工作，特别是党的“十八大”以来，把",
+      "text_normalized": "国家高度重视环境保护工作，特别是党的“十八大”以来，把",
+      "bbox": [
+        117.96,
+        543.82,
+        505.33,
+        557.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 18,
+      "text_raw": "建设美丽中国，生态文明放在了更加突出的地位。",
+      "text_normalized": "建设美丽中国，生态文明放在了更加突出的地位。",
+      "bbox": [
+        90.0,
+        571.06,
+        398.04,
+        585.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 19,
+      "text_raw": "新型显示材料产业虽属于科技含量高、技术附加值高、排放量",
+      "text_normalized": "新型显示材料产业虽属于科技含量高、技术附加值高、排放量",
+      "bbox": [
+        117.96,
+        604.3,
+        505.33,
+        618.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 20,
+      "text_raw": "相对小的先进制造业，但由于部分材料企业多元化经营，产品范围",
+      "text_normalized": "相对小的先进制造业，但由于部分材料企业多元化经营，产品范围",
+      "bbox": [
+        90.0,
+        631.42,
+        505.33,
+        645.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 21,
+      "text_raw": "既包括新型显示材料也涉及建材、化工、有色等传统材料，使得在",
+      "text_normalized": "既包括新型显示材料也涉及建材、化工、有色等传统材料，使得在",
+      "bbox": [
+        90.0,
+        658.78,
+        505.33,
+        672.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 22,
+      "text_raw": "环保政策实施时，新型显示材料产业属于先进制造业的特点难以体",
+      "text_normalized": "环保政策实施时，新型显示材料产业属于先进制造业的特点难以体",
+      "bbox": [
+        90.0,
+        686.02,
+        505.33,
+        700.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 23,
+      "text_raw": "现。如《2018-2019 年蓝天保卫战重点区域强化督查方案》中重点",
+      "text_normalized": "现。如《2018-2019 年蓝天保卫战重点区域强化督查方案》中重点",
+      "bbox": [
+        90.0,
+        713.14,
+        505.33,
+        727.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 24,
+      "text_raw": "区域涵盖了部分新型显示产业集聚区，在执行错峰生产和落实重污",
+      "text_normalized": "区域涵盖了部分新型显示产业集聚区，在执行错峰生产和落实重污",
+      "bbox": [
+        90.0,
+        740.38,
+        505.33,
+        754.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p017_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 17,
+      "reading_order": 25,
+      "text_raw": "9",
+      "text_normalized": "9",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "3.环保政策趋紧细化"
+  ]
+}

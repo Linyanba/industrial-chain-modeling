@@ -1,0 +1,37 @@
+{
+  "table_id": "新型显示白皮书_7f4f945d7c21_p025_t01",
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 25,
+  "table_no_on_page": 1,
+  "bbox": [
+    90.0,
+    378.8,
+    505.25,
+    433.25
+  ],
+  "caption": "unknown",
+  "caption_source": "unknown",
+  "headers": [
+    "规模超过 100 亿元，",
+    "其中玻璃基板、偏光片和液晶材料行业规模较",
+    ""
+  ],
+  "units": "unknown",
+  "footnotes": [],
+  "rows": [
+    [
+      "规模超过 100 亿元，",
+      "其中玻璃基板、偏光片和液晶材料行业规模较",
+      ""
+    ],
+    [
+      "大，分别为 37.34 亿元、17.57 亿元和 15.23 亿元。",
+      "",
+      "中国大陆新型"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "parse_quality": 0.82,
+  "review_required": true,
+  "source_page_image": "data\\rendered_pages\\新型显示白皮书\\page_025.png"
+}

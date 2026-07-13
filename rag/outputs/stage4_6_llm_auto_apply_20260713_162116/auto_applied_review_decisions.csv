@@ -1,0 +1,8 @@
+﻿review_id,review_question,decision,applied,applied_actions,reason,risk_level,validation_status,validation_reason
+MHR0001,关系候选待复核: 设备->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,defer,false,,关系方向不明确，未提供证据支持设备到制造环节的输入关系,medium,blocked_or_failed,
+MHR0002,关系候选待复核: 原材料->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,defer,false,,原材料到制造环节的输入关系缺乏明确证据支持,medium,blocked_or_failed,
+MHR0003,关系候选待复核: EDA软件->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,defer,false,,EDA软件到制造环节的输入关系缺乏明确证据支持,medium,blocked_or_failed,
+MHR0004,关系候选待复核: 硅片->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,approve,false,,硅片是制造集成电路等产品的基础材料，有明确的材料属性,low,blocked_or_failed,mutating decision requires non-empty review evidence; related_id 't03_r04' is not an approved draft entity/relation; review item related_id 't03_r04' is not an entity target
+MHR0005,关系候选待复核: 金属->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,defer,false,,金属到制造环节的输入关系缺乏明确证据支持,medium,blocked_or_failed,
+MHR0006,关系候选待复核: 化学品->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,defer,false,,化学品到制造环节的输入关系缺乏明确证据支持,medium,blocked_or_failed,
+MHR0007,关系候选待复核: 气体->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,defer,false,,气体到制造环节的输入关系缺乏明确证据支持,medium,blocked_or_failed,

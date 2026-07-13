@@ -1,0 +1,547 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 3,
+  "page_type": "toc",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 2,
+      "text_raw": "目录",
+      "text_normalized": "目录",
+      "bbox": [
+        63.64,
+        127.64,
+        103.0,
+        156.4
+      ],
+      "font_size_estimate": 20.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 3,
+      "text_raw": "寄语\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�pg. 3",
+      "text_normalized": "寄语 …… pg. 3",
+      "bbox": [
+        63.64,
+        187.11,
+        531.64,
+        204.66
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": true,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 4,
+      "text_raw": "摘要\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�pg. 4",
+      "text_normalized": "摘要 …… pg. 4",
+      "bbox": [
+        63.64,
+        216.68,
+        531.64,
+        234.24
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": true,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 5,
+      "text_raw": "1. 全球半导体产业链概况\b.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�.�pg. 5",
+      "text_normalized": "1. 全球半导体产业链概况 …… pg. 5",
+      "bbox": [
+        63.64,
+        246.26,
+        531.64,
+        263.82
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 6,
+      "text_raw": "1.1 全球半导体市场的规模、供给与下游需求分布\b�����������������������������������������������pg. 5",
+      "text_normalized": "1.1 全球半导体市场的规模、供给与下游需求分布 …… pg. 5",
+      "bbox": [
+        90.64,
+        276.17,
+        531.63,
+        292.95
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 7,
+      "text_raw": "1.2 半导体价值链的主要环节\b�������������������������������������������������������������������������������pg. 6",
+      "text_normalized": "1.2 半导体价值链的主要环节 …… pg. 6",
+      "bbox": [
+        90.64,
+        305.75,
+        531.63,
+        322.52
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 8,
+      "text_raw": "1.3 半导体价值链：各大环节的分布情况及主要玩家\b�������������������������������������������pg. 8",
+      "text_normalized": "1.3 半导体价值链：各大环节的分布情况及主要玩家 …… pg. 8",
+      "bbox": [
+        90.64,
+        335.32,
+        531.63,
+        352.1
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 9,
+      "text_raw": "1.3.1 前端设备\b��������������������������������������������������������������������������������������������������������������������������pg. 8",
+      "text_normalized": "1.3.1 前端设备 …… pg. 8",
+      "bbox": [
+        108.64,
+        363.53,
+        531.63,
+        377.51
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 10,
+      "text_raw": "1.3.2 原材料\b������������������������������������������������������������������������������������������������������������������������������pg. 9",
+      "text_normalized": "1.3.2 原材料 …… pg. 9",
+      "bbox": [
+        108.64,
+        388.03,
+        531.63,
+        402.01
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 11,
+      "text_raw": "1.3.3 EDA/IP\b����������������������������������������������������������������������������������������������������������������������������pg. 9",
+      "text_normalized": "1.3.3 EDA/IP …… pg. 9",
+      "bbox": [
+        108.64,
+        412.53,
+        531.63,
+        426.51
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 12,
+      "text_raw": "1.3.4 设计环节\b������������������������������������������������������������������������������������������������������������������������pg. 10",
+      "text_normalized": "1.3.4 设计环节 …… pg. 10",
+      "bbox": [
+        108.64,
+        437.03,
+        531.64,
+        451.01
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 13,
+      "text_raw": "1.3.5 代工环节\b�������������������������������������������������������������������������������������������������������������������������pg. 11",
+      "text_normalized": "1.3.5 代工环节 …… pg. 11",
+      "bbox": [
+        108.64,
+        461.53,
+        531.64,
+        475.51
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 14,
+      "text_raw": "1.3.6 封测环节\b�������������������������������������������������������������������������������������������������������������������������pg. 11",
+      "text_normalized": "1.3.6 封测环节 …… pg. 11",
+      "bbox": [
+        108.64,
+        486.03,
+        531.64,
+        500.01
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 15,
+      "text_raw": "2. 中国半导体在价值链主要环节的参与\b��������������������������������������������������������������������������pg. 12",
+      "text_normalized": "2. 中国半导体在价值链主要环节的参与 …… pg. 12",
+      "bbox": [
+        63.64,
+        511.56,
+        531.64,
+        529.12
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 16,
+      "text_raw": "2.1 前端设备\b��������������������������������������������������������������������������������������������������������pg. 13",
+      "text_normalized": "2.1 前端设备 …… pg. 13",
+      "bbox": [
+        90.64,
+        541.48,
+        531.64,
+        558.25
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 17,
+      "text_raw": "2.2 原材料\b����������������������������������������������������������������������������������������������������������pg. 14",
+      "text_normalized": "2.2 原材料 …… pg. 14",
+      "bbox": [
+        90.64,
+        571.05,
+        531.64,
+        587.83
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 18,
+      "text_raw": "2.3 EDA/IP\b����������������������������������������������������������������������������������������������������������pg. 14",
+      "text_normalized": "2.3 EDA/IP …… pg. 14",
+      "bbox": [
+        90.64,
+        600.63,
+        531.64,
+        616.67
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 19,
+      "text_raw": "2.4 设计环节\b������������������������������������������������������������������������������������������������������pg. 14",
+      "text_normalized": "2.4 设计环节 …… pg. 14",
+      "bbox": [
+        90.64,
+        630.2,
+        531.64,
+        646.98
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 20,
+      "text_raw": "2.5 代工环节\b������������������������������������������������������������������������������������������������������pg. 14",
+      "text_normalized": "2.5 代工环节 …… pg. 14",
+      "bbox": [
+        90.64,
+        659.78,
+        531.64,
+        676.56
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 21,
+      "text_raw": "2.6 封测环节\b������������������������������������������������������������������������������������������������������pg. 14",
+      "text_normalized": "2.6 封测环节 …… pg. 14",
+      "bbox": [
+        90.64,
+        689.36,
+        531.64,
+        706.13
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 22,
+      "text_raw": "3. 芯片设计环节中，中国半导体的市场地位\b������������������������������������������������������������������pg. 15",
+      "text_normalized": "3. 芯片设计环节中，中国半导体的市场地位 …… pg. 15",
+      "bbox": [
+        63.64,
+        718.6,
+        531.64,
+        736.15
+      ],
+      "font_size_estimate": 12.0,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p003_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 3,
+      "reading_order": 23,
+      "text_raw": "1",
+      "text_normalized": "1",
+      "bbox": [
+        295.84,
+        798.21,
+        299.43,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

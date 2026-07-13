@@ -1,0 +1,593 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 6,
+  "page_type": "unknown",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 1,
+      "text_raw": "目录",
+      "text_normalized": "目录",
+      "bbox": [
+        264.96,
+        75.83,
+        330.25,
+        101.96
+      ],
+      "font_size_estimate": 26.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 2,
+      "text_raw": "一、新型显示产业概述...........................................................................................................1",
+      "text_normalized": "一、新型显示产业概述...........................................................................................................1",
+      "bbox": [
+        90.0,
+        117.57,
+        505.34,
+        132.35
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 3,
+      "text_raw": "（一）新型显示产业链基本构成.................................................................................... 1",
+      "text_normalized": "（一）新型显示产业链基本构成.................................................................................... 1",
+      "bbox": [
+        111.96,
+        146.18,
+        505.34,
+        161.15
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 4,
+      "text_raw": "（二）新型显示材料是显示产业发展的基石................................................................ 1",
+      "text_normalized": "（二）新型显示材料是显示产业发展的基石................................................................ 1",
+      "bbox": [
+        111.96,
+        175.1,
+        505.34,
+        190.07
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 5,
+      "text_raw": "（三）产业链保障能力建设意义重大.......................................................................... 2",
+      "text_normalized": "（三）产业链保障能力建设意义重大.......................................................................... 2",
+      "bbox": [
+        111.96,
+        203.9,
+        505.34,
+        218.87
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 6,
+      "text_raw": "1. 效益优势................................................................................................................3",
+      "text_normalized": "1. 效益优势................................................................................................................3",
+      "bbox": [
+        134.04,
+        233.13,
+        505.34,
+        247.79
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 7,
+      "text_raw": "2.风险防控优势.........................................................................................................3",
+      "text_normalized": "2.风险防控优势.........................................................................................................3",
+      "bbox": [
+        134.04,
+        261.93,
+        505.34,
+        276.71
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 8,
+      "text_raw": "3.创新优势.................................................................................................................3",
+      "text_normalized": "3.创新优势.................................................................................................................3",
+      "bbox": [
+        134.04,
+        290.85,
+        505.34,
+        305.51
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 9,
+      "text_raw": "4.竞争优势.................................................................................................................3",
+      "text_normalized": "4.竞争优势.................................................................................................................3",
+      "bbox": [
+        134.04,
+        319.65,
+        505.34,
+        334.31
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 10,
+      "text_raw": "二、新型显示产业发展环境................................................................................................... 5",
+      "text_normalized": "二、新型显示产业发展环境................................................................................................... 5",
+      "bbox": [
+        90.0,
+        348.26,
+        505.34,
+        363.23
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 11,
+      "text_raw": "（一）全球新型显示产业稳中有变................................................................................ 5",
+      "text_normalized": "（一）全球新型显示产业稳中有变................................................................................ 5",
+      "bbox": [
+        111.96,
+        377.06,
+        505.34,
+        392.15
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 12,
+      "text_raw": "1.全球新型显示面板产业变革加速.........................................................................5",
+      "text_normalized": "1.全球新型显示面板产业变革加速.........................................................................5",
+      "bbox": [
+        134.04,
+        406.29,
+        505.34,
+        421.07
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 13,
+      "text_raw": "2.显示材料产业高度集中.........................................................................................7",
+      "text_normalized": "2.显示材料产业高度集中.........................................................................................7",
+      "bbox": [
+        134.04,
+        435.21,
+        505.34,
+        449.87
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 14,
+      "text_raw": "（二）新型显示产业政策环境不断优化........................................................................ 7",
+      "text_normalized": "（二）新型显示产业政策环境不断优化........................................................................ 7",
+      "bbox": [
+        111.96,
+        463.7,
+        505.34,
+        478.67
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 15,
+      "text_raw": "1.产业和专项政策相继出台.....................................................................................8",
+      "text_normalized": "1.产业和专项政策相继出台.....................................................................................8",
+      "bbox": [
+        134.04,
+        492.93,
+        505.34,
+        507.59
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 16,
+      "text_raw": "2.财关税政策支持产业发展.....................................................................................8",
+      "text_normalized": "2.财关税政策支持产业发展.....................................................................................8",
+      "bbox": [
+        134.04,
+        521.73,
+        505.34,
+        536.51
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 17,
+      "text_raw": "3.环保政策趋紧细化.................................................................................................9",
+      "text_normalized": "3.环保政策趋紧细化.................................................................................................9",
+      "bbox": [
+        134.04,
+        550.65,
+        505.34,
+        565.31
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 18,
+      "text_raw": "三、新型显示材料供需现状.................................................................................................. 12",
+      "text_normalized": "三、新型显示材料供需现状.................................................................................................. 12",
+      "bbox": [
+        90.0,
+        579.26,
+        505.34,
+        594.23
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 19,
+      "text_raw": "（一）市场需求.............................................................................................................. 12",
+      "text_normalized": "（一）市场需求.............................................................................................................. 12",
+      "bbox": [
+        111.96,
+        608.06,
+        505.34,
+        623.03
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 20,
+      "text_raw": "1.需求规模及增速...................................................................................................12",
+      "text_normalized": "1.需求规模及增速...................................................................................................12",
+      "bbox": [
+        134.04,
+        637.29,
+        505.34,
+        651.95
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 21,
+      "text_raw": "2.面板行业集中度...................................................................................................13",
+      "text_normalized": "2.面板行业集中度...................................................................................................13",
+      "bbox": [
+        134.04,
+        666.09,
+        505.34,
+        680.87
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 22,
+      "text_raw": "3.需求区域和分布...................................................................................................16",
+      "text_normalized": "3.需求区域和分布...................................................................................................16",
+      "bbox": [
+        134.04,
+        695.01,
+        505.34,
+        709.67
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 23,
+      "text_raw": "（二）行业供给情况...................................................................................................... 17",
+      "text_normalized": "（二）行业供给情况...................................................................................................... 17",
+      "bbox": [
+        111.96,
+        723.62,
+        505.34,
+        738.59
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 24,
+      "text_raw": "1.供给空间较大.......................................................................................................17",
+      "text_normalized": "1.供给空间较大.......................................................................................................17",
+      "bbox": [
+        134.04,
+        752.73,
+        505.34,
+        767.39
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p006_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 6,
+      "reading_order": 25,
+      "text_raw": "1",
+      "text_normalized": "1",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

@@ -1,0 +1,12 @@
+doc_id,page_no,page_type_override,has_chain_diagram_confirmed,review_required,visual_review_comment
+中国半导体白皮书_1b73a8b1f91b,1,cover,no,no,视觉核验为封面，标题可读；封面图片无需本阶段OCR
+中国半导体白皮书_1b73a8b1f91b,2,copyright,no,no,视觉核验为版权页，仅含版权声明；无需OCR
+中国半导体白皮书_1b73a8b1f91b,3,toc,no,no,视觉核验为目录页；点线在原生文本中有乱码但目录条目可读
+中国半导体白皮书_1b73a8b1f91b,4,toc,no,no,视觉核验为目录续页；目录条目可读
+中国半导体白皮书_1b73a8b1f91b,7,chart,no,yes,视觉核验为统计图表页，非产业链图
+中国半导体白皮书_1b73a8b1f91b,8,chart,no,yes,视觉核验为统计图表加正文页，非产业链图
+中国半导体白皮书_1b73a8b1f91b,9,chain_diagram,yes,yes,视觉核验为半导体价值链主要环节图，需二阶段复核节点和方向
+中国半导体白皮书_1b73a8b1f91b,14,chain_diagram,yes,yes,视觉核验为中国在半导体价值链各环节机会挑战图，需复核节点与表格结构
+中国半导体白皮书_1b73a8b1f91b,17,table,no,yes,视觉核验为市场地位矩阵/表格，非产业链图
+中国半导体白皮书_1b73a8b1f91b,22,paragraph,no,no,视觉核验为正文页，非产业链图
+中国半导体白皮书_1b73a8b1f91b,25,mixed,no,yes,视觉核验为尾页，含二维码和品牌信息；不属于产业链建模核心内容

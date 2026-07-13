@@ -1,0 +1,134 @@
+﻿review_item_id,source_stage,item_type,priority,reason,related_id,evidence_id,page_no,recommended_action
+S4RQ0001,3C,relation,P3,关系候选待复核: SoC芯片->组成->涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片,t01_r10,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0002,3C,relation,P3,关系候选待复核: CPU/GPU/ASIC->组成->涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片,t01_r11,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0003,3C,relation,P3,关系候选待复核: 云计算->组成->涵盖CPU/GPU/ASIC、SoC芯片、存储芯片、模拟芯片,t01_r12,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0004,3C,entity,P3,候选被拒绝，需人工确认,t01_e10,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0005,3C,entity,P3,候选被拒绝，需人工确认,t01_e11,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0006,3C,entity,P3,候选被拒绝，需人工确认,t01_e12,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0007,3C,entity,P3,候选被拒绝，需人工确认,t01_e13,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0008,3C,entity,P3,候选被拒绝，需人工确认,t01_e14,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0009,3C,entity,P3,候选被拒绝，需人工确认,t01_e15,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0010,3C,entity,P3,候选被拒绝，需人工确认,t01_e16,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0011,3C,entity,P3,候选被拒绝，需人工确认,t01_e17,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0012,3C,entity,P3,候选被拒绝，需人工确认,t01_e18,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+S4RQ0013,3C,relation,P3,候选被拒绝，需人工确认,t01_r01,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,重新判定关系类型
+S4RQ0014,3C,relation,P3,候选被拒绝，需人工确认,t01_r02,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,重新判定关系类型
+S4RQ0015,3C,relation,P3,候选被拒绝，需人工确认,t01_r03,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,重新判定关系类型
+S4RQ0016,3C,relation,P3,候选被拒绝，需人工确认,t01_r04,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,重新判定关系类型
+S4RQ0017,3C,relation,P3,候选被拒绝，需人工确认,t01_r05,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_006,10,重新判定关系类型
+S4RQ0018,3C,relation,P3,候选被拒绝，需人工确认,t01_r06,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+S4RQ0019,3C,relation,P3,候选被拒绝，需人工确认,t01_r07,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+S4RQ0020,3C,relation,P3,候选被拒绝，需人工确认,t01_r08,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,重新判定关系类型
+S4RQ0021,3C,relation,P3,候选被拒绝，需人工确认,t01_r09,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,重新判定关系类型
+S4RQ0022,3C,relation,P1,关系候选待复核: 设备->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r01,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+S4RQ0023,3C,relation,P1,关系候选待复核: 原材料->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r02,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+S4RQ0024,3C,relation,P1,关系候选待复核: EDA软件->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r03,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+S4RQ0025,3C,relation,P1,关系候选待复核: 硅片->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r04,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+S4RQ0026,3C,relation,P1,关系候选待复核: 金属->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r05,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+S4RQ0027,3C,relation,P1,关系候选待复核: 化学品->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r06,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+S4RQ0028,3C,relation,P1,关系候选待复核: 气体->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r07,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+S4RQ0029,3C,relation,P1,关系候选待复核: 封装材料->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r08,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+S4RQ0030,3C,relation,P1,关系候选待复核: 基材->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r09,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+S4RQ0031,3C,relation,P1,关系候选待复核: 光刻机->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r10,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004,10,人工核对原文与结论
+S4RQ0032,3C,relation,P1,关系候选待复核: 晶圆缺陷监测系统->INPUT_TO->制造集成电路（IC）、光电子器件、分立器件、传感器、芯片,t03_r11,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004,10,人工核对原文与结论
+S4RQ0033,3C,relation,P1,关系候选待复核: 设计->INPUT_TO->代工,t04_r01,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工核对原文与结论
+S4RQ0034,3C,relation,P1,关系候选待复核: 代工->INPUT_TO->封装,t04_r02,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,人工核对原文与结论
+S4RQ0035,3C,relation,P1,关系候选待复核: 设计->INPUT_TO->封装,t04_r04,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,人工核对原文与结论
+S4RQ0036,3C,entity,P3,候选被拒绝，需人工确认,t04_e05,中国半导体白皮书_1b73a8b1f91b_p006_paragraph_003,6,人工核对 quote 与原文
+S4RQ0037,3C,relation,P3,候选被拒绝，需人工确认,t04_r03,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工确认主宾语是否在原文
+S4RQ0038,3C,relation,P3,候选被拒绝，需人工确认,t04_r05,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工确认主宾语是否在原文
+S4RQ0039,3C,relation,P3,候选被拒绝，需人工确认,t04_r06,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,人工确认主宾语是否在原文
+S4RQ0040,3C,relation,P3,候选被拒绝，需人工确认,t04_r07,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工确认主宾语是否在原文
+S4RQ0041,3C,entity,P3,候选被拒绝，需人工确认,t05_e03,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工核对 quote 与原文
+S4RQ0042,3C,entity,P3,候选被拒绝，需人工确认,t05_e04,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工核对 quote 与原文
+S4RQ0043,3C,relation,P3,候选被拒绝，需人工确认,t05_r01,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0044,3C,relation,P3,候选被拒绝，需人工确认,t05_r02,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0045,3C,relation,P3,候选被拒绝，需人工确认,t05_r03,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0046,3C,relation,P3,候选被拒绝，需人工确认,t05_r04,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0047,3C,relation,P3,候选被拒绝，需人工确认,t05_r05,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0048,3C,relation,P3,候选被拒绝，需人工确认,t05_r06,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0049,3C,relation,P3,候选被拒绝，需人工确认,t05_r07,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0050,3C,relation,P3,候选被拒绝，需人工确认,t05_r08,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0051,3C,entity,P3,候选被拒绝，需人工确认,t07_e06,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,人工确认主宾语是否在原文
+S4RQ0052,3C,entity,P3,候选被拒绝，需人工确认,t07_e09,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_009,22,人工核对 quote 与原文
+S4RQ0053,3C,relation,P3,候选被拒绝，需人工确认,t07_r01,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工确认主宾语是否在原文
+S4RQ0054,3C,relation,P3,候选被拒绝，需人工确认,t07_r02,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工确认主宾语是否在原文
+S4RQ0055,3C,relation,P3,候选被拒绝，需人工确认,t07_r03,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工确认主宾语是否在原文
+S4RQ0056,3C,relation,P3,候选被拒绝，需人工确认,t07_r04,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工确认主宾语是否在原文
+S4RQ0057,3C,relation,P3,候选被拒绝，需人工确认,t07_r05,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+S4RQ0058,3C,relation,P3,候选被拒绝，需人工确认,t07_r06,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,人工确认主宾语是否在原文
+S4RQ0059,3C,relation,P3,候选被拒绝，需人工确认,t07_r07,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,人工确认主宾语是否在原文
+S4RQ0060,3C,relation,P3,候选被拒绝，需人工确认,t07_r08,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,人工确认主宾语是否在原文
+S4RQ0061,3C,entity,P3,候选被拒绝，需人工确认,t09_e11,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对 quote 与原文
+S4RQ0062,3C,entity,P3,候选被拒绝，需人工确认,t09_e16,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对 quote 与原文
+S4RQ0063,3C,entity,P3,候选被拒绝，需人工确认,t09_e17,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对 quote 与原文
+S4RQ0064,3C,entity,P3,候选被拒绝，需人工确认,t09_e18,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对 quote 与原文
+S4RQ0065,3C,entity,P3,候选被拒绝，需人工确认,t09_e19,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对 quote 与原文
+S4RQ0066,3C,entity,P3,候选被拒绝，需人工确认,t09_e20,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0067,3C,entity,P3,候选被拒绝，需人工确认,t09_e21,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0068,3C,entity,P3,候选被拒绝，需人工确认,t09_e23,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0069,3C,entity,P3,候选被拒绝，需人工确认,t09_e24,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0070,3C,entity,P3,候选被拒绝，需人工确认,t09_e25,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0071,3C,entity,P3,候选被拒绝，需人工确认,t09_e26,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0072,3C,entity,P3,候选被拒绝，需人工确认,t09_e27,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0073,3C,entity,P3,候选被拒绝，需人工确认,t09_e28,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+S4RQ0074,3C,relation,P3,候选被拒绝，需人工确认,t09_r01,,,人工核对原文与结论
+S4RQ0075,3C,relation,P3,候选被拒绝，需人工确认,t09_r02,,,人工核对原文与结论
+S4RQ0076,3C,relation,P3,候选被拒绝，需人工确认,t09_r03,,,人工核对原文与结论
+S4RQ0077,3C,relation,P3,候选被拒绝，需人工确认,t09_r04,,,人工核对原文与结论
+S4RQ0078,3C,relation,P3,候选被拒绝，需人工确认,t09_r05,,,人工核对原文与结论
+S4RQ0079,3C,relation,P3,候选被拒绝，需人工确认,t09_r06,,,人工核对原文与结论
+S4RQ0080,3C,relation,P3,候选被拒绝，需人工确认,t09_r07,,,人工核对原文与结论
+S4RQ0081,3C,relation,P3,候选被拒绝，需人工确认,t09_r08,,,人工核对原文与结论
+S4RQ0082,3C,relation,P3,候选被拒绝，需人工确认,t09_r09,,,人工核对原文与结论
+S4RQ0083,3C,relation,P3,候选被拒绝，需人工确认,t09_r10,,,人工核对原文与结论
+S4RQ0084,3C,relation,P3,候选被拒绝，需人工确认,t09_r11,,,人工核对原文与结论
+S4RQ0085,3C,relation,P3,候选被拒绝，需人工确认,t09_r12,,,人工核对原文与结论
+S4RQ0086,3C,relation,P3,候选被拒绝，需人工确认,t09_r13,,,人工核对原文与结论
+S4RQ0087,3C,relation,P3,候选被拒绝，需人工确认,t09_r14,,,人工核对原文与结论
+S4RQ0088,3C,relation,P3,候选被拒绝，需人工确认,t09_r15,,,人工核对原文与结论
+S4RQ0089,3C,relation,P3,候选被拒绝，需人工确认,t09_r16,,,人工核对原文与结论
+S4RQ0090,3C,relation,P3,候选被拒绝，需人工确认,t09_r17,,,人工核对原文与结论
+S4RQ0091,3C,relation,P3,候选被拒绝，需人工确认,t09_r18,,,人工核对原文与结论
+S4RQ0092,3C,relation,P3,候选被拒绝，需人工确认,t09_r19,,,人工核对原文与结论
+S4RQ0093,3C,relation,P3,候选被拒绝，需人工确认,t09_r20,,,人工核对原文与结论
+S4RQ0094,3C,relation,P3,候选被拒绝，需人工确认,t09_r21,,,人工核对原文与结论
+S4RQ0095,3C,relation,P3,候选被拒绝，需人工确认,t09_r22,,,人工核对原文与结论
+S4RQ0096,3C,relation,P3,候选被拒绝，需人工确认,t09_r23,,,人工核对原文与结论
+S4RQ0097,3C,relation,P3,候选被拒绝，需人工确认,t09_r24,,,人工核对原文与结论
+S4RQ0098,3C,relation,P3,候选被拒绝，需人工确认,t09_r25,,,人工核对原文与结论
+S4RQ0099,3C,relation,P3,候选被拒绝，需人工确认,t09_r26,,,人工核对原文与结论
+S4RQ0100,3C,relation,P3,候选被拒绝，需人工确认,t09_r27,,,人工核对原文与结论
+S4RQ0101,3C,relation,P3,候选被拒绝，需人工确认,t09_r28,,,人工核对原文与结论
+S4RQ0102,3C,relation,P3,候选被拒绝，需人工确认,t09_r29,,,人工核对原文与结论
+S4RQ0103,3C,relation,P3,候选被拒绝，需人工确认,t09_r30,,,人工核对原文与结论
+S4RQ0104,3C,relation,P3,候选被拒绝，需人工确认,t09_r31,,,人工核对原文与结论
+S4RQ0105,3C,relation,P3,候选被拒绝，需人工确认,t09_r32,,,人工核对原文与结论
+S4RQ0106,3C,relation,P3,候选被拒绝，需人工确认,t09_r33,,,人工核对原文与结论
+S4RQ0107,3C,relation,P3,候选被拒绝，需人工确认,t09_r34,,,人工核对原文与结论
+S4RQ0108,3C,relation,P3,候选被拒绝，需人工确认,t09_r35,,,人工核对原文与结论
+S4RQ0109,3C,relation,P3,候选被拒绝，需人工确认,t09_r36,,,人工核对原文与结论
+S4RQ0110,3C,relation,P3,候选被拒绝，需人工确认,t09_r37,,,人工核对原文与结论
+S4RQ0111,3C,relation,P3,候选被拒绝，需人工确认,t09_r38,,,人工核对原文与结论
+S4RQ0112,3C,relation,P3,候选被拒绝，需人工确认,t09_r39,,,人工核对原文与结论
+S4RQ0113,3C,relation,P3,候选被拒绝，需人工确认,t09_r40,,,人工核对原文与结论
+S4RQ0114,3C,relation,P3,候选被拒绝，需人工确认,t09_r41,,,人工核对原文与结论
+S4RQ0115,3C,relation,P3,候选被拒绝，需人工确认,t09_r42,,,人工核对原文与结论
+S4RQ0116,3C,relation,P3,候选被拒绝，需人工确认,t09_r43,,,人工核对原文与结论
+S4RQ0117,3C,relation,P3,候选被拒绝，需人工确认,t09_r44,,,人工核对原文与结论
+S4RQ0118,3C,relation,P3,候选被拒绝，需人工确认,t09_r45,,,人工核对原文与结论
+S4RQ0119,3C,relation,P3,候选被拒绝，需人工确认,t09_r46,,,人工核对原文与结论
+S4RQ0120,3C,relation,P3,候选被拒绝，需人工确认,t09_r47,,,人工核对原文与结论
+S4RQ0121,3C,relation,P3,候选被拒绝，需人工确认,t09_r48,,,人工核对原文与结论
+S4RQ0122,3C,relation,P3,候选被拒绝，需人工确认,t09_r49,,,人工核对原文与结论
+S4RQ0123,3C,relation,P3,候选被拒绝，需人工确认,t09_r50,,,人工核对原文与结论
+S4RQ0124,3C,relation,P3,候选被拒绝，需人工确认,t09_r51,,,人工核对原文与结论
+S4RQ0125,3C,relation,P3,候选被拒绝，需人工确认,t09_r52,,,人工核对原文与结论
+S4RQ0126,3C,relation,P3,候选被拒绝，需人工确认,t09_r53,,,人工核对原文与结论
+S4RQ0127,3C,relation,P3,候选被拒绝，需人工确认,t09_r54,,,人工核对原文与结论
+S4RQ0128,3C,relation,P3,候选被拒绝，需人工确认,t09_r55,,,人工核对原文与结论
+S4RQ0129,3C,relation,P3,候选被拒绝，需人工确认,t09_r56,,,人工核对原文与结论
+S4RQ0130,3C,relation,P3,候选被拒绝，需人工确认,t09_r57,,,人工核对原文与结论
+S4RQ0131,3C,relation,P3,候选被拒绝，需人工确认,t09_r58,,,人工核对原文与结论
+S4RQ0132,3C,relation,P3,候选被拒绝，需人工确认,t09_r59,,,人工核对原文与结论
+S4RQ0133,3C,relation,P3,候选被拒绝，需人工确认,t09_r60,,,人工核对原文与结论

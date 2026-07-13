@@ -1,0 +1,110 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 1,
+  "page_type": "cover",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p001_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 1,
+      "reading_order": 1,
+      "text_raw": "中国新型显示产业配套保障能力白皮书",
+      "text_normalized": "中国新型显示产业配套保障能力白皮书",
+      "bbox": [
+        93.6,
+        305.71,
+        501.6,
+        330.07
+      ],
+      "font_size_estimate": 24.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p001_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 1,
+      "reading_order": 2,
+      "text_raw": "（2018 年）",
+      "text_normalized": "（2018 年）",
+      "bbox": [
+        234.6,
+        352.39,
+        360.6,
+        376.75
+      ],
+      "font_size_estimate": 24.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p001_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 1,
+      "reading_order": 3,
+      "text_raw": "中国电子技术标准化研究院",
+      "text_normalized": "中国电子技术标准化研究院",
+      "bbox": [
+        201.6,
+        646.83,
+        393.58,
+        663.02
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p001_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 1,
+      "reading_order": 4,
+      "text_raw": "2018 年12 月",
+      "text_normalized": "2018 年12 月",
+      "bbox": [
+        251.64,
+        677.55,
+        343.55,
+        693.74
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

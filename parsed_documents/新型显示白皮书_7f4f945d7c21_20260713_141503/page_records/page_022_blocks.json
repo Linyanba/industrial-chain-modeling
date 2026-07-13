@@ -1,0 +1,235 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 22,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 1,
+      "text_raw": "出口占比，2017 年中国大陆显示面板总出口为809.2 亿元，其",
+      "text_normalized": "出口占比，2017 年中国大陆显示面板总出口为809.2 亿元，其",
+      "bbox": [
+        117.96,
+        74.02,
+        499.57,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 2,
+      "text_raw": "中前三大企业占比92.44%。中国大陆显示面板出口占比如图7 所",
+      "text_normalized": "中前三大企业占比92.44%。中国大陆显示面板出口占比如图7 所",
+      "bbox": [
+        90.0,
+        101.26,
+        485.53,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 3,
+      "text_raw": "示。",
+      "text_normalized": "示。",
+      "bbox": [
+        90.0,
+        128.5,
+        118.09,
+        142.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 4,
+      "text_raw": "图7 中国大陆显示面板出口占比",
+      "text_normalized": "图7 中国大陆显示面板出口占比",
+      "bbox": [
+        224.64,
+        388.75,
+        370.57,
+        402.34
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 5,
+      "text_raw": "数据来源：CESI 统计",
+      "text_normalized": "数据来源：CESI 统计",
+      "bbox": [
+        90.0,
+        414.07,
+        192.49,
+        428.45
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 6,
+      "text_raw": "截止2017 年，中国大陆显示面板行业总固定资产为2701.9 亿",
+      "text_normalized": "截止2017 年，中国大陆显示面板行业总固定资产为2701.9 亿",
+      "bbox": [
+        117.96,
+        441.7,
+        496.09,
+        455.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 7,
+      "text_raw": "元，其中前三大企业占比79.52%。如图8 所示。",
+      "text_normalized": "元，其中前三大企业占比79.52%。如图8 所示。",
+      "bbox": [
+        90.0,
+        468.94,
+        387.49,
+        483.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 8,
+      "text_raw": "图8 中国大陆显示面板固定资产占比",
+      "text_normalized": "图8 中国大陆显示面板固定资产占比",
+      "bbox": [
+        214.2,
+        729.19,
+        381.13,
+        742.78
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p022_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 22,
+      "reading_order": 9,
+      "text_raw": "14",
+      "text_normalized": "14",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+  ]
+}

@@ -1,0 +1,9 @@
+﻿branch_label,depth,child_count,evidence_count,entity_count,relation_count,is_display_schema_node,quality_status,issue,recommended_action
+晶圆制造,1,4,0,1,0,false,ok,,保持
+光刻,2,0,1,1,0,false,ok,,保持
+刻蚀,2,0,1,1,0,false,ok,,保持
+沉积,2,0,1,1,0,false,ok,,保持
+离子注入,2,0,1,1,0,false,ok,,保持
+计算芯片,1,2,0,1,0,false,ok,,保持
+ASIC,2,0,1,1,0,false,ok,,保持
+GPU,2,0,1,1,0,false,ok,,保持

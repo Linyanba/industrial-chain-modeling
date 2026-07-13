@@ -1,0 +1,427 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 25,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 1,
+      "text_raw": "星光电深圳两条LCD-11 代线、湖北AMOLED-6 代线；和辉光电上海",
+      "text_normalized": "星光电深圳两条LCD-11 代线、湖北AMOLED-6 代线；和辉光电上海",
+      "bbox": [
+        90.0,
+        74.02,
+        505.33,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 2,
+      "text_raw": "AMOLED-6 代线；天马AMOLED-6 代线；信利四川LCD-5 代线、",
+      "text_normalized": "AMOLED-6 代线；天马AMOLED-6 代线；信利四川LCD-5 代线、",
+      "bbox": [
+        90.0,
+        101.26,
+        505.33,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 3,
+      "text_raw": "AMOLED-6 代线、广东LCD-5 代线以及维信诺河北AMOLED-6 代线",
+      "text_normalized": "AMOLED-6 代线、广东LCD-5 代线以及维信诺河北AMOLED-6 代线",
+      "bbox": [
+        90.0,
+        128.5,
+        505.33,
+        142.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 4,
+      "text_raw": "等。新建产线年产能预计达到750 万片，预测2019-2020 年中国大",
+      "text_normalized": "等。新建产线年产能预计达到750 万片，预测2019-2020 年中国大",
+      "bbox": [
+        90.0,
+        155.74,
+        505.33,
+        169.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 5,
+      "text_raw": "陆新增产能将超2018 年40%。",
+      "text_normalized": "陆新增产能将超2018 年40%。",
+      "bbox": [
+        90.0,
+        182.98,
+        275.53,
+        197.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 6,
+      "text_raw": "（二）行业供给情况",
+      "text_normalized": "（二）行业供给情况",
+      "bbox": [
+        120.0,
+        216.37,
+        255.0,
+        231.59
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 7,
+      "text_raw": "1.供给空间较大",
+      "text_normalized": "1.供给空间较大",
+      "bbox": [
+        117.96,
+        259.89,
+        213.73,
+        278.56
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 8,
+      "text_raw": "通过调研中国大陆玻璃基板、液晶材料、OLED 材料、靶材、显",
+      "text_normalized": "通过调研中国大陆玻璃基板、液晶材料、OLED 材料、靶材、显",
+      "bbox": [
+        117.96,
+        299.14,
+        505.33,
+        313.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 9,
+      "text_raw": "示芯片、偏光片、掩模版、湿电子化学品和光刻胶等主要显示材料",
+      "text_normalized": "示芯片、偏光片、掩模版、湿电子化学品和光刻胶等主要显示材料",
+      "bbox": [
+        90.0,
+        326.38,
+        505.33,
+        340.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 10,
+      "text_raw": "企业，以年销售额统计，2017 年中国大陆国产新型显示材料行业总",
+      "text_normalized": "企业，以年销售额统计，2017 年中国大陆国产新型显示材料行业总",
+      "bbox": [
+        90.0,
+        353.62,
+        505.45,
+        367.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 11,
+      "text_raw": "规模超过100 亿元，其中玻璃基板、偏光片和液晶材料行业规模较",
+      "text_normalized": "规模超过100 亿元，其中玻璃基板、偏光片和液晶材料行业规模较",
+      "bbox": [
+        90.0,
+        380.86,
+        505.33,
+        394.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 12,
+      "text_raw": "大，分别为37.34 亿元、17.57 亿元和15.23 亿元。中国大陆新型",
+      "text_normalized": "大，分别为37.34 亿元、17.57 亿元和15.23 亿元。中国大陆新型",
+      "bbox": [
+        90.0,
+        408.1,
+        505.33,
+        422.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 13,
+      "text_raw": "显示材料行业规模占比如图11 所示。对比全球主要产品规模：玻璃",
+      "text_normalized": "显示材料行业规模占比如图11 所示。对比全球主要产品规模：玻璃",
+      "bbox": [
+        90.0,
+        435.34,
+        505.33,
+        449.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 14,
+      "text_raw": "基板150 亿美元/6 亿平方米，偏光片100 亿美元/7 亿平方米，液晶",
+      "text_normalized": "基板150 亿美元/6 亿平方米，偏光片100 亿美元/7 亿平方米，液晶",
+      "bbox": [
+        90.0,
+        462.58,
+        505.33,
+        476.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 15,
+      "text_raw": "材料30 亿美元/1000 吨，中国大陆新型显示材料产业规模仍有较大",
+      "text_normalized": "材料30 亿美元/1000 吨，中国大陆新型显示材料产业规模仍有较大",
+      "bbox": [
+        90.0,
+        489.82,
+        505.32,
+        503.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 16,
+      "text_raw": "的发展空间。",
+      "text_normalized": "的发展空间。",
+      "bbox": [
+        90.0,
+        517.06,
+        174.01,
+        531.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p025_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 25,
+      "reading_order": 17,
+      "text_raw": "17",
+      "text_normalized": "17",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "1.供给空间较大"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "1.供给空间较大"
+  ]
+}

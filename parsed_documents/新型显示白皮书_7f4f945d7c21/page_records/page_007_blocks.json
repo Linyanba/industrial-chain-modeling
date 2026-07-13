@@ -1,0 +1,593 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 7,
+  "page_type": "chart",
+  "text_extractable": "partial",
+  "text_quality": "low",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 1,
+      "text_raw": "2.供给区域集聚.......................................................................................................18",
+      "text_normalized": "2.供给区域集聚.......................................................................................................18",
+      "bbox": [
+        134.04,
+        73.89,
+        505.34,
+        88.67
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 2,
+      "text_raw": "（三）材料国产化率.....................................................................................................19",
+      "text_normalized": "（三）材料国产化率.....................................................................................................19",
+      "bbox": [
+        111.96,
+        102.81,
+        505.34,
+        117.47
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 3,
+      "text_raw": "四、新型显示材料供需分析及措施建议.............................................................................21",
+      "text_normalized": "四、新型显示材料供需分析及措施建议.............................................................................21",
+      "bbox": [
+        90.0,
+        131.61,
+        505.34,
+        146.27
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 4,
+      "text_raw": "（一）新型显示材料需求特点...................................................................................... 21",
+      "text_normalized": "（一）新型显示材料需求特点...................................................................................... 21",
+      "bbox": [
+        111.96,
+        160.22,
+        505.34,
+        175.19
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 5,
+      "text_raw": "1.材料质量一致性要求高.......................................................................................21",
+      "text_normalized": "1.材料质量一致性要求高.......................................................................................21",
+      "bbox": [
+        134.04,
+        189.33,
+        505.34,
+        204.11
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 6,
+      "text_raw": "2.材料规模化产能要求高.......................................................................................21",
+      "text_normalized": "2.材料规模化产能要求高.......................................................................................21",
+      "bbox": [
+        134.04,
+        218.25,
+        505.34,
+        232.91
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 7,
+      "text_raw": "3.快速响应的服务能力要求高...............................................................................21",
+      "text_normalized": "3.快速响应的服务能力要求高...............................................................................21",
+      "bbox": [
+        134.04,
+        247.17,
+        505.34,
+        261.83
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 8,
+      "text_raw": "4.安全可靠的供应链是显示产业持续发展的保障...............................................22",
+      "text_normalized": "4.安全可靠的供应链是显示产业持续发展的保障...............................................22",
+      "bbox": [
+        134.04,
+        275.97,
+        505.34,
+        290.63
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 9,
+      "text_raw": "5.对材料性能和工艺自主创新掌控不足...............................................................22",
+      "text_normalized": "5.对材料性能和工艺自主创新掌控不足...............................................................22",
+      "bbox": [
+        134.04,
+        304.77,
+        505.34,
+        319.55
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 10,
+      "text_raw": "（二）新型显示材料供给特点...................................................................................... 23",
+      "text_normalized": "（二）新型显示材料供给特点...................................................................................... 23",
+      "bbox": [
+        111.96,
+        333.38,
+        505.34,
+        348.47
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 11,
+      "text_raw": "1.新型显示材料门类基本覆盖...............................................................................23",
+      "text_normalized": "1.新型显示材料门类基本覆盖...............................................................................23",
+      "bbox": [
+        134.04,
+        362.61,
+        505.34,
+        377.27
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 12,
+      "text_raw": "2.显示材料产业起步晚、积累少...........................................................................23",
+      "text_normalized": "2.显示材料产业起步晚、积累少...........................................................................23",
+      "bbox": [
+        134.04,
+        391.53,
+        505.34,
+        406.19
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 13,
+      "text_raw": "3.产业上下游联动不足...........................................................................................23",
+      "text_normalized": "3.产业上下游联动不足...........................................................................................23",
+      "bbox": [
+        134.04,
+        420.33,
+        505.34,
+        434.99
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 14,
+      "text_raw": "4.技术实力有待提升...............................................................................................24",
+      "text_normalized": "4.技术实力有待提升...............................................................................................24",
+      "bbox": [
+        134.04,
+        449.13,
+        505.34,
+        463.91
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 15,
+      "text_raw": "5.规模化发展尚显不足...........................................................................................24",
+      "text_normalized": "5.规模化发展尚显不足...........................................................................................24",
+      "bbox": [
+        134.04,
+        478.05,
+        505.34,
+        492.71
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 16,
+      "text_raw": "6.产能和产品结构有待优化...................................................................................24",
+      "text_normalized": "6.产能和产品结构有待优化...................................................................................24",
+      "bbox": [
+        134.04,
+        506.97,
+        505.34,
+        521.63
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 17,
+      "text_raw": "（三）新型显示产业配套保障能力建设措施建议...................................................... 25",
+      "text_normalized": "（三）新型显示产业配套保障能力建设措施建议...................................................... 25",
+      "bbox": [
+        111.96,
+        535.46,
+        505.34,
+        550.43
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 18,
+      "text_raw": "1.进一步优化产业政策环境...................................................................................25",
+      "text_normalized": "1.进一步优化产业政策环境...................................................................................25",
+      "bbox": [
+        134.04,
+        564.69,
+        505.34,
+        579.35
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 19,
+      "text_raw": "2.加快产业链和产业生态建设...............................................................................25",
+      "text_normalized": "2.加快产业链和产业生态建设...............................................................................25",
+      "bbox": [
+        134.04,
+        593.49,
+        505.34,
+        608.27
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 20,
+      "text_raw": "3.强化创新驱动发展...............................................................................................25",
+      "text_normalized": "3.强化创新驱动发展...............................................................................................25",
+      "bbox": [
+        134.04,
+        622.41,
+        505.34,
+        637.07
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 21,
+      "text_raw": "4.加强高端人才培养...............................................................................................26",
+      "text_normalized": "4.加强高端人才培养...............................................................................................26",
+      "bbox": [
+        134.04,
+        651.33,
+        505.34,
+        665.99
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 22,
+      "text_raw": "5.创新质量保障机制...............................................................................................26",
+      "text_normalized": "5.创新质量保障机制...............................................................................................26",
+      "bbox": [
+        134.04,
+        680.13,
+        505.34,
+        694.79
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 23,
+      "text_raw": "6.加强标准和知识产权战略布局...........................................................................26",
+      "text_normalized": "6.加强标准和知识产权战略布局...........................................................................26",
+      "bbox": [
+        134.04,
+        709.05,
+        505.34,
+        723.71
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 24,
+      "text_raw": "7.注重风险防控.......................................................................................................27",
+      "text_normalized": "7.注重风险防控.......................................................................................................27",
+      "bbox": [
+        134.04,
+        737.85,
+        505.34,
+        752.51
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p007_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 7,
+      "reading_order": 25,
+      "text_raw": "2",
+      "text_normalized": "2",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_quality": "low",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 28,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 1,
+      "text_raw": "图13 新型显示材料国产化率趋势",
+      "text_normalized": "图13 新型显示材料国产化率趋势",
+      "bbox": [
+        232.68,
+        269.83,
+        383.53,
+        283.42
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 2,
+      "text_raw": "数据来源：CESI 统计",
+      "text_normalized": "数据来源：CESI 统计",
+      "bbox": [
+        90.0,
+        298.75,
+        187.69,
+        312.34
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 3,
+      "text_raw": "近年来，显示材料国产化率稳步提升，但偏光片、掩模版和液",
+      "text_normalized": "近年来，显示材料国产化率稳步提升，但偏光片、掩模版和液",
+      "bbox": [
+        117.96,
+        325.66,
+        505.33,
+        339.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 4,
+      "text_raw": "晶材料2018 年国产化率有所下降，究其原因，可能是面板企业产品",
+      "text_normalized": "晶材料2018 年国产化率有所下降，究其原因，可能是面板企业产品",
+      "bbox": [
+        90.0,
+        352.9,
+        505.32,
+        366.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 5,
+      "text_raw": "更新、产线升级，而材料企业未能及时跟进。",
+      "text_normalized": "更新、产线升级，而材料企业未能及时跟进。",
+      "bbox": [
+        90.0,
+        380.14,
+        370.09,
+        394.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 6,
+      "text_raw": "当前中国大陆面板企业和材料企业已开展大量合作，以应对市",
+      "text_normalized": "当前中国大陆面板企业和材料企业已开展大量合作，以应对市",
+      "bbox": [
+        117.96,
+        413.38,
+        505.33,
+        427.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 7,
+      "text_raw": "场的快速变化。具有代表性的案例包括：维信诺参与江苏省AMOLED",
+      "text_normalized": "场的快速变化。具有代表性的案例包括：维信诺参与江苏省AMOLED",
+      "bbox": [
+        90.0,
+        440.62,
+        505.26,
+        454.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 8,
+      "text_raw": "新型显示工程中心及江苏省柔性显示技术研发平台建设，与上下游",
+      "text_normalized": "新型显示工程中心及江苏省柔性显示技术研发平台建设，与上下游",
+      "bbox": [
+        90.0,
+        467.86,
+        505.33,
+        481.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 9,
+      "text_raw": "企业建立全面的合作对接关系。和辉光电与道亦化工合作，开展分",
+      "text_normalized": "企业建立全面的合作对接关系。和辉光电与道亦化工合作，开展分",
+      "bbox": [
+        90.0,
+        495.1,
+        505.33,
+        509.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 10,
+      "text_raw": "析检测服务和样品研发业务，并与相关企业共同发起成立上海OLED",
+      "text_normalized": "析检测服务和样品研发业务，并与相关企业共同发起成立上海OLED",
+      "bbox": [
+        90.0,
+        522.22,
+        505.26,
+        536.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 11,
+      "text_raw": "产业技术创新战略联盟。彩虹与维信诺共同开发LTPS 液晶基板玻璃",
+      "text_normalized": "产业技术创新战略联盟。彩虹与维信诺共同开发LTPS 液晶基板玻璃",
+      "bbox": [
+        90.0,
+        549.58,
+        505.33,
+        563.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 12,
+      "text_raw": "产品，与中电熊猫、惠科等合作，进行TFT-LCD 基板玻璃大尺寸产",
+      "text_normalized": "产品，与中电熊猫、惠科等合作，进行TFT-LCD 基板玻璃大尺寸产",
+      "bbox": [
+        90.0,
+        576.82,
+        505.21,
+        590.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 13,
+      "text_raw": "品的开发。盛波光电与华星光电、京东方、天马、信利等多家面板",
+      "text_normalized": "品的开发。盛波光电与华星光电、京东方、天马、信利等多家面板",
+      "bbox": [
+        90.0,
+        604.06,
+        505.33,
+        618.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 14,
+      "text_raw": "企业保持稳定的产品开发合作。",
+      "text_normalized": "企业保持稳定的产品开发合作。",
+      "bbox": [
+        90.0,
+        631.18,
+        286.09,
+        645.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p028_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 28,
+      "reading_order": 15,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "2.供给区域集聚"
+  ]
+}

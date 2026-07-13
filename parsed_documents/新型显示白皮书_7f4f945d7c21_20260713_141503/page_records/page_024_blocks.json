@@ -1,0 +1,355 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 24,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 1,
+      "text_raw": "表3 中国大陆显示面板行业集中度",
+      "text_normalized": "表3 中国大陆显示面板行业集中度",
+      "bbox": [
+        228.6,
+        72.43,
+        387.73,
+        86.02
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 2,
+      "text_raw": "销售收入出口收入固定资产研发投入",
+      "text_normalized": "销售收入出口收入固定资产研发投入",
+      "bbox": [
+        223.68,
+        109.94,
+        495.73,
+        123.43
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 3,
+      "text_raw": "行业总量（亿元）1632809.22701.9111",
+      "text_normalized": "行业总量（亿元）1632809.22701.9111",
+      "bbox": [
+        103.56,
+        141.02,
+        483.41,
+        154.51
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 4,
+      "text_raw": "前三大企业占比90.73%92.44%79.52%92.67%",
+      "text_normalized": "前三大企业占比90.73%92.44%79.52%92.67%",
+      "bbox": [
+        108.84,
+        172.22,
+        492.96,
+        185.71
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 5,
+      "text_raw": "3.需求区域和分布",
+      "text_normalized": "3.需求区域和分布",
+      "bbox": [
+        117.96,
+        206.97,
+        227.65,
+        225.64
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 6,
+      "text_raw": "中国大陆面板产线集中分布在长三角、珠三角、成渝鄂及京津",
+      "text_normalized": "中国大陆面板产线集中分布在长三角、珠三角、成渝鄂及京津",
+      "bbox": [
+        117.96,
+        246.22,
+        505.33,
+        260.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 7,
+      "text_raw": "冀地区，中国大陆面板已投产产线区域分布如图10 所示。其中高世",
+      "text_normalized": "冀地区，中国大陆面板已投产产线区域分布如图10 所示。其中高世",
+      "bbox": [
+        90.0,
+        273.58,
+        505.33,
+        287.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 8,
+      "text_raw": "代TFT-LCD 产线主要分布在北京、合肥、南京、福州、重庆和深",
+      "text_normalized": "代TFT-LCD 产线主要分布在北京、合肥、南京、福州、重庆和深",
+      "bbox": [
+        90.0,
+        300.7,
+        505.33,
+        314.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 9,
+      "text_raw": "圳。",
+      "text_normalized": "圳。",
+      "bbox": [
+        90.0,
+        327.94,
+        118.09,
+        342.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 10,
+      "text_raw": "图10 中国大陆投产产线区域分布",
+      "text_normalized": "图10 中国大陆投产产线区域分布",
+      "bbox": [
+        222.24,
+        663.43,
+        373.09,
+        677.02
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 11,
+      "text_raw": "数据来源：CESI 整理",
+      "text_normalized": "数据来源：CESI 整理",
+      "bbox": [
+        90.0,
+        688.75,
+        187.69,
+        702.34
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 12,
+      "text_raw": "据统计，2019 年-2020 年，新增的产线主要包括京东方武汉",
+      "text_normalized": "据统计，2019 年-2020 年，新增的产线主要包括京东方武汉",
+      "bbox": [
+        120.0,
+        715.66,
+        505.33,
+        729.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 13,
+      "text_raw": "LCD-10.5 代线、绵阳AMOLED-6 代线；惠科安徽LCD-8.6 代线；华",
+      "text_normalized": "LCD-10.5 代线、绵阳AMOLED-6 代线；惠科安徽LCD-8.6 代线；华",
+      "bbox": [
+        90.0,
+        742.9,
+        505.33,
+        756.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p024_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 24,
+      "reading_order": 14,
+      "text_raw": "16",
+      "text_normalized": "16",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "3.需求区域和分布"
+  ]
+}

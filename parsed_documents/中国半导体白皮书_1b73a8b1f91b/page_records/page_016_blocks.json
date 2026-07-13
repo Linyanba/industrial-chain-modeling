@@ -1,0 +1,423 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 16,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 2,
+      "text_raw": "2.2 原材料",
+      "text_normalized": "2.2 原材料",
+      "bbox": [
+        63.64,
+        130.35,
+        128.39,
+        150.83
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 3,
+      "text_raw": "2018年以来，中国半导体材料企业持续扩充自身产能，相关产品也在加速推进：中国大陆企业4在硅片、气体材料中逐步获取市场份额。",
+      "text_normalized": "2018年以来，中国半导体材料企业持续扩充自身产能，相关产品也在加速推进：中国大陆企业4在硅片、气体材料中逐步获取市场份额。",
+      "bbox": [
+        63.64,
+        159.29,
+        531.63,
+        188.18
+      ],
+      "font_size_estimate": 9.17,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 4,
+      "text_raw": "硅片是半导体制造的核心原材料，2018–2020年，中国大陆的硅片市场规模从约30亿元稳步上升至42亿元左右，年均复合增长率为16%，硅片赛道的领先企业有中环领先、江丰电子等。",
+      "text_normalized": "硅片是半导体制造的核心原材料，2018–2020年，中国大陆的硅片市场规模从约30亿元稳步上升至42亿元左右，年均复合增长率为16%，硅片赛道的领先企业有中环领先、江丰电子等。",
+      "bbox": [
+        63.64,
+        201.31,
+        531.63,
+        230.2
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 5,
+      "text_raw": "从芯片生产到器件封装，几乎每一个步骤都离不开气体材料，因此，在所有原材料中，气体材料的市场需求仅次于硅片。在国内半导体市场蓬勃发展的背景下，2018–2020年，中国大陆气体材料的年均复合增长率达到了20%，增速约是全球市场的3倍，后者为7%。",
+      "text_normalized": "从芯片生产到器件封装，几乎每一个步骤都离不开气体材料，因此，在所有原材料中，气体材料的市场需求仅次于硅片。在国内半导体市场蓬勃发展的背景下，2018–2020年，中国大陆气体材料的年均复合增长率达到了20%，增速约是全球市场的3倍，后者为7%。",
+      "bbox": [
+        63.64,
+        243.33,
+        531.7,
+        287.22
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 6,
+      "text_raw": "2.3 EDA/IP",
+      "text_normalized": "2.3 EDA/IP",
+      "bbox": [
+        63.64,
+        298.42,
+        135.26,
+        318.91
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.3 EDA/IP"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 7,
+      "text_raw": "由于中国起步较晚，所以，EDA/IP方面的技术能力和人才短缺，市场占有有限。贝恩结合ESD联盟研究报告、公司招股说明书和分析师报告，通过案头研究后发现2020年，中国大陆5EDA/IP在全球市场中的占比仅为2%。类似的情况也出现在逻辑芯片和射频EDA工具等子行业，预计需要10–20年实现追赶。这背后需要长时间与晶圆制造（Foundry）厂联动的设计数据库积累，和相关人才投入，才能逐步提升产品竞争力。",
+      "text_normalized": "由于中国起步较晚，所以，EDA/IP方面的技术能力和人才短缺，市场占有有限。贝恩结合ESD联盟研究报告、公司招股说明书和分析师报告，通过案头研究后发现2020年，中国大陆5EDA/IP在全球市场中的占比仅为2%。类似的情况也出现在逻辑芯片和射频EDA工具等子行业，预计需要10–20年实现追赶。这背后需要长时间与晶圆制造（Foundry）厂联动的设计数据库积累，和相关人才投入，才能逐步提升产品竞争力。",
+      "bbox": [
+        63.64,
+        327.36,
+        531.64,
+        401.25
+      ],
+      "font_size_estimate": 9.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.3 EDA/IP"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 8,
+      "text_raw": "2.4 设计环节",
+      "text_normalized": "2.4 设计环节",
+      "bbox": [
+        63.64,
+        412.45,
+        142.67,
+        432.93
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.4 设计环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 9,
+      "text_raw": "IC设计和IDM方面，Gartner半导体市场份额分布情况指出，中国在通讯芯片和模拟芯片设计中已获取一定的市场份额，然而，其他细分领域，诸如存储芯片、其他逻辑等市场占有非常有限。",
+      "text_normalized": "IC设计和IDM方面，Gartner半导体市场份额分布情况指出，中国在通讯芯片和模拟芯片设计中已获取一定的市场份额，然而，其他细分领域，诸如存储芯片、其他逻辑等市场占有非常有限。",
+      "bbox": [
+        63.64,
+        441.38,
+        531.62,
+        470.27
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.4 设计环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 10,
+      "text_raw": "其中，云计算厂商（阿里，腾讯，Baidu等）对于计算和存储芯片有着巨量的需求，从定制化性能、成本控制等目的出发，云计算厂商积极参与到芯片设计是大势所趋，已成为一股不可忽视的力量。",
+      "text_normalized": "其中，云计算厂商（阿里，腾讯，Baidu等）对于计算和存储芯片有着巨量的需求，从定制化性能、成本控制等目的出发，云计算厂商积极参与到芯片设计是大势所趋，已成为一股不可忽视的力量。",
+      "bbox": [
+        63.64,
+        483.41,
+        531.7,
+        512.3
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.4 设计环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 11,
+      "text_raw": "2.5 代工环节",
+      "text_normalized": "2.5 代工环节",
+      "bbox": [
+        63.64,
+        523.5,
+        142.35,
+        543.98
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.5 代工环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 12,
+      "text_raw": "McClean报告表明，当前，中国厂商在成熟制程代工市场已经建立了一定的市场份额。",
+      "text_normalized": "McClean报告表明，当前，中国厂商在成熟制程代工市场已经建立了一定的市场份额。",
+      "bbox": [
+        63.64,
+        552.43,
+        479.19,
+        566.32
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.5 代工环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 13,
+      "text_raw": "2019年，中芯国际实现14纳米FinFET量产。中国厂商除了扩大成熟制程产能，如中芯国际在内的部分厂商仍致力于在先进制程领域实现突破。展望未来，中国厂商依然需要巩固成熟制程的市场份额并稳定主要收入来源。",
+      "text_normalized": "2019年，中芯国际实现14纳米FinFET量产。中国厂商除了扩大成熟制程产能，如中芯国际在内的部分厂商仍致力于在先进制程领域实现突破。展望未来，中国厂商依然需要巩固成熟制程的市场份额并稳定主要收入来源。",
+      "bbox": [
+        63.64,
+        579.45,
+        531.72,
+        623.34
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.5 代工环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 14,
+      "text_raw": "2.6 封测环节",
+      "text_normalized": "2.6 封测环节",
+      "bbox": [
+        63.64,
+        634.54,
+        142.39,
+        655.03
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 15,
+      "text_raw": "2018年以来，中国厂商在封测环节增长迅速，在全球范围内呈现出一定的竞争优势。基于Gartner报告中的全球规模数据，2020年，中国大陆企业在全球封测市场中的总份额达到了17%，其中，封装环节占比为19%，测试环节为9%。未来，国内封测企业的持续发展的同时，需要紧跟全球行业发展的趋势，例如与上游晶圆代工厂在先进封装上的紧密合作。",
+      "text_normalized": "2018年以来，中国厂商在封测环节增长迅速，在全球范围内呈现出一定的竞争优势。基于Gartner报告中的全球规模数据，2020年，中国大陆企业在全球封测市场中的总份额达到了17%，其中，封装环节占比为19%，测试环节为9%。未来，国内封测企业的持续发展的同时，需要紧跟全球行业发展的趋势，例如与上游晶圆代工厂在先进封装上的紧密合作。",
+      "bbox": [
+        63.64,
+        663.48,
+        531.65,
+        722.37
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+        "2.6 封测环节"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 16,
+      "text_raw": "4. 仅指与半导体有关的收入\n5. 中国大陆企业是指在各细分市场有公开信息的主要企业",
+      "text_normalized": "4. 仅指与半导体有关的收入\n5. 中国大陆企业是指在各细分市场有公开信息的主要企业",
+      "bbox": [
+        63.64,
+        740.46,
+        266.06,
+        761.57
+      ],
+      "font_size_estimate": 8.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 仅指与半导体有关的收入 5. 中国大陆企业是指在各细分市场有公开信息的主要企业"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p016_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 16,
+      "reading_order": 17,
+      "text_raw": "14",
+      "text_normalized": "14",
+      "bbox": [
+        293.16,
+        798.21,
+        302.12,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4. 仅指与半导体有关的收入 5. 中国大陆企业是指在各细分市场有公开信息的主要企业"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "4. 仅指与半导体有关的收入 5. 中国大陆企业是指在各细分市场有公开信息的主要企业"
+  ]
+}

@@ -1,0 +1,7 @@
+﻿page_no,sample_reason,page_type,text_extractable,needs_ocr,has_table_candidate,has_chain_diagram_candidate,recommended_parser,review_comment
+1,封面或目录页,cover,partial,no,no,no,manual_review,待人工复核
+2,正常正文页,paragraph,yes,no,no,no,native_text_with_layout,待人工复核
+13,表格候选页,mixed,yes,no,yes,no,table_parser,待人工复核
+9,图表候选页,chart,yes,no,no,no,chart_caption_only,待人工复核
+6,扫描或低文本质量页,unknown,partial,no,no,no,native_text_with_layout,待人工复核
+15,复杂图文混排页,table,yes,no,yes,no,table_parser,待人工复核

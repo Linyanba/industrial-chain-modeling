@@ -1,0 +1,57 @@
+enable_hierarchy_refinement: true
+adaptive_tree_depth: true
+min_tree_depth: 2
+target_tree_depth: "auto"
+max_tree_depth: 4
+remove_company_branch: true
+forbid_representative_company_branch: true
+fix_parent_child_same_level: true
+# “上游/中游/下游”只允许保留为内部 value_chain_stage 元数据，
+# 不得出现在任何层级的可视化树节点中。
+forbid_up_mid_down_as_default: true
+forbid_up_mid_down_in_all_tree_levels: true
+allow_llm_refinement: true
+llm_model: "qwen3:8b"
+ollama_url: "http://localhost:11434"
+max_first_level_nodes: 7
+min_children_for_major_branch: 2
+weak_branch_threshold: 1
+
+parent_child_relation_types:
+  - "PART_OF"
+  - "BELONGS_TO"
+  - "SUB_CATEGORY_OF"
+  - "CONTAINS"
+  - "INCLUDES"
+  - "HAS_PART"
+  - "INPUT_TO"
+
+containment_cues:
+  - "包括"
+  - "包含"
+  - "分为"
+  - "主要包括"
+  - "由"
+  - "构成"
+  - "可分为"
+  - "涵盖"
+
+forbidden_first_level_nodes:
+  - "上游"
+  - "中游"
+  - "下游"
+  - "上下游"
+  - "上中下游"
+  - "产业链上下游"
+
+forbidden_node_labels:
+  - "代表企业"
+  - "上游"
+  - "中游"
+  - "下游"
+  - "上下游"
+  - "上中下游"
+  - "产业链上下游"
+
+excluded_tree_entity_types:
+  - "company"

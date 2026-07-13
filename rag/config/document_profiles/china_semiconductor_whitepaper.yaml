@@ -1,0 +1,21 @@
+profile_id: china_semiconductor_whitepaper
+profile_name: "中国半导体白皮书专用文档档案"
+priority: 100
+
+# 只匹配这一份报告；不得用“半导体”等宽泛行业词触发固定页码规则。
+match:
+  any_contains:
+    - "中国半导体白皮书"
+
+metadata:
+  industry: "半导体"
+  region_scope: "中国"
+
+document_rules:
+  title_override: "中国半导体白皮书"
+  header_footer_markers:
+    - "中国半导体白皮书"
+    - "BAIN"
+  diagram_restricted_pages: [9, 14]
+  ocr_high_priority_pages: [9, 14]
+

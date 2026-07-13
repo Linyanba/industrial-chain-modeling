@@ -1,0 +1,379 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 20,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 1,
+      "text_raw": "三、新型显示材料供需现状",
+      "text_normalized": "三、新型显示材料供需现状",
+      "bbox": [
+        90.0,
+        74.43,
+        282.59,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 2,
+      "text_raw": "（一）市场需求",
+      "text_normalized": "（一）市场需求",
+      "bbox": [
+        120.0,
+        124.32,
+        225.0,
+        139.55
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 3,
+      "text_raw": "1.需求规模及增速",
+      "text_normalized": "1.需求规模及增速",
+      "bbox": [
+        117.96,
+        167.73,
+        227.65,
+        186.4
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 4,
+      "text_raw": "2016 年中国大陆面板企业销售收入约1163 亿元，其中出口收",
+      "text_normalized": "2016 年中国大陆面板企业销售收入约1163 亿元，其中出口收",
+      "bbox": [
+        117.96,
+        207.1,
+        505.33,
+        221.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 5,
+      "text_raw": "入约532 亿元，占总销售额比重45.8% 。2017 年销售收入约1632",
+      "text_normalized": "入约532 亿元，占总销售额比重45.8% 。2017 年销售收入约1632",
+      "bbox": [
+        90.0,
+        234.34,
+        505.26,
+        248.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 6,
+      "text_raw": "亿元，较2016 年增长40.3%，其中出口收入约809.2 亿元，占总销",
+      "text_normalized": "亿元，较2016 年增长40.3%，其中出口收入约809.2 亿元，占总销",
+      "bbox": [
+        90.0,
+        261.58,
+        505.33,
+        275.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 7,
+      "text_raw": "售额比重约为49.6%。",
+      "text_normalized": "售额比重约为49.6%。",
+      "bbox": [
+        90.0,
+        288.82,
+        226.57,
+        302.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 8,
+      "text_raw": "相比全球面板市场增长幅度，中国大陆面板产量增长速度较",
+      "text_normalized": "相比全球面板市场增长幅度，中国大陆面板产量增长速度较",
+      "bbox": [
+        117.96,
+        322.06,
+        505.32,
+        336.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 9,
+      "text_raw": "快，可以预计中国大陆面板营收和出货量占全球面板市场的份额还",
+      "text_normalized": "快，可以预计中国大陆面板营收和出货量占全球面板市场的份额还",
+      "bbox": [
+        90.0,
+        349.18,
+        505.33,
+        363.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 10,
+      "text_raw": "将继续提升。通过调研中国大陆主要面板企业对各类原材料近五年",
+      "text_normalized": "将继续提升。通过调研中国大陆主要面板企业对各类原材料近五年",
+      "bbox": [
+        90.0,
+        376.42,
+        505.33,
+        390.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 11,
+      "text_raw": "的采购情况，可以看出中国大陆显示材料需求市场规模发展趋势，",
+      "text_normalized": "的采购情况，可以看出中国大陆显示材料需求市场规模发展趋势，",
+      "bbox": [
+        90.0,
+        403.78,
+        505.33,
+        417.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 12,
+      "text_raw": "如图5 所示。",
+      "text_normalized": "如图5 所示。",
+      "bbox": [
+        90.0,
+        430.9,
+        174.01,
+        444.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 13,
+      "text_raw": "图5 中国大陆显示材料需求趋势",
+      "text_normalized": "图5 中国大陆显示材料需求趋势",
+      "bbox": [
+        224.64,
+        684.19,
+        370.57,
+        697.78
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 14,
+      "text_raw": "数据来源：CESI 统计",
+      "text_normalized": "数据来源：CESI 统计",
+      "bbox": [
+        90.0,
+        709.51,
+        192.49,
+        723.89
+      ],
+      "font_size_estimate": 11.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p020_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 20,
+      "reading_order": 15,
+      "text_raw": "12",
+      "text_normalized": "12",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "1.需求规模及增速"
+  ]
+}

@@ -1,0 +1,8 @@
+﻿minimal_review_id,original_review_id,priority,review_question,subject,relation_type,object,related_entity_or_relation_id,evidence_pages,evidence_quotes,why_human_needed,suggested_options,human_decision,human_comment
+MHR0001,RV0001,P0,关系候选待复核: 新型显示产业->SUPPLIES_TO->产业链协同,,relation_cue_missing,,t01_r02,,,P0 结构性问题需人工确认,保留|暂缓|删除|调整名称或层级,,
+MHR0002,RV0006,P0,关系候选待复核: 产业链->SUPPLIES_TO->创新链,,relation_cue_missing,,t02_r03,,,P0 结构性问题需人工确认,保留|暂缓|删除|调整名称或层级,,
+MHR0003,RV0013,P1,关系候选待复核: 关键原材料->INPUT_TO->显示面板企业,,relation_cue_missing,,t03_r01,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0004,RV0021,P0,关系候选待复核: 产业链->INPUT_TO->上下游,,relation_endpoint_type_mismatch,,t04_r01,,,P0 结构性问题需人工确认,保留|暂缓|删除|调整名称或层级,,
+MHR0005,RV0022,P1,关系候选待复核: 材料->INPUT_TO->工艺,,relation_cue_missing,,t04_r02,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0006,RV0047,P0,关系候选待复核: 供应链->OUTPUT_OF->显示产业,,relation_endpoint_type_mismatch,,t10_r03,,,P0 结构性问题需人工确认,保留|暂缓|删除|调整名称或层级,,
+MHR0007,RV0048,P0,关系候选待复核: 创新链->INPUT_TO->产业链,,relation_endpoint_type_mismatch,,t10_r05,,,P0 结构性问题需人工确认,保留|暂缓|删除|调整名称或层级,,

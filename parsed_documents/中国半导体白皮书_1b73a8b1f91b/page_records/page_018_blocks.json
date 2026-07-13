@@ -1,0 +1,271 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 18,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 2,
+      "text_raw": "除了主流的NAND的DRAM，利基市场的NOR Flash由于设计和制程门槛较低（专利已放开，主流制程65nm）也吸引了众多国内公司进行探索。",
+      "text_normalized": "除了主流的NAND的DRAM，利基市场的NOR Flash由于设计和制程门槛较低（专利已放开，主流制程65nm）也吸引了众多国内公司进行探索。",
+      "bbox": [
+        63.64,
+        131.56,
+        531.64,
+        160.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 3,
+      "text_raw": "模拟芯片：广泛应用于消费电子、汽车及工业电子。技术能力方面，众多厂商已实现商用，大多数厂商聚焦于生产细分品类产品，所以中国市场提供的产品种类较少，但是，已经进入量产的细分产品的性能接近全球水平。模拟芯片主要使用28nm以上的制程。今后，在价格低、服务灵活的优势下，国产模拟芯片若持续开展功能性创新，预计将满足国内庞大的市场需求。",
+      "text_normalized": "模拟芯片：广泛应用于消费电子、汽车及工业电子。技术能力方面，众多厂商已实现商用，大多数厂商聚焦于生产细分品类产品，所以中国市场提供的产品种类较少，但是，已经进入量产的细分产品的性能接近全球水平。模拟芯片主要使用28nm以上的制程。今后，在价格低、服务灵活的优势下，国产模拟芯片若持续开展功能性创新，预计将满足国内庞大的市场需求。",
+      "bbox": [
+        63.64,
+        170.19,
+        531.7,
+        229.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 4,
+      "text_raw": "CPU（中央处理器）。CPU是电子计算机的主要配件之一，常用于服务器和PC。Gartner 2020全球半导体终端市场份额显示，2020年，全球CPU市场规模约5千亿元，中国芯片设计公司营收总占比为7%。",
+      "text_normalized": "CPU（中央处理器）。CPU是电子计算机的主要配件之一，常用于服务器和PC。Gartner 2020全球半导体终端市场份额显示，2020年，全球CPU市场规模约5千亿元，中国芯片设计公司营收总占比为7%。",
+      "bbox": [
+        63.64,
+        239.56,
+        531.55,
+        283.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 5,
+      "text_raw": "技术能力方面，多家中国厂商已经推出了服务器、桌面CPU等产品，并应用于政务、高性能计算、工控等商用场景。但整体国内厂商在稳定性，兼容性方面仍在追赶中。CPU生态依赖X86和ARM架构，且对于先进制成的追求较高，因此，中国厂商面临很大的供应链挑战（包括上游EDA/IP设计工具，下游代工厂的先进制成服务，以及终端软件的适配）。今后，随着国产CPU厂商的产品生态趋于完善，中国厂商有望逐步小幅度提升市场占有率。",
+      "text_normalized": "技术能力方面，多家中国厂商已经推出了服务器、桌面CPU等产品，并应用于政务、高性能计算、工控等商用场景。但整体国内厂商在稳定性，兼容性方面仍在追赶中。CPU生态依赖X86和ARM架构，且对于先进制成的追求较高，因此，中国厂商面临很大的供应链挑战（包括上游EDA/IP设计工具，下游代工厂的先进制成服务，以及终端软件的适配）。今后，随着国产CPU厂商的产品生态趋于完善，中国厂商有望逐步小幅度提升市场占有率。",
+      "bbox": [
+        63.64,
+        293.56,
+        531.64,
+        367.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 6,
+      "text_raw": "在颠覆性的计算芯片架构出现之前，ARM将凭借比RISC-V和MIPS, Alpha更完善的生态系统，和相较于X86更开放的授权体系，以及国内大量的人才储备，成为中国CPU玩家的首选架构。",
+      "text_normalized": "在颠覆性的计算芯片架构出现之前，ARM将凭借比RISC-V和MIPS, Alpha更完善的生态系统，和相较于X86更开放的授权体系，以及国内大量的人才储备，成为中国CPU玩家的首选架构。",
+      "bbox": [
+        63.64,
+        377.56,
+        522.69,
+        406.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 7,
+      "text_raw": "GPU（显示芯片）。包括图显GPU和计算GPU。技术能力方面，少数厂商实现量产，仅有一款产品达到最先进的7nm制程，并且仍处于初步商用阶段。GPU先进制程供应链面临一定的挑战，自建生态尚未大规模建立，依赖英伟达CUDA软件生态。贝恩观察到，新成立的数家GPU公司拥有强大的技术团队，有助于加速国内GPU发展。",
+      "text_normalized": "GPU（显示芯片）。包括图显GPU和计算GPU。技术能力方面，少数厂商实现量产，仅有一款产品达到最先进的7nm制程，并且仍处于初步商用阶段。GPU先进制程供应链面临一定的挑战，自建生态尚未大规模建立，依赖英伟达CUDA软件生态。贝恩观察到，新成立的数家GPU公司拥有强大的技术团队，有助于加速国内GPU发展。",
+      "bbox": [
+        63.64,
+        416.56,
+        531.65,
+        475.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 8,
+      "text_raw": "AI/ML ASIC。主要运用于服务器，分为AI训练和AI推理。2020年，中国AI训练芯片市场规模约46亿元，AI推理约25亿元。技术能力方面，多家中国厂商完成量产，实现商用，其中，最先进的产品达到了7nm，少数玩家在AI训练、推理芯片领域的性能接近了全球领先水平。和GPU的情况类似，AI/ML ASIC依赖先进制程，但是，生态体系以自建为主，对于外部的依赖较少。在强大的资金、技术能力的支持下，大型云计算服务商（CSP）正积极参与ASIC产品研发和应用，贝恩建议，",
+      "text_normalized": "AI/ML ASIC。主要运用于服务器，分为AI训练和AI推理。2020年，中国AI训练芯片市场规模约46亿元，AI推理约25亿元。技术能力方面，多家中国厂商完成量产，实现商用，其中，最先进的产品达到了7nm，少数玩家在AI训练、推理芯片领域的性能接近了全球领先水平。和GPU的情况类似，AI/ML ASIC依赖先进制程，但是，生态体系以自建为主，对于外部的依赖较少。在强大的资金、技术能力的支持下，大型云计算服务商（CSP）正积极参与ASIC产品研发和应用，贝恩建议，",
+      "bbox": [
+        63.64,
+        485.56,
+        531.53,
+        559.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 9,
+      "text_raw": "云计算服务商需要明确自身定制化要求，从而提升在自研芯片领域的投资效率。",
+      "text_normalized": "云计算服务商需要明确自身定制化要求，从而提升在自研芯片领域的投资效率。",
+      "bbox": [
+        63.64,
+        563.56,
+        441.7,
+        577.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 10,
+      "text_raw": "从下游应用领域来看，在中国，消费电子与汽车电子是大部分芯片厂商的发力方向，展望未来，贝恩预测，2020–2025年，两大市场将保持约15–20%的高速增长态势（图11）。",
+      "text_normalized": "从下游应用领域来看，在中国，消费电子与汽车电子是大部分芯片厂商的发力方向，展望未来，贝恩预测，2020–2025年，两大市场将保持约15–20%的高速增长态势（图11）。",
+      "bbox": [
+        63.64,
+        587.56,
+        531.52,
+        616.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p018_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 18,
+      "reading_order": 11,
+      "text_raw": "16",
+      "text_normalized": "16",
+      "bbox": [
+        293.06,
+        798.21,
+        302.22,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "3. 芯片设计环节中，中国半导体的市场地位"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "3. 芯片设计环节中，中国半导体的市场地位"
+  ]
+}

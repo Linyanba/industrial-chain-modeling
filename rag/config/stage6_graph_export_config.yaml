@@ -1,0 +1,71 @@
+# 阶段 6 正式产业链图谱构建、导出与可视化配置
+# 禁止：调用外部API、联网搜索、调用LLM、新增无证据关系、写Neo4j
+
+project_root: "D:\\产业链建模"
+
+stage5_5:
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage5_5_run.txt"
+  required_files:
+    - "graph_ready_nodes_v2.csv"
+    - "graph_ready_edges_v2.csv"
+    - "graph_ready_aliases_v2.csv"
+    - "graph_ready_evidence_map_v2.csv"
+    - "schema_layout_edges.csv"
+    - "graph_statistics_v2.json"
+    - "graph_structure_patch_report.md"
+    - "validation_summary.json"
+
+# 可视化配置
+visualization:
+  dpi: 300
+  figsize_overview: [18, 14]
+  figsize_layered: [16, 12]
+  figsize_evidence: [16, 12]
+  figsize_schema: [14, 10]
+  background: "white"
+  font_candidates: ["Microsoft YaHei", "SimHei", "Noto Sans CJK SC", "DejaVu Sans"]
+  node_colors:
+    industry: "#FF6B6B"
+    industry_link: "#4ECDC4"
+    material: "#45B7D1"
+    technology: "#96CEB4"
+    company: "#FFEAA7"
+    equipment: "#DDA0DD"
+    product: "#98D8C8"
+    default: "#C0C0C0"
+  edge_styles:
+    evidence: {style: "solid", width: 1.5, color: "#333333"}
+    system_schema: {style: "dashed", width: 1.2, color: "#FF4444"}
+    layout_helper: {style: "dotted", width: 1.0, color: "#4444FF"}
+
+# Neo4j 导出配置
+neo4j:
+  node_label_prefix: "Entity"
+  type_label_map:
+    industry: "Industry"
+    industry_link: "IndustryLink"
+    material: "Material"
+    technology: "Technology"
+    company: "Company"
+    equipment: "Equipment"
+    product: "Product"
+
+# 输出配置
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "stage6_graph_export_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage6_run.txt"
+  csv_encoding: "utf-8-sig"
+
+boundary:
+  stage: "6"
+  scope: "图谱构建、导出GraphML/JSON/Neo4j CSV、可视化PNG/SVG、报告生成"
+  forbidden:
+    - "调用外部云端 API"
+    - "联网搜索"
+    - "调用本地 LLM"
+    - "重新抽取实体或关系"
+    - "新增无证据事实关系"
+    - "写入 Neo4j 数据库"
+    - "修改原始 PDF"
+    - "覆盖阶段 1/2/3A/3B/3C/4/4.5/4.6/5/5.5 输出"

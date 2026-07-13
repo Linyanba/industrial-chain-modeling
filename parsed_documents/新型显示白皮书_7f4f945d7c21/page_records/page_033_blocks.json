@@ -1,0 +1,619 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 33,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 1,
+      "text_raw": "（三）新型显示产业配套保障能力建设措施建议",
+      "text_normalized": "（三）新型显示产业配套保障能力建设措施建议",
+      "bbox": [
+        90.0,
+        74.28,
+        405.0,
+        89.51
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 2,
+      "text_raw": "1.进一步优化产业政策环境",
+      "text_normalized": "1.进一步优化产业政策环境",
+      "bbox": [
+        117.96,
+        107.13,
+        283.69,
+        125.8
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 3,
+      "text_raw": "在国家规划层面，进一步完善新型显示材料发展规划，加强新",
+      "text_normalized": "在国家规划层面，进一步完善新型显示材料发展规划，加强新",
+      "bbox": [
+        117.96,
+        142.42,
+        495.96,
+        156.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 4,
+      "text_raw": "型显示产业配套保障能力建设。在产业和专项政策中，重视基础研",
+      "text_normalized": "型显示产业配套保障能力建设。在产业和专项政策中，重视基础研",
+      "bbox": [
+        90.0,
+        169.66,
+        496.08,
+        183.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 5,
+      "text_raw": "究项目和产业化应用的协调配套，重视研用结合，综合考虑成本因",
+      "text_normalized": "究项目和产业化应用的协调配套，重视研用结合，综合考虑成本因",
+      "bbox": [
+        90.0,
+        196.9,
+        496.08,
+        210.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 6,
+      "text_raw": "素，支持重点新材料持续迭代。在财关税政策中，全面总结税收支",
+      "text_normalized": "素，支持重点新材料持续迭代。在财关税政策中，全面总结税收支",
+      "bbox": [
+        90.0,
+        224.14,
+        496.08,
+        238.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 7,
+      "text_raw": "持经验，合理延长“膜晶显”政策、分期纳税、首批次保险等关税",
+      "text_normalized": "持经验，合理延长“膜晶显”政策、分期纳税、首批次保险等关税",
+      "bbox": [
+        90.0,
+        251.38,
+        496.09,
+        265.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 8,
+      "text_raw": "政策有效期，根据产业实际及时修订进口物资免税清单、调整项目",
+      "text_normalized": "政策有效期，根据产业实际及时修订进口物资免税清单、调整项目",
+      "bbox": [
+        90.0,
+        278.62,
+        496.08,
+        292.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 9,
+      "text_raw": "支持清单。加快设立AMOLED 关税税号，解决掩膜版、光刻胶及材料",
+      "text_normalized": "支持清单。加快设立AMOLED 关税税号，解决掩膜版、光刻胶及材料",
+      "bbox": [
+        90.0,
+        305.86,
+        503.05,
+        319.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 10,
+      "text_raw": "生产用原材料等关税倒挂问题。在环保政策中，区分新型显示材料",
+      "text_normalized": "生产用原材料等关税倒挂问题。在环保政策中，区分新型显示材料",
+      "bbox": [
+        90.0,
+        333.1,
+        496.08,
+        347.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 11,
+      "text_raw": "企业与传统材料企业，精确执行环保政策，严格控制扰乱市场、污",
+      "text_normalized": "企业与传统材料企业，精确执行环保政策，严格控制扰乱市场、污",
+      "bbox": [
+        90.0,
+        360.34,
+        496.08,
+        374.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 12,
+      "text_raw": "染环境的劣质原料进口。维护市场竞争环境，对具有市场支配地位",
+      "text_normalized": "染环境的劣质原料进口。维护市场竞争环境，对具有市场支配地位",
+      "bbox": [
+        90.0,
+        387.58,
+        496.08,
+        401.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 13,
+      "text_raw": "的上下游相关产品制定反垄断调查预案。",
+      "text_normalized": "的上下游相关产品制定反垄断调查预案。",
+      "bbox": [
+        90.0,
+        414.82,
+        342.01,
+        428.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.进一步优化产业政策环境"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 14,
+      "text_raw": "2.加快产业链和产业生态建设",
+      "text_normalized": "2.加快产业链和产业生态建设",
+      "bbox": [
+        117.96,
+        446.01,
+        297.61,
+        464.68
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 15,
+      "text_raw": "新型显示产业投入高、迭代快、规模效益突出等特点决定了其",
+      "text_normalized": "新型显示产业投入高、迭代快、规模效益突出等特点决定了其",
+      "bbox": [
+        117.96,
+        481.3,
+        505.33,
+        495.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 16,
+      "text_raw": "适合产业链协同发展的模式。全产业链协同发展是中国大陆新型显",
+      "text_normalized": "适合产业链协同发展的模式。全产业链协同发展是中国大陆新型显",
+      "bbox": [
+        90.0,
+        508.54,
+        505.33,
+        522.63
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 17,
+      "text_raw": "示产业实现提质增效、提升核心竞争力、增强创新能力和防控风险",
+      "text_normalized": "示产业实现提质增效、提升核心竞争力、增强创新能力和防控风险",
+      "bbox": [
+        90.0,
+        535.78,
+        505.33,
+        549.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 18,
+      "text_raw": "能力、实现可持续发展的重要保障。形成具备较强竞争力的区域产",
+      "text_normalized": "能力、实现可持续发展的重要保障。形成具备较强竞争力的区域产",
+      "bbox": [
+        90.0,
+        563.02,
+        505.33,
+        577.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 19,
+      "text_raw": "业集群。优化显示材料产业空间布局，以产业集群为中心，支持有",
+      "text_normalized": "业集群。优化显示材料产业空间布局，以产业集群为中心，支持有",
+      "bbox": [
+        90.0,
+        590.26,
+        505.33,
+        604.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 20,
+      "text_raw": "条件、有基础的企业通过兼并重组、股权投资等方式开展产业链上",
+      "text_normalized": "条件、有基础的企业通过兼并重组、股权投资等方式开展产业链上",
+      "bbox": [
+        90.0,
+        617.38,
+        505.33,
+        631.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 21,
+      "text_raw": "下游垂直整合和跨领域价值链横向拓展。",
+      "text_normalized": "下游垂直整合和跨领域价值链横向拓展。",
+      "bbox": [
+        90.0,
+        644.62,
+        342.01,
+        658.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.加快产业链和产业生态建设"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 22,
+      "text_raw": "3.强化创新驱动发展",
+      "text_normalized": "3.强化创新驱动发展",
+      "bbox": [
+        117.96,
+        675.93,
+        241.69,
+        694.6
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 23,
+      "text_raw": "围绕产业链部署创新链，强化企业创新主体地位和主导作用，",
+      "text_normalized": "围绕产业链部署创新链，强化企业创新主体地位和主导作用，",
+      "bbox": [
+        117.96,
+        711.22,
+        505.33,
+        725.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 24,
+      "text_raw": "支持企业在短板材料、核心技术等方面的研发和产业化，加快形成",
+      "text_normalized": "支持企业在短板材料、核心技术等方面的研发和产业化，加快形成",
+      "bbox": [
+        90.0,
+        738.34,
+        505.33,
+        752.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p033_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 33,
+      "reading_order": 25,
+      "text_raw": "25",
+      "text_normalized": "25",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "3.强化创新驱动发展"
+  ]
+}

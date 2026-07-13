@@ -1,0 +1,245 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 23,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 2,
+      "text_raw": "同时，在摩尔定律发展放缓的大环境下，通过先进封装技术提高系统性能的优势越发显著，导致下游封装环节与上游设计及晶圆代工的联动愈加紧密，而提前布局2.5D/3D先进封装赛道的中国封装厂商与其上游联动方因此也值得关注。",
+      "text_normalized": "同时，在摩尔定律发展放缓的大环境下，通过先进封装技术提高系统性能的优势越发显著，导致下游封装环节与上游设计及晶圆代工的联动愈加紧密，而提前布局2.5D/3D先进封装赛道的中国封装厂商与其上游联动方因此也值得关注。",
+      "bbox": [
+        63.64,
+        131.56,
+        531.59,
+        175.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 3,
+      "text_raw": "上游设备和材料方面，伴随研发投入加大，预计有机会从各个细分领域突围，比肩世界领先水平。",
+      "text_normalized": "上游设备和材料方面，伴随研发投入加大，预计有机会从各个细分领域突围，比肩世界领先水平。",
+      "bbox": [
+        63.64,
+        185.56,
+        494.32,
+        199.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 4,
+      "text_raw": "4.4.2 面向经营者的启示",
+      "text_normalized": "4.4.2 面向经营者的启示",
+      "bbox": [
+        63.64,
+        211.05,
+        179.29,
+        227.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 5,
+      "text_raw": "•\t半导体市场主体",
+      "text_normalized": "• 半导体市场主体",
+      "bbox": [
+        63.64,
+        236.19,
+        151.6,
+        250.82
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 6,
+      "text_raw": "首先，积极开展适配与协作，共同推动国产化生态圈，并打造更有韧性的本土供应体系。其次，基于第一点，借助本土优势，及时响应下游客户的需求，锻造与国际厂商差异化的服务能力。最后，关注潜在的收购机会，垂直整合强化现有业务，或通过横向收购，补足短板，扩大版图。",
+      "text_normalized": "首先，积极开展适配与协作，共同推动国产化生态圈，并打造更有韧性的本土供应体系。其次，基于第一点，借助本土优势，及时响应下游客户的需求，锻造与国际厂商差异化的服务能力。最后，关注潜在的收购机会，垂直整合强化现有业务，或通过横向收购，补足短板，扩大版图。",
+      "bbox": [
+        63.64,
+        260.56,
+        531.58,
+        304.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 7,
+      "text_raw": "•\t产业新势力",
+      "text_normalized": "• 产业新势力",
+      "bbox": [
+        63.64,
+        314.19,
+        131.56,
+        328.82
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 8,
+      "text_raw": "聚焦、主动参与和自身主营业务有着强协同效应的半导体细分领域，比如，IoT厂商可以进入物联网相关AI芯片设计领域，既强化了主营业务的壁垒，又通过发展半导体作为第二曲线，成长为产业新势力。",
+      "text_normalized": "聚焦、主动参与和自身主营业务有着强协同效应的半导体细分领域，比如，IoT厂商可以进入物联网相关AI芯片设计领域，既强化了主营业务的壁垒，又通过发展半导体作为第二曲线，成长为产业新势力。",
+      "bbox": [
+        63.64,
+        338.56,
+        531.64,
+        367.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p023_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 23,
+      "reading_order": 9,
+      "text_raw": "21",
+      "text_normalized": "21",
+      "bbox": [
+        293.35,
+        798.21,
+        301.93,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.2 面向经营者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "4. 中国半导体近期投资观察",
+    "4.4 启示",
+    "4.4.2 面向经营者的启示"
+  ]
+}

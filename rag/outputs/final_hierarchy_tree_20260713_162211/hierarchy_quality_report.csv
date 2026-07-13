@@ -1,0 +1,9 @@
+﻿node_label,depth,parent_label,child_count,evidence_count,entity_count,is_company_node,is_display_schema_node,quality_status,issue,recommended_action
+晶圆制造,1,半导体产业链,4,0,1,false,false,ok,,保持
+计算芯片,1,半导体产业链,2,0,1,false,false,ok,,保持
+光刻,2,晶圆制造,0,1,1,false,false,ok,,保持
+刻蚀,2,晶圆制造,0,1,1,false,false,ok,,保持
+沉积,2,晶圆制造,0,1,1,false,false,ok,,保持
+离子注入,2,晶圆制造,0,1,1,false,false,ok,,保持
+ASIC,2,计算芯片,0,1,1,false,false,ok,,保持
+GPU,2,计算芯片,0,1,1,false,false,ok,,保持

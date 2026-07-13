@@ -1,0 +1,1110 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 11,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 2,
+      "text_raw": "电路设计的光掩膜，将其设计图形刻制到晶圆表面；第三，刻蚀形成3D图形；最后，将离子材料、掺杂剂注入晶圆，通过带电的离子控制电流，并实现晶体管的功能。",
+      "text_normalized": "电路设计的光掩膜，将其设计图形刻制到晶圆表面；第三，刻蚀形成3D图形；最后，将离子材料、掺杂剂注入晶圆，通过带电的离子控制电流，并实现晶体管的功能。",
+      "bbox": [
+        63.64,
+        131.56,
+        531.64,
+        160.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 3,
+      "text_raw": "Gartner全球市场份额数据、半导体晶圆厂设备公司招股说明书、分析师报告综合显示，2020年，全球半导体前端设备的市场规模已达到4,200亿元，基于上述制造步骤，刻蚀、光刻、沉积设备占据了约75%的营收份额，并且保持平稳增长。中国厂商在主要前端设备市场处于起步阶段，从沉积、刻蚀设备开始获取份额（图5）。",
+      "text_normalized": "Gartner全球市场份额数据、半导体晶圆厂设备公司招股说明书、分析师报告综合显示，2020年，全球半导体前端设备的市场规模已达到4,200亿元，基于上述制造步骤，刻蚀、光刻、沉积设备占据了约75%的营收份额，并且保持平稳增长。中国厂商在主要前端设备市场处于起步阶段，从沉积、刻蚀设备开始获取份额（图5）。",
+      "bbox": [
+        63.64,
+        170.56,
+        531.64,
+        229.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 4,
+      "text_raw": "1.3.2 原材料",
+      "text_normalized": "1.3.2 原材料",
+      "bbox": [
+        63.64,
+        241.05,
+        122.39,
+        257.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 5,
+      "text_raw": "在半导体的上游产业中，不同的材料被应用于不同的生产步骤，缺一不可：硅片是半导体器件的主要载体，气体被广泛运用于掺杂、外延、离子、刻蚀、化学气相沉积等生产步骤，光掩膜可以把集成电路的图形转印到硅晶圆上，光刻胶可以将光掩膜版图案转移到光刻胶再转移到晶圆片。",
+      "text_normalized": "在半导体的上游产业中，不同的材料被应用于不同的生产步骤，缺一不可：硅片是半导体器件的主要载体，气体被广泛运用于掺杂、外延、离子、刻蚀、化学气相沉积等生产步骤，光掩膜可以把集成电路的图形转印到硅晶圆上，光刻胶可以将光掩膜版图案转移到光刻胶再转移到晶圆片。",
+      "bbox": [
+        63.64,
+        266.56,
+        531.58,
+        310.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 6,
+      "text_raw": "贝恩结合案头研究、公司报告和券商研报发现：纵观半导体材料市场，市场较为稳定，2020年，全球前端材料市场规模约2,100亿元，2018–2020年复合增长率为5%。硅片、气体、光刻胶、光掩膜版是主要的上游材料，占据了约80%的营收份额。",
+      "text_normalized": "贝恩结合案头研究、公司报告和券商研报发现：纵观半导体材料市场，市场较为稳定，2020年，全球前端材料市场规模约2,100亿元，2018–2020年复合增长率为5%。硅片、气体、光刻胶、光掩膜版是主要的上游材料，占据了约80%的营收份额。",
+      "bbox": [
+        63.64,
+        320.56,
+        531.69,
+        364.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.2 原材料"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 7,
+      "text_raw": "1.3.3 EDA/IP",
+      "text_normalized": "1.3.3 EDA/IP",
+      "bbox": [
+        63.64,
+        376.05,
+        126.43,
+        392.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.3 EDA/IP"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 8,
+      "text_raw": "EDA和IP贯穿芯片制造的全流程，是芯片设计的重要工具，可以缩短芯片的开发时间，并提高芯片性能。ESD Alliance研究报告以及各个公司年报和券商研报表明，2020年，全球EDA和IP的市场规模达到了745亿元，且增长稳健。",
+      "text_normalized": "EDA和IP贯穿芯片制造的全流程，是芯片设计的重要工具，可以缩短芯片的开发时间，并提高芯片性能。ESD Alliance研究报告以及各个公司年报和券商研报表明，2020年，全球EDA和IP的市场规模达到了745亿元，且增长稳健。",
+      "bbox": [
+        63.64,
+        401.56,
+        531.7,
+        445.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.3 EDA/IP"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 9,
+      "text_raw": "图 5: 中国厂商在前端设备市场处于起步阶段，从沉积、刻蚀设备开始获取份额",
+      "text_normalized": "图 5: 中国厂商在前端设备市场处于起步阶段，从沉积、刻蚀设备开始获取份额",
+      "bbox": [
+        63.63,
+        464.12,
+        396.15,
+        478.76
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.3 EDA/IP"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 10,
+      "text_raw": "⋚䕵㟨⡸崰⩹⽴⢬\u0003(⒵‱⊵)",
+      "text_normalized": "⋚䕵㟨⡸崰⩹⽴⢬\u0003(⒵‱⊵)",
+      "bbox": [
+        63.63,
+        498.71,
+        178.57,
+        512.64
+      ],
+      "font_size_estimate": 9.75,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.3 EDA/IP"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 11,
+      "text_raw": "CAGR2018–20",
+      "text_normalized": "CAGR2018–20",
+      "bbox": [
+        482.16,
+        500.12,
+        513.78,
+        520.96
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.3 半导体价值链：各大环节的分布情况及主要玩家",
+        "1.3.3 EDA/IP"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 12,
+      "text_raw": "53.83.6",
+      "text_normalized": "53.83.6",
+      "bbox": [
+        68.03,
+        515.15,
+        268.82,
+        543.66
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "53.83.6"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 13,
+      "text_raw": "4.25%5%0%6%",
+      "text_normalized": "4.25%5%0%6%",
+      "bbox": [
+        383.32,
+        515.63,
+        504.06,
+        554.15
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 14,
+      "text_raw": "⋨⁈䬭Ⳃ㹚⋗",
+      "text_normalized": "⋨⁈䬭Ⳃ㹚⋗",
+      "bbox": [
+        380.98,
+        525.42,
+        428.56,
+        542.58
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 15,
+      "text_raw": "26%0%N/A",
+      "text_normalized": "26%0%N/A",
+      "bbox": [
+        507.65,
+        527.86,
+        523.91,
+        554.15
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 16,
+      "text_raw": "4",
+      "text_normalized": "4",
+      "bbox": [
+        68.03,
+        528.59,
+        72.55,
+        539.68
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 17,
+      "text_raw": "䉟⩶䕸",
+      "text_normalized": "䉟⩶䕸",
+      "bbox": [
+        355.18,
+        534.13,
+        379.17,
+        545.41
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 18,
+      "text_raw": "崓捁",
+      "text_normalized": "崓捁",
+      "bbox": [
+        380.97,
+        541.75,
+        396.96,
+        553.04
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 19,
+      "text_raw": "崓捁",
+      "text_normalized": "崓捁",
+      "bbox": [
+        433.77,
+        541.75,
+        449.76,
+        553.04
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 20,
+      "text_raw": "3",
+      "text_normalized": "3",
+      "bbox": [
+        68.03,
+        555.34,
+        72.55,
+        566.43
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 21,
+      "text_raw": "㷻䭡",
+      "text_normalized": "㷻䭡",
+      "bbox": [
+        433.77,
+        555.81,
+        449.76,
+        567.1
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 22,
+      "text_raw": "3%",
+      "text_normalized": "3%",
+      "bbox": [
+        473.11,
+        560.57,
+        484.85,
+        571.66
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 23,
+      "text_raw": "32%",
+      "text_normalized": "32%",
+      "bbox": [
+        507.65,
+        560.57,
+        523.91,
+        571.66
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b024",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 24,
+      "text_raw": "㷻䭡3",
+      "text_normalized": "㷻䭡3",
+      "bbox": [
+        379.65,
+        562.07,
+        398.29,
+        573.35
+      ],
+      "font_size_estimate": 6.43,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b025",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 25,
+      "text_raw": "⊻⎭",
+      "text_normalized": "⊻⎭",
+      "bbox": [
+        433.77,
+        579.77,
+        449.76,
+        591.06
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b026",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 26,
+      "text_raw": "2",
+      "text_normalized": "2",
+      "bbox": [
+        68.03,
+        582.09,
+        72.55,
+        593.18
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b027",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 27,
+      "text_raw": "9%",
+      "text_normalized": "9%",
+      "bbox": [
+        473.11,
+        586.35,
+        484.85,
+        597.44
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b028",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 28,
+      "text_raw": "8%",
+      "text_normalized": "8%",
+      "bbox": [
+        512.17,
+        586.35,
+        523.91,
+        597.44
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b029",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 29,
+      "text_raw": "⊻⎭2",
+      "text_normalized": "⊻⎭2",
+      "bbox": [
+        379.66,
+        587.79,
+        398.29,
+        599.07
+      ],
+      "font_size_estimate": 6.43,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b030",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 30,
+      "text_raw": "⎭埲",
+      "text_normalized": "⎭埲",
+      "bbox": [
+        433.77,
+        608.3,
+        449.76,
+        619.58
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b031",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 31,
+      "text_raw": "1",
+      "text_normalized": "1",
+      "bbox": [
+        68.03,
+        608.83,
+        72.55,
+        619.92
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b032",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 32,
+      "text_raw": "4%",
+      "text_normalized": "4%",
+      "bbox": [
+        473.11,
+        617.51,
+        484.85,
+        628.6
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b033",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 33,
+      "text_raw": "40%",
+      "text_normalized": "40%",
+      "bbox": [
+        507.65,
+        617.51,
+        523.91,
+        628.6
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b034",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 34,
+      "text_raw": "㣂㜋⏗䬭\u0003\u000b⎭埲\f",
+      "text_normalized": "㣂㜋⏗䬭\u0003 ⎭埲",
+      "bbox": [
+        361.03,
+        617.82,
+        416.92,
+        629.1
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b035",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 35,
+      "text_raw": "0",
+      "text_normalized": "0",
+      "bbox": [
+        68.03,
+        635.58,
+        72.55,
+        646.67
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b036",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 36,
+      "text_raw": "201820192020",
+      "text_normalized": "201820192020",
+      "bbox": [
+        128.58,
+        643.45,
+        398.02,
+        654.54
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b037",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 37,
+      "text_raw": "ㆭ⁯樏ᾟ⡯⪙枸⁳ᾌ⽴⢬⁯樏5",
+      "text_normalized": "ㆭ⁯樏ᾟ⡯⪙枸⁳ᾌ⽴⢬⁯樏5",
+      "bbox": [
+        63.63,
+        654.21,
+        146.22,
+        677.73
+      ],
+      "font_size_estimate": 7.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b038",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 38,
+      "text_raw": "1%1%0%0%2%1%2%",
+      "text_normalized": "1%1%0%0%2%1%2%",
+      "bbox": [
+        131.74,
+        666.76,
+        143.48,
+        736.64
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b039",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 39,
+      "text_raw": "1%1%0%0%3%1%2%",
+      "text_normalized": "1%1%0%0%3%1%2%",
+      "bbox": [
+        257.83,
+        666.76,
+        269.58,
+        736.64
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b040",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 40,
+      "text_raw": "2%1%0%0%3%1%3%",
+      "text_normalized": "2%1%0%0%3%1%3%",
+      "bbox": [
+        383.11,
+        666.76,
+        394.85,
+        736.64
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b041",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 41,
+      "text_raw": "䬭Ⳃ㹚⋗䉟⩶䕸崓捁㷻䭡⊻⎭⎭埲",
+      "text_normalized": "䬭Ⳃ㹚⋗䉟⩶䕸崓捁㷻䭡⊻⎭⎭埲",
+      "bbox": [
+        63.63,
+        676.12,
+        95.61,
+        736.32
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b042",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 42,
+      "text_raw": "ᾟ⡯⪙枸⁳ᾌ棐ᾟ⡯⪙枸⁳ᾌᾟ⡯⪙枸⽴⢬⨐憑ᾟ⡯⪙枸⁗⪈⽴⢬⨐憑⋚䕵⽴⢬⨐憑",
+      "text_normalized": "ᾟ⡯⪙枸⁳ᾌ棐ᾟ⡯⪙枸⁳ᾌᾟ⡯⪙枸⽴⢬⨐憑ᾟ⡯⪙枸⁗⪈⽴⢬⨐憑⋚䕵⽴⢬⨐憑",
+      "bbox": [
+        452.05,
+        682.52,
+        525.6,
+        735.78
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b043",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 43,
+      "text_raw": "xx%xx%xx%",
+      "text_normalized": "xx%xx%xx%",
+      "bbox": [
+        430.98,
+        704.32,
+        445.94,
+        736.34
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b044",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 44,
+      "text_raw": "㹚Ѫ1.⑷㑞㿱⎭埲һ⿤⎭埲◾CMPѸ2.⑷㑞⊻⎭\u0003\u000blithography\f\u0003◾㻴剨崰⩹\u000bphotoresist processing\fѸ3.⑷㑞ALDһCVDһPVDѸ4.⑷㑞ㅝ憑䉟⩶䕸◾䇻䴓Ѹ5.㢞槧⍸㤂ᾟ䟶ᾟ⡯⪙枸⁳ᾌ⑷㑞ὼ㻩ㄠ䚧Ⳃ娷⩹核⡔һ吡䀂ㄠһ⒉㜫Ⓚ⎍һ㑅咸䭃㏲һᾟㄠⒼ⵮⃅һᾟ⡯䚧Ⳃ䭃㏲核⡔⁗┼丰㺽䚧Ⳃ庶㜋㣗䀂ѪGartner Wafer Fab Equipment 2020Ѹ㦺⪦䦆䯨Ѹ⋞╪㑍刓嵦㞀ῘѸ⍸㤂⽺㐗▼",
+      "text_normalized": "㹚Ѫ1.⑷㑞㿱⎭埲һ⿤⎭埲◾CMPѸ2.⑷㑞⊻⎭\u0003 lithography \u0003◾㻴剨崰⩹ photoresist processing Ѹ3.⑷㑞ALDһCVDһPVDѸ4.⑷㑞ㅝ憑䉟⩶䕸◾䇻䴓Ѹ5.㢞槧⍸㤂ᾟ䟶ᾟ⡯⪙枸⁳ᾌ⑷㑞ὼ㻩ㄠ䚧Ⳃ娷⩹核⡔һ吡䀂ㄠһ⒉㜫Ⓚ⎍һ㑅咸䭃㏲һᾟㄠⒼ⵮⃅һᾟ⡯䚧Ⳃ䭃㏲核⡔⁗┼丰㺽䚧Ⳃ庶㜋㣗䀂ѪGartner Wafer Fab Equipment 2020Ѹ㦺⪦䦆䯨Ѹ⋞╪㑍刓嵦㞀ῘѸ⍸㤂⽺㐗▼",
+      "bbox": [
+        63.63,
+        738.73,
+        529.44,
+        763.62
+      ],
+      "font_size_estimate": 6.5,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p011_b045",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 11,
+      "reading_order": 45,
+      "text_raw": "9",
+      "text_normalized": "9",
+      "bbox": [
+        294.85,
+        798.21,
+        300.43,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "4.25%5%0%6%"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 全球半导体产业链概况",
+    "4.25%5%0%6%"
+  ]
+}

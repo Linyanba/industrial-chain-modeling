@@ -1,0 +1,595 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 31,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 1,
+      "text_raw": "重采用成熟、可靠、稳定供货的进口材料。由于对材料和工艺的调",
+      "text_normalized": "重采用成熟、可靠、稳定供货的进口材料。由于对材料和工艺的调",
+      "bbox": [
+        90.0,
+        74.02,
+        496.08,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 2,
+      "text_raw": "整会造成成本上升，影响出货，迫于市场竞争压力，面板企业缺乏",
+      "text_normalized": "整会造成成本上升，影响出货，迫于市场竞争压力，面板企业缺乏",
+      "bbox": [
+        90.0,
+        101.26,
+        496.08,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 3,
+      "text_raw": "调整材料与工艺的主动性，对材料与工艺的研究和自主定义能力较",
+      "text_normalized": "调整材料与工艺的主动性，对材料与工艺的研究和自主定义能力较",
+      "bbox": [
+        90.0,
+        128.5,
+        496.08,
+        142.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 4,
+      "text_raw": "弱。",
+      "text_normalized": "弱。",
+      "bbox": [
+        90.0,
+        155.74,
+        118.09,
+        169.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 5,
+      "text_raw": "（二）新型显示材料供给特点",
+      "text_normalized": "（二）新型显示材料供给特点",
+      "bbox": [
+        120.0,
+        189.12,
+        315.0,
+        204.35
+      ],
+      "font_size_estimate": 15.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 6,
+      "text_raw": "1.新型显示材料门类基本覆盖",
+      "text_normalized": "1.新型显示材料门类基本覆盖",
+      "bbox": [
+        117.96,
+        232.65,
+        297.61,
+        251.32
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.新型显示材料门类基本覆盖"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 7,
+      "text_raw": "目前，中国大陆基本具备玻璃基板、液晶材料、偏光片、掩模",
+      "text_normalized": "目前，中国大陆基本具备玻璃基板、液晶材料、偏光片、掩模",
+      "bbox": [
+        117.96,
+        272.02,
+        505.33,
+        286.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.新型显示材料门类基本覆盖"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 8,
+      "text_raw": "版、彩色滤光片、OLED 材料、显示芯片、靶材、湿电子化学品、光",
+      "text_normalized": "版、彩色滤光片、OLED 材料、显示芯片、靶材、湿电子化学品、光",
+      "bbox": [
+        90.0,
+        299.14,
+        505.32,
+        313.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.新型显示材料门类基本覆盖"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 9,
+      "text_raw": "刻胶等显示材料生产能力，虽然显示芯片、光刻胶、OLED 材料等材",
+      "text_normalized": "刻胶等显示材料生产能力，虽然显示芯片、光刻胶、OLED 材料等材",
+      "bbox": [
+        90.0,
+        326.38,
+        505.33,
+        340.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.新型显示材料门类基本覆盖"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 10,
+      "text_raw": "料的部分细分产品还属空白，但总体上已形成较为完备的显示材料",
+      "text_normalized": "料的部分细分产品还属空白，但总体上已形成较为完备的显示材料",
+      "bbox": [
+        90.0,
+        353.62,
+        505.33,
+        367.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.新型显示材料门类基本覆盖"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 11,
+      "text_raw": "产业体系。",
+      "text_normalized": "产业体系。",
+      "bbox": [
+        90.0,
+        380.86,
+        160.09,
+        394.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.新型显示材料门类基本覆盖"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 12,
+      "text_raw": "2.显示材料产业起步晚、积累少",
+      "text_normalized": "2.显示材料产业起步晚、积累少",
+      "bbox": [
+        117.96,
+        418.05,
+        311.77,
+        436.72
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业起步晚、积累少"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 13,
+      "text_raw": "从液晶材料、OLED 材料和玻璃基板等显示材料的发展历程和竞",
+      "text_normalized": "从液晶材料、OLED 材料和玻璃基板等显示材料的发展历程和竞",
+      "bbox": [
+        117.96,
+        457.42,
+        505.32,
+        471.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业起步晚、积累少"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 14,
+      "text_raw": "争格局看，国外先进企业于上世纪八、九十年代就已突破关键技",
+      "text_normalized": "争格局看，国外先进企业于上世纪八、九十年代就已突破关键技",
+      "bbox": [
+        90.0,
+        484.66,
+        505.32,
+        498.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业起步晚、积累少"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 15,
+      "text_raw": "术，并逐步完成专利布局。中国大陆企业多数从上世纪九十年代开",
+      "text_normalized": "术，并逐步完成专利布局。中国大陆企业多数从上世纪九十年代开",
+      "bbox": [
+        90.0,
+        511.78,
+        505.33,
+        525.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业起步晚、积累少"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 16,
+      "text_raw": "始进入相关领域，在技术储备、专利布局、市场认可度等方面，仍",
+      "text_normalized": "始进入相关领域，在技术储备、专利布局、市场认可度等方面，仍",
+      "bbox": [
+        90.0,
+        539.02,
+        505.33,
+        553.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业起步晚、积累少"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 17,
+      "text_raw": "存在一定差距。",
+      "text_normalized": "存在一定差距。",
+      "bbox": [
+        90.0,
+        566.38,
+        188.05,
+        580.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业起步晚、积累少"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 18,
+      "text_raw": "3.产业上下游联动不足",
+      "text_normalized": "3.产业上下游联动不足",
+      "bbox": [
+        117.96,
+        603.45,
+        255.61,
+        622.12
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 19,
+      "text_raw": "中国大陆主要材料企业大都希望通过协作开发等方式获得面板",
+      "text_normalized": "中国大陆主要材料企业大都希望通过协作开发等方式获得面板",
+      "bbox": [
+        117.96,
+        642.82,
+        505.33,
+        656.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 20,
+      "text_raw": "企业对其产品质量和技术实力的认可。据调查，主要材料企业均有",
+      "text_normalized": "企业对其产品质量和技术实力的认可。据调查，主要材料企业均有",
+      "bbox": [
+        90.0,
+        670.06,
+        505.33,
+        684.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 21,
+      "text_raw": "与下游用户和科研院所联合研发的成功经历，但由于材料企业和面",
+      "text_normalized": "与下游用户和科研院所联合研发的成功经历，但由于材料企业和面",
+      "bbox": [
+        90.0,
+        697.3,
+        505.33,
+        711.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 22,
+      "text_raw": "板企业规模、技术水平和研发能力的巨大差距，显示产业上下游联",
+      "text_normalized": "板企业规模、技术水平和研发能力的巨大差距，显示产业上下游联",
+      "bbox": [
+        90.0,
+        724.42,
+        505.33,
+        738.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 23,
+      "text_raw": "动不足。",
+      "text_normalized": "动不足。",
+      "bbox": [
+        90.0,
+        751.78,
+        146.05,
+        765.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p031_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 31,
+      "reading_order": 24,
+      "text_raw": "23",
+      "text_normalized": "23",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "3.产业上下游联动不足"
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 35,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 1,
+      "text_raw": "业牵头、研究机构参与、社会资金投入的形式，探索成立专利运营",
+      "text_normalized": "业牵头、研究机构参与、社会资金投入的形式，探索成立专利运营",
+      "bbox": [
+        90.0,
+        74.02,
+        496.08,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 2,
+      "text_raw": "投资公司。",
+      "text_normalized": "投资公司。",
+      "bbox": [
+        90.0,
+        101.26,
+        160.09,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 3,
+      "text_raw": "7.注重风险防控",
+      "text_normalized": "7.注重风险防控",
+      "bbox": [
+        117.96,
+        132.45,
+        213.61,
+        151.12
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 4,
+      "text_raw": "随着传统显示应用市场逐渐饱和，全球显示产业技术迭代升级",
+      "text_normalized": "随着传统显示应用市场逐渐饱和，全球显示产业技术迭代升级",
+      "bbox": [
+        117.96,
+        167.74,
+        505.33,
+        181.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 5,
+      "text_raw": "不断深入，中国大陆新型显示产业配套保障能力存在不足，供需矛",
+      "text_normalized": "不断深入，中国大陆新型显示产业配套保障能力存在不足，供需矛",
+      "bbox": [
+        90.0,
+        194.98,
+        505.33,
+        209.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 6,
+      "text_raw": "盾时有出现，同时还存在技术落后项目重复建设、资本投机、低端",
+      "text_normalized": "盾时有出现，同时还存在技术落后项目重复建设、资本投机、低端",
+      "bbox": [
+        90.0,
+        222.22,
+        505.33,
+        236.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 7,
+      "text_raw": "显示材料恶性竞争等问题和“卡脖子”、“建成即过时”等风险。",
+      "text_normalized": "显示材料恶性竞争等问题和“卡脖子”、“建成即过时”等风险。",
+      "bbox": [
+        90.0,
+        249.46,
+        505.33,
+        263.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 8,
+      "text_raw": "为保障新型显示产业持续健康高质量发展，必须加强统筹规划、整",
+      "text_normalized": "为保障新型显示产业持续健康高质量发展，必须加强统筹规划、整",
+      "bbox": [
+        90.0,
+        276.7,
+        505.32,
+        290.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 9,
+      "text_raw": "体布局，提高风险防控意识。加强中央政府与地方政府的合作与信",
+      "text_normalized": "体布局，提高风险防控意识。加强中央政府与地方政府的合作与信",
+      "bbox": [
+        90.0,
+        303.94,
+        505.33,
+        318.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 10,
+      "text_raw": "息共享，全面掌握产业发展中出现的最新动态，做好“窗口”指导",
+      "text_normalized": "息共享，全面掌握产业发展中出现的最新动态，做好“窗口”指导",
+      "bbox": [
+        90.0,
+        331.18,
+        505.33,
+        345.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 11,
+      "text_raw": "和投融资监管。对于地方投资和建设的重大项目，尤其是国有资产",
+      "text_normalized": "和投融资监管。对于地方投资和建设的重大项目，尤其是国有资产",
+      "bbox": [
+        90.0,
+        358.42,
+        505.33,
+        372.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 12,
+      "text_raw": "（包含地方政府投融资平台）占比超过50%的项目，行业主管部门",
+      "text_normalized": "（包含地方政府投融资平台）占比超过50%的项目，行业主管部门",
+      "bbox": [
+        90.0,
+        385.66,
+        505.33,
+        399.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 13,
+      "text_raw": "应给予必要的指导和服务。建立信息预警机制，加强行业信息和数",
+      "text_normalized": "应给予必要的指导和服务。建立信息预警机制，加强行业信息和数",
+      "bbox": [
+        90.0,
+        412.9,
+        505.33,
+        426.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 14,
+      "text_raw": "据收集、整理和舆论引导，发展态势预判，及时发布行业信息。",
+      "text_normalized": "据收集、整理和舆论引导，发展态势预判，及时发布行业信息。",
+      "bbox": [
+        90.0,
+        440.02,
+        482.04,
+        454.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "7.注重风险防控"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 15,
+      "text_raw": "8.深化国际交流合作",
+      "text_normalized": "8.深化国际交流合作",
+      "bbox": [
+        117.96,
+        471.33,
+        241.69,
+        490.0
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "8.深化国际交流合作"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 16,
+      "text_raw": "注重开展多种形式的国际和地区科技交流合作，推动引资、引",
+      "text_normalized": "注重开展多种形式的国际和地区科技交流合作，推动引资、引",
+      "bbox": [
+        117.96,
+        506.62,
+        505.33,
+        520.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "8.深化国际交流合作"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 17,
+      "text_raw": "技与引智相结合，提高“引进来”的层次。结合国家重大战略实",
+      "text_normalized": "技与引智相结合，提高“引进来”的层次。结合国家重大战略实",
+      "bbox": [
+        90.0,
+        533.86,
+        505.21,
+        547.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "8.深化国际交流合作"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 18,
+      "text_raw": "施，支持有条件的企业建设境外产业合作园区。支持中国大陆企业",
+      "text_normalized": "施，支持有条件的企业建设境外产业合作园区。支持中国大陆企业",
+      "bbox": [
+        90.0,
+        560.98,
+        505.33,
+        575.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "8.深化国际交流合作"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 19,
+      "text_raw": "并购、参股国外先进企业，鼓励企业和科研院所在海外建立研发机",
+      "text_normalized": "并购、参股国外先进企业，鼓励企业和科研院所在海外建立研发机",
+      "bbox": [
+        90.0,
+        588.22,
+        505.33,
+        602.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "8.深化国际交流合作"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 20,
+      "text_raw": "构，构建开放合作平台，打造新型显示产业开放共赢的生态环境。",
+      "text_normalized": "构，构建开放合作平台，打造新型显示产业开放共赢的生态环境。",
+      "bbox": [
+        90.0,
+        615.58,
+        496.08,
+        629.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "8.深化国际交流合作"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 21,
+      "text_raw": "9.加大金融支持力度",
+      "text_normalized": "9.加大金融支持力度",
+      "bbox": [
+        117.96,
+        646.65,
+        241.69,
+        665.32
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 22,
+      "text_raw": "用好金融工具，发挥金融对新型显示产业的正向作用。用科学",
+      "text_normalized": "用好金融工具，发挥金融对新型显示产业的正向作用。用科学",
+      "bbox": [
+        117.96,
+        681.94,
+        505.33,
+        696.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 23,
+      "text_raw": "的技术标准、严格的环境要求、经济的能源消耗等指标倒逼产业技",
+      "text_normalized": "的技术标准、严格的环境要求、经济的能源消耗等指标倒逼产业技",
+      "bbox": [
+        90.0,
+        709.18,
+        505.33,
+        723.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 24,
+      "text_raw": "术进步，避免重复建设和产业结构不合理。加快引导社会性资金支",
+      "text_normalized": "术进步，避免重复建设和产业结构不合理。加快引导社会性资金支",
+      "bbox": [
+        90.0,
+        736.42,
+        505.33,
+        750.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p035_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 35,
+      "reading_order": 25,
+      "text_raw": "27",
+      "text_normalized": "27",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "9.加大金融支持力度"
+  ]
+}

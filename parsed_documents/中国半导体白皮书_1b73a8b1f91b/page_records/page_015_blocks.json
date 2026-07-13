@@ -1,0 +1,599 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 15,
+  "page_type": "mixed",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "table_parser",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 2,
+      "text_raw": "图 9: 中国厂商在通讯芯片、模拟芯片与OSD设计、成熟制程制造与封测环节产生较多营收",
+      "text_normalized": "图 9: 中国厂商在通讯芯片、模拟芯片与OSD设计、成熟制程制造与封测环节产生较多营收",
+      "bbox": [
+        63.64,
+        131.68,
+        453.48,
+        146.31
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 3,
+      "text_raw": "2020⿦ᾭ嫳䟶ᾟ⡯⪙枸Ⓖ⵮⃅⁳ᾌ1喗㚨2Ѫ㑻倸⍸⽴⢬⎄⍸ (‱⊵)",
+      "text_normalized": "2020⿦ᾭ嫳䟶ᾟ⡯⪙枸Ⓖ⵮⃅⁳ᾌ1喗㚨2Ѫ㑻倸⍸⽴⢬⎄⍸ (‱⊵)",
+      "bbox": [
+        63.64,
+        172.02,
+        340.71,
+        186.81
+      ],
+      "font_size_estimate": 8.85,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 4,
+      "text_raw": "Ⓖ⵮⃅⎨憒ὼ㾪",
+      "text_normalized": "Ⓖ⵮⃅⎨憒ὼ㾪",
+      "bbox": [
+        103.94,
+        193.15,
+        162.21,
+        205.52
+      ],
+      "font_size_estimate": 8.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 5,
+      "text_raw": "Ⓖ⵮⃅崰崓◾⎨憒",
+      "text_normalized": "Ⓖ⵮⃅崰崓◾⎨憒",
+      "bbox": [
+        337.77,
+        193.15,
+        404.36,
+        205.52
+      ],
+      "font_size_estimate": 8.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 6,
+      "text_raw": "崰⩹EDA/IPIC崰崓◾IDM憭愃吡䎹⎨憒⵳娷㺽嵇┑㣂㜋",
+      "text_normalized": "崰⩹EDA/IPIC崰崓◾IDM憭愃吡䎹⎨憒⵳娷㺽嵇┑㣂㜋",
+      "bbox": [
+        78.91,
+        206.71,
+        522.49,
+        218.07
+      ],
+      "font_size_estimate": 7.68,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 7,
+      "text_raw": "659720",
+      "text_normalized": "659720",
+      "bbox": [
+        290.33,
+        224.88,
+        387.8,
+        247.89
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 8,
+      "text_raw": "499",
+      "text_normalized": "499",
+      "bbox": [
+        500.09,
+        268.81,
+        513.65,
+        279.9
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 9,
+      "text_raw": "404",
+      "text_normalized": "404",
+      "bbox": [
+        458.13,
+        287.91,
+        471.7,
+        299.01
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 10,
+      "text_raw": "178",
+      "text_normalized": "178",
+      "bbox": [
+        248.38,
+        333.14,
+        261.94,
+        344.23
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 11,
+      "text_raw": "槸⊺⋞╪卜2021⿦ひ⬽ⶁ㏫捁䚑’10nm’☳",
+      "text_normalized": "槸⊺⋞╪卜2021⿦ひ⬽ⶁ㏫捁䚑’10nm’☳",
+      "bbox": [
+        406.36,
+        339.59,
+        438.36,
+        370.88
+      ],
+      "font_size_estimate": 6.18,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 12,
+      "text_raw": "739639",
+      "text_normalized": "739639",
+      "bbox": [
+        82.86,
+        349.99,
+        217.73,
+        372.13
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 13,
+      "text_raw": "4514",
+      "text_normalized": "4514",
+      "bbox": [
+        166.74,
+        359.69,
+        343.58,
+        377.31
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 14,
+      "text_raw": "⎿䱡崰⩹㣂㜋EDA/IPCPU䡪⋥⋨⁈憭愃憌崡Ⳋ√㮓㑑⎨憒(⊺慍)",
+      "text_normalized": "⎿䱡崰⩹㣂㜋EDA/IPCPU䡪⋥⋨⁈憭愃憌崡Ⳋ√㮓㑑⎨憒(⊺慍)",
+      "bbox": [
+        71.38,
+        383.95,
+        433.21,
+        405.31
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 15,
+      "text_raw": "⎨憒(㎂䌑)",
+      "text_normalized": "⎨憒(㎂䌑)",
+      "bbox": [
+        454.21,
+        383.95,
+        475.64,
+        405.31
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 16,
+      "text_raw": "⵳娷◾㺽嵇",
+      "text_normalized": "⵳娷◾㺽嵇",
+      "bbox": [
+        486.86,
+        383.95,
+        526.88,
+        395.23
+      ],
+      "font_size_estimate": 8.13,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 17,
+      "text_raw": "㹚Ѫ1.ᾟ⡯⪙枸\u0014⁳ᾌ㞡㑹㞡⢚╶倸⍸⽴⢬㡻⋞ひ⅓㇡䟶ᾭ嫳⁳ᾌѸ2.‷㑹ᾀⒼ⵮⃅㡻⋥䟶㚨⋗Ѹ3.╜⷇䪬ᾭ嫳䔛⴨喗㚨庶㜋㣗䀂Ѫ2021⿦һ2020⿦McClean㐗▼ѸGartner 2020⿦⋚䕵Ⓖ⵮⃅⽴⢬⍸⽵Ѭ㑻债䱡⽴⢬⎄⍸ѸESD准䡑䦆䯨㐗▼ѸYoleѸ⋞╪㑍刓嵦㞀ῘѸ⋞╪⿦㐗Ѹ⍸㤂⽺㐗▼Ѹ㦺⪦䦆䯨ѸCIQѸEMIS",
+      "text_normalized": "㹚Ѫ1.ᾟ⡯⪙枸\u0014⁳ᾌ㞡㑹㞡⢚╶倸⍸⽴⢬㡻⋞ひ⅓㇡䟶ᾭ嫳⁳ᾌѸ2.‷㑹ᾀⒼ⵮⃅㡻⋥䟶㚨⋗Ѹ3.╜⷇䪬ᾭ嫳䔛⴨喗㚨庶㜋㣗䀂Ѫ2021⿦һ2020⿦McClean㐗▼ѸGartner 2020⿦⋚䕵Ⓖ⵮⃅⽴⢬⍸⽵Ѭ㑻债䱡⽴⢬⎄⍸ѸESD准䡑䦆䯨㐗▼ѸYoleѸ⋞╪㑍刓嵦㞀ῘѸ⋞╪⿦㐗Ѹ⍸㤂⽺㐗▼Ѹ㦺⪦䦆䯨ѸCIQѸEMIS",
+      "bbox": [
+        63.64,
+        412.34,
+        508.49,
+        437.22
+      ],
+      "font_size_estimate": 6.5,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 18,
+      "text_raw": "2.1 前端设备",
+      "text_normalized": "2.1 前端设备",
+      "bbox": [
+        63.63,
+        463.28,
+        138.93,
+        483.76
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与",
+        "2.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 19,
+      "text_raw": "中国厂商在前端设备市场处于起步阶段，市场份额普遍较低。Gartner和相关公司招股说明书显",
+      "text_normalized": "中国厂商在前端设备市场处于起步阶段，市场份额普遍较低。Gartner和相关公司招股说明书显",
+      "bbox": [
+        63.63,
+        492.21,
+        531.66,
+        506.1
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与",
+        "2.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 20,
+      "text_raw": "示，2020年，全球晶圆设备市场总规模达到了4,200亿元。",
+      "text_normalized": "示，2020年，全球晶圆设备市场总规模达到了4,200亿元。",
+      "bbox": [
+        63.63,
+        507.21,
+        348.8,
+        521.1
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与",
+        "2.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 21,
+      "text_raw": "其中，中国大陆企业3在沉积、刻蚀设备上与全球领先企业差距较小，开始获取份额，有望在5–10年内赶超世界领先水平；而光刻、离子注入、测量等仪器则还有较大差距，在较长时间内应用场景限制在非关键生产步骤，或非先进制程。",
+      "text_normalized": "其中，中国大陆企业3在沉积、刻蚀设备上与全球领先企业差距较小，开始获取份额，有望在5–10年内赶超世界领先水平；而光刻、离子注入、测量等仪器则还有较大差距，在较长时间内应用场景限制在非关键生产步骤，或非先进制程。",
+      "bbox": [
+        63.63,
+        534.23,
+        531.69,
+        578.12
+      ],
+      "font_size_estimate": 9.3,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与",
+        "2.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 22,
+      "text_raw": "薄膜沉积是集成电路制造过程中必不可少的环节，指的是任何在硅片衬底上沉积一层膜的工艺，包括原子层沉积（ALD）、化学气相沉积（CVD）、物理气相沉积（PVD）。2018–2020年，中国大陆市场的沉积设备的市场规模从17亿元左右上升至30亿元左右，年均复合增长率达到了32%，增速远超全球市场。",
+      "text_normalized": "薄膜沉积是集成电路制造过程中必不可少的环节，指的是任何在硅片衬底上沉积一层膜的工艺，包括原子层沉积（ALD）、化学气相沉积（CVD）、物理气相沉积（PVD）。2018–2020年，中国大陆市场的沉积设备的市场规模从17亿元左右上升至30亿元左右，年均复合增长率达到了32%，增速远超全球市场。",
+      "bbox": [
+        63.63,
+        591.26,
+        531.69,
+        650.15
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与",
+        "2.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 23,
+      "text_raw": "刻蚀工艺是半导体制造工艺中的关键步骤，对于器件的电学性能非常重要，包括湿法刻蚀、干法刻蚀和化学机械平坦化（CMP）。2018–2020年，中国大陆市场的刻蚀设备国产化成就斐然，从18亿元左右升至约35亿元，年均复合增长率高达40%，涌现出中微半导体、北方华创等代表企业。",
+      "text_normalized": "刻蚀工艺是半导体制造工艺中的关键步骤，对于器件的电学性能非常重要，包括湿法刻蚀、干法刻蚀和化学机械平坦化（CMP）。2018–2020年，中国大陆市场的刻蚀设备国产化成就斐然，从18亿元左右升至约35亿元，年均复合增长率高达40%，涌现出中微半导体、北方华创等代表企业。",
+      "bbox": [
+        63.63,
+        663.28,
+        531.7,
+        707.17
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "2. 中国半导体在价值链主要环节的参与",
+        "2.1 前端设备"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b024",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 24,
+      "text_raw": "1. 仅指与半导体有关的收入\n2. 中国大陆企业是指在各细分市场有公开信息的主要企业\n3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+      "text_normalized": "1. 仅指与半导体有关的收入\n2. 中国大陆企业是指在各细分市场有公开信息的主要企业\n3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等",
+      "bbox": [
+        63.64,
+        735.49,
+        290.08,
+        766.6
+      ],
+      "font_size_estimate": 8.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p015_b025",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 15,
+      "reading_order": 25,
+      "text_raw": "13",
+      "text_normalized": "13",
+      "bbox": [
+        293.12,
+        798.21,
+        302.15,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 仅指与半导体有关的收入 2. 中国大陆企业是指在各细分市场有公开信息的主要企业 3. 中国大陆企业包括上海微电子装备集团、芯源微、北方华创等"
+  ]
+}

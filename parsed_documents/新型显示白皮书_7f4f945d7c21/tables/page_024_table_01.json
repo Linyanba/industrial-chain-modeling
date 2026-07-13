@@ -1,0 +1,50 @@
+{
+  "table_id": "新型显示白皮书_7f4f945d7c21_p024_t01",
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 24,
+  "table_no_on_page": 1,
+  "bbox": [
+    84.48,
+    101.07,
+    515.72,
+    194.74
+  ],
+  "caption": "unknown",
+  "caption_source": "unknown",
+  "headers": [
+    "",
+    "销售收入",
+    "出口收入",
+    "固定资产",
+    "研发投入"
+  ],
+  "units": "亿元",
+  "footnotes": [],
+  "rows": [
+    [
+      "",
+      "销售收入",
+      "出口收入",
+      "固定资产",
+      "研发投入"
+    ],
+    [
+      "行业总量（亿元）",
+      "1632",
+      "809.2",
+      "2701.9",
+      "111"
+    ],
+    [
+      "前三大企业占比",
+      "90.73%",
+      "92.44%",
+      "79.52%",
+      "92.67%"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "parse_quality": 0.96,
+  "review_required": true,
+  "source_page_image": "data\\rendered_pages\\新型显示白皮书\\page_024.png"
+}

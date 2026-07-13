@@ -1,0 +1,13 @@
+﻿node_label,depth,parent_label,child_count,evidence_count,entity_count,is_company_node,is_display_schema_node,quality_status,issue,recommended_action
+先进电子材料,1,新型显示产业链,1,0,1,false,false,weak_branch,一级分支子节点不足,补充更多已审核实体或章节证据
+新型显示器件,1,新型显示产业链,2,0,1,false,false,ok,,保持
+新型显示技术,1,新型显示产业链,4,0,1,false,false,ok,,保持
+液晶面板,1,新型显示产业链,1,0,1,false,false,weak_branch,一级分支子节点不足,补充更多已审核实体或章节证据
+新型显示材料,2,先进电子材料,0,1,1,false,false,ok,,保持
+有机发光二极管显示面板,2,新型显示器件,0,1,1,false,false,ok,,保持
+薄膜晶体管液晶显示器件,2,新型显示器件,0,1,1,false,false,ok,,保持
+主动矩阵有机发光二极管显示(AMOLED),2,新型显示技术,0,1,1,false,false,ok,,保持
+微型发光二极管显示(Micro-LED),2,新型显示技术,0,1,1,false,false,ok,,保持
+激光显示,2,新型显示技术,0,1,1,false,false,ok,,保持
+薄膜晶体管液晶显示(TFT-LCD),2,新型显示技术,0,1,1,false,false,ok,,保持
+玻璃基板,2,液晶面板,0,1,1,false,false,ok,,保持

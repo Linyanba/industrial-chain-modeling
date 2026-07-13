@@ -1,0 +1,571 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 16,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 1,
+      "text_raw": "1.产业和专项政策相继出台",
+      "text_normalized": "1.产业和专项政策相继出台",
+      "bbox": [
+        117.96,
+        71.97,
+        283.69,
+        90.64
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 2,
+      "text_raw": "为贯彻落实国家发展规划，以《2014-2016 年新型显示产业创",
+      "text_normalized": "为贯彻落实国家发展规划，以《2014-2016 年新型显示产业创",
+      "bbox": [
+        117.96,
+        111.22,
+        505.33,
+        125.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 3,
+      "text_raw": "新发展行动计划》为代表，工业和信息化部、国家发展和改革委、",
+      "text_normalized": "新发展行动计划》为代表，工业和信息化部、国家发展和改革委、",
+      "bbox": [
+        90.0,
+        138.58,
+        505.33,
+        152.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 4,
+      "text_raw": "科学技术部等部委相继出台了一系列支持显示产业发展的政策。",
+      "text_normalized": "科学技术部等部委相继出台了一系列支持显示产业发展的政策。",
+      "bbox": [
+        90.0,
+        165.82,
+        482.04,
+        179.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 5,
+      "text_raw": "工业和信息化部从新型显示产业链协同发展的角度，引导行业",
+      "text_normalized": "工业和信息化部从新型显示产业链协同发展的角度，引导行业",
+      "bbox": [
+        117.96,
+        198.94,
+        505.33,
+        213.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 6,
+      "text_raw": "以新型显示器件为核心，带动配套材料的发展，提高材料的成品率",
+      "text_normalized": "以新型显示器件为核心，带动配套材料的发展，提高材料的成品率",
+      "bbox": [
+        90.0,
+        226.18,
+        505.33,
+        240.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 7,
+      "text_raw": "和性能稳定性，推动产业化和规模化应用，完善配套体系建设。",
+      "text_normalized": "和性能稳定性，推动产业化和规模化应用，完善配套体系建设。",
+      "bbox": [
+        90.0,
+        253.42,
+        482.04,
+        267.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 8,
+      "text_raw": "国家发展和改革委的产业化项目聚焦新型显示产业链的配套能",
+      "text_normalized": "国家发展和改革委的产业化项目聚焦新型显示产业链的配套能",
+      "bbox": [
+        117.96,
+        286.78,
+        505.33,
+        300.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 9,
+      "text_raw": "力建设，支持关键显示材料发展，推动建立认证应用平台，鼓励面",
+      "text_normalized": "力建设，支持关键显示材料发展，推动建立认证应用平台，鼓励面",
+      "bbox": [
+        90.0,
+        313.9,
+        505.33,
+        327.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 10,
+      "text_raw": "板制造企业积极采用就近配套材料。",
+      "text_normalized": "板制造企业积极采用就近配套材料。",
+      "bbox": [
+        90.0,
+        341.14,
+        314.05,
+        355.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 11,
+      "text_raw": "科学技术部发布的《“十二五”科技发展规划》和《“十三",
+      "text_normalized": "科学技术部发布的《“十二五”科技发展规划》和《“十三",
+      "bbox": [
+        117.96,
+        374.38,
+        505.33,
+        388.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 12,
+      "text_raw": "五”材料领域科技创新专项规划》等规划，重视前沿技术研究、关",
+      "text_normalized": "五”材料领域科技创新专项规划》等规划，重视前沿技术研究、关",
+      "bbox": [
+        90.0,
+        401.62,
+        505.33,
+        415.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 13,
+      "text_raw": "键显示材料技术攻关。提出“实现关键原材料和显示屏的国产化，",
+      "text_normalized": "键显示材料技术攻关。提出“实现关键原材料和显示屏的国产化，",
+      "bbox": [
+        90.0,
+        428.86,
+        505.33,
+        442.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 14,
+      "text_raw": "形成产业集群，新增产值超千亿，促进显示产业升级转型”的发展",
+      "text_normalized": "形成产业集群，新增产值超千亿，促进显示产业升级转型”的发展",
+      "bbox": [
+        90.0,
+        456.1,
+        505.33,
+        470.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 15,
+      "text_raw": "目标。在国家科技重点研发计划和国家重大工程重点新材料研发及",
+      "text_normalized": "目标。在国家科技重点研发计划和国家重大工程重点新材料研发及",
+      "bbox": [
+        90.0,
+        483.34,
+        505.33,
+        497.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 16,
+      "text_raw": "应用中，对提升新型显示材料的保障水平给予了重点支持。",
+      "text_normalized": "应用中，对提升新型显示材料的保障水平给予了重点支持。",
+      "bbox": [
+        90.0,
+        510.58,
+        454.09,
+        524.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 17,
+      "text_raw": "上述产业与专项政策有效推动了新型显示材料产业的发展，培",
+      "text_normalized": "上述产业与专项政策有效推动了新型显示材料产业的发展，培",
+      "bbox": [
+        117.96,
+        543.82,
+        505.33,
+        557.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 18,
+      "text_raw": "育了一批显示材料企业，逐步形成并完善了以企业为主体，市场为",
+      "text_normalized": "育了一批显示材料企业，逐步形成并完善了以企业为主体，市场为",
+      "bbox": [
+        90.0,
+        571.06,
+        505.33,
+        585.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 19,
+      "text_raw": "导向，产学研用相结合的新型显示产业创新体系。",
+      "text_normalized": "导向，产学研用相结合的新型显示产业创新体系。",
+      "bbox": [
+        90.0,
+        598.3,
+        398.04,
+        612.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "1.产业和专项政策相继出台"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 20,
+      "text_raw": "2.财关税政策支持产业发展",
+      "text_normalized": "2.财关税政策支持产业发展",
+      "bbox": [
+        117.96,
+        635.49,
+        283.69,
+        654.16
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 21,
+      "text_raw": "为支持新型显示产业发展，国家出台相关财关税政策，对新型",
+      "text_normalized": "为支持新型显示产业发展，国家出台相关财关税政策，对新型",
+      "bbox": [
+        117.96,
+        674.74,
+        505.33,
+        688.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 22,
+      "text_raw": "显示产业予以支持，提高新型显示产业持续发展能力，主要包括",
+      "text_normalized": "显示产业予以支持，提高新型显示产业持续发展能力，主要包括",
+      "bbox": [
+        90.0,
+        701.98,
+        505.33,
+        716.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p016_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 16,
+      "reading_order": 23,
+      "text_raw": "8",
+      "text_normalized": "8",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "2.财关税政策支持产业发展"
+  ]
+}

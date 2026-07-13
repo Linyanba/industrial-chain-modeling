@@ -1,0 +1,283 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 12,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 1,
+      "text_raw": "键环节控制能力的竞争。因此，在未来全球新型显示产业的发展格",
+      "text_normalized": "键环节控制能力的竞争。因此，在未来全球新型显示产业的发展格",
+      "bbox": [
+        90.0,
+        74.02,
+        505.33,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 2,
+      "text_raw": "局中，拥有完善的产业链无疑将更具竞争力。",
+      "text_normalized": "局中，拥有完善的产业链无疑将更具竞争力。",
+      "bbox": [
+        90.0,
+        101.26,
+        370.09,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 3,
+      "text_raw": "中国大陆新型显示面板产业已迈入世界前列，并成为新型显示",
+      "text_normalized": "中国大陆新型显示面板产业已迈入世界前列，并成为新型显示",
+      "bbox": [
+        117.96,
+        134.5,
+        505.33,
+        148.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 4,
+      "text_raw": "材料全球最大市场。如图3 所示，2017 年中国大陆显示面板出货面",
+      "text_normalized": "材料全球最大市场。如图3 所示，2017 年中国大陆显示面板出货面",
+      "bbox": [
+        90.0,
+        161.74,
+        505.45,
+        175.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 5,
+      "text_raw": "积全球占比34%，而显示材料出货量全球占比仅8%，供给侧与需求",
+      "text_normalized": "积全球占比34%，而显示材料出货量全球占比仅8%，供给侧与需求",
+      "bbox": [
+        90.0,
+        188.98,
+        505.33,
+        203.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 6,
+      "text_raw": "端严重失衡。加快推进供给侧结构性改革，推动中国大陆投资近万",
+      "text_normalized": "端严重失衡。加快推进供给侧结构性改革，推动中国大陆投资近万",
+      "bbox": [
+        90.0,
+        216.22,
+        505.33,
+        230.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 7,
+      "text_raw": "亿建立的新型显示产业保障能力建设，适宜以先进企业供应链为主",
+      "text_normalized": "亿建立的新型显示产业保障能力建设，适宜以先进企业供应链为主",
+      "bbox": [
+        90.0,
+        243.46,
+        505.33,
+        257.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 8,
+      "text_raw": "线，打造配套完善的新型显示产业链，提高供给体系质量，推动新",
+      "text_normalized": "线，打造配套完善的新型显示产业链，提高供给体系质量，推动新",
+      "bbox": [
+        90.0,
+        270.7,
+        505.33,
+        284.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 9,
+      "text_raw": "型显示产业向全球价值链中高端迈进。",
+      "text_normalized": "型显示产业向全球价值链中高端迈进。",
+      "bbox": [
+        90.0,
+        297.94,
+        328.09,
+        312.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 10,
+      "text_raw": "图3 全球面板和配套材料占比",
+      "text_normalized": "图3 全球面板和配套材料占比",
+      "bbox": [
+        240.6,
+        748.15,
+        375.49,
+        761.74
+      ],
+      "font_size_estimate": 10.45,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p012_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 12,
+      "reading_order": 11,
+      "text_raw": "4",
+      "text_normalized": "4",
+      "bbox": [
+        295.2,
+        785.5,
+        300.11,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "4.竞争优势"
+  ]
+}

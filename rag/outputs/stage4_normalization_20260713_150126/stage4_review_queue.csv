@@ -1,0 +1,53 @@
+﻿review_item_id,source_stage,item_type,priority,reason,related_id,evidence_id,page_no,recommended_action
+S4RQ0001,3C,relation,P0,关系候选待复核: 新型显示产业->SUPPLIES_TO->产业链协同,t01_r02,新型显示白皮书_7f4f945d7c21_p033_paragraph_003,33,人工核对原文与结论
+S4RQ0002,3C,relation,P1,关系候选待复核: 配套材料->INPUT_TO->面板制造企业,t01_r04,新型显示白皮书_7f4f945d7c21_p016_paragraph_003,16,预测/规划/趋势类，不得作为现实关系，人工确认
+S4RQ0003,3C,entity,P3,候选被拒绝，需人工确认,t01_e02,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工确认主宾语是否在原文
+S4RQ0004,3C,relation,P3,候选被拒绝，需人工确认,t01_r01,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工确认主宾语是否在原文
+S4RQ0005,3C,relation,P3,候选被拒绝，需人工确认,t01_r03,新型显示白皮书_7f4f945d7c21_p016_paragraph_003,16,人工确认主宾语是否在原文
+S4RQ0006,3C,relation,P0,关系候选待复核: 产业链->SUPPLIES_TO->创新链,t02_r03,新型显示白皮书_7f4f945d7c21_p011_paragraph_004,,人工核对原文与结论
+S4RQ0007,3C,entity,P3,候选被拒绝，需人工确认,t02_e01,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,人工确认主宾语是否在原文
+S4RQ0008,3C,entity,P3,候选被拒绝，需人工确认,t02_e03,新型显示白皮书_7f4f945d7c21_p011_paragraph_004,11,人工核对 quote 与原文
+S4RQ0009,3C,relation,P3,候选被拒绝，需人工确认,t02_r01,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,人工确认主宾语是否在原文
+S4RQ0010,3C,relation,P3,候选被拒绝，需人工确认,t02_r02,新型显示白皮书_7f4f945d7c21_p011_paragraph_004,11,人工核对 quote 与原文
+S4RQ0011,3C,relation,P3,候选被拒绝，需人工确认,t02_r04,新型显示白皮书_7f4f945d7c21_p033_paragraph_004,33,人工确认主宾语是否在原文
+S4RQ0012,3C,relation,P3,候选被拒绝，需人工确认,t02_r05,新型显示白皮书_7f4f945d7c21_p033_paragraph_004,33,人工确认主宾语是否在原文
+S4RQ0013,3C,relation,P1,关系候选待复核: 关键原材料->INPUT_TO->显示面板企业,t03_r01,新型显示白皮书_7f4f945d7c21_p018_paragraph_003,18,人工核对原文与结论
+S4RQ0014,3C,relation,P3,候选被拒绝，需人工确认,t03_r02,新型显示白皮书_7f4f945d7c21_p030_paragraph_005,30,人工确认主宾语是否在原文
+S4RQ0015,3C,relation,P3,候选被拒绝，需人工确认,t03_r03,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0016,3C,relation,P3,候选被拒绝，需人工确认,t03_r04,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,,人工确认主宾语是否在原文
+S4RQ0017,3C,relation,P3,候选被拒绝，需人工确认,t03_r05,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0018,3C,relation,P3,候选被拒绝，需人工确认,t03_r06,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0019,3C,relation,P3,候选被拒绝，需人工确认,t03_r07,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工确认主宾语是否在原文
+S4RQ0020,3C,relation,P3,候选被拒绝，需人工确认,t03_r08,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0021,3C,relation,P0,关系候选待复核: 产业链->INPUT_TO->上下游,t04_r01,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工核对原文与结论
+S4RQ0022,3C,relation,P1,关系候选待复核: 材料->INPUT_TO->工艺,t04_r02,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工核对原文与结论
+S4RQ0023,3C,relation,P3,候选被拒绝，需人工确认,t04_r03,新型显示白皮书_7f4f945d7c21_p030_paragraph_006,30,人工确认主宾语是否在原文
+S4RQ0024,3C,relation,P3,候选被拒绝，需人工确认,t05_r01,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工确认主宾语是否在原文
+S4RQ0025,3C,relation,P3,候选被拒绝，需人工确认,t05_r02,新型显示白皮书_7f4f945d7c21_p017_paragraph_003,17,人工确认主宾语是否在原文
+S4RQ0026,3C,relation,P3,候选被拒绝，需人工确认,t05_r03,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工确认主宾语是否在原文
+S4RQ0027,3C,relation,P3,候选被拒绝，需人工确认,t05_r04,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工确认主宾语是否在原文
+S4RQ0028,3C,relation,P3,候选被拒绝，需人工确认,t05_r05,新型显示白皮书_7f4f945d7c21_p032_paragraph_005,32,人工确认主宾语是否在原文
+S4RQ0029,3C,entity,P3,候选被拒绝，需人工确认,t07_e07,新型显示白皮书_7f4f945d7c21_p035_paragraph_002,35,人工确认主宾语是否在原文
+S4RQ0030,3C,entity,P3,候选被拒绝，需人工确认,t07_e11,新型显示白皮书_7f4f945d7c21_p030_paragraph_005,30,人工核对 quote 与原文
+S4RQ0031,3C,entity,P3,候选被拒绝，需人工确认,t07_e12,新型显示白皮书_7f4f945d7c21_p016_paragraph_004,16,人工核对 quote 与原文
+S4RQ0032,3C,relation,P3,候选被拒绝，需人工确认,t07_r01,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+S4RQ0033,3C,relation,P3,候选被拒绝，需人工确认,t07_r02,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+S4RQ0034,3C,relation,P3,候选被拒绝，需人工确认,t07_r03,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+S4RQ0035,3C,relation,P3,候选被拒绝，需人工确认,t07_r04,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+S4RQ0036,3C,relation,P3,候选被拒绝，需人工确认,t07_r05,新型显示白皮书_7f4f945d7c21_p030_paragraph_003,30,人工确认主宾语是否在原文
+S4RQ0037,3C,relation,P3,候选被拒绝，需人工确认,t07_r06,新型显示白皮书_7f4f945d7c21_p035_paragraph_002,35,人工确认主宾语是否在原文
+S4RQ0038,3C,relation,P3,候选被拒绝，需人工确认,t07_r07,新型显示白皮书_7f4f945d7c21_p030_paragraph_005,30,人工核对 quote 与原文
+S4RQ0039,3C,relation,P3,候选被拒绝，需人工确认,t07_r08,新型显示白皮书_7f4f945d7c21_p016_paragraph_004,16,人工核对 quote 与原文
+S4RQ0040,3C,entity,P3,候选被拒绝，需人工确认,t09_e08,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工核对 quote 与原文
+S4RQ0041,3C,relation,P3,候选被拒绝，需人工确认,t09_r01,新型显示白皮书_7f4f945d7c21_p016_paragraph_003,16,人工确认主宾语是否在原文
+S4RQ0042,3C,relation,P3,候选被拒绝，需人工确认,t09_r02,新型显示白皮书_7f4f945d7c21_p029_paragraph_004,29,人工确认主宾语是否在原文
+S4RQ0043,3C,relation,P3,候选被拒绝，需人工确认,t09_r03,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0044,3C,relation,P3,候选被拒绝，需人工确认,t09_r04,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0045,3C,relation,P3,候选被拒绝，需人工确认,t09_r05,新型显示白皮书_7f4f945d7c21_p032_paragraph_004,32,人工确认主宾语是否在原文
+S4RQ0046,3C,relation,P3,候选被拒绝，需人工确认,t09_r06,新型显示白皮书_7f4f945d7c21_p016_paragraph_003,16,人工确认主宾语是否在原文
+S4RQ0047,3C,relation,P0,关系候选待复核: 供应链->OUTPUT_OF->显示产业,t10_r03,新型显示白皮书_7f4f945d7c21_p030_heading_001,30,人工核对原文与结论
+S4RQ0048,3C,relation,P0,关系候选待复核: 创新链->INPUT_TO->产业链,t10_r05,新型显示白皮书_7f4f945d7c21_p011_paragraph_004,11,人工核对原文与结论
+S4RQ0049,3C,relation,P3,候选被拒绝，需人工确认,t10_r01,新型显示白皮书_7f4f945d7c21_p003_paragraph_001,3,人工确认主宾语是否在原文
+S4RQ0050,3C,relation,P3,候选被拒绝，需人工确认,t10_r02,新型显示白皮书_7f4f945d7c21_p011_paragraph_003,11,人工确认主宾语是否在原文
+S4RQ0051,3C,relation,P3,候选被拒绝，需人工确认,t10_r04,新型显示白皮书_7f4f945d7c21_p033_heading_001,33,人工确认主宾语是否在原文
+S4RQ0052,3C,relation,P3,候选被拒绝，需人工确认,t10_r06,新型显示白皮书_7f4f945d7c21_p016_heading_001,16,人工确认主宾语是否在原文

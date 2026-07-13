@@ -1,0 +1,74 @@
+{
+  "stage4_5_latest_run_found": {
+    "passed": true,
+    "note": "D:\\产业链建模\\rag\\outputs\\stage4_5_review_minimization_20260713_162112"
+  },
+  "required_input_files_exist": {
+    "passed": true,
+    "note": "全部存在"
+  },
+  "ollama_connected": {
+    "passed": true,
+    "note": "http://localhost:11434"
+  },
+  "llm_model_available": {
+    "passed": true,
+    "note": "qwen3:8b"
+  },
+  "minimal_review_items_loaded": {
+    "passed": true,
+    "note": "7 条"
+  },
+  "llm_review_actions_generated": {
+    "passed": true,
+    "note": "7 条"
+  },
+  "llm_outputs_valid_json": {
+    "passed": true,
+    "note": "JSON解析成功或无审核项跳过"
+  },
+  "patches_validated": {
+    "passed": true,
+    "note": "通过6/失败1"
+  },
+  "approved_entities_generated": {
+    "passed": true,
+    "note": "37 个"
+  },
+  "approved_relations_generated": {
+    "passed": true,
+    "note": "6 条"
+  },
+  "approved_relations_have_evidence": {
+    "passed": true,
+    "note": "全部6条关系有证据"
+  },
+  "approved_relation_evidence_map_generated": {
+    "passed": true,
+    "note": "6 条"
+  },
+  "remaining_human_review_sheet_generated": {
+    "passed": true,
+    "note": "7 条"
+  },
+  "no_external_api_called": {
+    "passed": true,
+    "note": "仅使用本地 Ollama"
+  },
+  "no_new_unverified_relations_added": {
+    "passed": true,
+    "note": "未新增无证据关系"
+  },
+  "no_archived_or_rejected_candidate_auto_restored": {
+    "passed": true,
+    "note": "未从 archived/rejected 恢复"
+  },
+  "no_graph_generated": {
+    "passed": true,
+    "note": "未生成图谱/未写 Neo4j"
+  },
+  "original_pdf_not_modified": {
+    "passed": true,
+    "note": "原始 PDF 未改动"
+  }
+}

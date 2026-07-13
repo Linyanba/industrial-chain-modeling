@@ -1,0 +1,593 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 2,
+  "page_type": "copyright",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 1,
+      "text_raw": "序",
+      "text_normalized": "序",
+      "bbox": [
+        289.68,
+        74.43,
+        305.63,
+        90.62
+      ],
+      "font_size_estimate": 15.95,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 2,
+      "text_raw": "新型显示产业是先进制造和新一代电子信息技术领域的核心基",
+      "text_normalized": "新型显示产业是先进制造和新一代电子信息技术领域的核心基",
+      "bbox": [
+        117.96,
+        104.86,
+        495.96,
+        118.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 3,
+      "text_raw": "础产业。加快发展新型显示产业对实施创新驱动发展战略，促进产",
+      "text_normalized": "础产业。加快发展新型显示产业对实施创新驱动发展战略，促进产",
+      "bbox": [
+        90.0,
+        131.98,
+        496.08,
+        146.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 4,
+      "text_raw": "业结构优化调整，推动制造业高质量发展，壮大经济发展新动能具",
+      "text_normalized": "业结构优化调整，推动制造业高质量发展，壮大经济发展新动能具",
+      "bbox": [
+        90.0,
+        159.22,
+        496.08,
+        173.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 5,
+      "text_raw": "有重要意义。",
+      "text_normalized": "有重要意义。",
+      "bbox": [
+        90.0,
+        186.58,
+        174.01,
+        200.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 6,
+      "text_raw": "十九大报告中明确指出贯彻新发展理念，建设现代化经济体",
+      "text_normalized": "十九大报告中明确指出贯彻新发展理念，建设现代化经济体",
+      "bbox": [
+        117.96,
+        219.7,
+        505.32,
+        233.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 7,
+      "text_raw": "系，加快建设制造强国、网络强国，加快发展先进制造业。放眼全",
+      "text_normalized": "系，加快建设制造强国、网络强国，加快发展先进制造业。放眼全",
+      "bbox": [
+        90.0,
+        246.94,
+        505.33,
+        261.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 8,
+      "text_raw": "球，新一轮科技和产业革命加速兴起，大数据、云计算、人工智能",
+      "text_normalized": "球，新一轮科技和产业革命加速兴起，大数据、云计算、人工智能",
+      "bbox": [
+        90.0,
+        274.18,
+        505.33,
+        288.27
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 9,
+      "text_raw": "等应用技术不断拓展，信息消费需求加速升级，新型显示产业作为",
+      "text_normalized": "等应用技术不断拓展，信息消费需求加速升级，新型显示产业作为",
+      "bbox": [
+        90.0,
+        301.42,
+        505.33,
+        315.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 10,
+      "text_raw": "信息呈现窗口和重要载体，市场需求不断增长，技术创新日新月",
+      "text_normalized": "信息呈现窗口和重要载体，市场需求不断增长，技术创新日新月",
+      "bbox": [
+        90.0,
+        328.66,
+        505.32,
+        342.75
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 11,
+      "text_raw": "异，产业规模稳中有进，显示将无处不在。2017 年，全球新型显示",
+      "text_normalized": "异，产业规模稳中有进，显示将无处不在。2017 年，全球新型显示",
+      "bbox": [
+        90.0,
+        355.9,
+        505.33,
+        369.99
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 12,
+      "text_raw": "产业市场规模达到1250 亿美元，主动矩阵有机发光二极管",
+      "text_normalized": "产业市场规模达到1250 亿美元，主动矩阵有机发光二极管",
+      "bbox": [
+        90.0,
+        383.14,
+        505.32,
+        397.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 13,
+      "text_raw": "（AMOLED）、超高清、大尺寸显示面板成为电子信息产业发展热",
+      "text_normalized": "（AMOLED）、超高清、大尺寸显示面板成为电子信息产业发展热",
+      "bbox": [
+        90.0,
+        410.38,
+        505.33,
+        424.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 14,
+      "text_raw": "点。面向未来，5G 时代正在开启、无人驾驶已在路上，新业态新技",
+      "text_normalized": "点。面向未来，5G 时代正在开启、无人驾驶已在路上，新业态新技",
+      "bbox": [
+        90.0,
+        437.62,
+        505.32,
+        451.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 15,
+      "text_raw": "术不断涌现，新型显示产业将持续增长，为推动“两个强国”建设",
+      "text_normalized": "术不断涌现，新型显示产业将持续增长，为推动“两个强国”建设",
+      "bbox": [
+        90.0,
+        464.86,
+        505.33,
+        478.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 16,
+      "text_raw": "作出更大贡献。",
+      "text_normalized": "作出更大贡献。",
+      "bbox": [
+        90.0,
+        492.1,
+        188.05,
+        506.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 17,
+      "text_raw": "自上世纪90 年代以来，经过全行业共同努力，中国大陆新型显",
+      "text_normalized": "自上世纪90 年代以来，经过全行业共同努力，中国大陆新型显",
+      "bbox": [
+        117.96,
+        525.34,
+        505.33,
+        539.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 18,
+      "text_raw": "示产业实现跨越式发展，已经成为全球显示面板的重要研发和生产",
+      "text_normalized": "示产业实现跨越式发展，已经成为全球显示面板的重要研发和生产",
+      "bbox": [
+        90.0,
+        552.58,
+        505.33,
+        566.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 19,
+      "text_raw": "基地。2017 年，中国大陆新型显示产业营收达到2758 亿元，其",
+      "text_normalized": "基地。2017 年，中国大陆新型显示产业营收达到2758 亿元，其",
+      "bbox": [
+        90.0,
+        579.82,
+        505.33,
+        593.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 20,
+      "text_raw": "中，AMOLED 面板实现量产,TFT-LCD 面板出货量位居全球第一，全产",
+      "text_normalized": "中，AMOLED 面板实现量产,TFT-LCD 面板出货量位居全球第一，全产",
+      "bbox": [
+        90.0,
+        607.06,
+        505.33,
+        621.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 21,
+      "text_raw": "业链体系基本建立。但仍存在的产业配套能力不足、保障能力薄弱",
+      "text_normalized": "业链体系基本建立。但仍存在的产业配套能力不足、保障能力薄弱",
+      "bbox": [
+        90.0,
+        634.3,
+        505.33,
+        648.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 22,
+      "text_raw": "等问题，成为制约新型显示产业实现超越发展的主要瓶颈。",
+      "text_normalized": "等问题，成为制约新型显示产业实现超越发展的主要瓶颈。",
+      "bbox": [
+        90.0,
+        661.42,
+        454.08,
+        675.51
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 23,
+      "text_raw": "工业和信息化部电子信息司作为行业主管部门，长期以来高度",
+      "text_normalized": "工业和信息化部电子信息司作为行业主管部门，长期以来高度",
+      "bbox": [
+        117.96,
+        694.78,
+        495.96,
+        708.87
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 24,
+      "text_raw": "重视新型显示产业发展，此次，组织中国电子技术标准化研究院广",
+      "text_normalized": "重视新型显示产业发展，此次，组织中国电子技术标准化研究院广",
+      "bbox": [
+        90.0,
+        722.02,
+        495.96,
+        736.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p002_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 2,
+      "reading_order": 25,
+      "text_raw": "泛开展调研，在行业专家的指导下编写了《中国新型显示产业配套",
+      "text_normalized": "泛开展调研，在行业专家的指导下编写了《中国新型显示产业配套",
+      "bbox": [
+        90.0,
+        749.14,
+        496.08,
+        763.23
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "unknown_section"
+  ]
+}

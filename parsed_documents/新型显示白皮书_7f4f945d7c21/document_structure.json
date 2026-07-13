@@ -1,0 +1,710 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "file_name": "新型显示白皮书.pdf",
+  "page_count": 36,
+  "document_title": "unknown",
+  "sections": [
+    {
+      "section_id": "sec_001",
+      "title": "4.安全可靠的供应链是显示产业持续发展的保障...............................................22",
+      "level": 2,
+      "start_page": 7,
+      "end_page": 11,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_002",
+      "title": "1. 效益优势",
+      "level": 1,
+      "start_page": 11,
+      "end_page": 36,
+      "parent_section_id": null,
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_003",
+      "title": "2.风险防控优势",
+      "level": 2,
+      "start_page": 11,
+      "end_page": 11,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_004",
+      "title": "3.创新优势",
+      "level": 2,
+      "start_page": 11,
+      "end_page": 11,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_005",
+      "title": "4.竞争优势",
+      "level": 2,
+      "start_page": 11,
+      "end_page": 13,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_006",
+      "title": "1.全球新型显示面板产业变革加速",
+      "level": 2,
+      "start_page": 13,
+      "end_page": 15,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_007",
+      "title": "2.显示材料产业高度集中",
+      "level": 2,
+      "start_page": 15,
+      "end_page": 16,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_008",
+      "title": "1.产业和专项政策相继出台",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 16,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_009",
+      "title": "2.财关税政策支持产业发展",
+      "level": 2,
+      "start_page": 16,
+      "end_page": 17,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_010",
+      "title": "3.环保政策趋紧细化",
+      "level": 2,
+      "start_page": 17,
+      "end_page": 20,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_011",
+      "title": "1.需求规模及增速",
+      "level": 2,
+      "start_page": 20,
+      "end_page": 21,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_012",
+      "title": "2.面板行业集中度",
+      "level": 2,
+      "start_page": 21,
+      "end_page": 21,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_013",
+      "title": "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。",
+      "level": 2,
+      "start_page": 21,
+      "end_page": 24,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_014",
+      "title": "3.需求区域和分布",
+      "level": 2,
+      "start_page": 24,
+      "end_page": 26,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_015",
+      "title": "2.供给区域集聚",
+      "level": 2,
+      "start_page": 26,
+      "end_page": 29,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_016",
+      "title": "1.材料质量一致性要求高",
+      "level": 2,
+      "start_page": 29,
+      "end_page": 29,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_017",
+      "title": "2.材料规模化产能要求高",
+      "level": 2,
+      "start_page": 29,
+      "end_page": 29,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_018",
+      "title": "3.快速响应的服务能力要求高",
+      "level": 2,
+      "start_page": 29,
+      "end_page": 30,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_019",
+      "title": "4.安全可靠的供应链是显示产业持续发展的保障",
+      "level": 2,
+      "start_page": 30,
+      "end_page": 30,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_020",
+      "title": "5.对材料性能和工艺自主创新掌控不足",
+      "level": 2,
+      "start_page": 30,
+      "end_page": 31,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_021",
+      "title": "1.新型显示材料门类基本覆盖",
+      "level": 2,
+      "start_page": 31,
+      "end_page": 31,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_022",
+      "title": "2.显示材料产业起步晚、积累少",
+      "level": 2,
+      "start_page": 31,
+      "end_page": 31,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_023",
+      "title": "3.产业上下游联动不足",
+      "level": 2,
+      "start_page": 31,
+      "end_page": 32,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_024",
+      "title": "4.技术实力有待提升",
+      "level": 2,
+      "start_page": 32,
+      "end_page": 32,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_025",
+      "title": "5.规模化发展尚显不足",
+      "level": 2,
+      "start_page": 32,
+      "end_page": 32,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_026",
+      "title": "6.产能和产品结构有待优化",
+      "level": 2,
+      "start_page": 32,
+      "end_page": 33,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_027",
+      "title": "1.进一步优化产业政策环境",
+      "level": 2,
+      "start_page": 33,
+      "end_page": 33,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_028",
+      "title": "2.加快产业链和产业生态建设",
+      "level": 2,
+      "start_page": 33,
+      "end_page": 33,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_029",
+      "title": "3.强化创新驱动发展",
+      "level": 2,
+      "start_page": 33,
+      "end_page": 34,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_030",
+      "title": "4.加强高端人才培养",
+      "level": 2,
+      "start_page": 34,
+      "end_page": 34,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_031",
+      "title": "5.创新质量保障机制",
+      "level": 2,
+      "start_page": 34,
+      "end_page": 34,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_032",
+      "title": "6.加强标准和知识产权战略布局",
+      "level": 2,
+      "start_page": 34,
+      "end_page": 35,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_033",
+      "title": "7.注重风险防控",
+      "level": 2,
+      "start_page": 35,
+      "end_page": 35,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_034",
+      "title": "8.深化国际交流合作",
+      "level": 2,
+      "start_page": 35,
+      "end_page": 35,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    },
+    {
+      "section_id": "sec_035",
+      "title": "9.加大金融支持力度",
+      "level": 2,
+      "start_page": 35,
+      "end_page": 36,
+      "parent_section_id": "sec_002",
+      "confidence": 0.85
+    }
+  ],
+  "pages": [
+    {
+      "page_no": 1,
+      "page_type": "cover",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "partial",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 2,
+      "page_type": "copyright",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text"
+    },
+    {
+      "page_no": 3,
+      "page_type": "toc",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 4,
+      "page_type": "toc",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 5,
+      "page_type": "paragraph",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 6,
+      "page_type": "unknown",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "partial",
+      "review_required": true,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 7,
+      "page_type": "chart",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_extractable": "partial",
+      "review_required": true,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 8,
+      "page_type": "chart",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_extractable": "partial",
+      "review_required": true,
+      "recommended_parser": "manual_review"
+    },
+    {
+      "page_no": 9,
+      "page_type": "chain_diagram",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "diagram_visual_review"
+    },
+    {
+      "page_no": 10,
+      "page_type": "chart",
+      "section_path": [
+        "4.安全可靠的供应链是显示产业持续发展的保障...............................................22"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 11,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 12,
+      "page_type": "chart",
+      "section_path": [
+        "1. 效益优势",
+        "4.竞争优势"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 13,
+      "page_type": "mixed",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 14,
+      "page_type": "chain_diagram",
+      "section_path": [
+        "1. 效益优势",
+        "1.全球新型显示面板产业变革加速"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "diagram_visual_review"
+    },
+    {
+      "page_no": 15,
+      "page_type": "table",
+      "section_path": [
+        "1. 效益优势",
+        "2.显示材料产业高度集中"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 16,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "2.财关税政策支持产业发展"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 17,
+      "page_type": "table",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 18,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 19,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.环保政策趋紧细化"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text"
+    },
+    {
+      "page_no": 20,
+      "page_type": "chart",
+      "section_path": [
+        "1. 效益优势",
+        "1.需求规模及增速"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 21,
+      "page_type": "chart",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 22,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 23,
+      "page_type": "mixed",
+      "section_path": [
+        "1. 效益优势",
+        "90.73%。2017 年中国大陆显示面板销售收入占比如图6 所示。"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 24,
+      "page_type": "mixed",
+      "section_path": [
+        "1. 效益优势",
+        "3.需求区域和分布"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 25,
+      "page_type": "mixed",
+      "section_path": [
+        "unknown_section"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "table_parser"
+    },
+    {
+      "page_no": 26,
+      "page_type": "chart",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 27,
+      "page_type": "chart",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 28,
+      "page_type": "chart",
+      "section_path": [
+        "1. 效益优势",
+        "2.供给区域集聚"
+      ],
+      "text_extractable": "yes",
+      "review_required": true,
+      "recommended_parser": "chart_caption_only"
+    },
+    {
+      "page_no": 29,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 30,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 31,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.产业上下游联动不足"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 32,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.产能和产品结构有待优化"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 33,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.强化创新驱动发展"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 34,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "6.加强标准和知识产权战略布局"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 35,
+      "page_type": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_extractable": "yes",
+      "review_required": false,
+      "recommended_parser": "native_text_with_layout"
+    },
+    {
+      "page_no": 36,
+      "page_type": "unknown",
+      "section_path": [
+        "1. 效益优势",
+        "9.加大金融支持力度"
+      ],
+      "text_extractable": "partial",
+      "review_required": true,
+      "recommended_parser": "manual_review"
+    }
+  ]
+}

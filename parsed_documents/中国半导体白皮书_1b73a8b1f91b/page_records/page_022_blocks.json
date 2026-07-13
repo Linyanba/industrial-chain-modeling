@@ -1,0 +1,464 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 22,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text",
+  "review_required": false,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 2,
+      "text_raw": "新冠疫情发生以来，在国家政策加码和国产化提速的双重因素下，半导体融资数量大幅上涨，从2018年的263起到2021年的498起。在这个过程中，B轮及以后的融资比重增加，投资市场随半导体企业的成长一同成熟。",
+      "text_normalized": "新冠疫情发生以来，在国家政策加码和国产化提速的双重因素下，半导体融资数量大幅上涨，从2018年的263起到2021年的498起。在这个过程中，B轮及以后的融资比重增加，投资市场随半导体企业的成长一同成熟。",
+      "bbox": [
+        63.64,
+        131.56,
+        531.64,
+        175.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 3,
+      "text_raw": "在总投资规模中，投向设计的比例约70%，位列所有细分赛道首位。在建立本土半导体产业链的政策影响下，上游材料与设备吸引了新的投资热点，从2019年的13%快速提升至2020年的19%。",
+      "text_normalized": "在总投资规模中，投向设计的比例约70%，位列所有细分赛道首位。在建立本土半导体产业链的政策影响下，上游材料与设备吸引了新的投资热点，从2019年的13%快速提升至2020年的19%。",
+      "bbox": [
+        63.64,
+        185.56,
+        531.64,
+        214.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 4,
+      "text_raw": "在设计环节中，得益于下游广阔的应用增长和国产替代，以及电动车的放量和智能化、网联化趋势，计算芯片（主要包括GPU、ASIC）及汽车半导体成为投资热点。",
+      "text_normalized": "在设计环节中，得益于下游广阔的应用增长和国产替代，以及电动车的放量和智能化、网联化趋势，计算芯片（主要包括GPU、ASIC）及汽车半导体成为投资热点。",
+      "bbox": [
+        63.64,
+        224.56,
+        531.58,
+        253.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.2 投资总结、趋势"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 5,
+      "text_raw": "4.3 中国协处理器玩家融资情况",
+      "text_normalized": "4.3 中国协处理器玩家融资情况",
+      "bbox": [
+        63.64,
+        261.63,
+        253.53,
+        282.11
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 6,
+      "text_raw": "4.3.1 AI推理",
+      "text_normalized": "4.3.1 AI推理",
+      "bbox": [
+        63.64,
+        292.05,
+        122.66,
+        308.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.1 AI推理"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 7,
+      "text_raw": "地平线于2015年成立，迄今已累计完成13轮融资，在政府资助以外，地平线还获得了超过35家投资机构的资金，包括私募股权机构（中信产业投资基金、高瓴资本等）、投资基金（今日资本、中金资本等）、科技公司（京东方）、车企（比亚迪、长城汽车等）。",
+      "text_normalized": "地平线于2015年成立，迄今已累计完成13轮融资，在政府资助以外，地平线还获得了超过35家投资机构的资金，包括私募股权机构（中信产业投资基金、高瓴资本等）、投资基金（今日资本、中金资本等）、科技公司（京东方）、车企（比亚迪、长城汽车等）。",
+      "bbox": [
+        63.64,
+        317.56,
+        531.65,
+        361.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.1 AI推理"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 8,
+      "text_raw": "4.3.2 AI训练",
+      "text_normalized": "4.3.2 AI训练",
+      "bbox": [
+        63.64,
+        373.05,
+        125.2,
+        389.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.2 AI训练"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 9,
+      "text_raw": "燧原科技于2018年成立，先后获得腾讯、上海双创、海松资本等投资方的融资。2021年，公司宣布荣获18亿元的C轮融资，由中信产业基金、中金资本旗下基金、春华资本领投。",
+      "text_normalized": "燧原科技于2018年成立，先后获得腾讯、上海双创、海松资本等投资方的融资。2021年，公司宣布荣获18亿元的C轮融资，由中信产业基金、中金资本旗下基金、春华资本领投。",
+      "bbox": [
+        63.64,
+        398.56,
+        531.64,
+        427.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.2 AI训练"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 10,
+      "text_raw": "4.3.3 图像处理 (GPU)",
+      "text_normalized": "4.3.3 图像处理 (GPU)",
+      "bbox": [
+        63.64,
+        439.05,
+        171.11,
+        455.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.3 图像处理 (GPU)"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 11,
+      "text_raw": "天数智芯于2015年成立。2021年，公司获得由私募基金（大钲资本和沄柏资本）领投的C轮融资约12亿元用于AI推理芯片研发。",
+      "text_normalized": "天数智芯于2015年成立。2021年，公司获得由私募基金（大钲资本和沄柏资本）领投的C轮融资约12亿元用于AI推理芯片研发。",
+      "bbox": [
+        63.64,
+        464.56,
+        531.63,
+        493.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.3 图像处理 (GPU)"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 12,
+      "text_raw": "摩尔线程于2020年成立，去年11月公司完成20亿元A轮融资，由上海国盛资本、五源资本、中银国际旗下渤海中盛基金联合领投，建银国际、前海母基金、招商证券和湖北高质量发展产业基金等九家知名机构联合参投。",
+      "text_normalized": "摩尔线程于2020年成立，去年11月公司完成20亿元A轮融资，由上海国盛资本、五源资本、中银国际旗下渤海中盛基金联合领投，建银国际、前海母基金、招商证券和湖北高质量发展产业基金等九家知名机构联合参投。",
+      "bbox": [
+        63.64,
+        503.56,
+        531.64,
+        547.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.3 中国协处理器玩家融资情况",
+        "4.3.3 图像处理 (GPU)"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 13,
+      "text_raw": "4.4 启示",
+      "text_normalized": "4.4 启示",
+      "bbox": [
+        63.64,
+        555.63,
+        115.96,
+        576.11
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 14,
+      "text_raw": "4.4.1 面向投资者的启示",
+      "text_normalized": "4.4.1 面向投资者的启示",
+      "bbox": [
+        63.64,
+        586.05,
+        176.76,
+        602.14
+      ],
+      "font_size_estimate": 11.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 15,
+      "text_raw": "在相关政策支持、广泛下游应用的培育下，中国半导体公司有望循序渐进、逐步突破整个价值链，因此，中长期来看，投资机会广阔。",
+      "text_normalized": "在相关政策支持、广泛下游应用的培育下，中国半导体公司有望循序渐进、逐步突破整个价值链，因此，中长期来看，投资机会广阔。",
+      "bbox": [
+        63.64,
+        611.56,
+        531.58,
+        640.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 16,
+      "text_raw": "设计环节仍是热门赛道，就中短期而言，尤其是AI/ML ASIC壁垒相对较低，或将涌现出大量玩家，可能实现技术弯道超车。此外，尽管GPU/CPU的开发门槛高于ASIC，但是由于市场应用广阔，GPU/CPU同样有机会在中长期带来高回报。",
+      "text_normalized": "设计环节仍是热门赛道，就中短期而言，尤其是AI/ML ASIC壁垒相对较低，或将涌现出大量玩家，可能实现技术弯道超车。此外，尽管GPU/CPU的开发门槛高于ASIC，但是由于市场应用广阔，GPU/CPU同样有机会在中长期带来高回报。",
+      "bbox": [
+        63.64,
+        650.56,
+        531.46,
+        694.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 17,
+      "text_raw": "国内计算芯片设计玩家的快速发展，也给晶圆制造（Foundry）厂带来了巨大的代工业务机会，并有可能催生相对大而稳定的投资机会。",
+      "text_normalized": "国内计算芯片设计玩家的快速发展，也给晶圆制造（Foundry）厂带来了巨大的代工业务机会，并有可能催生相对大而稳定的投资机会。",
+      "bbox": [
+        63.64,
+        704.56,
+        531.28,
+        733.45
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p022_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 22,
+      "reading_order": 18,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        292.1,
+        798.21,
+        303.17,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "4. 中国半导体近期投资观察",
+        "4.4 启示",
+        "4.4.1 面向投资者的启示"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "4. 中国半导体近期投资观察",
+    "4.4 启示",
+    "4.4.1 面向投资者的启示"
+  ]
+}

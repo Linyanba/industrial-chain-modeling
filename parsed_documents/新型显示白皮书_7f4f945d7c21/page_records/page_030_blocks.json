@@ -1,0 +1,619 @@
+{
+  "doc_id": "新型显示白皮书_7f4f945d7c21",
+  "page_no": 30,
+  "page_type": "paragraph",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "native_text_with_layout",
+  "review_required": false,
+  "page_width": 595.2999877929688,
+  "page_height": 841.9000244140625,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b001",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 1,
+      "text_raw": "线建设主要集中在中国大陆，LTPS-AMOLED 产能增长速度也领先全",
+      "text_normalized": "线建设主要集中在中国大陆，LTPS-AMOLED 产能增长速度也领先全",
+      "bbox": [
+        90.0,
+        74.02,
+        505.33,
+        88.11
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b002",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 2,
+      "text_raw": "球，目前在建的高世代TFT-LCD 产线共4 条，AMOLED 产线共7 条。",
+      "text_normalized": "球，目前在建的高世代TFT-LCD 产线共4 条，AMOLED 产线共7 条。",
+      "bbox": [
+        90.0,
+        101.26,
+        505.33,
+        115.35
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b003",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 3,
+      "text_raw": "但中国大陆显示材料企业的产品更新换代速度明显落后于面板行业",
+      "text_normalized": "但中国大陆显示材料企业的产品更新换代速度明显落后于面板行业",
+      "bbox": [
+        90.0,
+        128.5,
+        505.33,
+        142.59
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b004",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 4,
+      "text_raw": "的升级换代速度。如高世代玻璃基板、负性混合液晶等材料，无法",
+      "text_normalized": "的升级换代速度。如高世代玻璃基板、负性混合液晶等材料，无法",
+      "bbox": [
+        90.0,
+        155.74,
+        505.33,
+        169.83
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b005",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 5,
+      "text_raw": "快速突破技术瓶颈，不能满足面板尺寸发展和新显示模式的需求。",
+      "text_normalized": "快速突破技术瓶颈，不能满足面板尺寸发展和新显示模式的需求。",
+      "bbox": [
+        90.0,
+        182.98,
+        505.33,
+        197.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b006",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 6,
+      "text_raw": "随着未来全面屏手机的普及、4K/8K 电视的增长，AR/VR 和可穿戴设",
+      "text_normalized": "随着未来全面屏手机的普及、4K/8K 电视的增长，AR/VR 和可穿戴设",
+      "bbox": [
+        90.0,
+        210.22,
+        505.33,
+        224.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b007",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 7,
+      "text_raw": "备等新兴显示应用的需求吸引，显示面板的技术升级和产品差异化",
+      "text_normalized": "备等新兴显示应用的需求吸引，显示面板的技术升级和产品差异化",
+      "bbox": [
+        90.0,
+        237.46,
+        505.33,
+        251.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b008",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 8,
+      "text_raw": "还将进一步加强，对显示材料市场响应速度和订制化服务能力的要",
+      "text_normalized": "还将进一步加强，对显示材料市场响应速度和订制化服务能力的要",
+      "bbox": [
+        90.0,
+        264.7,
+        505.33,
+        278.79
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b009",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 9,
+      "text_raw": "求会更高。",
+      "text_normalized": "求会更高。",
+      "bbox": [
+        90.0,
+        291.94,
+        160.09,
+        306.03
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "3.快速响应的服务能力要求高"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b010",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 10,
+      "text_raw": "4.安全可靠的供应链是显示产业持续发展的保障",
+      "text_normalized": "4.安全可靠的供应链是显示产业持续发展的保障",
+      "bbox": [
+        117.96,
+        329.13,
+        409.69,
+        347.8
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b011",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 11,
+      "text_raw": "在电脑和手机用显示屏市场趋于饱和的情况下，全球显示面板",
+      "text_normalized": "在电脑和手机用显示屏市场趋于饱和的情况下，全球显示面板",
+      "bbox": [
+        117.96,
+        368.38,
+        505.33,
+        382.47
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b012",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 12,
+      "text_raw": "进入存量博弈的发展阶段，成本竞争是竞争格局的一项重要内容。",
+      "text_normalized": "进入存量博弈的发展阶段，成本竞争是竞争格局的一项重要内容。",
+      "bbox": [
+        90.0,
+        395.62,
+        505.33,
+        409.71
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b013",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 13,
+      "text_raw": "迫于市场竞争和技术更迭的压力，显示面板企业往往加速产能扩",
+      "text_normalized": "迫于市场竞争和技术更迭的压力，显示面板企业往往加速产能扩",
+      "bbox": [
+        90.0,
+        422.86,
+        505.32,
+        436.95
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b014",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 14,
+      "text_raw": "充，以占领市场。目前中国大陆面板企业的研发投入普遍不足销售",
+      "text_normalized": "充，以占领市场。目前中国大陆面板企业的研发投入普遍不足销售",
+      "bbox": [
+        90.0,
+        450.1,
+        505.33,
+        464.19
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b015",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 15,
+      "text_raw": "额的10%，对显示材料研发等基础研究投入更少，通过垂直整合和",
+      "text_normalized": "额的10%，对显示材料研发等基础研究投入更少，通过垂直整合和",
+      "bbox": [
+        90.0,
+        477.34,
+        505.32,
+        491.43
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b016",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 16,
+      "text_raw": "深度合作加强基础创新，并由基础创新带动产品创新的发展模式应",
+      "text_normalized": "深度合作加强基础创新，并由基础创新带动产品创新的发展模式应",
+      "bbox": [
+        90.0,
+        504.58,
+        505.33,
+        518.67
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b017",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 17,
+      "text_raw": "用不足。材料研发等基础问题的研究，多依赖于国家科技项目的支",
+      "text_normalized": "用不足。材料研发等基础问题的研究，多依赖于国家科技项目的支",
+      "bbox": [
+        90.0,
+        531.82,
+        505.33,
+        545.91
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b018",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 18,
+      "text_raw": "持。根据国家科技发展规划，未来重点企业承担科研项目的比重会",
+      "text_normalized": "持。根据国家科技发展规划，未来重点企业承担科研项目的比重会",
+      "bbox": [
+        90.0,
+        559.06,
+        505.33,
+        573.15
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b019",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 19,
+      "text_raw": "进一步加大，先进面板企业联合材料企业承担科研项目并加快科技",
+      "text_normalized": "进一步加大，先进面板企业联合材料企业承担科研项目并加快科技",
+      "bbox": [
+        90.0,
+        586.3,
+        505.33,
+        600.39
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b020",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 20,
+      "text_raw": "成果转化，建立安全可靠的供应链的主动性将进一步提升。",
+      "text_normalized": "成果转化，建立安全可靠的供应链的主动性将进一步提升。",
+      "bbox": [
+        90.0,
+        613.54,
+        454.08,
+        627.63
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "4.安全可靠的供应链是显示产业持续发展的保障"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b021",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 21,
+      "text_raw": "5.对材料性能和工艺自主创新掌控不足",
+      "text_normalized": "5.对材料性能和工艺自主创新掌控不足",
+      "bbox": [
+        117.96,
+        650.73,
+        353.65,
+        669.4
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b022",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 22,
+      "text_raw": "在显示面板产品差异化发展日益明显的趋势下，面板企业对材",
+      "text_normalized": "在显示面板产品差异化发展日益明显的趋势下，面板企业对材",
+      "bbox": [
+        117.96,
+        689.98,
+        495.96,
+        704.07
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b023",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 23,
+      "text_raw": "料和工艺的理解能力，将决定未来新型显示发展路线的主导性。而",
+      "text_normalized": "料和工艺的理解能力，将决定未来新型显示发展路线的主导性。而",
+      "bbox": [
+        90.0,
+        717.22,
+        496.08,
+        731.31
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b024",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 24,
+      "text_raw": "中国大陆面板企业延用成熟工艺、设备和产线，在供应链管理上注",
+      "text_normalized": "中国大陆面板企业延用成熟工艺、设备和产线，在供应链管理上注",
+      "bbox": [
+        90.0,
+        744.46,
+        496.08,
+        758.55
+      ],
+      "font_size_estimate": 14.05,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    },
+    {
+      "block_id": "新型显示白皮书_7f4f945d7c21_p030_b025",
+      "doc_id": "新型显示白皮书_7f4f945d7c21",
+      "page_no": 30,
+      "reading_order": 25,
+      "text_raw": "22",
+      "text_normalized": "22",
+      "bbox": [
+        292.8,
+        785.5,
+        302.62,
+        796.74
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 效益优势",
+        "5.对材料性能和工艺自主创新掌控不足"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": false
+    }
+  ],
+  "section_path": [
+    "1. 效益优势",
+    "5.对材料性能和工艺自主创新掌控不足"
+  ]
+}

@@ -1,0 +1,1409 @@
+{
+  "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+  "page_no": 7,
+  "page_type": "chart",
+  "text_extractable": "yes",
+  "text_quality": "normal",
+  "needs_ocr": "no",
+  "recommended_parser": "chart_caption_only",
+  "review_required": true,
+  "page_width": 595.2760009765625,
+  "page_height": 841.8900146484375,
+  "stage2_note": "",
+  "blocks": [
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b001",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 1,
+      "text_raw": "中国半导体白皮书",
+      "text_normalized": "中国半导体白皮书",
+      "bbox": [
+        262.21,
+        83.66,
+        333.06,
+        96.16
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "摘要"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b002",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 2,
+      "text_raw": "1. 全球半导体产业链概况",
+      "text_normalized": "1. 全球半导体产业链概况",
+      "bbox": [
+        63.64,
+        128.62,
+        279.02,
+        157.38
+      ],
+      "font_size_estimate": 20.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b003",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 3,
+      "text_raw": "1.1 全球半导体市场的规模、供给与下游需求分布",
+      "text_normalized": "1.1 全球半导体市场的规模、供给与下游需求分布",
+      "bbox": [
+        63.64,
+        175.71,
+        356.99,
+        196.19
+      ],
+      "font_size_estimate": 14.0,
+      "is_bold_estimate": false,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b004",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 4,
+      "text_raw": "Gartner和IDC全球半导体市场预测数据显示，2020年，全球半导体产品营收达到约3万亿人民币，受到数据中心、IoT和NAND存储市场的需求驱动，至2025年，整体市场预计将保持约7%的年复合增长率（图1）。",
+      "text_normalized": "Gartner和IDC全球半导体市场预测数据显示，2020年，全球半导体产品营收达到约3万亿人民币，受到数据中心、IoT和NAND存储市场的需求驱动，至2025年，整体市场预计将保持约7%的年复合增长率（图1）。",
+      "bbox": [
+        63.64,
+        204.64,
+        531.64,
+        248.53
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b005",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 5,
+      "text_raw": "展望未来，2020–2025年，IoT芯片的年复合增长率有望达到13%，数据中心和NAND存储市场紧随其后。",
+      "text_normalized": "展望未来，2020–2025年，IoT芯片的年复合增长率有望达到13%，数据中心和NAND存储市场紧随其后。",
+      "bbox": [
+        63.64,
+        261.66,
+        531.63,
+        290.55
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b006",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 6,
+      "text_raw": "按照企业所在地划分，在上述总量约3万亿元的半导体市场中，美国的芯片销售占据了近一半的市场份额，尤其以逻辑芯片为主，而韩国是存储芯片的主要供给地区（图2）。",
+      "text_normalized": "按照企业所在地划分，在上述总量约3万亿元的半导体市场中，美国的芯片销售占据了近一半的市场份额，尤其以逻辑芯片为主，而韩国是存储芯片的主要供给地区（图2）。",
+      "bbox": [
+        63.64,
+        303.69,
+        531.69,
+        332.58
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b007",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 7,
+      "text_raw": "2020年全年，美国的芯片销售额达到了1.48万亿元，逻辑芯片占比超过60%，此后是韩国（5,600亿元），日本（2,900亿元），欧洲（2,500亿元），中国台湾地区（1,900亿元）和中国大陆（1,500亿元）。",
+      "text_normalized": "2020年全年，美国的芯片销售额达到了1.48万亿元，逻辑芯片占比超过60%，此后是韩国（5,600亿元），日本（2,900亿元），欧洲（2,500亿元），中国台湾地区（1,900亿元）和中国大陆（1,500亿元）。",
+      "bbox": [
+        63.64,
+        345.71,
+        531.65,
+        389.6
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b008",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 8,
+      "text_raw": "图 1: 2020年全球半导体产品营收达到约3万亿人民币；受数据中心、IoT和NAND存储市场的需求驱动，预计将保持~7%的复合年增长率至2025年",
+      "text_normalized": "图 1: 2020年全球半导体产品营收达到约3万亿人民币；受数据中心、IoT和NAND存储市场的需求驱动，预计将保持~7%的复合年增长率至2025年",
+      "bbox": [
+        63.64,
+        431.77,
+        531.46,
+        461.03
+      ],
+      "font_size_estimate": 10.0,
+      "is_bold_estimate": true,
+      "block_role": "caption",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b009",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 9,
+      "text_raw": "⋚䕵Ⓖ⵮⃅’☳喗㚨\u0003(⒵‱⊵)",
+      "text_normalized": "⋚䕵Ⓖ⵮⃅’☳喗㚨\u0003(⒵‱⊵)",
+      "bbox": [
+        63.64,
+        481.0,
+        187.77,
+        495.29
+      ],
+      "font_size_estimate": 9.75,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b010",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 10,
+      "text_raw": "⿦⩿╺⨐曱䓹",
+      "text_normalized": "⿦⩿╺⨐曱䓹",
+      "bbox": [
+        441.11,
+        489.74,
+        487.16,
+        500.58
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b011",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 11,
+      "text_raw": "('19–'20) ('20–'25)",
+      "text_normalized": "('19–'20) ('20–'25)",
+      "bbox": [
+        433.83,
+        499.73,
+        494.44,
+        509.93
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b012",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 12,
+      "text_raw": "7%ₒ㊑⟚",
+      "text_normalized": "7%ₒ㊑⟚",
+      "bbox": [
+        386.87,
+        508.41,
+        485.52,
+        526.65
+      ],
+      "font_size_estimate": 7.15,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b013",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 13,
+      "text_raw": "10%-1%9%",
+      "text_normalized": "10%-1%9%",
+      "bbox": [
+        440.66,
+        508.42,
+        485.52,
+        527.75
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b014",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 14,
+      "text_raw": "45",
+      "text_normalized": "45",
+      "bbox": [
+        63.97,
+        520.09,
+        73.0,
+        531.18
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b015",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 15,
+      "text_raw": "5%9%",
+      "text_normalized": "5%9%",
+      "bbox": [
+        444.81,
+        529.92,
+        485.52,
+        540.13
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b016",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 16,
+      "text_raw": "⊻䚧Ⳃ",
+      "text_normalized": "⊻䚧Ⳃ",
+      "bbox": [
+        386.87,
+        530.1,
+        407.02,
+        539.58
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b017",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 17,
+      "text_raw": "㮓㑑吡䎹",
+      "text_normalized": "㮓㑑吡䎹",
+      "bbox": [
+        499.09,
+        535.33,
+        529.79,
+        546.74
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b018",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 18,
+      "text_raw": "40",
+      "text_normalized": "40",
+      "bbox": [
+        63.97,
+        540.35,
+        73.0,
+        551.44
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b019",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 19,
+      "text_raw": "0%8%",
+      "text_normalized": "0%8%",
+      "bbox": [
+        444.81,
+        542.85,
+        485.52,
+        553.05
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b020",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 20,
+      "text_raw": "⍸䰽⟚⁨",
+      "text_normalized": "⍸䰽⟚⁨",
+      "bbox": [
+        386.87,
+        543.02,
+        413.74,
+        552.5
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b021",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 21,
+      "text_raw": "6%6%",
+      "text_normalized": "6%6%",
+      "bbox": [
+        444.81,
+        555.77,
+        485.52,
+        565.98
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b022",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 22,
+      "text_raw": "㮓㑑",
+      "text_normalized": "㮓㑑",
+      "bbox": [
+        386.87,
+        555.95,
+        400.3,
+        565.43
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b023",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 23,
+      "text_raw": "35",
+      "text_normalized": "35",
+      "bbox": [
+        63.97,
+        560.61,
+        73.0,
+        571.7
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b024",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 24,
+      "text_raw": "9%-2%",
+      "text_normalized": "9%-2%",
+      "bbox": [
+        444.81,
+        568.7,
+        485.52,
+        578.9
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b025",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 25,
+      "text_raw": "⋨⁈Ⳋ√",
+      "text_normalized": "⋨⁈Ⳋ√",
+      "bbox": [
+        386.87,
+        568.88,
+        413.74,
+        578.36
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b026",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 26,
+      "text_raw": "30",
+      "text_normalized": "30",
+      "bbox": [
+        63.97,
+        580.88,
+        73.0,
+        591.97
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b027",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 27,
+      "text_raw": "25%12%",
+      "text_normalized": "25%12%",
+      "bbox": [
+        440.66,
+        581.5,
+        485.52,
+        592.21
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b028",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 28,
+      "text_raw": "NAND",
+      "text_normalized": "NAND",
+      "bbox": [
+        386.87,
+        582.12,
+        406.21,
+        591.44
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b029",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 29,
+      "text_raw": "Ⳋ√吡䎹",
+      "text_normalized": "Ⳋ√吡䎹",
+      "bbox": [
+        499.09,
+        586.46,
+        529.79,
+        597.87
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b030",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 30,
+      "text_raw": "6%",
+      "text_normalized": "6%",
+      "bbox": [
+        444.81,
+        594.55,
+        455.61,
+        604.75
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b031",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 31,
+      "text_raw": "7%",
+      "text_normalized": "7%",
+      "bbox": [
+        474.72,
+        594.55,
+        485.52,
+        604.75
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b032",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 32,
+      "text_raw": "DRAM",
+      "text_normalized": "DRAM",
+      "bbox": [
+        386.87,
+        595.05,
+        406.96,
+        604.37
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b033",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 33,
+      "text_raw": "25",
+      "text_normalized": "25",
+      "bbox": [
+        63.97,
+        601.14,
+        73.0,
+        612.23
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b034",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 34,
+      "text_raw": "26%13%",
+      "text_normalized": "26%13%",
+      "bbox": [
+        440.66,
+        607.48,
+        485.52,
+        617.68
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b035",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 35,
+      "text_raw": "⋨⁈憭愃",
+      "text_normalized": "⋨⁈憭愃",
+      "bbox": [
+        386.87,
+        607.65,
+        413.74,
+        617.13
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b036",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 36,
+      "text_raw": "6%12%",
+      "text_normalized": "6%12%",
+      "bbox": [
+        440.66,
+        619.86,
+        485.52,
+        630.06
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b037",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 37,
+      "text_raw": "㻺庫䚧Ⳃ",
+      "text_normalized": "㻺庫䚧Ⳃ",
+      "bbox": [
+        386.87,
+        620.58,
+        413.74,
+        630.06
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b038",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 38,
+      "text_raw": "20",
+      "text_normalized": "20",
+      "bbox": [
+        63.97,
+        621.41,
+        73.0,
+        632.5
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b039",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 39,
+      "text_raw": "5%21%",
+      "text_normalized": "5%21%",
+      "bbox": [
+        440.66,
+        632.78,
+        485.52,
+        642.98
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b040",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 40,
+      "text_raw": "㟬副㎽㢬",
+      "text_normalized": "㟬副㎽㢬",
+      "bbox": [
+        386.87,
+        633.5,
+        413.74,
+        642.98
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b041",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 41,
+      "text_raw": "15",
+      "text_normalized": "15",
+      "bbox": [
+        63.97,
+        641.67,
+        73.0,
+        652.76
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b042",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 42,
+      "text_raw": "5%32%",
+      "text_normalized": "5%32%",
+      "bbox": [
+        440.66,
+        646.25,
+        485.52,
+        656.45
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b043",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 43,
+      "text_raw": "⿥㣱䚧劃",
+      "text_normalized": "⿥㣱䚧劃",
+      "bbox": [
+        386.87,
+        646.43,
+        413.74,
+        655.91
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b044",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 44,
+      "text_raw": "憭愃吡䎹",
+      "text_normalized": "憭愃吡䎹",
+      "bbox": [
+        499.09,
+        652.23,
+        529.79,
+        663.64
+      ],
+      "font_size_estimate": 7.8,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b045",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 45,
+      "text_raw": "ᾜ‬䚧劃–崓䴉",
+      "text_normalized": "ᾜ‬䚧劃–崓䴉",
+      "bbox": [
+        386.87,
+        659.33,
+        430.96,
+        669.08
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b046",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 46,
+      "text_raw": "1%14%",
+      "text_normalized": "1%14%",
+      "bbox": [
+        440.66,
+        659.26,
+        485.52,
+        669.46
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b047",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 47,
+      "text_raw": "10",
+      "text_normalized": "10",
+      "bbox": [
+        63.97,
+        661.93,
+        73.0,
+        673.02
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b048",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 48,
+      "text_raw": "13%-3%",
+      "text_normalized": "13%-3%",
+      "bbox": [
+        442.32,
+        671.98,
+        485.52,
+        682.68
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b049",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 49,
+      "text_raw": ",R7",
+      "text_normalized": ",R7",
+      "bbox": [
+        386.87,
+        672.28,
+        396.16,
+        681.76
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b050",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 50,
+      "text_raw": "5",
+      "text_normalized": "5",
+      "bbox": [
+        68.48,
+        682.2,
+        72.99,
+        693.29
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b051",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 51,
+      "text_raw": "7%8%",
+      "text_normalized": "7%8%",
+      "bbox": [
+        444.81,
+        684.48,
+        485.52,
+        694.68
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b052",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 52,
+      "text_raw": "僃偎",
+      "text_normalized": "僃偎",
+      "bbox": [
+        386.87,
+        685.21,
+        400.3,
+        694.69
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b053",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 53,
+      "text_raw": "12%15%",
+      "text_normalized": "12%15%",
+      "bbox": [
+        440.66,
+        697.72,
+        485.52,
+        708.42
+      ],
+      "font_size_estimate": 7.47,
+      "is_bold_estimate": true,
+      "block_role": "heading",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b054",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 54,
+      "text_raw": "㛢㓠ᾟㄵ–崓䴉",
+      "text_normalized": "㛢㓠ᾟㄵ–崓䴉",
+      "bbox": [
+        386.87,
+        698.11,
+        430.96,
+        707.86
+      ],
+      "font_size_estimate": 6.82,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b055",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 55,
+      "text_raw": "2009201120132015201720192021F2023F0",
+      "text_normalized": "2009201120132015201720192021F2023F0",
+      "bbox": [
+        68.48,
+        702.46,
+        348.71,
+        722.82
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b056",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 56,
+      "text_raw": "2025F",
+      "text_normalized": "2025F",
+      "bbox": [
+        361.93,
+        711.73,
+        384.97,
+        722.82
+      ],
+      "font_size_estimate": 8.12,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b057",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 57,
+      "text_raw": "㹚Ѫ⓸╤㛢㓠㣗卜GartnerѸ柖㛢㓠ᾟㄵ崓䴉吡䎹槶㺽㣗卜IDC⪈Ѭ⋨⃋槶㺽⢹㣗卜GartnerѸ㛢㓠ᾟㄵ崓䴉吡䎹2025F㛢㓠挹䚚2020-2024F⩿╺⿦⨐曱䓹崓䴉兾ㄉ庶㜋㣗䀂Ѫ Gartner Semiconductor Forecast Database, WorldwideѬ㡦㜢卥2021⿦ὲⳕ〘ѸIDC⋚䕵Ⓖ⵮⃅〆䚚槶㺽⟚Ѭ㡦㜢卥2020⿦7㡺",
+      "text_normalized": "㹚Ѫ⓸╤㛢㓠㣗卜GartnerѸ柖㛢㓠ᾟㄵ崓䴉吡䎹槶㺽㣗卜IDC⪈Ѭ⋨⃋槶㺽⢹㣗卜GartnerѸ㛢㓠ᾟㄵ崓䴉吡䎹2025F㛢㓠挹䚚2020-2024F⩿╺⿦⨐曱䓹崓䴉兾ㄉ庶㜋㣗䀂Ѫ Gartner Semiconductor Forecast Database, WorldwideѬ㡦㜢卥2021⿦ὲⳕ〘ѸIDC⋚䕵Ⓖ⵮⃅〆䚚槶㺽⟚Ѭ㡦㜢卥2020⿦7㡺",
+      "bbox": [
+        63.64,
+        729.18,
+        517.78,
+        746.27
+      ],
+      "font_size_estimate": 6.5,
+      "is_bold_estimate": false,
+      "block_role": "paragraph",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "garbled",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    },
+    {
+      "block_id": "中国半导体白皮书_1b73a8b1f91b_p007_b058",
+      "doc_id": "中国半导体白皮书_1b73a8b1f91b",
+      "page_no": 7,
+      "reading_order": 58,
+      "text_raw": "5",
+      "text_normalized": "5",
+      "bbox": [
+        295.0,
+        798.21,
+        300.28,
+        810.24
+      ],
+      "font_size_estimate": 9.0,
+      "is_bold_estimate": false,
+      "block_role": "footer",
+      "section_path": [
+        "1. 全球半导体产业链概况",
+        "1.1 全球半导体市场的规模、供给与下游需求分布"
+      ],
+      "text_quality": "normal",
+      "source_parser": "pymupdf_native",
+      "review_required": true
+    }
+  ],
+  "section_path": [
+    "1. 全球半导体产业链概况",
+    "1.1 全球半导体市场的规模、供给与下游需求分布"
+  ]
+}

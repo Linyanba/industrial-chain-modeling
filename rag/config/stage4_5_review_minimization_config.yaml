@@ -1,0 +1,88 @@
+# 阶段 4.5 保守自动审核与人工审核最小化配置
+# 通用版本：不包含任何固定行业骨架，只继承当前 PDF 证据支持的实体和关系。
+
+project_root: "D:\\产业链建模"
+
+stage4:
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage4_run.txt"
+  required_files:
+    - "canonical_entities.csv"
+    - "entity_aliases.csv"
+    - "normalized_relations.csv"
+    - "relation_evidence_map.csv"
+    - "manual_review_sheet.csv"
+    - "conflict_report.csv"
+    - "stage4_review_queue.csv"
+    - "stage4_rejected_recheck.csv"
+    - "industry_chain_draft.md"
+    - "stage4_normalization_report.md"
+    - "validation_summary.json"
+
+entity_auto_rules:
+  defer_entities:
+    - "上游"
+    - "中游"
+    - "下游"
+    - "产业链"
+    - "价值链"
+    - "供应链"
+    - "生态"
+    - "环节"
+    - "模块"
+    - "领域"
+  keep_entities: []
+  exclude_entity_types:
+    - "company"
+    - "organization"
+    - "region"
+    - "policy"
+    - "standard"
+
+alias_merge_suggestions: []
+relation_fix_rules: []
+
+relation_auto_rules:
+  defer_objects:
+    - "上游"
+    - "中游"
+    - "下游"
+    - "产业链"
+    - "价值链"
+    - "供应链"
+    - "生态"
+  keep_conditions:
+    - "subject and object both come from current document evidence"
+    - "relationship has at least one verified evidence_id"
+    - "no forecast/trend/policy_goal keywords"
+    - "no quote_not_found or subject_or_object_not_found"
+
+human_review_minimization:
+  max_human_items: 7
+  core_questions: []
+
+priority_rules:
+  P3: "auto_archive_rejected"
+  P2: "auto_defer"
+  P1_forecast: "auto_reject_as_fact"
+  P1_structural: "manual_required"
+  P0_resolvable: "auto_keep"
+  P0_structural: "manual_required"
+
+output:
+  base_dir: "D:\\产业链建模\\rag\\outputs"
+  run_prefix: "stage4_5_review_minimization_"
+  latest_pointer: "D:\\产业链建模\\rag\\latest_stage4_5_run.txt"
+  csv_encoding: "utf-8-sig"
+
+boundary:
+  stage: "4.5"
+  scope: "通用保守自动审核、人工审核最小化、保守实体/关系表、保守草案"
+  forbidden:
+    - "调用外部云端 API"
+    - "联网搜索"
+    - "重新抽取新实体或新关系"
+    - "基于常识新增无证据关系"
+    - "生成正式图谱"
+    - "写入 Neo4j"
+    - "修改原始 PDF"
+    - "注入固定行业默认骨架"
