@@ -121,10 +121,6 @@ output:
   latest_pointer: "D:\\产业链建模\\rag\\latest_stage3c_run.txt"
   csv_encoding: "utf-8-sig"
 
-# 阶段 3B 输入（用于把 q05/q09/q10 特殊项纳入复核队列）
-stage3b:
-  latest_pointer: "D:\\产业链建模\\rag\\latest_stage3b_run.txt"
-
 boundary:
   stage: "3C"
   scope: "仅基于 Qdrant 检索证据的候选实体/关系抽取（不生成图谱、不写 Neo4j、不做最终归并）"
@@ -137,4 +133,4 @@ boundary:
     - "把预测/规划/趋势/建议当作现实产业链事实"
     - "生成正式产业链图谱 / 写入 Neo4j / 实体最终归并"
     - "修改原始 PDF"
-    - "覆盖阶段 1 / 2 / 3A / 3B 输出"
+    - "覆盖阶段 1 / 2 / 3A 输出"

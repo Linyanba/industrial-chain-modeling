@@ -445,11 +445,6 @@ def write_csv(path: Path, rows: List[dict], fields: List[str], encoding="utf-8-s
         for r in rows:
             w.writerow({k: r.get(k,"") for k in fields})
 
-def write_jsonl(path: Path, rows: List[dict]):
-    with open(path, "w", encoding="utf-8") as f:
-        for r in rows:
-            f.write(json.dumps(r, ensure_ascii=False) + "\n")
-
 # ────────────────────── 草案生成 ──────────────────────
 def write_industry_chain_draft(out_dir: Path, canonicals, normalized_rels, conflicts, review_items):
     L = []

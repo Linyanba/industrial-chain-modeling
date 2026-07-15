@@ -14,10 +14,6 @@ REQUIRED_SCHEMA_FIELDS = [
     "first_level_nodes", "node_alias_rules", "entity_classification_rules",
     "tree_build_rules", "display_style", "required_outputs",
 ]
-SEMICONDUCTOR_DEFAULT_NODES = {"EDA", "IP", "晶圆制造", "封装测试", "光刻机", "ASML",
-                               "芯片设计", "晶圆缺陷监测系统", "半导体设备", "先进封装技术",
-                               "KLA-Tencor", "日月光集团", "安靠科技"}
-
 def list_available_templates() -> list[str]:
     return [f.stem for f in TEMPLATES_DIR.glob("*.yaml")]
 
@@ -42,73 +38,7 @@ def validate_template_schema(template: dict) -> tuple[bool, list[str]]:
         bad = forbidden & defaults
         if bad:
             errors.append(f"document_driven不应默认包含上中下游一级节点: {bad}")
-        if template.get("fallback_template") != "generic":
-            errors.append("document_driven.fallback_template 应为 generic")
-    if template.get("template_id") == "generic":
-        if not template.get("fallback_only", False):
-            errors.append("generic模板应标记 fallback_only: true")
-        all_labels = _collect_all_labels(template)
-        for node in SEMICONDUCTOR_DEFAULT_NODES:
-            if node in all_labels:
-                errors.append(f"generic模板不应包含半导体默认节点: {node}")
     return len(errors) == 0, errors
-
-def _collect_all_labels(template: dict) -> set:
-    labels = set()
-    def walk(nodes):
-        for n in nodes:
-            labels.add(n.get("label", ""))
-            walk(n.get("children", []))
-    walk(template.get("first_level_nodes", []))
-    return labels
-
-def classify_entities_to_tree(entities: list[dict], template: dict) -> tuple[dict, list[dict]]:
-    """
-    Classify approved entities into template tree structure.
-    Returns: (classified dict {target_path: [entities]}, unclassified list)
-    """
-    rules = template.get("entity_classification_rules", [])
-    aliases = template.get("node_alias_rules", {})
-    classified = {}
-    unclassified = []
-
-    for ent in entities:
-        etype = ent.get("entity_type", "")
-        vcs = ent.get("value_chain_stage", "")
-        name = ent.get("canonical_name", "")
-        # Apply alias
-        if name in aliases:
-            ent["display_name"] = aliases[name]
-
-        placed = False
-        for rule in rules:
-            if rule["entity_type"] != etype:
-                continue
-            cond = rule.get("condition", "")
-            if cond:
-                if "value_chain_stage" in cond:
-                    expected_vcs = cond.split("==")[1].strip().strip("'\"")
-                    if vcs != expected_vcs:
-                        continue
-            target = tuple(rule["target_path"])
-            if "_skip" in target:
-                placed = True
-                break
-            classified.setdefault(target, []).append(ent)
-            placed = True
-            break
-
-        if not placed:
-            unclassified.append({
-                "entity_id": ent.get("entity_id", ""),
-                "canonical_name": name,
-                "entity_type": etype,
-                "entity_level": ent.get("entity_level", ""),
-                "value_chain_stage": vcs,
-                "reason": "无匹配分类规则",
-                "recommended_template_node": "待分类",
-            })
-    return classified, unclassified
 
 def build_hierarchy_tree(template: dict, root_label: str) -> tuple[list[dict], list[dict]]:
     """Build tree nodes and edges from template structure."""

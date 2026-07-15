@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
 document_driven 模板测试：
-- 三个模板均可加载并通过基础schema校验
+- 两个有效模板均可加载并通过基础schema校验
 - document_driven 默认不输出“上游/中游/下游”
-- document_driven/generic 不输出“代表企业”
-- generic 仅作为fallback
+- document_driven 不输出“代表企业”
 - semiconductor 固定模板不受影响
 - 若已有approved数据，则动态树可生成debug与质量报告
 """
@@ -27,7 +26,7 @@ def test_load_and_validate_templates():
     from industry_template_manager import load_template, validate_template_schema
 
     templates = {}
-    for tid in ["document_driven", "generic", "semiconductor"]:
+    for tid in ["document_driven", "semiconductor"]:
         tpl = load_template(tid)
         ok, errors = validate_template_schema(tpl)
         assert_true(ok, f"{tid} schema校验失败: {errors}")
@@ -51,13 +50,6 @@ def test_no_representative_company_branch(tpl):
     assert_true("代表企业" not in labels, "模板不应包含代表企业分支")
     assert_true("company" in set(tpl.get("excluded_tree_entity_types", [])), "模板应配置排除company实体进入树")
     print("  ✓ 模板已排除代表企业/company树节点")
-
-
-def test_generic_fallback_only(tpl):
-    assert_true(tpl.get("fallback_only") is True, "generic.yaml 未标记 fallback_only: true")
-    labels = {n.get("label", "") for n in tpl.get("first_level_nodes", [])}
-    assert_true("代表企业" not in labels, "generic不应包含代表企业分支")
-    print("  ✓ generic 已标记为 fallback_only")
 
 
 def test_semiconductor_unchanged(tpl):
@@ -123,7 +115,6 @@ def main():
     checks = [
         ("document_driven_no_up_mid_down", lambda: test_document_driven_no_up_mid_down(templates["document_driven"])),
         ("document_driven_no_representative_company", lambda: test_no_representative_company_branch(templates["document_driven"])),
-        ("generic_fallback_only", lambda: test_generic_fallback_only(templates["generic"])),
         ("semiconductor_unchanged", lambda: test_semiconductor_unchanged(templates["semiconductor"])),
         ("auto_detect", test_auto_detect_defaults_to_document_driven),
         ("document_driven_dynamic_build", lambda: test_document_driven_dynamic_build(project_root, templates["document_driven"])),

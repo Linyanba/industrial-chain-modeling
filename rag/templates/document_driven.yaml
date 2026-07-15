@@ -10,7 +10,6 @@ max_depth: 4
 min_evidence_support: 1
 allow_display_schema_node: true
 allow_fallback_display_schema: false
-fallback_template: "generic"
 forbidden_default_first_level_nodes: ["上游", "中游", "下游", "上下游", "上中下游", "产业链上下游"]
 excluded_tree_entity_types: ["company"]
 output_style: "xmind_blue"

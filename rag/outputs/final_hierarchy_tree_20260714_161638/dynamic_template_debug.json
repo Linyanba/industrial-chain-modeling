@@ -1,0 +1,78 @@
+{
+  "candidate_first_level_nodes": [
+    {
+      "label": "新型显示器件",
+      "score": 51.7,
+      "title_hits": 0,
+      "entity_count": 18,
+      "relation_count": 5,
+      "evidence_count": 10,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "新型显示材料",
+      "score": 38.7,
+      "title_hits": 0,
+      "entity_count": 12,
+      "relation_count": 3,
+      "evidence_count": 9,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "有机发光二极管显示面板",
+      "score": 31.7,
+      "title_hits": 0,
+      "entity_count": 10,
+      "relation_count": 3,
+      "evidence_count": 5,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    },
+    {
+      "label": "新型显示技术",
+      "score": 26.5,
+      "title_hits": 0,
+      "entity_count": 5,
+      "relation_count": 8,
+      "evidence_count": 1,
+      "selected": true,
+      "selected_reason": "实体/关系/标题证据综合得分靠前",
+      "rejected_reason": "",
+      "fallback_display_schema": false
+    }
+  ],
+  "rejected_first_level_nodes": [],
+  "llm_suggestion_hash": "",
+  "llm_suggestion_used_directly": false,
+  "llm_suggestion_available": false,
+  "relation_first_tree_used": true,
+  "llm_raw_suggestion": "",
+  "program_validation": {
+    "passed": true,
+    "issues": [],
+    "first_level_labels": [
+      "先进电子材料",
+      "新型显示器件",
+      "新型显示技术",
+      "液晶面板",
+      "新型显示核心环节",
+      "新型显示产品与应用",
+      "新型显示设备"
+    ],
+    "node_count": 37,
+    "edge_count": 36,
+    "max_depth": 3,
+    "min_allowed_depth": 2,
+    "max_allowed_depth": 4
+  },
+  "source_stage_dir": "D:\\产业链建模\\rag\\outputs\\stage4_6_llm_auto_apply_20260713_181039",
+  "source_parsed_dir": "D:\\产业链建模\\parsed_documents\\中国半导体白皮书_1b73a8b1f91b_20260713_171812"
+}

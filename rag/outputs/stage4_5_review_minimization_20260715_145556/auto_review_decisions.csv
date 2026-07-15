@@ -1,0 +1,90 @@
+﻿review_id,source_file,original_priority,review_type,subject,relation_type,object,entity_or_relation_id,issue_summary,auto_decision,enter_conservative_draft,manual_required,decision_reason,recommended_human_decision
+RV0001,manual_review_sheet.csv,P3,entity_review,封装,,,CE0003,"同名类型无法唯一判定: ['industry_link', 'process']",auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0002,manual_review_sheet.csv,P3,entity_review,测试,,,CE0004,"同名类型无法唯一判定: ['industry_link', 'process']",auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0003,manual_review_sheet.csv,P3,entity_review,封测,,,CE0024,"同名类型无法唯一判定: ['industry_link', 'process']",auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0004,manual_review_sheet.csv,P3,entity_review,半导体生态,,,CE0046,仅出现在关系端点，无独立实体候选,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0005,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t01_r01,关系候选待复核: 设计->INPUT_TO->代工,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设计->INPUT_TO->代工
+RV0006,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t01_r02,关系候选待复核: 设计->INPUT_TO->封装,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设计->INPUT_TO->封装
+RV0007,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t01_r03,关系候选待复核: 设计->INPUT_TO->测试,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设计->INPUT_TO->测试
+RV0008,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e10,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0009,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e11,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0010,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e12,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0011,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e13,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0012,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e14,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0013,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e15,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0014,manual_review_sheet.csv,P3,stage3c_carryover,,evidence_id_not_in_context,,t01_e16,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0015,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r04,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0016,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r05,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0017,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r06,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0018,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r07,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0019,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r08,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0020,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r09,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0021,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r10,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0022,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r11,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0023,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r12,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0024,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r13,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0025,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t01_r14,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0026,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t02_e02,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0027,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t02_e03,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0028,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r01,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0029,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r02,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0030,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r03,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0031,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r04,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0032,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r05,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0033,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r06,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0034,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r07,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0035,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r08,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0036,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r09,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0037,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r10,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0038,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t03_r11,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0039,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t03_r12,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0040,manual_review_sheet.csv,P1,stage3c_carryover,,non_atomic_relation_endpoint,,t04_r01,关系候选待复核: 半导体设计制造->INPUT_TO->设备、原材料和EDA软件,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 半导体设计制造->INPUT_TO->设备、原材料和EDA软件
+RV0041,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t04_e15,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0042,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t04_e16,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0043,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r02,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0044,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r03,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0045,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r04,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0046,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r05,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0047,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r06,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0048,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r07,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0049,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r08,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0050,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r09,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0051,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r10,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0052,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r11,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0053,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t04_r12,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0054,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t04_r13,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0055,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t04_r14,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0056,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t05_r03,关系候选待复核: 封装->OUTPUT_OF->芯片,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 封装->OUTPUT_OF->芯片
+RV0057,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t05_r04,关系候选待复核: 测试->OUTPUT_OF->芯片,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 测试->OUTPUT_OF->芯片
+RV0058,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t05_r05,关系候选待复核: 封测->OUTPUT_OF->芯片,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 封测->OUTPUT_OF->芯片
+RV0059,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t05_r01,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0060,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t05_r02,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0061,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t05_r06,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0062,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t05_r07,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0063,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t05_r08,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0064,manual_review_sheet.csv,P1,stage3c_carryover,,non_atomic_relation_endpoint,,t07_r01,关系候选待复核: 设备、原材料、EDA软件->USED_IN->集成电路（IC）,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设备、原材料、EDA软件->USED_IN->集成电路（IC）
+RV0065,manual_review_sheet.csv,P1,stage3c_carryover,,non_atomic_relation_endpoint,,t07_r02,关系候选待复核: 设备、原材料、EDA软件->USED_IN->光电子器件,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设备、原材料、EDA软件->USED_IN->光电子器件
+RV0066,manual_review_sheet.csv,P1,stage3c_carryover,,non_atomic_relation_endpoint,,t07_r03,关系候选待复核: 设备、原材料、EDA软件->USED_IN->分立器件,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设备、原材料、EDA软件->USED_IN->分立器件
+RV0067,manual_review_sheet.csv,P1,stage3c_carryover,,non_atomic_relation_endpoint,,t07_r04,关系候选待复核: 设备、原材料、EDA软件->USED_IN->传感器,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设备、原材料、EDA软件->USED_IN->传感器
+RV0068,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t07_r05,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0069,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t07_r06,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0070,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t07_r07,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0071,manual_review_sheet.csv,P3,stage3c_carryover,,relation_type_invalid,,t07_r08,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0072,manual_review_sheet.csv,P1,stage3c_carryover,,relation_cue_missing,,t09_r01,关系候选待复核: 设备->INPUT_TO->半导体设计制造,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 设备->INPUT_TO->半导体设计制造
+RV0073,manual_review_sheet.csv,P1,stage3c_carryover,,relation_cue_missing,,t09_r02,关系候选待复核: 原材料->INPUT_TO->半导体设计制造,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 原材料->INPUT_TO->半导体设计制造
+RV0074,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t09_r03,关系候选待复核: EDA软件->INPUT_TO->半导体设计制造,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: EDA软件->INPUT_TO->半导体设计制造
+RV0075,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t09_r04,关系候选待复核: 硅片->INPUT_TO->前端材料,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 硅片->INPUT_TO->前端材料
+RV0076,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t09_r05,关系候选待复核: 金属->INPUT_TO->前端材料,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 金属->INPUT_TO->前端材料
+RV0077,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t09_r06,关系候选待复核: 化学品->INPUT_TO->前端材料,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 化学品->INPUT_TO->前端材料
+RV0078,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t09_r07,关系候选待复核: 气体->INPUT_TO->前端材料,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 气体->INPUT_TO->前端材料
+RV0079,manual_review_sheet.csv,P1,stage3c_carryover,,relation_endpoint_type_mismatch,,t09_r12,关系候选待复核: 计算芯片->OUTPUT_OF->投资热点,manual_required,false,true,P1 具体产业内容或结构关系，交由人工/本地LLM审核,关系候选待复核: 计算芯片->OUTPUT_OF->投资热点
+RV0080,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t09_e13,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0081,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t09_e14,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0082,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t09_e15,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0083,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t09_r08,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0084,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t09_r09,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0085,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t09_r10,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0086,manual_review_sheet.csv,P3,stage3c_carryover,,subject_or_object_not_found,,t09_r11,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0087,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t09_r13,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,
+RV0088,manual_review_sheet.csv,P3,stage3c_carryover,,entity_type_invalid,,t09_r14,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 默认归档，保守策略不进入保守草案,
+RV0089,manual_review_sheet.csv,P3,stage3c_carryover,,quote_not_found,,t09_r15,候选被拒绝，需人工确认,auto_archive_rejected,false,false,P3 + quote/subject异常，保守策略默认归档,

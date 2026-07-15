@@ -204,39 +204,6 @@ def child_map(nodes: list[dict[str, Any]]) -> dict[str, list[str]]:
     return out
 
 
-def next_node_id(nodes: list[dict[str, Any]]) -> str:
-    nums = []
-    for n in nodes:
-        m = re.match(r"T(\d+)", n.get("tree_node_id", ""))
-        if m:
-            nums.append(int(m.group(1)))
-    return f"T{(max(nums) if nums else 0) + 1:04d}"
-
-
-def add_display_node(nodes: list[dict[str, Any]], label: str, parent_id: str, depth: int, category: str,
-                     evidence_ids: list[str] | None, reason: str) -> str:
-    tid = next_node_id(nodes)
-    siblings = [n for n in nodes if n.get("parent_id") == parent_id]
-    nodes.append({
-        "tree_node_id": tid,
-        "label": label,
-        "display_label": label,
-        "parent_id": parent_id,
-        "level": depth,
-        "depth": depth,
-        "sort_order": len(siblings) + 1,
-        "category": category,
-        "node_type": "display_node",
-        "source_from": "hierarchy_refinement_rules",
-        "source_entity_ids": "",
-        "evidence_ids": ";".join(evidence_ids or []),
-        "is_display_node": "true",
-        "is_schema_node": "true",
-        "notes": reason,
-    })
-    return tid
-
-
 def remove_subtree(nodes: list[dict[str, Any]], root_id: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     cmap = child_map(nodes)
     to_remove = set()
@@ -366,34 +333,6 @@ def apply_composite_parent_fixes(nodes: list[dict[str, Any]], fixes: list[dict[s
                         split_ids(parent_candidate.get("evidence_ids", "")) + split_ids(child_candidate.get("evidence_ids", "")),
                         "0.95",
                     )
-
-
-def group_children(nodes: list[dict[str, Any]], parent_label: str, group_label: str, child_labels: set[str],
-                   category: str, fixes: list[dict[str, Any]], evidence_ids: list[str] | None = None) -> None:
-    nodes_by_id, by_label = tree_maps(nodes)
-    if parent_label not in by_label:
-        return
-    parent_id = by_label[parent_label]
-    present = [lbl for lbl in child_labels if lbl in by_label and nodes_by_id[by_label[lbl]].get("parent_id") == parent_id]
-    if len(present) < 2:
-        return
-    if group_label in by_label:
-        group_id = by_label[group_label]
-    else:
-        group_id = add_display_node(
-            nodes, group_label, parent_id, int(nodes_by_id[parent_id].get("depth", 0)) + 1,
-            category, evidence_ids, "hierarchy_refinement分组节点，用于减少平铺并增加层级",
-        )
-        nodes_by_id, by_label = tree_maps(nodes)
-    for label in present:
-        move_node(nodes_by_id, by_label[label], group_id, fixes, "branch_grouping",
-                  f"'{label}'归入'{group_label}'以形成多级结构", evidence_ids, "0.88")
-
-
-def apply_rule_expansions(nodes: list[dict[str, Any]], fixes: list[dict[str, Any]]) -> None:
-    # 通用 document_driven 流程不得写死任何行业分组；层级扩展必须来自
-    # approved_relations 或当前文档配置。保留函数入口以兼容既有调用。
-    return None
 
 
 def recompute_depths_and_edges(nodes: list[dict[str, Any]],
@@ -655,7 +594,6 @@ def refine_hierarchy_tree(project_root: Path, input_dir: Path, output_dir: Path 
     nodes = apply_company_removal(nodes, entities_by_id, removed)
     apply_relation_parent_child(nodes, inputs["relations"], evidence_by_relation, fixes)
     apply_composite_parent_fixes(nodes, fixes)
-    apply_rule_expansions(nodes, fixes)
     refined_nodes, refined_edges = recompute_depths_and_edges(nodes, edges)
 
     summary = {

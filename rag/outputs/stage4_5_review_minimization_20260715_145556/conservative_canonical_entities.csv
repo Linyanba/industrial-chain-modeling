@@ -1,0 +1,41 @@
+﻿canonical_entity_id,canonical_name,entity_type,entity_level,value_chain_stage,source_entity_candidate_ids,aliases,evidence_count,relation_degree,confidence_level,review_status,review_reason,enter_conservative_draft
+CE0001,设计,process,L4_object,midstream,t01_e01;t04_e02;t05_e01;t08_e06,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['industry_link', 'process'] -> process",true
+CE0002,代工,process,L4_object,midstream,t01_e02;t04_e03;t05_e02;t08_e07,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['industry_link', 'process'] -> process",true
+CE0005,EDA,technology,L4_object,supporting,t01_e05,,1,0,medium,auto_candidate,,true
+CE0006,计算芯片,unknown,unknown,unknown,t01_e06;t07_e06;t08_e10;t09_e12,,1,2,medium,auto_candidate,"同名类型已按证据规则合并: ['product', 'unknown'] -> unknown",true
+CE0007,汽车半导体,product,L4_object,unknown,t01_e07;t07_e07,,1,0,medium,auto_candidate,,true
+CE0008,先进封装技术,technology,L4_object,supporting,t01_e08,,1,0,medium,auto_candidate,,true
+CE0009,2.5D/3D先进封装,technology,L4_object,supporting,t01_e09,,1,0,medium,auto_candidate,,true
+CE0010,半导体价值链,industry_link,L3_industry_link,unknown,t02_e01,,1,0,medium,auto_candidate,,true
+CE0011,设备,equipment,L4_object,upstream,t03_e01;t09_e01,,1,0,medium,auto_candidate,,true
+CE0012,原材料,material,L4_object,upstream,t03_e02;t09_e02,,1,0,medium,auto_candidate,,true
+CE0013,EDA软件,technology,L4_object,supporting,t03_e03;t09_e03,,1,0,medium,auto_candidate,,true
+CE0014,硅片,material,L4_object,upstream,t03_e04;t04_e06;t09_e04,,1,0,medium,auto_candidate,,true
+CE0015,金属,material,L4_object,upstream,t03_e05;t04_e07;t09_e05,,1,0,medium,auto_candidate,,true
+CE0016,化学品,material,L4_object,upstream,t03_e06;t04_e08;t09_e06,,1,0,medium,auto_candidate,,true
+CE0017,气体,material,L4_object,upstream,t03_e07;t04_e09;t09_e07,,1,0,medium,auto_candidate,,true
+CE0018,封装材料,material,L4_object,upstream,t03_e08;t04_e10;t09_e08,,1,0,medium,auto_candidate,,true
+CE0019,基材,material,L4_object,upstream,t03_e09;t04_e11;t09_e09,,1,0,medium,auto_candidate,,true
+CE0020,光刻机,equipment,L4_object,upstream,t03_e10,,1,0,medium,auto_candidate,,true
+CE0021,晶圆缺陷监测系统,equipment,L4_object,upstream,t03_e11,,1,0,medium,auto_candidate,,true
+CE0022,AI推理芯片,technology,L4_object,supporting,t03_e12,,1,0,medium,auto_candidate,,true
+CE0023,半导体设计制造,industry_link,L3_industry_link,midstream,t04_e01,,1,0,medium,auto_candidate,,true
+CE0025,OSAT,industry_link,L3_industry_link,unknown,t05_e06,,1,0,medium,auto_candidate,,true
+CE0026,芯片,product,L4_object,unknown,t05_e07;t07_e13,,1,0,medium,auto_candidate,,true
+CE0029,集成电路,product,L4_object,unknown,t07_e01,,1,0,medium,auto_candidate,,true
+CE0030,光电子器件,product,L4_object,unknown,t07_e02,,1,0,medium,auto_candidate,,true
+CE0031,分立器件,product,L4_object,unknown,t07_e03,,1,0,medium,auto_candidate,,true
+CE0032,传感器,product,L4_object,unknown,t07_e04,,1,0,medium,auto_candidate,,true
+CE0033,封装测试,process,L4_object,midstream,t07_e05,,1,0,medium,auto_candidate,,true
+CE0034,GPU,unknown,unknown,unknown,t07_e08;t08_e11,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['product', 'unknown'] -> unknown",true
+CE0035,ASIC,unknown,unknown,unknown,t07_e09;t08_e12,,1,1,medium,auto_candidate,"同名类型已按证据规则合并: ['product', 'unknown'] -> unknown",true
+CE0036,电动车,application,L4_object,downstream,t07_e10,,1,0,medium,auto_candidate,,true
+CE0037,智能化,application,L4_object,downstream,t07_e11,,1,0,medium,auto_candidate,,true
+CE0038,网联化,application,L4_object,downstream,t07_e12,,1,0,medium,auto_candidate,,true
+CE0039,晶圆制造,process,L4_object,midstream,t08_e01,,1,4,medium,auto_candidate,,true
+CE0040,沉积,process,L4_object,midstream,t08_e02,,1,1,medium,auto_candidate,,true
+CE0041,光刻,process,L4_object,midstream,t08_e03,,1,1,medium,auto_candidate,,true
+CE0042,刻蚀,process,L4_object,midstream,t08_e04,,1,1,medium,auto_candidate,,true
+CE0043,离子注入,process,L4_object,midstream,t08_e05,,1,1,medium,auto_candidate,,true
+CE0044,沉积设备,equipment,L4_object,upstream,t09_e10,,1,0,medium,auto_candidate,,true
+CE0045,光刻胶,material,L4_object,upstream,t09_e11,,1,0,medium,auto_candidate,,true

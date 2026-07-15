@@ -293,10 +293,6 @@ def bool_text(value: bool) -> str:
     return "yes" if value else "no"
 
 
-def safe_float(value: float) -> str:
-    return f"{max(0.0, min(1.0, value)):.2f}"
-
-
 def split_pdf_date(value: str) -> str:
     if not value:
         return ""

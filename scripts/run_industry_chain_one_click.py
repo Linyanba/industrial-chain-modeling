@@ -278,8 +278,6 @@ def main():
     parser.add_argument("--style", default="xmind_blue")
     parser.add_argument("--cleanup-extra", action="store_true", default=False)
     parser.add_argument("--skip-qdrant-rebuild", action="store_true", default=False)
-    parser.add_argument("--skip-rag-qa", action="store_true", default=False)
-    parser.add_argument("--skip-network-graph", action="store_true", default=True)
     parser.add_argument("--export-png", action="store_true", default=True)
     parser.add_argument("--export-svg", action="store_true", default=True)
     parser.add_argument("--export-html", action="store_true", default=True)
@@ -361,8 +359,6 @@ def main():
         )
     logger.info(f"Qdrant collection: {qdrant_collection}")
     logger.info(f"模式: {args.mode}")
-    if args.industry_template == "generic" and tpl.get("fallback_only"):
-        logger.warning("generic 是 fallback_only 兜底模板，输出可能较粗；默认推荐使用 document_driven。")
     logger.info("=" * 60)
 
     scripts = root / "scripts"
@@ -663,7 +659,7 @@ def main():
     hierarchy_dir = resolve_pointer(root / "rag" / "latest_final_hierarchy_tree_run.txt")
     hierarchy_validation = read_validation_summary(hierarchy_dir)
     hierarchy_required_checks = [
-        "document_driven_avoids_generic_up_mid_down_default",
+        "document_driven_avoids_forbidden_stage_labels",
         "document_driven_dynamic_validation_passed",
         "no_representative_company_tree_node",
         "refined_tree_depth_at_least_min",
@@ -735,7 +731,6 @@ def main():
             })
     # Validation additions
     validation["industry_template_applied"] = {"passed": True, "note": args.industry_template}
-    validation["generic_template_supported"] = {"passed": True, "note": "generic可加载"}
     validation["document_driven_template_supported"] = {"passed": "document_driven" in available_templates, "note": "document_driven可加载"}
     validation["final_deliverables_manifest_generated"] = {"passed": True, "note": f"{len(deliverables)} files"}
     validation["no_network_graph_as_final_deliverable"] = {"passed": True, "note": "无GraphML/Neo4j"}

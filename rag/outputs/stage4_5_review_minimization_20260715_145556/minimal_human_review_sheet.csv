@@ -1,0 +1,8 @@
+﻿minimal_review_id,original_review_id,priority,review_question,subject,relation_type,object,related_entity_or_relation_id,evidence_pages,evidence_quotes,why_human_needed,suggested_options,human_decision,human_comment
+MHR0001,RV0005,P1,关系候选待复核: 设计->INPUT_TO->代工,,relation_endpoint_type_mismatch,,t01_r01,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0002,RV0006,P1,关系候选待复核: 设计->INPUT_TO->封装,,relation_endpoint_type_mismatch,,t01_r02,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0003,RV0007,P1,关系候选待复核: 设计->INPUT_TO->测试,,relation_endpoint_type_mismatch,,t01_r03,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0004,RV0040,P1,关系候选待复核: 半导体设计制造->INPUT_TO->设备、原材料和EDA软件,,non_atomic_relation_endpoint,,t04_r01,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0005,RV0056,P1,关系候选待复核: 封装->OUTPUT_OF->芯片,,relation_endpoint_type_mismatch,,t05_r03,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0006,RV0057,P1,关系候选待复核: 测试->OUTPUT_OF->芯片,,relation_endpoint_type_mismatch,,t05_r04,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,
+MHR0007,RV0058,P1,关系候选待复核: 封测->OUTPUT_OF->芯片,,relation_endpoint_type_mismatch,,t05_r05,,,P1 具体产业内容或结构关系，交由人工/本地LLM审核,保留|暂缓|删除|调整名称或层级,,

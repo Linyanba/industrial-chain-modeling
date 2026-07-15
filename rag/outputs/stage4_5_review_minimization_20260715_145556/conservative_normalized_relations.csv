@@ -1,0 +1,7 @@
+﻿normalized_relation_id,subject_canonical_name,relation_type,object_canonical_name,subject_type,object_type,value_chain_stage,source_relation_candidate_ids,evidence_ids,pages,quotes_preview,confidence_level,review_status,review_reason,enter_conservative_draft
+NR0001,沉积,PART_OF,晶圆制造,process,process,midstream,t08_r01,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,晶圆制造通常包含沉积、光刻、刻蚀、离子注入4 大核心步骤组成。,medium,auto_candidate,,true
+NR0002,光刻,PART_OF,晶圆制造,process,process,midstream,t08_r02,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,晶圆制造通常包含沉积、光刻、刻蚀、离子注入4 大核心步骤组成。,medium,auto_candidate,,true
+NR0003,刻蚀,PART_OF,晶圆制造,process,process,midstream,t08_r03,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,晶圆制造通常包含沉积、光刻、刻蚀、离子注入4 大核心步骤组成。,medium,auto_candidate,,true
+NR0004,离子注入,PART_OF,晶圆制造,process,process,midstream,t08_r04,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,晶圆制造通常包含沉积、光刻、刻蚀、离子注入4 大核心步骤组成。,medium,auto_candidate,,true
+NR0009,GPU,PART_OF,计算芯片,unknown,unknown,unknown,t08_r09,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,计算芯片（主要包括GPU、ASIC,medium,auto_candidate,,true
+NR0010,ASIC,PART_OF,计算芯片,unknown,unknown,unknown,t08_r10,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,计算芯片（主要包括GPU、ASIC,medium,auto_candidate,,true

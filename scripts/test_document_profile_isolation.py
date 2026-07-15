@@ -66,19 +66,9 @@ def main() -> int:
     check("hierarchy_tree:" not in final_cfg_text, "共享最终配置不得保存产业专用静态树")
 
     one_click_text = (ROOT / "scripts" / "run_industry_chain_one_click.py").read_text(encoding="utf-8")
-    check("stage5_graph_readiness_check.py" not in one_click_text, "通用一键流程不得调用专用 Stage5")
-    check("stage5_5_graph_structure_patch.py" not in one_click_text, "通用一键流程不得调用专用 Stage5.5")
-    check("stage6_build_and_export_graph.py" not in one_click_text, "通用一键流程不得调用专用 Stage6")
-    for name in (
-        "stage5_graph_readiness_check.py",
-        "stage5_5_graph_structure_patch.py",
-        "stage6_build_and_export_graph.py",
-    ):
-        specialty_script = (ROOT / "scripts" / name).read_text(encoding="utf-8")
-        check(
-            '"--specialization", required=True' in specialty_script,
-            f"旧版专用阶段缺少显式运行门: {name}",
-        )
+    check("stage3b_rag_qa.py" not in one_click_text, "通用一键流程不得调用已移除的问答实验阶段")
+    check("stage5_graph_readiness_check.py" not in one_click_text, "通用一键流程不得调用已移除的 network 阶段")
+    check("stage6_build_and_export_graph.py" not in one_click_text, "通用一键流程不得调用已移除的 network 导出阶段")
 
     print("PASS: document profile isolation (generic + specialty + explicit override)")
     return 0

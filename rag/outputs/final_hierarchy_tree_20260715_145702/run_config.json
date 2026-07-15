@@ -1,0 +1,21 @@
+{
+  "mode": "full",
+  "style": "xmind_blue",
+  "dpi": 300,
+  "industry_template": "document_driven",
+  "root_label": "半导体产业链",
+  "hierarchy_refinement_enabled": true,
+  "hierarchy_refinement_used": true,
+  "adaptive_tree_depth": true,
+  "hierarchy_refinement_result": {
+    "original_nodes": 44,
+    "refined_nodes": 44,
+    "max_depth": 3
+  },
+  "export_png": true,
+  "export_svg": true,
+  "export_html": true,
+  "project_root": "D:\\产业链建模",
+  "output_dir": "D:\\产业链建模\\rag\\outputs\\final_hierarchy_tree_20260715_145702",
+  "timestamp": "20260715_145702"
+}

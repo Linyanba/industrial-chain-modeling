@@ -1,0 +1,8 @@
+﻿entity_id,canonical_name,entity_type,entity_level,value_chain_stage,reason,recommended_template_node
+CE0002,产业链上下游,industry_link,L3_industry_link,unknown,泛化/禁用节点不进入树；仅保留具体产业链内容,补充明确关系证据后再进入树
+CE0003,新型显示产业,industry,L0_industry,cross_stage,缺少已验证关系且无法由实体类型和证据语境安全归类,补充明确关系证据后再进入树
+CE0006,配套材料,material,L4_object,upstream,泛化/禁用节点不进入树；仅保留具体产业链内容,补充明确关系证据后再进入树
+CE0009,显示材料产业,sub_chain,L2_sub_chain,cross_stage,缺少已验证关系且无法由实体类型和证据语境安全归类,补充明确关系证据后再进入树
+CE0010,关键原材料,material,L4_object,upstream,泛化/禁用节点不进入树；仅保留具体产业链内容,补充明确关系证据后再进入树
+CE0017,上下游,industry_link,L3_industry_link,unknown,泛化/禁用节点不进入树；仅保留具体产业链内容,补充明确关系证据后再进入树
+CE0041,新型显示产业链,industry,L0_industry,cross_stage,缺少已验证关系且无法由实体类型和证据语境安全归类,补充明确关系证据后再进入树

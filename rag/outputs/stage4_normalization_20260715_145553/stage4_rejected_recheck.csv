@@ -1,0 +1,30 @@
+﻿recheck_id,source_candidate_id,candidate_type,original_reject_reason,surface_form_or_relation,evidence_id,page_no,quote,possible_recovery_reason,recommended_action,review_required
+RC0001,t02_e02,entity,quote_not_found,全球半导体产业链概况,中国半导体白皮书_1b73a8b1f91b_p010_heading_001,10,1. 全球半导体产业链概况 > 1.3 半导体价值链：各大环节的分布情况及主要玩家,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0002,t02_e03,entity,quote_not_found,中国半导体近期投资观察,中国半导体白皮书_1b73a8b1f91b_p022_heading_006,22,4. 中国半导体近期投资观察 > 4.4 启示 > 4.4.1 面向投资者的启示,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0003,t04_e15,entity,quote_not_found,气体材料,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,从芯片生产到器件封装，几乎每一个步骤都离不开气体材料。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0004,t04_e16,entity,quote_not_found,硅片,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,从芯片生产到器件封装，几乎每一个步骤都离不开气体材料。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0005,t04_r02,relation,subject_or_object_not_found,设计 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,半导体生态逐步完善，主要包括设计、代工、封装和测试环节。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0006,t04_r03,relation,subject_or_object_not_found,代工 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,半导体生态逐步完善，主要包括设计、代工、封装和测试环节。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0007,t04_r04,relation,subject_or_object_not_found,封装 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,半导体生态逐步完善，主要包括设计、代工、封装和测试环节。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0008,t04_r05,relation,subject_or_object_not_found,测试 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,半导体生态逐步完善，主要包括设计、代工、封装和测试环节。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0009,t04_r06,relation,subject_or_object_not_found,硅片 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,前端材料包括硅片、金属以及各类化学品和气体。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0010,t04_r07,relation,subject_or_object_not_found,金属 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,前端材料包括硅片、金属以及各类化学品和气体。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0011,t04_r08,relation,subject_or_object_not_found,化学品 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,前端材料包括硅片、金属以及各类化学品和气体。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0012,t04_r09,relation,subject_or_object_not_found,气体 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,前端材料包括硅片、金属以及各类化学品和气体。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0013,t04_r10,relation,subject_or_object_not_found,封装材料 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,后端则包括封装材料或基材。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0014,t04_r11,relation,subject_or_object_not_found,基材 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,后端则包括封装材料或基材。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0015,t04_r12,relation,subject_or_object_not_found,封测 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,2018年以来，中国厂商在封测环节增长迅速，在全球范围内呈现出一定的竞争优势。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0016,t04_r13,relation,quote_not_found,气体材料 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,从芯片生产到器件封装，几乎每一个步骤都离不开气体材料。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0017,t04_r14,relation,quote_not_found,硅片 -> INPUT_TO -> 芯片,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,从芯片生产到器件封装，几乎每一个步骤都离不开气体材料。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0018,t05_r01,relation,subject_or_object_not_found,设计 -> OUTPUT_OF -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,封测指的是通过引线键合、倒装等技术，使芯片与外部电路连接，是半导体价值链中必不可少的下游环节，具有劳动密集型的特征，通常由外包半导体封装测试行业（OSAT）完成。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0019,t05_r02,relation,subject_or_object_not_found,代工 -> OUTPUT_OF -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,封测指的是通过引线键合、倒装等技术，使芯片与外部电路连接，是半导体价值链中必不可少的下游环节，具有劳动密集型的特征，通常由外包半导体封装测试行业（OSAT）完成。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0020,t05_r06,relation,subject_or_object_not_found,OSAT -> OUTPUT_OF -> 芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,通常由外包半导体封装测试行业（OSAT）完成。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0021,t09_e13,entity,quote_not_found,晶圆制造,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,国内计算芯片设计玩家的快速发展，也给晶圆制造（Foundry）厂带来了巨大的代工业务机会。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0022,t09_e14,entity,quote_not_found,先进封装技术,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,通过先进封装技术提高系统性能的优势越发显著。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0023,t09_e15,entity,quote_not_found,2.5D/3D先进封装,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,提前布局2.5D/3D先进封装赛道的中国封装厂商与其上游联动方也因此值得关注。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0024,t09_r08,relation,subject_or_object_not_found,封装材料 -> INPUT_TO -> 后端材料,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,后端则包括封装材料或基材。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0025,t09_r09,relation,subject_or_object_not_found,基材 -> INPUT_TO -> 后端材料,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,后端则包括封装材料或基材。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0026,t09_r10,relation,subject_or_object_not_found,沉积设备 -> INPUT_TO -> 沉积工艺,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,使用沉积设备（如CVD、PVD、ALD）在基材表面沉积多层薄膜。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0027,t09_r11,relation,subject_or_object_not_found,光刻胶 -> INPUT_TO -> 光刻工艺,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,在晶圆表面均匀涂上光刻胶，使射强激光通过含有,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0028,t09_r13,relation,quote_not_found,晶圆制造 -> OUTPUT_OF -> 代工业务,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,国内计算芯片设计玩家的快速发展，也给晶圆制造（Foundry）厂带来了巨大的代工业务机会。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True
+RC0029,t09_r15,relation,quote_not_found,2.5D/3D先进封装 -> OUTPUT_OF -> 关注点,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,提前布局2.5D/3D先进封装赛道的中国封装厂商与其上游联动方也因此值得关注。,可能由OCR差异或模型摘录导致quote/主宾语定位失败,人工核对原文,True

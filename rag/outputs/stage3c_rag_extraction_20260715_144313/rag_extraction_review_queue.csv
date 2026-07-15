@@ -1,0 +1,86 @@
+﻿review_item_id,task_id,item_type,candidate_id,issue_type,severity,reason,evidence_id,page_no,recommended_action
+t01_rv01,t01,relation,t01_r01,relation_endpoint_type_mismatch,medium,关系候选待复核: 设计->INPUT_TO->代工,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工核对原文与结论
+t01_rv02,t01,relation,t01_r02,relation_endpoint_type_mismatch,medium,关系候选待复核: 设计->INPUT_TO->封装,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工核对原文与结论
+t01_rv03,t01,relation,t01_r03,relation_endpoint_type_mismatch,medium,关系候选待复核: 设计->INPUT_TO->测试,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工核对原文与结论
+t01_rv04,t01,entity,t01_e10,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv05,t01,entity,t01_e11,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv06,t01,entity,t01_e12,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv07,t01,entity,t01_e13,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv08,t01,entity,t01_e14,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv09,t01,entity,t01_e15,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv10,t01,entity,t01_e16,evidence_id_not_in_context,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,人工核对原文与结论
+t01_rv11,t01,relation,t01_r04,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_006,10,重新判定关系类型
+t01_rv12,t01,relation,t01_r05,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+t01_rv13,t01,relation,t01_r06,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+t01_rv14,t01,relation,t01_r07,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,重新判定关系类型
+t01_rv15,t01,relation,t01_r08,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p023_paragraph_002,23,重新判定关系类型
+t01_rv16,t01,relation,t01_r09,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,重新判定关系类型
+t01_rv17,t01,relation,t01_r10,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,重新判定关系类型
+t01_rv18,t01,relation,t01_r11,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,重新判定关系类型
+t01_rv19,t01,relation,t01_r12,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,重新判定关系类型
+t01_rv20,t01,relation,t01_r13,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,重新判定关系类型
+t01_rv21,t01,relation,t01_r14,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p008_paragraph_004,8,重新判定关系类型
+t02_rv01,t02,entity,t02_e02,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_heading_001,10,人工核对 quote 与原文
+t02_rv02,t02,entity,t02_e03,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_heading_006,22,人工核对 quote 与原文
+t03_rv01,t03,relation,t03_r01,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,重新判定实体类型
+t03_rv02,t03,relation,t03_r02,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,重新判定实体类型
+t03_rv03,t03,relation,t03_r03,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,重新判定实体类型
+t03_rv04,t03,relation,t03_r04,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,重新判定实体类型
+t03_rv05,t03,relation,t03_r05,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,重新判定实体类型
+t03_rv06,t03,relation,t03_r06,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,重新判定实体类型
+t03_rv07,t03,relation,t03_r07,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,重新判定实体类型
+t03_rv08,t03,relation,t03_r08,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,重新判定实体类型
+t03_rv09,t03,relation,t03_r09,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,重新判定实体类型
+t03_rv10,t03,relation,t03_r10,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004,10,重新判定实体类型
+t03_rv11,t03,relation,t03_r11,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_004,10,重新判定实体类型
+t03_rv12,t03,relation,t03_r12,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,重新判定关系类型
+t04_rv01,t04,relation,t04_r01,non_atomic_relation_endpoint,medium,关系候选待复核: 半导体设计制造->INPUT_TO->设备、原材料和EDA软件,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t04_rv02,t04,entity,t04_e15,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工核对 quote 与原文
+t04_rv03,t04,entity,t04_e16,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工核对 quote 与原文
+t04_rv04,t04,relation,t04_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工确认主宾语是否在原文
+t04_rv05,t04,relation,t04_r03,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工确认主宾语是否在原文
+t04_rv06,t04,relation,t04_r04,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工确认主宾语是否在原文
+t04_rv07,t04,relation,t04_r05,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_009,10,人工确认主宾语是否在原文
+t04_rv08,t04,relation,t04_r06,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t04_rv09,t04,relation,t04_r07,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t04_rv10,t04,relation,t04_r08,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t04_rv11,t04,relation,t04_r09,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t04_rv12,t04,relation,t04_r10,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t04_rv13,t04,relation,t04_r11,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t04_rv14,t04,relation,t04_r12,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工确认主宾语是否在原文
+t04_rv15,t04,relation,t04_r13,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工核对 quote 与原文
+t04_rv16,t04,relation,t04_r14,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p016_paragraph_010,16,人工核对 quote 与原文
+t05_rv01,t05,relation,t05_r03,relation_endpoint_type_mismatch,medium,关系候选待复核: 封装->OUTPUT_OF->芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工核对原文与结论
+t05_rv02,t05,relation,t05_r04,relation_endpoint_type_mismatch,medium,关系候选待复核: 测试->OUTPUT_OF->芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工核对原文与结论
+t05_rv03,t05,relation,t05_r05,relation_endpoint_type_mismatch,medium,关系候选待复核: 封测->OUTPUT_OF->芯片,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工核对原文与结论
+t05_rv04,t05,relation,t05_r01,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+t05_rv05,t05,relation,t05_r02,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+t05_rv06,t05,relation,t05_r06,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,人工确认主宾语是否在原文
+t05_rv07,t05,relation,t05_r07,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,重新判定关系类型
+t05_rv08,t05,relation,t05_r08,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,重新判定关系类型
+t07_rv01,t07,relation,t07_r01,non_atomic_relation_endpoint,medium,关系候选待复核: 设备、原材料、EDA软件->USED_IN->集成电路（IC）,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t07_rv02,t07,relation,t07_r02,non_atomic_relation_endpoint,medium,关系候选待复核: 设备、原材料、EDA软件->USED_IN->光电子器件,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t07_rv03,t07,relation,t07_r03,non_atomic_relation_endpoint,medium,关系候选待复核: 设备、原材料、EDA软件->USED_IN->分立器件,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t07_rv04,t07,relation,t07_r04,non_atomic_relation_endpoint,medium,关系候选待复核: 设备、原材料、EDA软件->USED_IN->传感器,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t07_rv05,t07,relation,t07_r05,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_012,10,重新判定关系类型
+t07_rv06,t07,relation,t07_r06,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+t07_rv07,t07,relation,t07_r07,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+t07_rv08,t07,relation,t07_r08,relation_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,重新判定关系类型
+t09_rv01,t09,relation,t09_r01,relation_cue_missing,medium,关系候选待复核: 设备->INPUT_TO->半导体设计制造,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t09_rv02,t09,relation,t09_r02,relation_cue_missing,medium,关系候选待复核: 原材料->INPUT_TO->半导体设计制造,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t09_rv03,t09,relation,t09_r03,relation_endpoint_type_mismatch,medium,关系候选待复核: EDA软件->INPUT_TO->半导体设计制造,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_003,10,人工核对原文与结论
+t09_rv04,t09,relation,t09_r04,relation_endpoint_type_mismatch,medium,关系候选待复核: 硅片->INPUT_TO->前端材料,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+t09_rv05,t09,relation,t09_r05,relation_endpoint_type_mismatch,medium,关系候选待复核: 金属->INPUT_TO->前端材料,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+t09_rv06,t09,relation,t09_r06,relation_endpoint_type_mismatch,medium,关系候选待复核: 化学品->INPUT_TO->前端材料,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+t09_rv07,t09,relation,t09_r07,relation_endpoint_type_mismatch,medium,关系候选待复核: 气体->INPUT_TO->前端材料,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工核对原文与结论
+t09_rv08,t09,relation,t09_r12,relation_endpoint_type_mismatch,medium,关系候选待复核: 计算芯片->OUTPUT_OF->投资热点,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_004,22,人工核对原文与结论
+t09_rv09,t09,entity,t09_e13,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+t09_rv10,t09,entity,t09_e14,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+t09_rv11,t09,entity,t09_e15,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+t09_rv12,t09,relation,t09_r08,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t09_rv13,t09,relation,t09_r09,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_005,10,人工确认主宾语是否在原文
+t09_rv14,t09,relation,t09_r10,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,人工确认主宾语是否在原文
+t09_rv15,t09,relation,t09_r11,subject_or_object_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p010_paragraph_013,10,人工确认主宾语是否在原文
+t09_rv16,t09,relation,t09_r13,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文
+t09_rv17,t09,relation,t09_r14,entity_type_invalid,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,重新判定实体类型
+t09_rv18,t09,relation,t09_r15,quote_not_found,high,候选被拒绝，需人工确认,中国半导体白皮书_1b73a8b1f91b_p022_paragraph_007,22,人工核对 quote 与原文

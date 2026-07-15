@@ -1,0 +1,74 @@
+{
+  "stage3c_latest_run_found": {
+    "passed": true,
+    "note": "D:\\产业链建模\\rag\\outputs\\stage3c_rag_extraction_20260715_144313"
+  },
+  "required_input_files_exist": {
+    "passed": true,
+    "note": "全部存在"
+  },
+  "verified_entities_loaded": {
+    "passed": true,
+    "note": "82 个"
+  },
+  "verified_relations_loaded": {
+    "passed": true,
+    "note": "10 个"
+  },
+  "review_queue_loaded": {
+    "passed": true,
+    "note": "85 条"
+  },
+  "rejected_candidates_loaded": {
+    "passed": true,
+    "note": "66 条"
+  },
+  "canonical_entities_generated": {
+    "passed": true,
+    "note": "45 个"
+  },
+  "entity_aliases_generated": {
+    "passed": true,
+    "note": "1 个"
+  },
+  "normalized_relations_generated": {
+    "passed": true,
+    "note": "10 条"
+  },
+  "relation_evidence_map_generated": {
+    "passed": true,
+    "note": "10 条"
+  },
+  "conflict_report_generated": {
+    "passed": true,
+    "note": "0 个冲突"
+  },
+  "manual_review_sheet_generated": {
+    "passed": true,
+    "note": "89 条"
+  },
+  "stage4_review_queue_generated": {
+    "passed": true,
+    "note": "85 条"
+  },
+  "industry_chain_draft_generated": {
+    "passed": true,
+    "note": "已生成"
+  },
+  "no_external_api_called": {
+    "passed": true,
+    "note": "仅本地规则处理"
+  },
+  "no_new_relations_extracted": {
+    "passed": true,
+    "note": "未新增关系"
+  },
+  "no_graph_generated": {
+    "passed": true,
+    "note": "未生成图谱/未写 Neo4j"
+  },
+  "original_pdf_not_modified": {
+    "passed": true,
+    "note": "本阶段不写入 PDF"
+  }
+}

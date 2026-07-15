@@ -1,0 +1,3 @@
+﻿entity_id,canonical_name,entity_type,entity_level,value_chain_stage,reason,recommended_template_node
+CE0011,设备,equipment,L4_object,upstream,泛化/禁用节点不进入树；仅保留具体产业链内容,补充明确关系证据后再进入树
+CE0012,原材料,material,L4_object,upstream,泛化/禁用节点不进入树；仅保留具体产业链内容,补充明确关系证据后再进入树

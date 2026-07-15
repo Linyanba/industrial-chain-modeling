@@ -9,7 +9,7 @@
           调用本地 Ollama qwen3:8b、基于检索证据抽取候选实体/关系、输出 evidence_id/page_no/quote。
   - 禁止：调用云端 API、联网搜索、用模型常识补全、从文档档案标记的产业链图箭头直接抽取确定关系、
           从未复核表格单元格直接抽取确定关系、把预测/规划/趋势当现实事实、
-          生成正式图谱/写 Neo4j/实体最终归并、修改原始 PDF、覆盖阶段 1/2/3A/3B 输出。
+          生成正式图谱/写 Neo4j/实体最终归并、修改原始 PDF、覆盖阶段 1/2/3A 输出。
 
 verified 仅表示“通过原文与规则校验的候选”，不代表人工最终确认。
 """
@@ -1129,11 +1129,6 @@ def build_review_items(res: dict) -> List[dict]:
     return items
 
 
-def stage3b_review_items(stage3b_dir: Optional[Path]) -> List[dict]:
-    """Stage 3B is optional; do not inject industry-specific carryover items."""
-    return []
-
-
 # ----------------------------------------------------------------------------
 # 输出写入
 # ----------------------------------------------------------------------------
@@ -1359,14 +1354,6 @@ def main() -> int:
     val["ollama_connected"] = (ollama_connected, args.ollama_url)
     val["llm_model_available"] = (model_available, args.llm_model)
 
-    # 阶段 3B 输入
-    s3b_pointer = rag_root / "latest_stage3b_run.txt"
-    s3b_dir = None
-    if s3b_pointer.exists():
-        p = Path(s3b_pointer.read_text(encoding="utf-8").strip())
-        if p.exists():
-            s3b_dir = p
-
     if not (qdrant_connected and collection_exists and has_points):
         write_validation(out_dir, val, extra={"aborted": "qdrant_unavailable"})
         _fail_report(out_dir, args, "Qdrant collection 不可用")
@@ -1423,9 +1410,6 @@ def main() -> int:
                 "raw_response": None, "reason": f"{type(e).__name__}: {e}",
                 "timestamp": datetime.now().isoformat(),
             })
-    # 纳入阶段 3B q05/q09/q10 特殊项
-    review_rows.extend(stage3b_review_items(s3b_dir))
-
     ent_verified = [e for e in ent_all if e["verification_status"] == "verified"]
     rel_verified = [r for r in rel_all if r["verification_status"] == "verified"]
 
@@ -1452,7 +1436,7 @@ def main() -> int:
         "mode": args.mode, "top_k": args.top_k, "final_k": args.final_k,
         "include_review_required": args.include_review_required, "dry_run": args.dry_run,
         "num_predict": args.num_predict, "primary_endpoint": "/api/generate",
-        "num_tasks": len(tasks), "stage3b_input": str(s3b_dir) if s3b_dir else None,
+        "num_tasks": len(tasks),
     }
     (out_dir / "run_config.json").write_text(
         json.dumps(run_config, ensure_ascii=False, indent=2), encoding="utf-8")

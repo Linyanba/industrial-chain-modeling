@@ -43,7 +43,11 @@
 
 - `scripts/run_industry_chain_one_click.py`：主入口，支持一个 root-model 下输入多个 PDF。
 - `run_chain.ps1`：PowerShell 简化入口。
-- `scripts/stage*.py`：各阶段脚本。
+- `scripts/stage1_document_audit.py`、`stage2_build_evidence.py`：文档审计与证据库构建。
+- `scripts/stage3a_build_qdrant_index.py`、`stage3c_rag_extract_candidates.py`：向量索引与候选抽取。
+- `scripts/stage4_normalize_and_review.py`、`stage4_5_minimize_review.py`、`stage4_6_llm_auto_apply_review.py`：标准化与审核。
+- `scripts/refactor_final_output_to_hierarchy_tree.py`、`refine_hierarchy_tree.py`：最终多级树构建、优化和可视化。
+- `scripts/stage2_ocr_repair_evidence.py`：可选人工 OCR 修复工具，不属于默认一键流程。
 
 ## 推荐知识库规则
 
@@ -57,4 +61,4 @@
 - 一键通用流程默认使用 `--document-profile auto`，逐 PDF/doc_id 匹配；未命中特定报告时使用 `generic`。
 - `china_semiconductor_whitepaper` 仅匹配《中国半导体白皮书》，保留该报告的固定页码和页眉规则，不会由宽泛的“半导体”行业词触发。
 - 半导体固定树保留在 `rag/templates/semiconductor.yaml`，只有显式选择该模板时生效。
-- 旧版 Stage5/5.5/6 网络图脚本包含半导体专用结构，已从一键层级树流程中隔离，并要求显式传入 `--specialization semiconductor` 才能运行。
+- 旧版 Stage3B 问答实验和 Stage5/5.5/6 network graph 交付链已删除；当前仓库只保留多级产业链树主流程。
